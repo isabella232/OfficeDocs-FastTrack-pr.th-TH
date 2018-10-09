@@ -4,18 +4,23 @@
       "docset_name": "OfficeDocs-FastTrack",
       "build_source_folder": "fasttrack",
       "build_output_subfolder": "OfficeDocs-FastTrack",
-      "locale": "th-th",
+      "locale": "th-TH",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
       "build_entry_point": "docs",
       "template_folder": "_themes"
     }
   ],
-  "notification_subscribers": [],
+  "notification_subscribers": ["mor-oitac-eng@moravia.com"],
   "sync_notification_subscribers": [],
-  "branches_to_filter": [
-    "live-sxs",
+    "branches_to_filter": [
+    "live",
     "master-sxs"
   ],
   "continue_with_document_error": true,
@@ -25,7 +30,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.th-th",
+      "url": "https://github.com/Microsoft/templates.docs.msft.th-TH",
       "branch": "master",
       "branch_mapping": {}
     },
