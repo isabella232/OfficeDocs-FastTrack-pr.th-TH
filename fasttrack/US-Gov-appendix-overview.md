@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.assetid: 5c619c4e-2ac5-4c2f-8d8c-acccff3b9b20
 description: ด้วยผลประโยชน์ศูนย์ FastTrack สำหรับ Office 365 คุณทำงานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อรับของสภาพแวดล้อมของ Office 365 พร้อมสำหรับการใช้และแผนไวร์และการใช้งานภายในองค์กรของคุณ
-ms.openlocfilehash: e5ccd2d76bb52948da312f1f79c5e48048f263a2
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 262c5a2a4819a02339577f21aad1ba0996937ac5
+ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445198"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "25565589"
 ---
 # <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>ภาคผนวก D - ภาพรวมสวัสดิการศูนย์ FastTrack สำหรับ Office 365 รัฐบาลของสหรัฐอเมริกา
 
@@ -24,7 +24,7 @@ ms.locfileid: "25445198"
 แม้ว่าผลิตภัณฑ์และลักษณะการทำงานส่วนใหญ่จะเหมือนกันระหว่างชุดโปรแกรม Office 365 และรัฐบาลสหรัฐฯ 365 Office คุณลักษณะทั้งหมดไม่มีอยู่ในแผนทั้งหมด ตรวจทานคำอธิบายบริการที่[รัฐบาลสหรัฐฯ 365 Office](https://aka.ms/aboutgovcloud)สำหรับรายการล่าสุดของลักษณะการทำงาน
 
 > [!NOTE]
->คุณต้องซื้อสิทธิ์การใช้งานอย่างน้อย 50 จากรายชื่อของ[บริการที่เหมาะสมและแผน](O365-eligible-services-and-plans.md)จะได้รับบริการ FastTrack  
+> เมื่อต้องการได้รับบริการ FastTrack ไปที่[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698)และร้องขอความช่วยเหลือ  
 
 เราครอบคลุมหัวข้อต่อไปนี้:
 - [กระบวนการ FastTrack](O365-fasttrack-process.md) 
