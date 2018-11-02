@@ -1,9 +1,9 @@
 ---
-title: ความรับผิดชอบ FastTrack
+title: ความรับผิดชอบของ FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,14 +11,14 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: ผู้เชี่ยวชาญ FastTrack มีความรับผิดชอบต่อไปนี้ในระหว่างการปฐมนิเทศ
-ms.openlocfilehash: 813fc4c1f4fdb48bdae8184b9afc0528dcb4feb7
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2c02450376b3a64e1e7e63b966d284f3223567f9
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445210"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895648"
 ---
-# <a name="fasttrack-responsibilities"></a>ความรับผิดชอบ FastTrack
+# <a name="fasttrack-responsibilities"></a>ความรับผิดชอบของ FastTrack
 
 ผู้เชี่ยวชาญ FastTrack มีความรับผิดชอบต่อไปนี้ในระหว่างการปฐมนิเทศ\*
   
@@ -103,6 +103,7 @@ ms.locfileid: "25445210"
 - เปิดใช้งานอีเมลสายงานการผลิตระหว่างระบบการส่งข้อความต้นฉบับและสภาพแวดล้อมของ Office 365 
 - การกำหนดค่าคุณลักษณะการป้องกันแบบออนไลน์ของอัตราแลกเปลี่ยน (รวมทั้งแลกเปลี่ยนออนไลน์ขั้นสูงคุกคามคุณลักษณะป้องกันถ้าพร้อมใช้งานในการสมัครใช้งาน) และการตรวจสอบระเบียน MX ของคุณชี้ไปที่ Office 365 สำหรับทั้งหมดถูกตรวจสอบโดเมนที่เปิดใช้งานจดหมาย
 - การกำหนดค่าการตั้งค่าไฮบริดสลี ระหว่างองค์กร Exchange เดียวในสถานที่และ Office 365*หรือ*ระหว่างองค์กร Exchange ในสถานที่และ Office 365 หลายอย่างใดอย่างหนึ่ง 
+- การกำหนดค่าไคลเอ็นต์จดหมาย (Outlook สำหรับ Windows, Outlook บนเว็บ และ Outlook สำหรับ iOS และ Android)
     
 สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการโยกย้ายข้อมูลที่รับผิดชอบ ดู[การโยกย้ายข้อมูล](O365-data-migration.md)
   
@@ -191,7 +192,7 @@ ms.locfileid: "25445210"
 
 ให้คำแนะนำเกี่ยวกับ:
 - กำหนดประเด็นการปรับใช้
-- กำหนดสิทธิ์การใช้งานของผู้ใช้โดยใช้ Office 365 admin ศูนย์และ Windows PowerShell
+- กำหนดสิทธิ์การใช้งานของผู้ใช้โดยใช้[Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704)และ Windows PowerShell
 - ดาวน์โหลด และติดตั้งไคลเอ็นต์เดสก์ท็อปออนไลน์ของโครงการจากเว็บไซต์   
 - การกำหนดค่าการตั้งค่าการปรับปรุงโดยใช้ต้นแบบของเครื่องมือการปรับใช้ Office หรือ'นโยบายกลุ่ม'
 - การตั้งค่าเซิร์ฟเวอร์การกระจายภายในอาคารเดียวสำหรับโครงการออนไลน์เดสก์ท็อปไคลเอนต์ รวมถึงคำแนะนำสำหรับการสร้างแฟ้ม configuration.xml สำหรับเครื่องมือการปรับใช้ Office 2016 
@@ -205,9 +206,9 @@ ms.locfileid: "25445210"
 
 ให้คำแนะนำเกี่ยวกับ:
 - กำหนดประเด็นการปรับใช้
-- กำหนดสิทธิ์การใช้งานของผู้ใช้โดยใช้ Office 365 admin ศูนย์และ Windows PowerShell
+- กำหนดสิทธิ์การใช้งานของผู้ใช้โดยใช้[Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704)และ Windows PowerShell
 - ติดตั้ง Office 365 ProPlus จากพอร์ทัล Office 365 โดยใช้คลิกทูรัน
-- การติดตั้ง Office Mobile apps (เช่น Outlook Mobile, Word Mobile, Excel Mobile และ PowerPoint Mobile) บน iOS, Android หรือ Windows Mobile อุปกรณ์ 
+- การติดตั้ง Office Mobile apps (เช่น Outlook สำหรับ iOS และ Android, Word Mobile, Excel Mobile และ PowerPoint Mobile) บน iOS, Android หรือ Windows Mobile อุปกรณ์ 
 - การกำหนดค่าการตั้งค่าการปรับปรุงโดยใช้ต้นแบบของเครื่องมือการปรับใช้ของ Office 2016 หรือ'นโยบายกลุ่ม'
 - การตั้งค่าเซิร์ฟเวอร์การกระจายภายในอาคารเดียวสำหรับ Office 365 ProPlus รวมทั้งความช่วยเหลือในการสร้างแฟ้ม configuration.xml เพื่อใช้กับเครื่องมือการปรับใช้ Office
 - การปรับใช้ที่ใช้ระบบศูนย์การตั้งค่าคอนฟิกตัวจัดการ รวมทั้งความช่วยเหลือในการสร้างตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบบรรจุ
@@ -220,5 +221,11 @@ ms.locfileid: "25445210"
 - คุณลักษณะของผลิตภัณฑ์หลัก
 - ดาวน์โหลดสถานที่สำหรับ Microsoft StaffHub
     
+## <a name="outlook-for-ios-and-android"></a>Outlook สำหรับ iOS และ Android
+
+ให้คำแนะนำเกี่ยวกับ:
+- ดาวน์โหลด Outlook ไปยัง iOS และอุปกรณ์ Android
+- การกำหนดค่าบัญชีอีเมลภายใน Outlook
+
 \*สำหรับข้อมูลเกี่ยวกับความรับผิดชอบ FastTrack สำหรับ Office 365 เรารัฐบาล ดู[ความรับผิดชอบ FastTrack สำหรับรัฐบาลสหรัฐฯ 365 Office](US-Gov-appendix-fasttrack-responsibilities.md)
 
