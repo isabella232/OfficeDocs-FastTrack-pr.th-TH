@@ -3,7 +3,7 @@ title: ความรับผิดชอบ FastTrack สำหรับ Offi
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: ผู้เชี่ยวชาญ FastTrack มีความรับผิดชอบต่อไปนี้ในระหว่างการปฐมนิเทศ
-ms.openlocfilehash: 76e585f7573708a9c2a78ecf4870a8cf5faaaf33
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 573856cf2de70bc84f52df7962fa4e7be68172a4
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445226"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895552"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>ความรับผิดชอบ FastTrack สำหรับ Office 365 รัฐบาลของสหรัฐอเมริกา
 
@@ -200,7 +200,7 @@ ms.locfileid: "25445226"
 
 ให้คำแนะนำเกี่ยวกับ:
 - กำหนดประเด็นการปรับใช้   
-- กำหนดสิทธิ์การใช้งานของผู้ใช้โดยใช้ Office 365 admin ศูนย์และ Windows PowerShell  
+- กำหนดสิทธิ์การใช้งานของผู้ใช้โดยใช้[Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704)และ Windows PowerShell  
 - ติดตั้ง Office 365 ProPlus จากพอร์ทัล Office 365 โดยใช้คลิกทูรัน   
 - การติดตั้ง Office Mobile apps (เช่น Outlook Mobile, Word Mobile, Excel Mobile และ PowerPoint Mobile) บน iOS, Android หรือ Windows Mobile อุปกรณ์   
 - การกำหนดค่าการตั้งค่าการปรับปรุงโดยใช้ต้นแบบของเครื่องมือการปรับใช้ของ Office 2016 หรือ'นโยบายกลุ่ม'   
