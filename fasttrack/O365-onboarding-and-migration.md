@@ -1,24 +1,24 @@
 ---
-title: ปฐมนิเทศและระยะของการโยกย้าย
+title: ขั้นตอนการออนบอร์ดและการโยกย้าย
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
-description: การปฐมนิเทศ office 365 มีสี่หลักระยะ — เริ่ม ต้น Assess, Remediate และเปิดใช้งาน คุณสามารถติดตามระยะเหล่านี้ ด้วยระยะการโยกย้ายข้อมูลหรือไม่ก็ได้ดังที่แสดงในภาพต่อไปนี้
-ms.openlocfilehash: 082e8c7f6e1be83cfb4a980b1b1632d0c3f12724
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+description: การปฐมนิเทศ office 365 มีสี่หลักระยะ — เริ่ม ต้น Assess, Remediate และเปิดใช้งาน คุณสามารถติดตามระยะเหล่านี้ ด้วยระยะการโยกย้ายข้อมูลหรือไม่ก็ได้
+ms.openlocfilehash: b98b8fe8e2f6542edc04923d72ff7b0dc38ef3fb
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445228"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895756"
 ---
-# <a name="onboarding-and-migration-phases"></a>ปฐมนิเทศและระยะของการโยกย้าย
+# <a name="onboarding-and-migration-phases"></a>ขั้นตอนการออนบอร์ดและการโยกย้าย
 
 การปฐมนิเทศ office 365 มีสี่หลักระยะ — เริ่ม ต้น Assess, Remediate และเปิดใช้งาน คุณสามารถติดตามระยะเหล่านี้ ด้วยระยะการโยกย้ายข้อมูลหรือไม่ก็ได้ดังที่แสดงในภาพต่อไปนี้
   
@@ -33,12 +33,25 @@ ms.locfileid: "25445228"
 
 หลังจากที่คุณซื้อหมายเลขที่เหมาะสมและชนิดของสิทธิ์การใช้งาน ทำตามคำแนะนำจากผู้ซื้อขึ้นอยู่กับสิทธิ์การใช้งานกับผู้เช่าของคุณที่มีอยู่ หรือสร้างการเชื่อมโยง 
   
-คุณสามารถขอความช่วยเหลือผ่านกึ่งกลาง Office 365 admin หรือ[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) เพื่อขอความช่วยเหลือผ่าน Office 365 admin ศูนย์กลาง admin ของคุณเข้าสู่ศูนย์การดูแล และจากนั้น คลิก**ต้องการความช่วยเหลือได้อย่างไร**widget เมื่อต้องการขอความช่วยเหลือผ่าน[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698)เข้าสู่ระบบ คลิกการ**บริการ**และกรอกแบบฟอร์ม**ร้องขอความช่วยเหลือสำหรับ Office 365** 
-    
+คุณสามารถขอความช่วยเหลือผ่านทาง[Microsoft 365 admin ศูนย์](https://go.microsoft.com/fwlink/?linkid=2032704)หรือ[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
+
+เพื่อขอความช่วยเหลือผ่านทาง[Microsoft 365 admin ศูนย์](https://go.microsoft.com/fwlink/?linkid=2032704)admin ของคุณเข้าสู่ศูนย์การดูแล และจากนั้น คลิก**ต้องการความช่วยเหลือได้อย่างไร**widget 
+
+เมื่อต้องการขอความช่วยเหลือผ่าน[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  เข้าสู่ระบบไปยัง[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
+2.  เลือก**FastTrack**
+3.  เลือก**บริการ**
+4.  แบบฟอร์ม**ร้องขอความช่วยเหลือเกี่ยวกับ Microsoft 365**ให้เสร็จสมบูรณ์ 
 > [!NOTE]
 >  ถ้าคุณมีหุ้นส่วนที่แสดงรายการอยู่ในผู้เช่า Office 365 ของคุณ คุณจะไม่เห็นตัวเลือกนี้ โปรดปรึกษาคู่ค้าของคุณสำหรับความช่วยเหลือ 
   
-คู่ค้าสามารถจะขอความช่วยเหลือผ่าน[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698)ในนามของลูกค้า เมื่อต้องการทำเช่นนั้น คู่ค้าในการลงทะเบียนไปยังไซต์ เลือกเรกคอร์ดลูกค้า คลิกการ**บริการ**และแบบฟอร์ม**ร้องขอความช่วยเหลือสำหรับ Office 365**เสร็จสมบูรณ์ 
+คู่ค้าสามารถจะขอความช่วยเหลือผ่าน[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698)ในนามของลูกค้า เมื่อต้องการทำเช่นนี้:
+1.  เข้าสู่ระบบไปยัง[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
+2.  เลือก**FastTrack**
+3.  เลือก**ลูกค้าของฉัน**
+4.  ค้นหาลูกค้าของคุณ หรือเลือกจากรายการของลูกค้าของคุณ
+5.  เลือก**บริการ**
+6.  แบบฟอร์ม**ร้องขอความช่วยเหลือเกี่ยวกับ Microsoft 365**ให้เสร็จสมบูรณ์
 
 คุณสามารถขอให้ขอความช่วยเหลือศูนย์ FastTrack จาก[FastTrack ไซต์](https://go.microsoft.com/fwlink/?linkid=780698)ในรายการของบริการที่พร้อมใช้งานสำหรับผู้เช่าของคุณ 
     
@@ -94,6 +107,7 @@ ms.locfileid: "25445228"
 - การตั้งค่า DNS รวมถึงการค้นหาอัตโนมัติที่จำเป็น โครงสร้างนโยบายของผู้ส่ง (SPF), และระเบียน MX (จำเป็น) 
 - การตั้งค่าอีเมลกระแสระหว่างแหล่งที่มาของข้อความแวดล้อมและการแลกเปลี่ยนแบบออนไลน์ (จำเป็น)
 - Undertaking การย้ายจดหมายจากแหล่งที่มาของสภาพแวดล้อมของ Office 365 การส่งข้อความ
+- การกำหนดค่าไคลเอ็นต์จดหมาย (Outlook สำหรับ Windows, Outlook บนเว็บ และ Outlook สำหรับ iOS และ Android)
     > [!NOTE]
     > สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการย้ายจดหมายและข้อมูล ดู[การโยกย้ายข้อมูล](O365-data-migration.md) 
   
@@ -162,7 +176,7 @@ ms.locfileid: "25445228"
 
 สำหรับผู้เชี่ยวชาญออนไลน์ของโครงการและโครงการพิเศษที่ออนไลน์ เราให้คำแนะนำสำหรับ:
 - กำหนดประเด็นการปรับใช้
-- กำหนดสิทธิ์การใช้งานของผู้ใช้โดยใช้ Office 365 admin ศูนย์และ Windows PowerShell  
+- กำหนดสิทธิ์การใช้งานของผู้ใช้โดยใช้[Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704)และ Windows PowerShell  
 - ติดตั้งไคลเอ็นต์เดสก์ท็อปออนไลน์ของโครงการจากพอร์ทัล Office 365 โดยใช้คลิกทูรัน
 - การกำหนดค่าการตั้งค่าการปรับปรุงโดยใช้เครื่องมือการปรับใช้ Office  
 - การตั้งค่าเซิร์ฟเวอร์การกระจายภายในอาคารเดียวสำหรับโครงการออนไลน์เดสก์ท็อปไคลเอนต์ รวมทั้งความช่วยเหลือในการสร้างแฟ้ม configuration.xml เพื่อใช้กับเครื่องมือการปรับใช้ Office  
@@ -178,7 +192,7 @@ ms.locfileid: "25445228"
 
 สำหรับ Office 365 ProPlus เราให้คำแนะนำสำหรับ:
 - กำหนดประเด็นการปรับใช้   
-- กำหนดสิทธิ์การใช้งานของผู้ใช้โดยใช้ Office 365 admin ศูนย์และ Windows PowerShell 
+- กำหนดสิทธิ์การใช้งานของผู้ใช้โดยใช้[Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704)และ Windows PowerShell 
 - ติดตั้ง Office 365 ProPlus จากพอร์ทัล Office 365 โดยใช้คลิกทูรัน   
 - การติดตั้ง Office Mobile apps (เช่น Outlook Mobile, Word Mobile, Excel Mobile และ PowerPoint Mobile) บน iOS, Android หรือ Windows Mobile อุปกรณ์   
 - การกำหนดค่าการตั้งค่าการปรับปรุงโดยใช้เครื่องมือการปรับใช้ Office   
@@ -197,6 +211,9 @@ ms.locfileid: "25445228"
     
 ![ขั้นตอนการปฐมนิเทศ Microsoft StaffHub](media/e8857c93-1db9-4940-90d1-b3a1b3f0c650.png)
   
+## <a name="outlook-for-ios-and-android"></a>Outlook สำหรับ iOS และ Android
 
-  
+สำหรับ Outlook สำหรับ iOS และ Android เราให้คำแนะนำสำหรับ:
+- ดาวน์โหลด Outlook สำหรับ iOS และ Android จาก Apple App Store และ Google Play
+- การตั้งค่าคอนฟิกบัญชี และเข้าถึงกล่องจดหมาย Exchange แบบออนไลน์
 

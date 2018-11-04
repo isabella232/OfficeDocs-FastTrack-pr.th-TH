@@ -3,7 +3,7 @@ title: กระบวนการ FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: กระบวนการ FastTrack ให้บริการเริ่มปฐมนิเทศและผู้ใช้
-ms.openlocfilehash: 3a41e1a41bae421472af6c5d8645808410a0664f
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: d5f2ec3442dabda1cff09577a65992942e09611e
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445170"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895672"
 ---
 # <a name="the-fasttrack-process"></a>กระบวนการ FastTrack
 
@@ -38,8 +38,15 @@ ms.locfileid: "25445170"
   
 ![เส้นเวลาสำหรับการใช้ประโยชน์ปฐมนิเทศ](media/O365-Onboarding-Timeline.png)
   
-คุณสามารถขอความช่วยเหลือผ่านกึ่งกลาง Office 365 admin หรือ[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) เพื่อขอความช่วยเหลือผ่าน Office 365 admin ศูนย์กลาง admin ของคุณเข้าสู่ศูนย์การดูแล และจากนั้น คลิก**ต้องการความช่วยเหลือได้อย่างไร**widget เมื่อต้องการขอความช่วยเหลือผ่าน[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698)เข้าสู่ระบบ คลิกการ**บริการ**และกรอกแบบฟอร์ม**ร้องขอความช่วยเหลือสำหรับ Office 365** 
-    
+คุณสามารถขอความช่วยเหลือผ่านทาง[Microsoft 365 admin ศูนย์](https://go.microsoft.com/fwlink/?linkid=2032704)หรือ[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
+
+เพื่อขอความช่วยเหลือผ่านทาง[Microsoft 365 admin ศูนย์](https://go.microsoft.com/fwlink/?linkid=2032704)admin ของคุณเข้าสู่ศูนย์การดูแล และจากนั้น คลิก**ต้องการความช่วยเหลือได้อย่างไร**widget 
+
+เมื่อต้องการขอความช่วยเหลือผ่าน[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  เข้าสู่ระบบไปยัง[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
+2.  เลือก**FastTrack**
+3.  เลือก**บริการ**
+4.  แบบฟอร์ม**ร้องขอความช่วยเหลือเกี่ยวกับ Microsoft 365**ให้เสร็จสมบูรณ์ 
 > [!NOTE]
 >  ถ้าคุณมีหุ้นส่วนที่แสดงรายการอยู่ในผู้เช่า Office 365 ของคุณ คุณจะไม่เห็นตัวเลือกนี้ โปรดปรึกษาคู่ค้าของคุณสำหรับความช่วยเหลือ 
   
@@ -47,7 +54,13 @@ ms.locfileid: "25445170"
     
  ครั้งเดียวเริ่มต้นความช่วยเหลือการปฐมนิเทศ เราตั้งค่าตารางเวลาของการประชุมแบบออนไลน์
     
-คู่ค้าสามารถจะขอความช่วยเหลือผ่าน[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698)ในนามของลูกค้า เมื่อต้องการทำเช่นนั้น คู่ค้าในการลงทะเบียนไปยังไซต์ เลือกเรกคอร์ดลูกค้า คลิกการ**บริการ**และแบบฟอร์ม**ร้องขอความช่วยเหลือสำหรับ Office 365**เสร็จสมบูรณ์ 
+คู่ค้าสามารถจะขอความช่วยเหลือผ่าน[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698)ในนามของลูกค้า เมื่อต้องการทำเช่นนี้:
+1.  เข้าสู่ระบบไปยัง[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
+2.  เลือก**FastTrack**
+3.  เลือก**ลูกค้าของฉัน**
+4.  ค้นหาลูกค้าของคุณ หรือเลือกจากรายการของลูกค้าของคุณ
+5.  เลือก**บริการ**
+6.  แบบฟอร์ม**ร้องขอความช่วยเหลือเกี่ยวกับ Microsoft 365**ให้เสร็จสมบูรณ์ 
 
 ตารางต่อไปนี้แสดงรายการบทบาทและความรับผิดชอบสำหรับกระบวนการ
     

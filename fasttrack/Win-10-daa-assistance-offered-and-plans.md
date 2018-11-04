@@ -1,9 +1,9 @@
 ---
-title: ภาพรวมของสวัสดิการศูนย์ FastTrack
+title: ภาพรวมสิทธิประโยชน์จากศูนย์ FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,16 +13,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: เมื่อคุณซื้อใด ๆ ของบริการ Windows 10 หรือ Microsoft 365 ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำการอ่านคำแนะนำและด้านการปรับใช้ Windows 10 และ Office 365 ProPlus และคอยติดตามสถานการณ์ปัจจุบันที่ไม่มีต้นทุนเพิ่มเติม (โดยมีสิทธิ์บอกรับเป็นสมาชิก)
-ms.openlocfilehash: 493e38ad0e091c77eec78bd2e388f8429fe223c0
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 603873c06dcc1ed0c11031f4e8e6093b62c92fbd
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445190"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895624"
 ---
-# <a name="assistance-offered-and-eligible-plans"></a>เสนอความช่วยเหลือและการวางแผนได้   
+# <a name="assistance-offered-and-eligible-plans"></a>การให้ความช่วยเหลือและแผนที่มีสิทธิ์   
 
-เมื่อคุณซื้อใด ๆ ของบริการ Windows 10 หรือ Microsoft 365 (ตามรายละเอียดในส่วนต่อไปนี้**แผนสิทธิ์**), ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำการอ่านคำแนะนำและด้านการปรับใช้ Windows 10 และ Office 365 ProPlus และคอยติดตามสถานการณ์ปัจจุบัน ณ ไม่มีต้นทุนที่เพิ่มเติม (โดยมีสิทธิ์บอกรับเป็นสมาชิก)
+เมื่อคุณซื้อใด ๆ ของบริการ Windows 10 หรือ Microsoft 365 (ตามรายละเอียดในส่วนต่อไปนี้**แผนสิทธิ์**), ผู้เชี่ยวชาญ FastTrack ให้อ่านคำแนะนำและด้านคำแนะนำถ้าคุณพบปัญหาความเข้ากันได้ของโปรแกรมประยุกต์ในขณะที่คุณปรับใช้ Windows 10 และ Office 365 ProPlus และทันสมัยอยู่เสมอ โดยไม่มีต้นทุนเพิ่มเติม (พร้อมกับการสมัครใช้งานที่เหมาะสม) อยู่ด้วย
 
 เมื่อต้องการขอความช่วยเหลือ เสร็จสมบูรณ์[มั่นใจ App เดสก์ท็อปร้องขอการบริการ](https://go.microsoft.com/fwlink/?linkid=2022721)
 

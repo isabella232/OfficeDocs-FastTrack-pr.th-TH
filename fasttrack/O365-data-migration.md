@@ -1,24 +1,24 @@
 ---
-title: การย้ายข้อมูล
+title: การโยกย้ายข้อมูล
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
-description: ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำในขั้นตอนสำหรับการย้ายข้อมูลกับ Office 365 เราให้คำแนะนำสำหรับคุณ โดยใช้การรวมกันของเครื่องมือและเอกสารประกอบ และ ด้วยการดำเนินงานการกำหนดค่าเป็นไปได้ และสามารถใช้ได้ นี้จะพร้อมใช้งานสำหรับลูกค้าทั้งหมดที่เหมาะสมกับบริการ Office 365 สำหรับการแลกเปลี่ยนแบบออนไลน์ OneDrive สำหรับธุรกิจ และ SharePoint แบบออนไลน์
-ms.openlocfilehash: d7ed685c5b8affeda242d3e0715095332f12d025
-ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
+description: ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำในขั้นตอนสำหรับการย้ายข้อมูลกับ Office 365 นี้จะพร้อมใช้งานสำหรับลูกค้าทั้งหมดที่เหมาะสมกับบริการ Office 365 สำหรับการแลกเปลี่ยนแบบออนไลน์ OneDrive สำหรับธุรกิจ และ SharePoint แบบออนไลน์
+ms.openlocfilehash: cf4093bbaa775c0d4be1bac2fa895aa6b48f83fc
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "25565613"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895780"
 ---
-# <a name="data-migration"></a>การย้ายข้อมูล
+# <a name="data-migration"></a>การโยกย้ายข้อมูล
 
 ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำในขั้นตอนสำหรับการย้ายข้อมูลกับ Office 365 เราให้คำแนะนำสำหรับคุณ โดยใช้การรวมกันของเครื่องมือและเอกสารประกอบ และ ด้วยการดำเนินงานการกำหนดค่าเป็นไปได้ และสามารถใช้ได้ นี้จะพร้อมใช้งานสำหรับลูกค้าทั้งหมดที่เหมาะสมกับบริการ Office 365 สำหรับการแลกเปลี่ยนแบบออนไลน์ OneDrive สำหรับธุรกิจ และ SharePoint แบบออนไลน์
   

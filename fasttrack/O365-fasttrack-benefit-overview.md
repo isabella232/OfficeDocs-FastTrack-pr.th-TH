@@ -1,9 +1,9 @@
 ---
-title: ภาพรวมของสวัสดิการศูนย์ FastTrack
+title: ภาพรวมสิทธิประโยชน์จากศูนย์ FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,28 +13,28 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: ด้วยผลประโยชน์ศูนย์ FastTrack สำหรับ Office 365 คุณทำงานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อรับของสภาพแวดล้อมของ Office 365 พร้อมสำหรับการใช้และแผนไวร์และการใช้งานภายในองค์กรของคุณ เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับสิทธิ์ ดูสวัสดิการศูนย์ FastTrack สำหรับ Office 365
-ms.openlocfilehash: 0ce6c1545af6802e40fbf017bbc09784b4f31a4e
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 0696e4b7f46b91123046c90a5297c22300a9bc0e
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445192"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895564"
 ---
-# <a name="fasttrack-center-benefit-overview"></a>ภาพรวมของสวัสดิการศูนย์ FastTrack
+# <a name="fasttrack-center-benefit-overview"></a>ภาพรวมสิทธิประโยชน์จากศูนย์ FastTrack
 
 ด้วยผลประโยชน์ศูนย์ FastTrack สำหรับ Office 365 คุณทำงานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อรับของสภาพแวดล้อมของ Office 365 พร้อมสำหรับการใช้และแผนไวร์และการใช้งานภายในองค์กรของคุณ เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับสิทธิ์ ดู[สวัสดิการศูนย์ FastTrack สำหรับ Office 365](O365-fasttrack-benefit-for-office-365.md)
   
 เราครอบคลุมหัวข้อต่อไปนี้:
 - [กระบวนการ FastTrack](O365-fasttrack-process.md) 
-- [ความคาดหวังของสภาพแวดล้อมต้นทาง](O365-source-environment-expectations.md)
-- [ปฐมนิเทศและระยะของการโยกย้าย](O365-onboarding-and-migration.md)
-- [การย้ายข้อมูล](O365-data-migration.md)
-- [ความรับผิดชอบ FastTrack](O365-fasttrack-responsibilities.md)
+- [ข้อกำหนดของสภาพแวดล้อมต้นทาง](O365-source-environment-expectations.md)
+- [ขั้นตอนการออนบอร์ดและการโยกย้าย](O365-onboarding-and-migration.md)
+- [การโยกย้ายข้อมูล](O365-data-migration.md)
+- [ความรับผิดชอบของ FastTrack](O365-fasttrack-responsibilities.md)
 - [ความรับผิดชอบของคุณ](O365-your-responsibilities.md) 
-- [ภาคผนวก A - โยกย้ายจาก IBM Domino การแลกเปลี่ยนแบบออนไลน์](O365-from-ibm-domino-to-exchange-online.md)
-- [ภาคผนวก B - FastTrack ศูนย์สวัสดิการที่เพิ่มเติม](O365-fasttrack-additional-benefits.md)
-- [ภาคผนวก C - ข้อตกลงทีมดังกล่าวของศูนย์ FastTrack HIPAA ธุรกิจ](O365-hipaa-business-associate-agreement.md)
-- [ภาคผนวก D - ภาพรวมสวัสดิการศูนย์ FastTrack สำหรับ Office 365 รัฐบาลของสหรัฐอเมริกา](US-Gov-appendix-overview.md)
+- [ภาคผนวก A - การโยกย้ายจาก IBM Domino ไปยัง Exchange Online](O365-from-ibm-domino-to-exchange-online.md)
+- [ภาคผนวก B - สิทธิประโยชน์เพิ่มเติมจากศูนย์ FastTrack](O365-fasttrack-additional-benefits.md)
+- [ภาคผนวก C - ข้อตกลง HIPAA Business Associate ของศูนย์ FastTrack](O365-hipaa-business-associate-agreement.md)
+- [ภาคผนวก D - ภาพรวมสิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365 US Government](US-Gov-appendix-overview.md)
     
 มีสร้างผู้เช่าของคุณ Office 365 เมื่อดำเนินการเสร็จสมบูรณ์ของการปฐมนิเทศ ผู้ใช้ที่ได้รับอนุญาตสามารถเข้าถึง Office 365 โดยใช้หนึ่งในตัวเลือกข้อมูลเฉพาะตัวต่อไปนี้:
 - ข้อมูลเฉพาะตัวของเมฆที่ มีบัญชีผู้ใช้ Office 365 เฉพาะ
