@@ -3,20 +3,19 @@ title: ความรับผิดชอบ FastTrack สำหรับ Offi
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: ผู้เชี่ยวชาญ FastTrack มีความรับผิดชอบต่อไปนี้ในระหว่างการปฐมนิเทศ
-ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133127"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696788"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>ความรับผิดชอบ FastTrack สำหรับ Office 365 รัฐบาลของสหรัฐอเมริกา
 
@@ -46,8 +45,8 @@ ms.locfileid: "27133127"
 - สร้างเส้นเวลาสำหรับกิจกรรมด้าน
 - แสดงรายการตรวจสอบด้าน   
 - ประเมินอยู่ SharePoint Server 2013 หรือ 2016 เซิร์ฟเวอร์ SharePoint โครงสร้างพื้นฐานรวมทั้ง:  
-  - ข้อกำหนดเบื้องต้นสำหรับไฮบริดสลีออนไลน์ของ SharePoint  
-  - ความพร้อมของโครงสร้างพื้นฐานในสถานที่สำหรับคุณลักษณะของไฮบริดสลีออนไลน์ของ SharePoint  
+  - ข้อกำหนดเบื้องต้นสำหรับไฮบริดสลี SharePoint แบบออนไลน์  
+  - ความพร้อมของโครงสร้างพื้นฐานในสถานที่สำหรับคุณลักษณะของไฮบริดสลี SharePoint แบบออนไลน์  
   - การเข้าถึงปลายทางออนไลน์ของ SharePoint ที่จำเป็น 
   - ผู้ชมสำหรับ OneDrive สำหรับไฮบริดสลีธุรกิจ    
 - ประเมินอยู่ Lync หรือ Skype สำหรับธุรกิจออนไลน์โครงสร้างพื้นฐานรวมถึง:  
@@ -115,11 +114,11 @@ ms.locfileid: "27133127"
 - เปิดใช้งานไซต์ส่วนบุคคลและคุณลักษณะทางสังคม   
 - ตั้งค่าคอนฟิกลักษณะการทำงานแบบออนไลน์ของ SharePoint    
 - ให้ย้ายข้อมูล ถ้ามีใช้บริการ FastTrack ศูนย์การโยกย้ายข้อมูล และถ้าคุณมีสิทธิ์  
-- ประเมินในสถานที่ SharePoint โครงสร้างพื้นฐานการกำหนดค่าฟาร์มจำเป็นสำหรับไฮบริดสลีออนไลน์ของ SharePoint    
+- ประเมินในสถานที่ SharePoint โครงสร้างพื้นฐานการกำหนดค่าฟาร์มจำเป็นสำหรับไฮบริดสลี SharePoint แบบออนไลน์    
 - ใช้เครื่องมือและระบบอัตโนมัติเพื่อ: 
   - กำหนดค่าโปรแกรมประยุกต์บริการค้นหาของ cloud ในสถานที่    
   - การตั้งค่าคอนฟิกความน่าเชื่อถือระหว่าง SharePoint ในสถานและเมฆสภาพแวดล้อม   
-- การกำหนดค่าไซต์ SharePoint ในสถานที่จะใช้ลักษณะการทำงานของไฮบริดสลีออนไลน์ของ SharePoint
+- การกำหนดค่าไซต์ SharePoint ในสถานที่จะใช้คุณลักษณะไฮบริดสลี SharePoint แบบออนไลน์
     
 ## <a name="onedrive-for-business"></a>OneDrive สำหรับธุรกิจ
 
@@ -135,7 +134,7 @@ ms.locfileid: "27133127"
 - กำหนดสิทธิ์การใช้งานของผู้ใช้   
 - การตั้งค่าผู้ชมแบบออนไลน์ของ SharePoint เพื่อควบคุม และควบคุมว่าผู้ใดมี OneDrive สำหรับธุรกิจ    
 - ปรับใช้การ OneDrive สำหรับไคลเอ็นต์ซิงค์ธุรกิจกับคอมพิวเตอร์แบบตั้งโต๊ะ   
-- วิธีการตั้งค่าคอนฟิก OneDrive ไฮบริดสลีออนไลน์ของ SharePoint สำหรับการเปลี่ยนเส้นทางธุรกิจ (SharePoint 2013 และ 2016 SharePoint เท่านั้น)  
+- วิธีการกำหนดค่า SharePoint ออนไลน์ไฮบริ OneDrive สำหรับการเปลี่ยนเส้นทางธุรกิจ (SharePoint 2013 และ 2016 SharePoint เท่านั้น)  
 - โยกย้ายข้อมูล ถ้ามีใช้บริการ FastTrack ศูนย์การโยกย้ายข้อมูล และถ้าคุณมีสิทธิ์
     
 ## <a name="skype-for-business-online"></a>Skype สำหรับธุรกิจแบบออนไลน์
@@ -204,7 +203,7 @@ ms.locfileid: "27133127"
 - ติดตั้ง Office 365 ProPlus จากพอร์ทัล Office 365 โดยใช้คลิกทูรัน   
 - การติดตั้ง Office Mobile apps (เช่น Outlook Mobile, Word Mobile, Excel Mobile และ PowerPoint Mobile) บน iOS, Android หรือ Windows Mobile อุปกรณ์   
 - การกำหนดค่าการตั้งค่าการปรับปรุงโดยใช้ต้นแบบของเครื่องมือการปรับใช้ของ Office 2016 หรือ'นโยบายกลุ่ม'   
-- การตั้งค่าเซิร์ฟเวอร์การกระจายภายในอาคารเดียวสำหรับ Office 365 ProPlus รวมทั้งความช่วยเหลือในการสร้างแฟ้ม configuration.xml เพื่อใช้กับเครื่องมือการปรับใช้ Office   
+- การตั้งค่าเซิร์ฟเวอร์การกระจายภายในอาคารเดียวสำหรับ Office 365 ProPlus รวมทั้งความช่วยเหลือในการสร้างแฟ้ม configuration.xml เพื่อใช้กับเครื่องมือการปรับใช้ Office 365   
 - การปรับใช้ที่ใช้ระบบศูนย์การตั้งค่าคอนฟิกตัวจัดการ รวมทั้งความช่วยเหลือในการสร้างตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบบรรจุ
 
     
