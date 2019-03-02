@@ -3,7 +3,7 @@ title: สิทธิประโยชน์จากศูนย์ FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack สำหรับ Microsoft 365 ให้คำแนะนำสำหรับการวางแผน การปรับใช้ และเริ่มรวมทั้งการเข้าถึงระยะไกลไปยัง Microsoft ทางวิศวกรรมความเชี่ยวชาญ ดีที่สุดวิธีปฏิบัติ เครื่องมือ และทรัพยากร FastTrack สำหรับ Microsoft 365 ช่วยให้องค์กร และคู่ค้าของตนเร่งการปรับใช้ และได้รับการเริ่มของผู้ใช้ของ Office 365, Windows 10 และองค์กร Mobility + ความปลอดภัย
-ms.openlocfilehash: 272b2aab2900f8d9febd24b22a9a2642d7b24ff8
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: e0ac93c1debcffe644117054c6fda2d8ac2d5b60
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696620"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355121"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365
 
@@ -29,11 +29,9 @@ ms.locfileid: "29696620"
   
 เมื่อต้องการเรียนรู้เพิ่มเติม ดู:
 
-- [สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365](https://go.microsoft.com/fwlink/?linkid=2044752) 
-- [สวัสดิการศูนย์ FastTrack สำหรับองค์กร Mobility + ความปลอดภัย](https://go.microsoft.com/fwlink/?linkid=2005312)
-- [สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Windows 10](https://go.microsoft.com/fwlink/?linkid=2044661) 
-
-คุณยังสามารถสำรวจดู FastTrack บริการและ[ความช่วยเหลือในการร้องขอ](https://go.microsoft.com/fwlink/p/?LinkId=2003903)จาก FastTrack วันนี้
+- [สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365](O365-fasttrack-benefit-for-office-365.md) 
+- [สวัสดิการศูนย์ FastTrack สำหรับองค์กร Mobility + ความปลอดภัย](EMS-fasttrack-benefit-for-EMS.md)
+- [สวัสดิการศูนย์ FastTrack สำหรับ Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md) คุณยังสามารถสำรวจดู FastTrack บริการและ[ความช่วยเหลือในการร้องขอ](https://go.microsoft.com/fwlink/p/?LinkId=2003903)จาก FastTrack วันนี้
 
 FastTrack เป็นคู่ค้าของคุณสำหรับความสำเร็จ Microsoft 365
   

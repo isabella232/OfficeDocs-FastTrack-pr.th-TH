@@ -3,18 +3,18 @@ title: ภาคผนวก D - ภาพรวมสิทธิประโ�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: ด้วยผลประโยชน์ศูนย์ FastTrack สำหรับ Office 365 คุณทำงานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อรับของสภาพแวดล้อมของ Office 365 พร้อมสำหรับการใช้และแผนไวร์และการใช้งานภายในองค์กรของคุณ
-ms.openlocfilehash: 4a5dada6b12b24b8686b4d08468d86c1e05996b3
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 31782ca75f7ab5ce74415dcc7a9d754448740b6a
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696680"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355073"
 ---
 # <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>ภาคผนวก D - ภาพรวมสิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365 US Government
 
