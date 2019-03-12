@@ -3,19 +3,19 @@ title: ปฐมนิเทศและโยกย้ายระยะสำ�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: การปฐมนิเทศ office 365 สำหรับ Office 365 เรารัฐบาลมีหลักสี่ระยะ — เริ่ม ต้น Assess, Remediate และเปิดใช้งาน คุณสามารถติดตามระยะเหล่านี้ ด้วยระยะการโยกย้ายข้อมูลหรือไม่ก็ได้ดังที่แสดงในภาพต่อไปนี้
-ms.openlocfilehash: 259f7f175b369aed5ed9089ff7dff0efc5797963
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 60f931d6c558709e34dd638304a77c739efb43c4
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696776"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355265"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>ปฐมนิเทศและโยกย้ายระยะสำหรับ Office 365 รัฐบาลของสหรัฐฯ
 

@@ -3,19 +3,19 @@ title: ความรับผิดชอบ FastTrack สำหรับ Offi
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: ผู้เชี่ยวชาญ FastTrack มีความรับผิดชอบต่อไปนี้ในระหว่างการปฐมนิเทศ
-ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2989b841d247ec1e05f8e033a7000e2b2a756e24
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696788"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355289"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>ความรับผิดชอบ FastTrack สำหรับ Office 365 รัฐบาลของสหรัฐอเมริกา
 
@@ -82,8 +82,10 @@ ms.locfileid: "29696788"
       - ตั้งค่าคอนฟิก Azure Active Directory พาส-ทรูรับรองความถูกต้อง ถ้าจำเป็น (ไม่มีอยู่ในแผนสูง GCC หรือ DoD)
       - ตั้งค่าคอนฟิก Azure Active Directory อย่างราบเดียวเข้าสู่ระบบ (SSO), ถ้าจำเป็น (ไม่มีอยู่ในแผนสูง GCC หรือ DoD)
     > [!NOTE]
-    > Azure Active Directory พาส-ทรูรับรองความถูกต้องสำหรับสภาพแวดล้อมหลายฟอเรสต์ได้รับการสนับสนุนถ้ามีความเชื่อถือฟอเรสต์ระหว่างฟอเรสต์เป็นไดเรกทอรีที่ใช้งานอยู่ของคุณและ ถ้ามีการกำหนดเส้นทางส่วนต่อท้ายชื่อถูกกำหนดค่าอย่างถูกต้อง ตัวแทนเพิ่มเติมสามารถติดตั้งบนเซิร์ฟเวอร์ในสถานที่หลายตัวเพื่อให้พร้อมใช้งานสูงสำหรับการร้องขอการเข้าสู่ระบบ สำหรับข้อมูลเพิ่มเติม ดู[Azure Active Directory พาส-ทรูรับรองความถูกต้อง: เริ่มต้นอย่างรวดเร็ว](https://go.microsoft.com/fwlink/?linkid=860094)และ[Azure Active Directory อย่างราบเดียวเข้าสู่ระบบ: เริ่มต้นอย่างรวดเร็ว](https://go.microsoft.com/fwlink/?linkid=860095)[!NOTE]
-    > สำหรับข้อมูลเพิ่มเติมเกี่ยวกับข้อจำกัดของการรับรองความถูกต้องแบบพาส-ทรู ดู[Azure Active Directory พาส-ทรูรับรองความถูกต้อง: ข้อจำกัดปัจจุบัน](https://go.microsoft.com/fwlink/?linkid=860356)[!NOTE]
+    > Azure Active Directory พาส-ทรูรับรองความถูกต้องสำหรับสภาพแวดล้อมหลายฟอเรสต์ได้รับการสนับสนุนถ้ามีความเชื่อถือฟอเรสต์ระหว่างฟอเรสต์เป็นไดเรกทอรีที่ใช้งานอยู่ของคุณและ ถ้ามีการกำหนดเส้นทางส่วนต่อท้ายชื่อถูกกำหนดค่าอย่างถูกต้อง ตัวแทนเพิ่มเติมสามารถติดตั้งบนเซิร์ฟเวอร์ในสถานที่หลายตัวเพื่อให้พร้อมใช้งานสูงสำหรับการร้องขอการเข้าสู่ระบบ สำหรับข้อมูลเพิ่มเติม ดู[Azure Active Directory พาส-ทรูรับรองความถูกต้อง: เริ่มต้นอย่างรวดเร็ว](https://go.microsoft.com/fwlink/?linkid=860094)และ[Azure Active Directory อย่างราบเดียวเข้าสู่ระบบ: เริ่มต้นอย่างรวดเร็ว](https://go.microsoft.com/fwlink/?linkid=860095) 
+    > [!NOTE]
+    > สำหรับข้อมูลเพิ่มเติมเกี่ยวกับข้อจำกัดของการรับรองความถูกต้องแบบพาส-ทรู ดู[Azure Active Directory พาส-ทรูรับรองความถูกต้อง: ข้อจำกัดปัจจุบัน](https://go.microsoft.com/fwlink/?linkid=860356) 
+    > [!NOTE]
     > สำหรับข้อมูลเพิ่มเติมเกี่ยวกับปัญหาอย่างราบ SSO ดู[การแก้ปัญหา Azure ใช้งานไดเรกทอรีอย่างราบเดียวเข้าสู่ระบบ](https://go.microsoft.com/fwlink/?linkid=841926) 
 - สำหรับฟอเรสต์เดียวเมื่อผู้ใช้อีเมลที่ติดต่อกับภายนอกคือ เป้าหมาย: 
   - การติดตั้ง และตั้งค่าคอนฟิก FS โฆษณาสำหรับการรับรองความถูกต้องของโดเมนเฉพาะกับ Office 365 ในการกำหนดค่า ไซต์เดียว แบบทนต่อ ถ้าจำเป็น  
