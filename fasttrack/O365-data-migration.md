@@ -3,19 +3,19 @@ title: การโยกย้ายข้อมูล
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำในขั้นตอนสำหรับการย้ายข้อมูลกับ Office 365 นี้จะพร้อมใช้งานสำหรับลูกค้าทั้งหมดที่เหมาะสมกับบริการ Office 365 สำหรับการแลกเปลี่ยนแบบออนไลน์ OneDrive สำหรับธุรกิจ และ SharePoint แบบออนไลน์
-ms.openlocfilehash: 5e7cc46807b7ec0e742c2a1097034dae8df14701
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 15efb99c47bbd1047b56c9dd5d5cf288013d99d3
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355349"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31017085"
 ---
 # <a name="data-migration"></a>การโยกย้ายข้อมูล
 

@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 614f8b31cfd4a49ce01520efb2315a5e7237dcda
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 7256128e17ab47f1383102b33fe2d86d47c4b226
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359809"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016941"
 ---
 # <a name="your-responsibilities"></a>ความรับผิดชอบของคุณ
 
@@ -120,7 +120,7 @@ ms.locfileid: "30359809"
 -   เปิดใช้งานการบริการต่าง ๆ สำหรับแต่ละคำแนะนำจากทีม FastTrack
 
 > [!NOTE]
-> **ต้องการเรียนรู้เพิ่มเติมได้อย่างไร** ดู[องค์กร Mobility + ความปลอดภัย](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
+> **ต้องการเรียนรู้เพิ่มเติมหรือไม่** ดู[องค์กร Mobility + ความปลอดภัย](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
 
 ## <a name="see-also"></a>ดูข้อมูลเพิ่มเติม
 
