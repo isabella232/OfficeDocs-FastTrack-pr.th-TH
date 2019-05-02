@@ -4,11 +4,11 @@ hide_bc: true
 title: เอกสารประกอบของ Microsoft FastTrack และทรัพยากร
 description: เรียนรู้วิธี FastTrack ของ Microsoft สามารถช่วยให้ลูกค้าที่ปรับใช้โซลูชัน cloud Microsoft ลูกค้าที่ มีสิทธิ์ได้รับการบอกรับเป็นสมาชิกการ Microsoft 365, Azure หรือ Dynamics 365 สามารถใช้ FastTrack ที่ไม่มีต้นทุนเพิ่มเติมสำหรับอายุการใช้งานการสมัครสมาชิก
 ms.openlocfilehash: ae5a62824b074863bf2649fd8aa5e2c88d33c932
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "27406012"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513348"
 ---
 <div id="main" class="v2">
     <div class="container">
