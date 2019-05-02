@@ -5,29 +5,29 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c1750da451d0d6714ef8363d943614f80ae685e3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 42d6c23dd4da1ed8071092ccf4cc045c5128d856
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016905"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513179"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>ภาพรวมสิทธิประโยชน์จากศูนย์ FastTrack
 
-ด้วยผลประโยชน์ศูนย์ FastTrack สำหรับ Microsoft Azure พิเศษไดเรกทอรีที่ใช้งานอยู่และ Microsoft Intune คุณทำงานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อรับสภาพแวดล้อมของคุณพร้อมสำหรับการใช้ และ การวางแผนไวร์และการใช้งานภายในองค์กรของคุณ เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับสิทธิ์ ดู[กระบวนการสวัสดิการศูนย์ FastTrack สำหรับองค์กร Mobility + ความปลอดภัย (EMS)](EMS-fasttrack-process.md)
+ด้วยผลประโยชน์ศูนย์ FastTrack สำหรับ Microsoft Azure พิเศษไดเรกทอรีที่ใช้งานอยู่ Microsoft Intune และ ป้องกันข้อมูล Azure คุณทำงานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อเตรียมตัวให้พร้อมสำหรับการใช้สภาพแวดล้อมของคุณ และ เพื่อวางแผนไวร์และการใช้งานภายในของคุณ องค์กร เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับสิทธิ์ ดู[กระบวนการสวัสดิการศูนย์ FastTrack สำหรับองค์กร Mobility + ความปลอดภัย (EMS)](EMS-fasttrack-process.md)
 
 ทะเบียนมีคอมโพเนนต์หลักที่สอง:
 
 -   **การปฐมนิเทศหลัก**- ภารกิจที่จำเป็นสำหรับการตั้งค่าคอนฟิกผู้เช่าและรวมกับ Azure Active Directory ถ้าจำเป็น ปฐมนิเทศหลักยังให้ในบรรทัดหลักสำหรับปฐมนิเทศบริการอื่น ๆ สิทธิออนไลน์ของ Microsoft
 
--   **บริการปฐมนิเทศ**- งานที่ต้องใช้ในการกำหนดค่าของตัวแปรแบบสแตนด์อโลนของปริมาณงาน EMS (พิเศษโฆษณา Azure และ Intune) ใด ๆ
+-   **บริการปฐมนิเทศ**- งานที่ต้องใช้ในการกำหนดค่าของตัวแปรแบบสแตนด์อโลนของปริมาณงาน EMS (พิเศษโฆษณา Azure, Intune และ ป้องกันข้อมูล Azure) ใด ๆ
 
 ไดอะแกรมต่อไปนี้อธิบายเกี่ยวกับระยะของการปฐมนิเทศระดับสูงสำหรับการสวัสดิการศูนย์ FastTrack
 

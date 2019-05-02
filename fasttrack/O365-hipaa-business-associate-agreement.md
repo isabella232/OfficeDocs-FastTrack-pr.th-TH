@@ -3,18 +3,18 @@ title: ภาคผนวก C - ข้อตกลง HIPAA Business Associate 
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: 'ถ้าคุณมีการ HIPAA ธุรกิจเชื่อมโยงข้อตกลง (BAA) กับ Microsoft สำหรับบริการ FastTrack บริการทั้งหมดที่แสดงรายการอยู่ในสวัสดิการศูนย์ FastTrack สำหรับ Office 365 จะรวมอยู่ในนั้น BAA ยกเว้น:'
-ms.openlocfilehash: 0f689d599e961a009ffd313edde767ef1b330ed6
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 8142596e7f630aeca027be3c3de42881242373ab
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016749"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513792"
 ---
 # <a name="appendix-c---fasttrack-center-hipaa-business-associate-agreement"></a>ภาคผนวก C - ข้อตกลง HIPAA Business Associate ของศูนย์ FastTrack
 

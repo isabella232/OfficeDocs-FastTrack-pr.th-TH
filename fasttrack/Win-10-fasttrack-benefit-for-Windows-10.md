@@ -3,7 +3,7 @@ title: สิทธิประโยชน์จากศูนย์ FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: คุณสามารถใช้ FastTrack ศูนย์สวัสดิการสำหรับ Windows 10 เมื่อคุณซื้อใบอนุญาต 150 สำหรับบริการที่เหมาะสมหรือแผน*อย่างน้อย*
-ms.openlocfilehash: 1f7544709fe8b176a42e17efa035afef73d69c8f
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 51a59fdf6833f7d0315eb37c3545a10efe7eb41b
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016809"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513372"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Windows 10
 

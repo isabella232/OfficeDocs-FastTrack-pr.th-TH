@@ -22,7 +22,7 @@
 | วันที่ 1/4/2019 | [สิทธิประโยชน์จาก FastTrack สำหรับ Office 365](/FastTrack/o365-fasttrack-benefit-for-office-365) | การปรับเปลี่ยน |
 | วันที่ 1/4/2019 | [ภาพรวมสิทธิประโยชน์จากศูนย์ FastTrack](/FastTrack/o365-fasttrack-benefit-overview) | การปรับเปลี่ยน |
 | วันที่ 1/4/2019 | [กระบวนการ FastTrack](/FastTrack/o365-fasttrack-process) | การปรับเปลี่ยน |
-| วันที่ 1/4/2019 | [ความรับผิดชอบ FastTrack](/FastTrack/o365-fasttrack-responsibilities) | การปรับเปลี่ยน |
+| วันที่ 1/4/2019 | [ความรับผิดชอบของ FastTrack](/FastTrack/o365-fasttrack-responsibilities) | การปรับเปลี่ยน |
 | วันที่ 1/4/2019 | [ภาคผนวก A - การโยกย้ายจาก IBM Domino ไปยัง Exchange Online](/FastTrack/o365-from-ibm-domino-to-exchange-online) | การปรับเปลี่ยน |
 | วันที่ 1/4/2019 | [ภาคผนวก C - ข้อตกลง HIPAA Business Associate ของศูนย์ FastTrack](/FastTrack/o365-hipaa-business-associate-agreement) | การปรับเปลี่ยน |
 | วันที่ 1/4/2019 | [ขั้นตอนการออนบอร์ดและการโยกย้าย](/FastTrack/o365-onboarding-and-migration) | การปรับเปลี่ยน |
@@ -36,3 +36,11 @@
 | วันที่ 1/4/2019 | [ความช่วยเหลือที่ให้](/FastTrack/win-10-daa-assistance-offered) | การปรับเปลี่ยน |
 | วันที่ 1/4/2019 | [Desktop App Assure](/FastTrack/win-10-desktop-app-assure) | การปรับเปลี่ยน |
 | วันที่ 1/4/2019 | [สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Windows 10](/FastTrack/win-10-fasttrack-benefit-for-windows-10) | การปรับเปลี่ยน |
+
+
+## <a name="week-of-april-08-2019"></a>สัปดาห์ของเดือน 08 เมษายน 2019
+
+
+| เผยแพร่บน |ชื่อเรื่องหัวข้อ | การเปลี่ยนแปลง |
+|------|------------|--------|
+| วันที่ 10/4/2019 | [ระยะการปฐมนิเทศและการโยกย้าย](/FastTrack/ems-onboarding-phases) | การปรับเปลี่ยน |

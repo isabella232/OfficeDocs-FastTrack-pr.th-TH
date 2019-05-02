@@ -5,22 +5,22 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: a2d3f601c1395b908d2ad8fd7a6a0dde38502784
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 1e3f34284cb4b6300a50116ad2bb1df3cb6ab0fe
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016785"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513780"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>กระบวนการสิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Enterprise Mobility + Security (EMS)
-ถ้าองค์กรของคุณไม่มีสิทธิ์รับสวัสดิการศูนย์ FastTrack สำหรับ EMS คุณสามารถทำงานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อรับพิเศษไดเรกทอรีที่ใช้งานอยู่ของ Azure Microsoft และ Microsoft Intune พร้อมสำหรับการใช้งาน นอกจากนี้คุณยังสามารถร้องขอความช่วยเหลือผ่าน[ไซต์ FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems)สำหรับ ป้องกันข้อมูล Azure ความ ปลอดภัยโปรแกรมประยุกต์ของ Microsoft Cloud และ Microsoft วิเคราะห์การคุกคามขั้นสูง เมื่อต้องการเรียนรู้ว่า องค์กรของคุณไม่มีสิทธิ ดู[บริการที่เหมาะสมและแผน](M365-eligible-services-and-plans.md)
+ถ้าองค์กรของคุณไม่มีสิทธิ์รับสวัสดิการศูนย์ FastTrack สำหรับ EMS คุณสามารถทำงานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อรับ พิเศษไดเรกทอรีที่ใช้งานอยู่ของ Azure Microsoft, Microsoft Intune และ การ ป้องกันข้อมูล Azure พร้อมสำหรับการใช้งาน นอกจากนี้คุณยังสามารถร้องขอความช่วยเหลือผ่าน[ไซต์ FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems)สำหรับ ป้องกันข้อมูล Azure ความ ปลอดภัยโปรแกรมประยุกต์ของ Microsoft Cloud และ Microsoft วิเคราะห์การคุกคามขั้นสูง เมื่อต้องการเรียนรู้ว่า องค์กรของคุณไม่มีสิทธิ ดู[บริการที่เหมาะสมและแผน](M365-eligible-services-and-plans.md)
 
 
 ต่อไปนี้คือสิ่งที่เราได้ครอบคลุมเกี่ยวกับกระบวนการปฐมนิเทศ:
@@ -50,3 +50,9 @@ ms.locfileid: "31016785"
         -   ซิงโครไนส์จากไดเรกทอรีที่ใช้งานอยู่ โดยใช้เครื่องมือการเชื่อมต่อ AD Azure ตัวเลือกนี้สำหรับลูกค้าที่มีการกำหนดค่าเดียวของฟอเรสต์ไดเรกทอรีที่ใช้งานอยู่ได้
 
         -   ติดต่อกับภายนอกกับ Windows Server 2012 R2 Active Directory สหพันธรัฐบริการ (AD FS) 2.0 หรือรุ่นที่ใหม่กว่าจากไดเรกทอรีที่ใช้งานอยู่ในสถานของคุณ
+
+        -   ความสามารถในการจัด ประเภทอัตโนมัติ และปกป้องข้อมูลทั้ง ในส่วนที่เหลือ และ ในการส่งต่อ มีการป้องกันข้อมูล Azure 
+
+        -   ความสามารถในการค้นหาข้อมูลภายในแฟ้มที่ใช้ร่วมกันในสถานและเซิร์ฟเวอร์ SharePoint กับสแกนเนอร์ป้องกันข้อมูล Azure 
+
+        -   ความสามารถในการจัดการคีย์ผู้เช่าของคุณป้องกันข้อมูล Azure ภายในกชุดเก็บคีย์ Azure 
