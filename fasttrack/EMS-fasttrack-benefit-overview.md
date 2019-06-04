@@ -5,19 +5,21 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 46d9720545a2b92fbe4318f676308504c53ec315
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
+ms.openlocfilehash: ba29357695855236dbe0583e7667998fdf940bd0
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967942"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673326"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>ภาพรวมสิทธิประโยชน์จากศูนย์ FastTrack
 

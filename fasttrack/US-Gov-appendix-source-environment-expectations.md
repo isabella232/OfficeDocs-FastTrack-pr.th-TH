@@ -3,19 +3,19 @@ title: แหล่งความคาดหวังของสภาพแ�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: สวัสดิการศูนย์ FastTrack ให้คำแนะนำให้คุณตั้งค่าระดับของรวมกับสภาพแวดล้อมต้นทาง (ตัวอย่างเช่น ถ้าคุณมีบริการอยู่ในสภาพแวดล้อมของแหล่งที่มาที่คุณต้องการย้ายไปยัง Office 365)
-ms.openlocfilehash: 51357de42b9b4228c519241461d57e2534dbf063
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 5e123f9874340b0b9441928270f78bbc23d5fd52
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513072"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673804"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>แหล่งความคาดหวังของสภาพแวดล้อมสำหรับ Office 365 รัฐบาลของสหรัฐอเมริกา
 

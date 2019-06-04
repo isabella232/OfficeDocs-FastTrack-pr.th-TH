@@ -3,19 +3,19 @@ title: บริการและแผนที่มีสิทธิ์
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: เมื่อคุณซื้อใด ๆ ของบริการ Microsoft 365 ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำให้คุณ onboard Microsoft 365 และเริ่มต้นใช้เหล่านั้น
-ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 58ab0f1cccc88720cc8c323d8a083c9a9ff1f67e
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513096"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673612"
 ---
 # <a name="eligible-services-and-plans"></a>บริการและแผนที่มีสิทธิ์
 
@@ -63,6 +63,7 @@ FastTrack ศูนย์ให้ความช่วยเหลือสำ�
 - Microsoft StaffHub
 - Windows 10
 - ค่าจ้างพิเศษ azure ไดเรกทอรีที่ใช้งานอยู่
+- ป้องกันข้อมูล azure
 - Microsoft Intune
     
 ## <a name="eligible-microsoft-365-plans"></a>แผน Microsoft 365 มีสิทธิ์
@@ -160,7 +161,7 @@ FastTrack ศูนย์ให้ความช่วยเหลือสำ�
 |---------|---------|
 |**Mobility องค์กร + ความปลอดภัย (EMS) ใน E3 หรือ E5**       |   พร้อมใช้งานสำหรับบริการ cloud ที่เหมาะสมสำหรับสวัสดิการ FastTrack มิฉะนั้น นี้ถูกส่ง ถึงผู้เชี่ยวชาญ ด้านแบบ FastTrack หรือ สำหรับการอ้างอิงบริษัทในเครือ        |
 |**ค่าจ้างพิเศษที่ Microsoft Azure ไดเรกทอรีที่ใช้งานอยู่**     |  มีสิทธิ์ถ้าซื้อ เป็นแผนแบบสแตนด์อโลน หรือ เป็นส่วนหนึ่งของ E3 E5       |
-|**การป้องกันข้อมูลของ Microsoft Azure**    |  พร้อมใช้งานสำหรับ P2 เป็นส่วนหนึ่งของ EMS E5 หรือแผนแบบสแตนด์อโลน มิฉะนั้น นี้ถูกส่ง ถึงผู้เชี่ยวชาญ ด้านแบบ FastTrack หรือ สำหรับการอ้างอิงบริษัทในเครือ        |
+|**การป้องกันข้อมูลของ Microsoft Azure**    |  พร้อมใช้งานสำหรับ P2 เป็นส่วนหนึ่งของ E5 หรือแผนแบบสแตนด์อโลน พร้อมใช้งานสำหรับบริการ cloud ที่เหมาะสมสำหรับสวัสดิการ FastTrack สำหรับบริการ cloud P1, FastTrack ใช้งานร่วมกันของคำแนะนำการปรับใช้ของตนเอง       |
 |**Microsoft Intune**    |   มีสิทธิ์ถ้าซื้อ เป็นแผนแบบสแตนด์อโลน หรือ เป็นส่วนหนึ่งของ E3 E5      |
 |**แนบรูปเมฆ**     |    มีสิทธิ์ถ้าซื้อ เป็นแผนแบบสแตนด์อโลน หรือ เป็นส่วนหนึ่งของ E3 E5     |
 |**Microsoft Intune สำหรับการศึกษา**     |  มีสิทธิ์ถ้าซื้อ เป็นแผนแบบสแตนด์อโลน หรือ เป็นส่วนหนึ่งของ A3 หรือ A5       |

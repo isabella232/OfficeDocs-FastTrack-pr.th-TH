@@ -3,7 +3,7 @@ title: ความช่วยเหลือที่ให้
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: เมื่อคุณซื้อใด ๆ ของบริการ Windows 10 หรือ Microsoft 365 ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำการอ่านคำแนะนำและด้านการปรับใช้ Windows 10 และ Office 365 ProPlus และคอยติดตามสถานการณ์ปัจจุบันที่ไม่มีต้นทุนเพิ่มเติม (โดยมีสิทธิ์บอกรับเป็นสมาชิก)
-ms.openlocfilehash: 58230a191871343c99a3448c163cf16fc6068b3c
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: ad68c03fdd4bebe6081a3385c64025089a6cb830
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513060"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673780"
 ---
 # <a name="assistance-offered"></a>ความช่วยเหลือที่ให้  
 
