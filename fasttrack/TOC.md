@@ -19,6 +19,6 @@
 #### [ขั้นตอนการออนบอร์ด](EMS-onboarding-phases.md)
 #### [ความรับผิดชอบของ FastTrack](EMS-fasttrack-responsibilities.md)
 #### [ความรับผิดชอบของคุณ](EMS-your-responsibilities.md)
-## [สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)
+## [สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Windows 10](Win-10-fasttrack-benefit-for-windows-10.md)
 ### [Desktop App Assure](Win-10-desktop-app-assure.md)
 #### [ความช่วยเหลือที่ให้](Win-10-daa-assistance-offered.md)
