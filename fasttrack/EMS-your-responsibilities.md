@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,118 +14,118 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 67634a552ac731b2b2fa8b6d594bd870d79d68ef
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: e9dad847ebb41be6d00791bd1415622228811a6d
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673648"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410748"
 ---
-# <a name="your-responsibilities"></a><span data-ttu-id="af939-103">ความรับผิดชอบของคุณ</span><span class="sxs-lookup"><span data-stu-id="af939-103">Your Responsibilities</span></span>
+# <a name="your-responsibilities"></a><span data-ttu-id="c07a4-103">ความรับผิดชอบของคุณ</span><span class="sxs-lookup"><span data-stu-id="c07a4-103">Your Responsibilities</span></span>
 
-<span data-ttu-id="af939-104">คุณมีความรับผิดชอบต่อไปนี้ในระหว่างการปฐมนิเทศ</span><span class="sxs-lookup"><span data-stu-id="af939-104">You have the following responsibilities during onboarding.</span></span>
+<span data-ttu-id="c07a4-104">คุณมีความรับผิดชอบต่อไปนี้ในระหว่างการปฐมนิเทศ</span><span class="sxs-lookup"><span data-stu-id="c07a4-104">You have the following responsibilities during onboarding.</span></span>
 
-## <a name="general-responsibilities"></a><span data-ttu-id="af939-105">ความรับผิดชอบทั่วไป</span><span class="sxs-lookup"><span data-stu-id="af939-105">General responsibilities</span></span>
+## <a name="general-responsibilities"></a><span data-ttu-id="c07a4-105">ความรับผิดชอบทั่วไป</span><span class="sxs-lookup"><span data-stu-id="c07a4-105">General responsibilities</span></span>
 
--   <span data-ttu-id="af939-106">ให้การปรับปรุงใด ๆ และการรวมของ Mobility องค์กร + ความปลอดภัย (EMS) ผู้เช่านอกเหนือจากตัวเลือกที่สามารถจัดโครงแบบที่แสดงไว้ที่นี่</span><span class="sxs-lookup"><span data-stu-id="af939-106">Provide any enhancements and integrations to your Enterprise Mobility + Security (EMS) tenant beyond the configurable options listed here.</span></span>
+-   <span data-ttu-id="c07a4-106">ให้การปรับปรุงใด ๆ และการรวมของ Mobility องค์กร + ความปลอดภัย (EMS) ผู้เช่านอกเหนือจากตัวเลือกที่สามารถจัดโครงแบบที่แสดงไว้ที่นี่</span><span class="sxs-lookup"><span data-stu-id="c07a4-106">Provide any enhancements and integrations to your Enterprise Mobility + Security (EMS) tenant beyond the configurable options listed here.</span></span>
 
--   <span data-ttu-id="af939-107">ให้การจัดการโปรแกรมและโครงการโดยรวมของทรัพยากรของคุณ</span><span class="sxs-lookup"><span data-stu-id="af939-107">Provide overall program and project management of your resources.</span></span>
+-   <span data-ttu-id="c07a4-107">ให้การจัดการโปรแกรมและโครงการโดยรวมของทรัพยากรของคุณ</span><span class="sxs-lookup"><span data-stu-id="c07a4-107">Provide overall program and project management of your resources.</span></span>
 
--   <span data-ttu-id="af939-108">ให้ผู้ใช้ปลายทางการสื่อสาร เอกสาร ฝึกอบรม และการจัดการการเปลี่ยนแปลง</span><span class="sxs-lookup"><span data-stu-id="af939-108">Provide end-user communications, documentation, training, and change management.</span></span>
+-   <span data-ttu-id="c07a4-108">ให้ผู้ใช้ปลายทางการสื่อสาร เอกสาร ฝึกอบรม และการจัดการการเปลี่ยนแปลง</span><span class="sxs-lookup"><span data-stu-id="c07a4-108">Provide end-user communications, documentation, training, and change management.</span></span>
 
--   <span data-ttu-id="af939-109">แสดงเอกสาร helpdesk และการฝึกอบรม</span><span class="sxs-lookup"><span data-stu-id="af939-109">Provide helpdesk documentation and training.</span></span>
+-   <span data-ttu-id="c07a4-109">แสดงเอกสาร helpdesk และการฝึกอบรม</span><span class="sxs-lookup"><span data-stu-id="c07a4-109">Provide helpdesk documentation and training.</span></span>
 
--   <span data-ttu-id="af939-110">จัดทำรายงาน นำเสนอ หรือใด ๆ รายงานการประชุมที่เกี่ยวข้องกับองค์กรของคุณโดยเฉพาะ</span><span class="sxs-lookup"><span data-stu-id="af939-110">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span>
+-   <span data-ttu-id="c07a4-110">จัดทำรายงาน นำเสนอ หรือใด ๆ รายงานการประชุมที่เกี่ยวข้องกับองค์กรของคุณโดยเฉพาะ</span><span class="sxs-lookup"><span data-stu-id="c07a4-110">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span>
 
--   <span data-ttu-id="af939-111">สร้างเอกสารทางเทคนิค และสถาปัตยกรรมเฉพาะสำหรับองค์กรของคุณ</span><span class="sxs-lookup"><span data-stu-id="af939-111">Create architectural and technical documentation specific to your organization.</span></span>
+-   <span data-ttu-id="c07a4-111">สร้างเอกสารทางเทคนิค และสถาปัตยกรรมเฉพาะสำหรับองค์กรของคุณ</span><span class="sxs-lookup"><span data-stu-id="c07a4-111">Create architectural and technical documentation specific to your organization.</span></span>
 
--   <span data-ttu-id="af939-112">ออกแบบ จัดหา ติดตั้ง และการกำหนดค่าฮาร์ดแวร์และระบบเครือข่าย</span><span class="sxs-lookup"><span data-stu-id="af939-112">Design, procure, install, and configure hardware and networking.</span></span>
+-   <span data-ttu-id="c07a4-112">ออกแบบ จัดหา ติดตั้ง และการกำหนดค่าฮาร์ดแวร์และระบบเครือข่าย</span><span class="sxs-lookup"><span data-stu-id="c07a4-112">Design, procure, install, and configure hardware and networking.</span></span>
 
--   <span data-ttu-id="af939-113">จัดหา ติดตั้ง และการตั้งค่าคอนฟิกซอฟต์แวร์</span><span class="sxs-lookup"><span data-stu-id="af939-113">Procure, install, and configure software.</span></span>
+-   <span data-ttu-id="c07a4-113">จัดหา ติดตั้ง และการตั้งค่าคอนฟิกซอฟต์แวร์</span><span class="sxs-lookup"><span data-stu-id="c07a4-113">Procure, install, and configure software.</span></span>
 
--   <span data-ttu-id="af939-114">จัดการ กำหนดค่า และใช้นโยบายความปลอดภัยที่เหนือกว่าสร้างขึ้นสำหรับการตั้งค่าคอนฟิกพื้นฐานของบริการ EMS และฟังก์ชันการทำงานของคุณ</span><span class="sxs-lookup"><span data-stu-id="af939-114">Manage, configure, and apply security policies beyond those created for your EMS services baseline configuration and functionality.</span></span>
+-   <span data-ttu-id="c07a4-114">จัดการ กำหนดค่า และใช้นโยบายความปลอดภัยที่เหนือกว่าสร้างขึ้นสำหรับการตั้งค่าคอนฟิกพื้นฐานของบริการ EMS และฟังก์ชันการทำงานของคุณ</span><span class="sxs-lookup"><span data-stu-id="c07a4-114">Manage, configure, and apply security policies beyond those created for your EMS services baseline configuration and functionality.</span></span>
 
--   <span data-ttu-id="af939-115">ลงทะเบียนบัญชีผู้ใช้นอกเหนือจากที่ใช้เพื่อทดสอบการตั้งค่าคอนฟิกพื้นฐานของบริการ Microsoft Azure EMS ไดเรกทอรีที่ใช้งานอยู่และการทำงาน</span><span class="sxs-lookup"><span data-stu-id="af939-115">Enroll user accounts beyond those used to test the Microsoft Azure Active Directory EMS services baseline configuration and functionality.</span></span>
+-   <span data-ttu-id="c07a4-115">ลงทะเบียนบัญชีผู้ใช้นอกเหนือจากที่ใช้เพื่อทดสอบการตั้งค่าคอนฟิกพื้นฐานของบริการ Microsoft Azure EMS ไดเรกทอรีที่ใช้งานอยู่และการทำงาน</span><span class="sxs-lookup"><span data-stu-id="c07a4-115">Enroll user accounts beyond those used to test the Microsoft Azure Active Directory EMS services baseline configuration and functionality.</span></span>
 
--   <span data-ttu-id="af939-116">จัดการการกำหนดค่าเครือข่าย การวิเคราะห์ การตรวจ สอบแบนด์วิดท์ ทดสอบ และการตรวจสอบ</span><span class="sxs-lookup"><span data-stu-id="af939-116">Manage network configuration, analysis, bandwidth validation, testing, and monitoring.</span></span>
+-   <span data-ttu-id="c07a4-116">จัดการการกำหนดค่าเครือข่าย การวิเคราะห์ การตรวจ สอบแบนด์วิดท์ ทดสอบ และการตรวจสอบ</span><span class="sxs-lookup"><span data-stu-id="c07a4-116">Manage network configuration, analysis, bandwidth validation, testing, and monitoring.</span></span>
 
--   <span data-ttu-id="af939-117">จัดการกระบวนการอนุมัติการจัดการการเปลี่ยนแปลงทางเทคนิคและเอกสารที่ยึดตามคำแนะนำในการสร้าง</span><span class="sxs-lookup"><span data-stu-id="af939-117">Manage a technical change management approval process and creating guidance-based documentation.</span></span>
+-   <span data-ttu-id="c07a4-117">จัดการกระบวนการอนุมัติการจัดการการเปลี่ยนแปลงทางเทคนิคและเอกสารที่ยึดตามคำแนะนำในการสร้าง</span><span class="sxs-lookup"><span data-stu-id="c07a4-117">Manage a technical change management approval process and creating guidance-based documentation.</span></span>
 
--   <span data-ttu-id="af939-118">การปรับเปลี่ยนการแนะนำรูปแบบและการดำเนินงานในการดำเนินงานของคุณ</span><span class="sxs-lookup"><span data-stu-id="af939-118">Modifying your operational model and operation guides.</span></span>
+-   <span data-ttu-id="c07a4-118">การปรับเปลี่ยนการแนะนำรูปแบบและการดำเนินงานในการดำเนินงานของคุณ</span><span class="sxs-lookup"><span data-stu-id="c07a4-118">Modifying your operational model and operation guides.</span></span>
 
--   <span data-ttu-id="af939-119">ตั้งค่าการรับรองความถูกต้องด้วยหลายปัจจัยในสถานที่</span><span class="sxs-lookup"><span data-stu-id="af939-119">Set up on-premises multi-factor authentication.</span></span>
+-   <span data-ttu-id="c07a4-119">ตั้งค่าการรับรองความถูกต้องด้วยหลายปัจจัยในสถานที่</span><span class="sxs-lookup"><span data-stu-id="c07a4-119">Set up on-premises multi-factor authentication.</span></span>
 
--   <span data-ttu-id="af939-120">Decommission และเอาออกก่อนหน้านี้ใช้สภาพแวดล้อมต้นทางและบริการ</span><span class="sxs-lookup"><span data-stu-id="af939-120">Decommission and remove previously used source environments and services.</span></span>
+-   <span data-ttu-id="c07a4-120">Decommission และเอาออกก่อนหน้านี้ใช้สภาพแวดล้อมต้นทางและบริการ</span><span class="sxs-lookup"><span data-stu-id="c07a4-120">Decommission and remove previously used source environments and services.</span></span>
 
--   <span data-ttu-id="af939-121">สร้าง และรักษาสภาพแวดล้อมการทดสอบ</span><span class="sxs-lookup"><span data-stu-id="af939-121">Construct and maintain your test environment.</span></span>
+-   <span data-ttu-id="c07a4-121">สร้าง และรักษาสภาพแวดล้อมการทดสอบ</span><span class="sxs-lookup"><span data-stu-id="c07a4-121">Construct and maintain your test environment.</span></span>
 
--   <span data-ttu-id="af939-122">ติดตั้งโปรแกรมปรับปรุงชุดสะสม/บริการ (CUs) และโปรแกรมปรับปรุงอื่น ๆ ที่จำเป็นบนโครงสร้างพื้นฐานเซิร์ฟเวอร์</span><span class="sxs-lookup"><span data-stu-id="af939-122">Install service packs/cumulative updates (CUs) and other required updates on infrastructure servers.</span></span>
+-   <span data-ttu-id="c07a4-122">ติดตั้งโปรแกรมปรับปรุงชุดสะสม/บริการ (CUs) และโปรแกรมปรับปรุงอื่น ๆ ที่จำเป็นบนโครงสร้างพื้นฐานเซิร์ฟเวอร์</span><span class="sxs-lookup"><span data-stu-id="c07a4-122">Install service packs/cumulative updates (CUs) and other required updates on infrastructure servers.</span></span>
 
--   <span data-ttu-id="af939-123">ระบุ และตั้งค่าคอนฟิกใบรับรอง การรักษาความปลอดภัย Secure Sockets Layer (SSL) สาธารณะใด ๆ</span><span class="sxs-lookup"><span data-stu-id="af939-123">Provide and configure any public Secure Sockets Layer (SSL) certificates.</span></span>
+-   <span data-ttu-id="c07a4-123">ระบุ และตั้งค่าคอนฟิกใบรับรอง การรักษาความปลอดภัย Secure Sockets Layer (SSL) สาธารณะใด ๆ</span><span class="sxs-lookup"><span data-stu-id="c07a4-123">Provide and configure any public Secure Sockets Layer (SSL) certificates.</span></span>
 
--   <span data-ttu-id="af939-124">ติดตั้ง หรือปรับรุ่นโปรแกรมจัดการการตั้งค่าคอนฟิกเป็นความต้องการขั้นต่ำสำหรับการรวม Microsoft Intune กับตัวจัดการการตั้งค่าคอนฟิก</span><span class="sxs-lookup"><span data-stu-id="af939-124">Set up or upgrade Configuration Manager to the minimum requirements for Microsoft Intune integration with Configuration Manager.</span></span>
+-   <span data-ttu-id="c07a4-124">ติดตั้ง หรือปรับรุ่นโปรแกรมจัดการการตั้งค่าคอนฟิกเป็นความต้องการขั้นต่ำสำหรับการรวม Microsoft Intune กับตัวจัดการการตั้งค่าคอนฟิก</span><span class="sxs-lookup"><span data-stu-id="c07a4-124">Set up or upgrade Configuration Manager to the minimum requirements for Microsoft Intune integration with Configuration Manager.</span></span>
 
--   <span data-ttu-id="af939-125">ถ้าจำเป็นสำหรับการจัดวาง Wi Fi และโปรไฟล์ VPN กับ Intune ให้ และตั้งค่าคอนฟิกการรับรอง Wi Fi และ VPN โครงสร้างพื้นฐานตามความจำเป็น</span><span class="sxs-lookup"><span data-stu-id="af939-125">If needed for deploying Wi-Fi and VPN profiles with Intune, provide and configure certificate authority, Wi-Fi and VPN infrastructures as needed.</span></span>
+-   <span data-ttu-id="c07a4-125">ถ้าจำเป็นสำหรับการจัดวาง Wi Fi และโปรไฟล์ VPN กับ Intune ให้ และตั้งค่าคอนฟิกการรับรอง Wi Fi และ VPN โครงสร้างพื้นฐานตามความจำเป็น</span><span class="sxs-lookup"><span data-stu-id="c07a4-125">If needed for deploying Wi-Fi and VPN profiles with Intune, provide and configure certificate authority, Wi-Fi and VPN infrastructures as needed.</span></span>
 
--   <span data-ttu-id="af939-126">เขียนคำสั่งเงื่อนไขการใช้ (TOU) ขององค์กรจะถูกตั้งค่าคอนฟิก และแสดงขึ้นบนเว็บไซต์ Microsoft Intune บริษัทที่ผู้ใช้สามารถเข้าถึง</span><span class="sxs-lookup"><span data-stu-id="af939-126">Write the organization’s Terms of Use (TOU) statement to be configured and displayed on the Microsoft Intune company portal that end users can access.</span></span>
+-   <span data-ttu-id="c07a4-126">เขียนคำสั่งเงื่อนไขการใช้ (TOU) ขององค์กรจะถูกตั้งค่าคอนฟิก และแสดงขึ้นบนเว็บไซต์ Microsoft Intune บริษัทที่ผู้ใช้สามารถเข้าถึง</span><span class="sxs-lookup"><span data-stu-id="c07a4-126">Write the organization’s Terms of Use (TOU) statement to be configured and displayed on the Microsoft Intune company portal that end users can access.</span></span>
 
--   <span data-ttu-id="af939-127">เซิร์ฟเวอร์ไซต์ตัวจัดการการตั้งค่าคอนฟิกการอัพเกรดและไคลเอนต์ตัวจัดการการตั้งค่าคอนฟิกล่าสุดสร้างรุ่น (เมื่อจำเป็น)</span><span class="sxs-lookup"><span data-stu-id="af939-127">Upgrade Configuration Manager site server and Configuration manager clients to the latest build versions (when needed).</span></span>
+-   <span data-ttu-id="c07a4-127">เซิร์ฟเวอร์ไซต์ตัวจัดการการตั้งค่าคอนฟิกการอัพเกรดและไคลเอนต์ตัวจัดการการตั้งค่าคอนฟิกล่าสุดสร้างรุ่น (เมื่อจำเป็น)</span><span class="sxs-lookup"><span data-stu-id="c07a4-127">Upgrade Configuration Manager site server and Configuration manager clients to the latest build versions (when needed).</span></span>
 
--   <span data-ttu-id="af939-128">ลงทะเบียนสำหรับการบอกรับเป็นสมาชิกของบริษัทที่ 3 เช่นเดียวกับการป้องกันความเสี่ยงของมือถือ ค่าใช้จ่ายในการโทรคมนาคม เป็นต้นเมื่อรวมกับ Microsoft Intune จำเป็นต้องใช้</span><span class="sxs-lookup"><span data-stu-id="af939-128">Sign up for 3rd party subscriptions like Mobile Threat Defense, Telecom expenses, etc. when integration with Microsoft Intune is needed.</span></span>
+-   <span data-ttu-id="c07a4-128">ลงทะเบียนสำหรับการบอกรับเป็นสมาชิกของบริษัทที่ 3 เช่นเดียวกับการป้องกันความเสี่ยงของมือถือ ค่าใช้จ่ายในการโทรคมนาคม เป็นต้นเมื่อรวมกับ Microsoft Intune จำเป็นต้องใช้</span><span class="sxs-lookup"><span data-stu-id="c07a4-128">Sign up for 3rd party subscriptions like Mobile Threat Defense, Telecom expenses, etc. when integration with Microsoft Intune is needed.</span></span>
 
--   <span data-ttu-id="af939-129">ลงทะเบียนสำหรับทีม Viewer, Mobile ป้องกันการคุกคาม และโทรคมนาคมค่าใช้จ่ายจัดการโซลูชันบอกรับเป็นสมาชิก</span><span class="sxs-lookup"><span data-stu-id="af939-129">Sign up for Team Viewer, Mobile Threat Defense and Telecom expense management solution subscriptions.</span></span>
+-   <span data-ttu-id="c07a4-129">ลงทะเบียนสำหรับทีม Viewer, Mobile ป้องกันการคุกคาม และโทรคมนาคมค่าใช้จ่ายจัดการโซลูชันบอกรับเป็นสมาชิก</span><span class="sxs-lookup"><span data-stu-id="c07a4-129">Sign up for Team Viewer, Mobile Threat Defense and Telecom expense management solution subscriptions.</span></span>
 
--   <span data-ttu-id="af939-130">ลงทะเบียนสำหรับสิทธิ์การใช้งานการป้องกันภัยคุกคามขั้นสูงของ Windows Defender</span><span class="sxs-lookup"><span data-stu-id="af939-130">Sign up for Windows Defender Advanced Threat Protection licenses.</span></span> <span data-ttu-id="af939-131">(Windows E5 หรือ Microsoft E5 ลิขสิทธิ์)</span><span class="sxs-lookup"><span data-stu-id="af939-131">(Windows E5 or Microsoft E5 licenses).</span></span>
+-   <span data-ttu-id="c07a4-130">ลงทะเบียนสำหรับสิทธิ์การใช้งานการป้องกันภัยคุกคามขั้นสูงของ Windows Defender</span><span class="sxs-lookup"><span data-stu-id="c07a4-130">Sign up for Windows Defender Advanced Threat Protection licenses.</span></span> <span data-ttu-id="c07a4-131">(Windows E5 หรือ Microsoft E5 ลิขสิทธิ์)</span><span class="sxs-lookup"><span data-stu-id="c07a4-131">(Windows E5 or Microsoft E5 licenses).</span></span>
 
-## <a name="initiate-phase"></a><span data-ttu-id="af939-132">ขั้นตอนการเริ่มต้น</span><span class="sxs-lookup"><span data-stu-id="af939-132">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="c07a4-132">ขั้นตอนการเริ่มต้น</span><span class="sxs-lookup"><span data-stu-id="c07a4-132">Initiate phase</span></span>
 
--   <span data-ttu-id="af939-133">การทำงานกับทีม FastTrack เพื่อเริ่มต้นการปฐมนิเทศของบริการที่เหมาะสม</span><span class="sxs-lookup"><span data-stu-id="af939-133">Work with the FastTrack team to begin onboarding of eligible services.</span></span>
+-   <span data-ttu-id="c07a4-133">การทำงานกับทีม FastTrack เพื่อเริ่มต้นการปฐมนิเทศของบริการที่เหมาะสม</span><span class="sxs-lookup"><span data-stu-id="c07a4-133">Work with the FastTrack team to begin onboarding of eligible services.</span></span>
 
--   <span data-ttu-id="af939-134">มีส่วนร่วมในการประชุมการเตะการหมั้น จัดการ และนำผู้เข้าร่วมจากองค์กรของคุณ และยืนยันเส้นเวลาด้าน</span><span class="sxs-lookup"><span data-stu-id="af939-134">Participate in the engagement kick-off meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>
+-   <span data-ttu-id="c07a4-134">มีส่วนร่วมในการประชุมการเตะการหมั้น จัดการ และนำผู้เข้าร่วมจากองค์กรของคุณ และยืนยันเส้นเวลาด้าน</span><span class="sxs-lookup"><span data-stu-id="c07a4-134">Participate in the engagement kick-off meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>
 
-## <a name="assess-phase"></a><span data-ttu-id="af939-135">ขั้นตอนประเมิน</span><span class="sxs-lookup"><span data-stu-id="af939-135">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="c07a4-135">ขั้นตอนประเมิน</span><span class="sxs-lookup"><span data-stu-id="c07a4-135">Assess phase</span></span>
 
--   <span data-ttu-id="af939-136">ระบุผู้เกี่ยวข้องที่เหมาะสม (รวมถึงผู้จัดการโครงการ) เมื่อต้องการทำกิจกรรมที่จำเป็นประเมิน</span><span class="sxs-lookup"><span data-stu-id="af939-136">Identify appropriate stakeholders (including a project manager) to complete the necessary assessment activities.</span></span>
+-   <span data-ttu-id="c07a4-136">ระบุผู้เกี่ยวข้องที่เหมาะสม (รวมถึงผู้จัดการโครงการ) เมื่อต้องการทำกิจกรรมที่จำเป็นประเมิน</span><span class="sxs-lookup"><span data-stu-id="c07a4-136">Identify appropriate stakeholders (including a project manager) to complete the necessary assessment activities.</span></span>
 
--   <span data-ttu-id="af939-137">ใช้หน้าจอของคุณร่วมกับทีม FastTrack ถ้าคำแนะนำที่จำเป็นต้องใช้เมื่อคุณเรียกใช้เครื่องมือการประเมินเทียบกับสภาพแวดล้อมของคุณ EMS หรือเมฆของแต่ละการบอกรับเป็นสมาชิกการบริการ (ถ้าคุณเลือกที่จะ)</span><span class="sxs-lookup"><span data-stu-id="af939-137">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment, EMS, or its individual cloud service subscriptions (if you choose to).</span></span>
+-   <span data-ttu-id="c07a4-137">ใช้หน้าจอของคุณร่วมกับทีม FastTrack ถ้าคำแนะนำที่จำเป็นต้องใช้เมื่อคุณเรียกใช้เครื่องมือการประเมินเทียบกับสภาพแวดล้อมของคุณ EMS หรือเมฆของแต่ละการบอกรับเป็นสมาชิกการบริการ (ถ้าคุณเลือกที่จะ)</span><span class="sxs-lookup"><span data-stu-id="c07a4-137">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment, EMS, or its individual cloud service subscriptions (if you choose to).</span></span>
 
--   <span data-ttu-id="af939-138">มีส่วนร่วมในการประชุมเพื่อสร้างรายการตรวจสอบด้าน และเพื่อเป็นส่วนหนึ่งของแผนโดยรวม รวมทั้งโครงสร้างพื้นฐาน เครือข่าย การจัดการ การเตรียม การซิงโครไนส์ของไดเรกทอรี การรักษาความปลอดภัยเครือข่าย และหัวข้อของข้อมูลเฉพาะตัวของที่ติดต่อกับภายนอก</span><span class="sxs-lookup"><span data-stu-id="af939-138">Participate in the meetings to create the remediation checklist and to contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span>
+-   <span data-ttu-id="c07a4-138">มีส่วนร่วมในการประชุมเพื่อสร้างรายการตรวจสอบด้าน และเพื่อเป็นส่วนหนึ่งของแผนโดยรวม รวมทั้งโครงสร้างพื้นฐาน เครือข่าย การจัดการ การเตรียม การซิงโครไนส์ของไดเรกทอรี การรักษาความปลอดภัยเครือข่าย และหัวข้อของข้อมูลเฉพาะตัวของที่ติดต่อกับภายนอก</span><span class="sxs-lookup"><span data-stu-id="c07a4-138">Participate in the meetings to create the remediation checklist and to contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span>
 
--   <span data-ttu-id="af939-139">มีส่วนร่วมในการประชุมการจัดเค้าร่างวิธีการเตรียมใช้งานสำหรับผู้ใช้</span><span class="sxs-lookup"><span data-stu-id="af939-139">Participate in the meetings to outline the user-provisioning approach.</span></span>
+-   <span data-ttu-id="c07a4-139">มีส่วนร่วมในการประชุมการจัดเค้าร่างวิธีการเตรียมใช้งานสำหรับผู้ใช้</span><span class="sxs-lookup"><span data-stu-id="c07a4-139">Participate in the meetings to outline the user-provisioning approach.</span></span>
 
--   <span data-ttu-id="af939-140">มีส่วนร่วมในการประชุมเพื่อวางแผนการตั้งค่าคอนฟิกบริการออนไลน์</span><span class="sxs-lookup"><span data-stu-id="af939-140">Participate in the meetings to plan online service configuration.</span></span>
+-   <span data-ttu-id="c07a4-140">มีส่วนร่วมในการประชุมเพื่อวางแผนการตั้งค่าคอนฟิกบริการออนไลน์</span><span class="sxs-lookup"><span data-stu-id="c07a4-140">Participate in the meetings to plan online service configuration.</span></span>
 
--   <span data-ttu-id="af939-141">สร้างแผนการสนับสนุนสำหรับการเตรียมพร้อมในการโยกย้าย</span><span class="sxs-lookup"><span data-stu-id="af939-141">Create a support plan for migration readiness.</span></span>
+-   <span data-ttu-id="c07a4-141">สร้างแผนการสนับสนุนสำหรับการเตรียมพร้อมในการโยกย้าย</span><span class="sxs-lookup"><span data-stu-id="c07a4-141">Create a support plan for migration readiness.</span></span>
 
-## <a name="remediate-phase"></a><span data-ttu-id="af939-142">Remediate ขั้นตอน</span><span class="sxs-lookup"><span data-stu-id="af939-142">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="c07a4-142">Remediate ขั้นตอน</span><span class="sxs-lookup"><span data-stu-id="c07a4-142">Remediate phase</span></span>
 
--   <span data-ttu-id="af939-143">ทำขั้นตอนที่จำเป็นเพื่อดำเนินกิจกรรมด้านที่ระบุไว้ในขั้นตอนการ Assess</span><span class="sxs-lookup"><span data-stu-id="af939-143">Perform required steps to complete remediation activities identified in the Assess phase.</span></span>
+-   <span data-ttu-id="c07a4-143">ทำขั้นตอนที่จำเป็นเพื่อดำเนินกิจกรรมด้านที่ระบุไว้ในขั้นตอนการ Assess</span><span class="sxs-lookup"><span data-stu-id="c07a4-143">Perform required steps to complete remediation activities identified in the Assess phase.</span></span>
 
--   <span data-ttu-id="af939-144">มีส่วนร่วมในการประชุมจุดตรวจสอบ</span><span class="sxs-lookup"><span data-stu-id="af939-144">Participate in checkpoint meetings.</span></span>
+-   <span data-ttu-id="c07a4-144">มีส่วนร่วมในการประชุมจุดตรวจสอบ</span><span class="sxs-lookup"><span data-stu-id="c07a4-144">Participate in checkpoint meetings.</span></span>
 
-## <a name="enable-phase"></a><span data-ttu-id="af939-145">ขั้นตอนการเปิดใช้งาน</span><span class="sxs-lookup"><span data-stu-id="af939-145">Enable phase</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="c07a4-145">ขั้นตอนการเปิดใช้งาน</span><span class="sxs-lookup"><span data-stu-id="c07a4-145">Enable phase</span></span>
 
--   <span data-ttu-id="af939-146">ใช้หน้าจอของคุณร่วมกับทีม FastTrack ถ้าคำแนะนำที่จำเป็นต้องใช้เมื่อคุณเรียกใช้เครื่องมือการประเมินเทียบกับสภาพแวดล้อมของคุณ EMS หรือเมฆของแต่ละการบอกรับเป็นสมาชิกการบริการ (ถ้าคุณเลือกที่จะ)</span><span class="sxs-lookup"><span data-stu-id="af939-146">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment, EMS, or its individual cloud service subscriptions (if you choose to).</span></span> <span data-ttu-id="af939-147">จัดการทรัพยากรตามความจำเป็น</span><span class="sxs-lookup"><span data-stu-id="af939-147">Manage resources as needed.</span></span>
+-   <span data-ttu-id="c07a4-146">ใช้หน้าจอของคุณร่วมกับทีม FastTrack ถ้าคำแนะนำที่จำเป็นต้องใช้เมื่อคุณเรียกใช้เครื่องมือการประเมินเทียบกับสภาพแวดล้อมของคุณ EMS หรือเมฆของแต่ละการบอกรับเป็นสมาชิกการบริการ (ถ้าคุณเลือกที่จะ)</span><span class="sxs-lookup"><span data-stu-id="c07a4-146">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment, EMS, or its individual cloud service subscriptions (if you choose to).</span></span> <span data-ttu-id="c07a4-147">จัดการทรัพยากรตามความจำเป็น</span><span class="sxs-lookup"><span data-stu-id="c07a4-147">Manage resources as needed.</span></span>
 
--   <span data-ttu-id="af939-148">กำหนดค่าเครือข่ายที่เกี่ยวข้องกับสินค้าต่อคำแนะนำจากทีม FastTrack</span><span class="sxs-lookup"><span data-stu-id="af939-148">Configure network-related items per guidance from the FastTrack team.</span></span>
+-   <span data-ttu-id="c07a4-148">กำหนดค่าเครือข่ายที่เกี่ยวข้องกับสินค้าต่อคำแนะนำจากทีม FastTrack</span><span class="sxs-lookup"><span data-stu-id="c07a4-148">Configure network-related items per guidance from the FastTrack team.</span></span>
 
--   <span data-ttu-id="af939-149">ดำเนินการเตรียมพร้อมในไดเรกทอรี และการตั้งค่าคอนฟิกการซิงโครไนส์ไดเรกทอรีสำหรับแต่ละคำแนะนำจากทีม FastTrack</span><span class="sxs-lookup"><span data-stu-id="af939-149">Perform directory readiness and configure directory synchronization per guidance from the FastTrack team.</span></span>
+-   <span data-ttu-id="c07a4-149">ดำเนินการเตรียมพร้อมในไดเรกทอรี และการตั้งค่าคอนฟิกการซิงโครไนส์ไดเรกทอรีสำหรับแต่ละคำแนะนำจากทีม FastTrack</span><span class="sxs-lookup"><span data-stu-id="c07a4-149">Perform directory readiness and configure directory synchronization per guidance from the FastTrack team.</span></span>
 
--   <span data-ttu-id="af939-150">กำหนดค่าวิธีการรับรองความถูกต้อง เช่นจัดการ หรือการติดต่อกับภายนอก</span><span class="sxs-lookup"><span data-stu-id="af939-150">Configure an authentication method, such as managed or federated.</span></span> 
+-   <span data-ttu-id="c07a4-150">กำหนดค่าวิธีการรับรองความถูกต้อง เช่นจัดการ หรือการติดต่อกับภายนอก</span><span class="sxs-lookup"><span data-stu-id="c07a4-150">Configure an authentication method, such as managed or federated.</span></span> 
 
--   <span data-ttu-id="af939-151">ตั้งค่าคอนฟิกโครงสร้างพื้นฐานที่เกี่ยวข้องกับความปลอดภัย (เช่นพอร์ตไฟร์วอลล์) สำหรับแต่ละคำแนะนำจากทีม FastTrack</span><span class="sxs-lookup"><span data-stu-id="af939-151">Configure security-related infrastructure (like firewall ports) per guidance from the FastTrack team.</span></span>
+-   <span data-ttu-id="c07a4-151">ตั้งค่าคอนฟิกโครงสร้างพื้นฐานที่เกี่ยวข้องกับความปลอดภัย (เช่นพอร์ตไฟร์วอลล์) สำหรับแต่ละคำแนะนำจากทีม FastTrack</span><span class="sxs-lookup"><span data-stu-id="c07a4-151">Configure security-related infrastructure (like firewall ports) per guidance from the FastTrack team.</span></span>
 
--   <span data-ttu-id="af939-152">ใช้โครงสร้างพื้นฐานไคลเอ็นต์</span><span class="sxs-lookup"><span data-stu-id="af939-152">Implement the appropriate client infrastructure.</span></span>
+-   <span data-ttu-id="c07a4-152">ใช้โครงสร้างพื้นฐานไคลเอ็นต์</span><span class="sxs-lookup"><span data-stu-id="c07a4-152">Implement the appropriate client infrastructure.</span></span>
 
--   <span data-ttu-id="af939-153">ดำเนินการเตรียมใช้งานสำหรับผู้ใช้วิธีการแบบต่อคำแนะนำจากทีม FastTrack</span><span class="sxs-lookup"><span data-stu-id="af939-153">Implement a user-provisioning approach per guidance from the FastTrack team.</span></span>
+-   <span data-ttu-id="c07a4-153">ดำเนินการเตรียมใช้งานสำหรับผู้ใช้วิธีการแบบต่อคำแนะนำจากทีม FastTrack</span><span class="sxs-lookup"><span data-stu-id="c07a4-153">Implement a user-provisioning approach per guidance from the FastTrack team.</span></span>
 
--   <span data-ttu-id="af939-154">เปิดใช้งานการบริการต่าง ๆ สำหรับแต่ละคำแนะนำจากทีม FastTrack</span><span class="sxs-lookup"><span data-stu-id="af939-154">Enable various services per guidance from the FastTrack team.</span></span>
+-   <span data-ttu-id="c07a4-154">เปิดใช้งานการบริการต่าง ๆ สำหรับแต่ละคำแนะนำจากทีม FastTrack</span><span class="sxs-lookup"><span data-stu-id="c07a4-154">Enable various services per guidance from the FastTrack team.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="af939-155">**ต้องการเรียนรู้เพิ่มเติมหรือไม่**</span><span class="sxs-lookup"><span data-stu-id="af939-155">**Want to learn more?**</span></span> <span data-ttu-id="af939-156">ดู[องค์กร Mobility + ความปลอดภัย](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)</span><span class="sxs-lookup"><span data-stu-id="af939-156">See [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)</span></span>
+> <span data-ttu-id="c07a4-155">**ต้องการเรียนรู้เพิ่มเติมหรือไม่**</span><span class="sxs-lookup"><span data-stu-id="c07a4-155">**Want to learn more?**</span></span> <span data-ttu-id="c07a4-156">ดู[องค์กร Mobility + ความปลอดภัย](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)</span><span class="sxs-lookup"><span data-stu-id="c07a4-156">See [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="af939-157">ดูข้อมูลเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="af939-157">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="c07a4-157">ดูข้อมูลเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="c07a4-157">See also</span></span>
 
-- [<span data-ttu-id="af939-158">สวัสดิการ FastTrack สำหรับ EMS</span><span class="sxs-lookup"><span data-stu-id="af939-158">FastTrack benefit for EMS</span></span>](EMS-fasttrack-benefit-for-EMS.md)
-- [<span data-ttu-id="af939-159">สวัสดิการ FastTrack สำหรับ Office 365</span><span class="sxs-lookup"><span data-stu-id="af939-159">FastTrack benefit for Office 365</span></span>](O365-fasttrack-benefit-for-office-365.md)
+- [<span data-ttu-id="c07a4-158">สวัสดิการ FastTrack สำหรับ EMS</span><span class="sxs-lookup"><span data-stu-id="c07a4-158">FastTrack benefit for EMS</span></span>](EMS-fasttrack-benefit-for-EMS.md)
+- [<span data-ttu-id="c07a4-159">สวัสดิการ FastTrack สำหรับ Office 365</span><span class="sxs-lookup"><span data-stu-id="c07a4-159">FastTrack benefit for Office 365</span></span>](O365-fasttrack-benefit-for-office-365.md)
 
