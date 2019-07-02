@@ -3,18 +3,18 @@ title: ภาคผนวก B - สิทธิประโยชน์เพ�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: ลูกค้าที่ซื้อสิทธิ์การใช้งาน 20000 สำหรับผู้เช่าการแลกเปลี่ยนแบบออนไลน์ มีสิทธิ์ได้รับบริการเพิ่มเติมศูนย์ FastTrack ดูบริการที่เหมาะสมและแผนสำหรับรายละเอียดเพิ่มเติม
-ms.openlocfilehash: 44cbba5e3ec5e1011c9673611a0143a7b1ba13ec
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 1675085a18c8bedf05ccedac7450f8d67d682de2
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673420"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35411012"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>ภาคผนวก B - สิทธิประโยชน์เพิ่มเติมจากศูนย์ FastTrack
 
