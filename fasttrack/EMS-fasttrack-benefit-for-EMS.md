@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,16 +14,16 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: b8d84c1f3ff0d64b0056800c2e80b59585aaa7fc
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: a02f80244677999aa9c5fd80b924b69619c089f6
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673288"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410892"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Enterprise Mobility + Security (EMS)
 
-คุณใช้ Mobility องค์กร + สวัสดิการศูนย์ FastTrack ความปลอดภัย (EMS) เมื่อคุณซื้อสิทธิ์การใช้งานอย่างน้อย 150 สำหรับ EMS หรือบริการของแต่ละรูปเมฆใด ๆ ในแผนที่เหมาะสม คุณแล้วทำงานกับผู้เชี่ยวชาญ FastTrack ประเมิน remediate เปิดใช้งาน และไดรฟ์การใช้งานของบริการดังกล่าว นอกจากนี้ผู้เชี่ยวชาญเหล่านี้ยังให้คำแนะนำในการโยกย้าย
+คุณใช้ Mobility องค์กร + สวัสดิการศูนย์ FastTrack ความปลอดภัย (EMS) เมื่อคุณซื้อสิทธิ์การใช้งานอย่างน้อย 150 สำหรับ EMS หรือบริการของแต่ละรูปเมฆใด ๆ ในแผนที่เหมาะสม คุณแล้วทำงานกับผู้เชี่ยวชาญ FastTrack ประเมิน remediate เปิดใช้งาน และไดรฟ์การใช้งานของบริการดังกล่าว นอกจากนี้ผู้เชี่ยวชาญเหล่านี้ยังให้คำแนะนำในการโยกย้าย 
 
 > [!IMPORTANT]
 > วัตถุประสงค์ของเอกสารนี้ ผู้เชี่ยวชาญ FastTrack อาจรวมถึง Microsoft พนักงาน ผู้จัดจำหน่ายที่ได้รับการอนุมัติจาก Microsoft และได้รับการอนุมัติจาก Microsoft คู่ค้า
