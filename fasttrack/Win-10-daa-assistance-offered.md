@@ -3,21 +3,19 @@ title: ความช่วยเหลือที่ให้
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 07/02/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: overview
-f1_keywords:
-- windows-10-microsoft-365-onboarding-benefit-process-assistance
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: เมื่อคุณซื้อใด ๆ ของบริการ Windows 10 หรือ Microsoft 365 ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำการอ่านคำแนะนำและด้านการปรับใช้ Windows 10 และ Office 365 ProPlus และคอยติดตามสถานการณ์ปัจจุบันที่ไม่มีต้นทุนเพิ่มเติม (โดยมีสิทธิ์บอกรับเป็นสมาชิก)
-ms.openlocfilehash: ef083d2d9f57821414f97f8f7aed1cfbdcc676b3
-ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.openlocfilehash: 52ef57fc9bcda58652bf817552a881c0acdfe75e
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35410868"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054152"
 ---
 # <a name="assistance-offered"></a>ความช่วยเหลือที่ให้  
 

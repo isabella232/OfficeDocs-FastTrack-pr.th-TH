@@ -3,19 +3,19 @@ title: ความรับผิดชอบ FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: ผู้เชี่ยวชาญ FastTrack มีความรับผิดชอบต่อไปนี้ในระหว่างการปฐมนิเทศ
-ms.openlocfilehash: 93d88be1b3279b19d1136f96968bb9f2c39713ea
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: c1121c804b547401c18050be6013f62c5bbc8fe1
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673600"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36053960"
 ---
 # <a name="fasttrack-responsibilities"></a>ความรับผิดชอบ FastTrack
 
@@ -221,8 +221,9 @@ ms.locfileid: "34673600"
 - กำหนดสิทธิ์การใช้งานของผู้ใช้โดยใช้[Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704)และ Windows PowerShell
 - ติดตั้ง Office 365 ProPlus จากพอร์ทัล Office 365 โดยใช้คลิกทูรัน
 - การติดตั้ง Office Mobile apps (เช่น Outlook สำหรับ iOS และ Android, Word Mobile, Excel Mobile และ PowerPoint Mobile) บน iOS, Android หรือ Windows Mobile อุปกรณ์ 
-- การกำหนดค่าการตั้งค่าการปรับปรุงโดยใช้ต้นแบบของเครื่องมือการปรับใช้ของ Office 2016 หรือ'นโยบายกลุ่ม'
-- การตั้งค่าเซิร์ฟเวอร์การกระจายภายในอาคารเดียวสำหรับ Office 365 ProPlus รวมทั้งความช่วยเหลือในการสร้างแฟ้ม configuration.xml เพื่อใช้กับเครื่องมือการปรับใช้ Office 365
+- การกำหนดค่าการตั้งค่าการปรับปรุงที่ใช้เครื่องมือการปรับใช้ Office 365
+- การเลือก และการตั้งค่าภายในเครื่อง หรือติดตั้ง cloud
+- สร้าง XML การกำหนดค่าเครื่องมือการปรับใช้ Office กับเครื่องมือกำหนดเอง Office หรือดั้งเดิม XML การกำหนดค่าแพคเกจการปรับใช้
 - การปรับใช้ที่ใช้ระบบศูนย์การตั้งค่าคอนฟิกตัวจัดการ รวมทั้งความช่วยเหลือในการสร้างตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบบรรจุ
     
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub

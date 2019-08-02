@@ -3,19 +3,19 @@ title: ความรับผิดชอบ FastTrack สำหรับ Offi
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: ผู้เชี่ยวชาญ FastTrack มีความรับผิดชอบต่อไปนี้ในระหว่างการปฐมนิเทศ
-ms.openlocfilehash: c646583e121bbf453da571253968461425f6d5ec
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 9078f50a93d2ece8d137578fe8339e6ecffad63b
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673673"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054056"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>ความรับผิดชอบ FastTrack สำหรับ Office 365 รัฐบาลของสหรัฐอเมริกา
 
@@ -159,9 +159,6 @@ ms.locfileid: "34673673"
   - การตั้งค่าองค์กรกับภายนอกกับบริการการออกอากาศการประชุม
     
 ## <a name="microsoft-teams"></a>ทีมงานของ Microsoft
-
-> [!NOTE]
-> ต่อไปนี้ไม่พร้อมใช้งานในแผนสูง GCC หรือ DoD
 
 ให้คำแนะนำเกี่ยวกับ:
 - ยืนยันความต้องการต่ำสุด   

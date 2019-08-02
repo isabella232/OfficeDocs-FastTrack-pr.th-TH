@@ -3,19 +3,19 @@ title: ขั้นตอนการออนบอร์ดและการ�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: การปฐมนิเทศ office 365 มีสี่หลักระยะ — เริ่ม ต้น Assess, Remediate และเปิดใช้งาน คุณสามารถติดตามระยะเหล่านี้ ด้วยระยะการโยกย้ายข้อมูลหรือไม่ก็ได้
-ms.openlocfilehash: cb7648f6cf7393201c16c6928a93b50765783d5d
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 52c6c449d0805955308cfc685f9646095404ff5d
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673792"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054116"
 ---
 # <a name="onboarding-and-migration-phases"></a>ขั้นตอนการออนบอร์ดและการโยกย้าย
 
