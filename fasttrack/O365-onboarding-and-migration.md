@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: การปฐมนิเทศ office 365 มีสี่หลักระยะ — เริ่ม ต้น Assess, Remediate และเปิดใช้งาน คุณสามารถติดตามระยะเหล่านี้ ด้วยระยะการโยกย้ายข้อมูลหรือไม่ก็ได้
-ms.openlocfilehash: 52c6c449d0805955308cfc685f9646095404ff5d
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 433f118b00f5a521eb8a48fbf43e3cd64ddf4a14
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054116"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294439"
 ---
 # <a name="onboarding-and-migration-phases"></a>ขั้นตอนการออนบอร์ดและการโยกย้าย
 
@@ -40,8 +40,6 @@ ms.locfileid: "36054116"
 1.  เข้าสู่ระบบไปยัง[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
 2.  เลือก**บริการ**
 3.  แบบฟอร์ม**ร้องขอความช่วยเหลือเกี่ยวกับ Microsoft 365**ให้เสร็จสมบูรณ์ 
-> [!NOTE]
->  ถ้าคุณมีหุ้นส่วนที่แสดงรายการอยู่ในผู้เช่า Office 365 ของคุณ คุณจะไม่เห็นตัวเลือกนี้ โปรดปรึกษาคู่ค้าของคุณสำหรับความช่วยเหลือ 
   
 คู่ค้าสามารถจะขอความช่วยเหลือผ่าน[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698)ในนามของลูกค้า เมื่อต้องการทำเช่นนี้:
 1.  เข้าสู่ระบบไปยัง[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 

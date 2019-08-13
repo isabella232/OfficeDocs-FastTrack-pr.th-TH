@@ -3,27 +3,27 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack แสดงคำแนะนำในการปรับใช้ Windows 10 เพื่อช่วยให้คุณสำหรับการปรับรุ่นจาก Windows 7 Professional และผู้เชี่ยวชาญ Windows 8.1 ไปยัง Windows 10 องค์กร
-ms.openlocfilehash: 50a33d07593eef18a4d0dff8efb6adef0ca10250
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0d94d7cd231e6b9659f325b471c705239bdf03ce
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054080"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294420"
 ---
 # <a name="windows-10"></a>Windows 10
 
 FastTrack แสดงคำแนะนำในการปรับใช้ Windows 10 เพื่อช่วยให้คุณสำหรับการปรับรุ่นจาก Windows 7 Professional และผู้เชี่ยวชาญ Windows 8.1 ไปยัง Windows 10 องค์กร คุณทำงานกับผู้เชี่ยวชาญ FastTrack เพื่อ:
 
-- ปรับใช้ Windows 10 องค์กร
+- ปรับใช้องค์กร 10 Windows โดยใช้ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบ Microsoft หรือ Microsoft 365
 - ปรับใช้ Office 365 ProPlus 
-- ปรับปรุงองค์กร 10 Windows และ Office 365 ProPlus โดยใช้ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบ Microsoft หรือ Microsoft 365
+- ปรับปรุงองค์กร 10 Windows และ Office 365 ProPlus โดยใช้ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบหรือ Microsoft 365
   
 > [!NOTE]
 > FastTrack แสดงลูกค้าที่ มีวิธีการแนะนำ คำแนะนำ และพึง engineered เพื่อส่งผลลัพธ์ตเหล่า และรวดเร็ว ถ้าคุณเลือกที่จะปรับใช้ภายนอกคำแนะนำนี้ ประสบการณ์ใช้งานของคุณอาจได้รับผลกระทบ คำแนะนำที่ถูกกำหนดให้เป็นการรวมกันของความช่วยเหลือที่เป็นลายลักษณ์อักษร และพูด เมื่อผู้เชี่ยวชาญ FastTrack ให้คำแนะนำ บุคลากร FastTrack ไม่สามารถกระทำในนามของคุณ คุณสามารถใช้บริการ FastTrack สำหรับการคัดเลือกแผนตราบเท่าที่การสมัครใช้งานอยู่ในปัจจุบัน  
@@ -36,5 +36,18 @@ FastTrack แสดงคำแนะนำในการปรับใช้ 
 |**ผู้เชี่ยวชาญด้าน FastTrack** <br/> |ให้บริการการปรับใช้และปรับปรุงทั้งหมดจากระยะไกล  <br/> ช่วยคุณจากระยะไกล โดยใช้การรวมกันของเครื่องมือและเอกสารที่เผยแพร่ <br/> การทำงานกับคุณหรือพนักงานของคุณได้โดยตรง|
 |**ศูนย์ FastTrack**  <br/> |แสดงคำแนะนำในการวางแผน และปรับใช้ Windows 10 องค์กร   <br/> ให้ความช่วยเหลือ และจะพร้อมใช้งานในระหว่างเวลาทำการปกติสำหรับภูมิภาคที่กำหนดให้ <br/> ให้ความช่วยเหลือในภาษาจีนดั้งเดิม และภาษา จีนสมัยใหม่ (ทรัพยากรพูด Mandarin เท่านั้น), อังกฤษ ฝรั่งเศส เยอรมัน อิตาลี ญี่ปุ่น เกาหลี โปรตุเกส (บราซิล), สเปน ไทย และเวียดนาม|
  
+คุณสามารถขอความช่วยเหลือผ่านทาง[Microsoft 365 admin ศูนย์](https://go.microsoft.com/fwlink/?linkid=2032704)หรือ[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) เข้าสู่ระบบ คุณต้องมีการทำงานที่ใช้งานอยู่หรือบัญชีโรงเรียน (รหัสประจำองค์กรหรือรหัสไดเรกทอรีที่ใช้งานอยู่ของ Azure) บนการเช่าที่ใช้งานอยู่ 
 
+เมื่อต้องการขอความช่วยเหลือผ่าน[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  เข้าสู่ระบบไปยัง[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
+2.  เลือก**บริการ**
+3.  แบบฟอร์ม**ร้องขอความช่วยเหลือเกี่ยวกับ Microsoft 365**ให้เสร็จสมบูรณ์
+  
+คู่ค้าสามารถจะขอความช่วยเหลือผ่าน[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698)ในนามของลูกค้า เมื่อต้องการทำเช่นนี้:
+1.  เข้าสู่ระบบไปยัง[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
+2.  เลือก**ลูกค้าของฉัน**
+3.  ค้นหาลูกค้าของคุณ หรือเลือกจากรายการของลูกค้าของคุณ
+4.  เลือก**บริการ**
+5.  เลือกแบบฟอร์ม**ร้องขอความช่วยเหลือเกี่ยวกับ Microsoft 365**
+6.  เลือกตัวเลือกผลิตภัณฑ์ Windows 10 และกรอกแบบฟอร์ม
  

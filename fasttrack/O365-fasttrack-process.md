@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: กระบวนการ FastTrack ให้บริการเริ่มปฐมนิเทศและผู้ใช้
-ms.openlocfilehash: 7fdc5c01ee2da2c28409dd187f0f2fed8e6ea3b0
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 854f30a9af210da5f6fb4837e473fd29fea5d606
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053996"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294343"
 ---
 # <a name="the-fasttrack-process"></a>กระบวนการ FastTrack
 
@@ -45,8 +45,6 @@ ms.locfileid: "36053996"
 1.  เข้าสู่ระบบไปยัง[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
 2.  เลือก**บริการ**
 3.  แบบฟอร์ม**ร้องขอความช่วยเหลือเกี่ยวกับ Microsoft 365**ให้เสร็จสมบูรณ์ 
-> [!NOTE]
->  ถ้าคุณมีหุ้นส่วนที่แสดงรายการอยู่ในผู้เช่า Office 365 ของคุณ คุณจะไม่เห็นตัวเลือกนี้ โปรดปรึกษาคู่ค้าของคุณสำหรับความช่วยเหลือ 
   
  คุณสามารถขอให้ขอความช่วยเหลือศูนย์ FastTrack จาก[FastTrack ไซต์](https://go.microsoft.com/fwlink/?linkid=780698)ในรายการของบริการที่พร้อมใช้งานสำหรับผู้เช่าของคุณ 
     
