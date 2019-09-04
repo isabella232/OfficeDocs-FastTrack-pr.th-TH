@@ -3,25 +3,25 @@ title: Desktop App Assure
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: FastTrack ศูนย์สวัสดิการสำหรับ Windows 10 ให้การเข้าถึงเดสก์ท็อป App มั่นใจ – การบริการที่ออกแบบมาเพื่อจัดการปัญหา ด้วยกัน app Windows 10 และ Office 365 ProPlus
-ms.openlocfilehash: 15c3c8055407ce48d568596dfbf61801c92e14ca
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+description: ประโยชน์ของศูนย์ FastTrack สำหรับ Windows 10 ให้การเข้าถึงไปยัง Desktop App มั่นใจ–บริการที่ออกแบบมาเพื่อแก้ไขปัญหาเกี่ยวกับความเข้ากันได้ของแอป Windows 10 และ Office ๓๖๕ ProPlus
+ms.openlocfilehash: dcc99c9145eda077c2e9733708841a00fb7aac02
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054140"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712229"
 ---
 # <a name="desktop-app-assure"></a>Desktop App Assure
 
-FastTrack ศูนย์สวัสดิการสำหรับ Windows 10 ให้การเข้าถึงเดสก์ท็อป App มั่นใจ – การบริการใหม่ที่ออกแบบมาเพื่อจัดการปัญหากับ Windows 10 และเข้ากันได้ของโปรแกรมประยุกต์ Office 365 ProPlus เมื่อคุณร้องขอการบริการมั่นใจ App เดสก์ท็อป ผู้เชี่ยวชาญด้าน FastTrack ที่ทำงานกับคุณตลอดทั้งการโยกย้ายของคุณ เป็น Windows 10 และ Office 365 ProPlus และ เมื่อคุณใช้คุณลักษณะการปรับปรุง 
+ประโยชน์ของศูนย์ FastTrack สำหรับ Windows 10 ให้การเข้าถึงไปยังเดสก์ท็อป App ให้มั่นใจ–บริการใหม่ที่ออกแบบมาเพื่อแก้ไขปัญหาเกี่ยวกับการทำงานร่วมกันของแอป Windows 10 และ Office ๓๖๕ ProPlus เมื่อคุณขอให้บริการตรวจสอบเดสก์ท็อป App ผู้เชี่ยวชาญ FastTrack ทำงานร่วมกับคุณตลอดการโยกย้ายของคุณไปยัง Windows 10 และ Office ๓๖๕ ProPlus และเมื่อคุณใช้การปรับปรุงคุณลักษณะ 
 
-วิศวกรของ Microsoft ทำงานร่วมกับคุณเพื่อจัดการปัญหาของโปรแกรมประยุกต์ที่ถูกต้องที่ไม่มีต้นทุนเพิ่มเติมแก่คุณด้วยการบอกรับเป็นสมาชิกที่มีสิทธิ์ นอกจากนี้เรายังให้คำแนะนำแก่ลูกค้าที่เผชิญปัญหาความเข้ากันได้เปลี่ยนจากไคลเอ็นต์ Office การ Office 365 ProPlus นี่เป็นการบริโดย FastTrack และไม่แพคเกจซอฟต์แวร์
+วิศวกรของ Microsoft ทำงานร่วมกับคุณเพื่อแก้ไขปัญหาแอปที่ถูกต้องโดยไม่มีค่าใช้จ่ายเพิ่มเติมกับคุณด้วยการสมัครสมาชิกที่มีสิทธิ์ นอกจากนี้เรายังให้คำแนะนำแก่ลูกค้าที่เผชิญปัญหาความเข้ากันได้เปลี่ยนจากไคลเอนต์ Office เป็น Office ๓๖๕ ProPlus นี่คือบริการที่มีให้โดย FastTrack และไม่ใช่แพคเกจซอฟต์แวร์
 
   
 

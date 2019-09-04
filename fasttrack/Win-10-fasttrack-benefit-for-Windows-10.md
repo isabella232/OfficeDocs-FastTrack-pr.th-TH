@@ -3,28 +3,28 @@ title: สิทธิประโยชน์จากศูนย์ FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: คุณสามารถใช้ FastTrack ศูนย์สวัสดิการสำหรับ Windows 10 เมื่อคุณซื้อใบอนุญาต 150 สำหรับบริการที่เหมาะสมหรือแผน*อย่างน้อย*
-ms.openlocfilehash: 6ef15aa75c24fe3d290de643fff0aec2cc0e80f5
-ms.sourcegitcommit: 7418a1878b0c254b239583c13a97f712c8c2bffe
+description: คุณสามารถใช้สิทธิประโยชน์ของศูนย์ FastTrack สำหรับ Windows 10 เมื่อคุณซื้อสิทธิ์การใช้งานอย่าง*น้อย*๑๕๐สำหรับบริการหรือแผนงานที่มีสิทธิ์
+ms.openlocfilehash: 873af7f0904454c5a566fa4cdb43810d6f7039cb
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36427402"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712277"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Windows 10
 
-คุณสามารถใช้ FastTrack ศูนย์สวัสดิการสำหรับ Windows 10 เมื่อคุณซื้อสิทธิ์การใช้งานอย่างน้อย 150 สำหรับบริการที่เหมาะสมหรือแผน คุณแล้วทำงานกับผู้เชี่ยวชาญ FastTrack การประเมิน remediate และการปรับใช้ Windows 10 และประสานงานสวัสดิการศูนย์ FastTrack สำหรับ Office 365 ProPlus บริการมั่นใจ App เดสก์ท็อปทำให้เป็น FastTrack ผู้เชี่ยวชาญด้านพร้อมที่ให้คำแนะนำและด้านคำแนะนำถ้าคุณพบปัญหาความเข้ากันได้ของโปรแกรมประยุกต์  ผู้เชี่ยวชาญ FastTrack จะยังให้คำแนะนำ ตามที่คุณปรับใช้ และคอยติดตามสถานการณ์ปัจจุบันกับ Windows 10 และ Office 365 ProPlus ประโยชน์ของบริการเหล่านี้จะพร้อมใช้งานที่ไม่มีต้นทุนเพิ่มเติมกับการบอกรับเป็นสมาชิกที่มีสิทธิ์รวมใน FastTrack[บริการที่เหมาะสมและการวางแผน](M365-eligible-services-and-plans.md)
+คุณสามารถใช้สิทธิประโยชน์ของศูนย์ FastTrack สำหรับ Windows 10 เมื่อคุณซื้อสิทธิ์การใช้งานอย่างน้อย๑๕๐สำหรับบริการหรือแผนงานที่มีสิทธิ์ จากนั้นคุณสามารถทำงานกับผู้เชี่ยวชาญ FastTrack เพื่อประเมินแก้ไขและปรับใช้ Windows 10 และประสานงานประโยชน์ของศูนย์ FastTrack สำหรับ Office ๓๖๕ ProPlus บริการตรวจสอบเดสก์ท็อป App ทำให้ผู้เชี่ยวชาญ FastTrack พร้อมใช้งานซึ่งให้คำแนะนำและการแก้ไขหากคุณพบปัญหาความเข้ากันได้ของแอป  ผู้เชี่ยวชาญ FastTrack ยังจะให้คำแนะนำในขณะที่คุณปรับใช้และอยู่ up-to-date กับ Windows 10 และ Office ๓๖๕ ProPlus สิทธิประโยชน์ของบริการเหล่านี้มีให้บริการโดยไม่มีค่าใช้จ่ายเพิ่มเติมกับการสมัครสมาชิกที่มีสิทธิ์ที่รวมอยู่ใน[บริการและแผนสิทธิ์](M365-eligible-services-and-plans.md)ของ FastTrack
   
 > [!NOTE]
-> วัตถุประสงค์ของเอกสารนี้ ผู้เชี่ยวชาญ FastTrack อาจรวมถึง Microsoft พนักงาน ผู้จัดจำหน่ายที่ได้รับการอนุมัติจาก Microsoft และได้รับการอนุมัติจาก Microsoft คู่ค้า 
+> สำหรับวัตถุประสงค์ของเอกสารนี้ผู้เชี่ยวชาญ FastTrack สามารถรวมถึงพนักงานของ Microsoft ที่ได้รับการอนุมัติจาก Microsoft และคู่ค้าที่ได้รับการรับรองจาก Microsoft 
     
-- [Windows 10](Win-10-windows-10.md)
+- [วินโดวส์10](Win-10-windows-10.md)
 - [Desktop App Assure](Win-10-desktop-app-assure.md)
   
 
