@@ -1,11 +1,11 @@
 ---
 title: ความรับผิดชอบของ FastTrack
-description: ความรับผิดชอบของ FastTrack เมื่อลูกค้าใช้ประโยชน์ศูนย์ FastTrack สำหรับ EMS
+description: ความรับผิดชอบของ FastTrack เมื่อลูกค้าใช้สิทธิประโยชน์ของศูนย์ FastTrack สำหรับ EMS
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 08/02/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,296 +14,296 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 404cce73114e57f09a6f2d93806c2f2305317458
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 8b3470f34474d8cfd9377cd11d1911ea7825af88
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053780"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36711485"
 ---
-# <a name="fasttrack-responsibilities"></a><span data-ttu-id="6d8c7-103">ความรับผิดชอบ FastTrack</span><span class="sxs-lookup"><span data-stu-id="6d8c7-103">FastTrack Responsibilities</span></span>
+# <a name="fasttrack-responsibilities"></a><span data-ttu-id="3ce93-103">ความรับผิดชอบของ FastTrack</span><span class="sxs-lookup"><span data-stu-id="3ce93-103">FastTrack Responsibilities</span></span>
 
-<span data-ttu-id="6d8c7-104">FastTrack มีความรับผิดชอบต่อไปนี้ในระหว่างการปฐมนิเทศ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-104">FastTrack has the following responsibilities during onboarding.</span></span>
+<span data-ttu-id="3ce93-104">FastTrack มีความรับผิดชอบต่อไปนี้ระหว่างการปฐมนิเทศ</span><span class="sxs-lookup"><span data-stu-id="3ce93-104">FastTrack has the following responsibilities during onboarding.</span></span>
 
-## <a name="general"></a><span data-ttu-id="6d8c7-105">ทั่วไป</span><span class="sxs-lookup"><span data-stu-id="6d8c7-105">General</span></span>
+## <a name="general"></a><span data-ttu-id="3ce93-105">ทั่ว ไป</span><span class="sxs-lookup"><span data-stu-id="3ce93-105">General</span></span>
 
--   <span data-ttu-id="6d8c7-106">ให้ความช่วยเหลือระยะไกลสนับสนุนแก่คุณสำหรับกิจกรรมที่ตั้งค่าคอนฟิกที่จำเป็นตามที่แสดงรายการในคำอธิบายขั้นตอนโดยละเอียด</span><span class="sxs-lookup"><span data-stu-id="6d8c7-106">Provide remote support assistance to you for the required configuration activities as listed in the detailed phase descriptions.</span></span>
+-   <span data-ttu-id="3ce93-106">ให้ความช่วยเหลือด้านการสนับสนุนระยะไกลแก่คุณสำหรับกิจกรรมการกำหนดค่าที่จำเป็นตามที่ระบุไว้ในคำอธิบายระยะโดยละเอียด</span><span class="sxs-lookup"><span data-stu-id="3ce93-106">Provide remote support assistance to you for the required configuration activities as listed in the detailed phase descriptions.</span></span>
 
--   <span data-ttu-id="6d8c7-107">แสดงเอกสารที่พร้อมใช้งาน เครื่องมือซอฟต์แวร์ และคอนโซล admin เพื่อช่วยให้คุณสามารถลด หรือกำจัดการตั้งค่าคอนฟิกภารกิจ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-107">Provide available documentation, software tools and admin consoles to help you reduce or eliminate configuration tasks.</span></span>
+-   <span data-ttu-id="3ce93-107">ให้เอกสารประกอบเครื่องมือซอฟต์แวร์และคอนโซลผู้ดูแลระบบที่พร้อมใช้งานเพื่อช่วยคุณในการลดหรือกำจัดงานการกำหนดค่า</span><span class="sxs-lookup"><span data-stu-id="3ce93-107">Provide available documentation, software tools and admin consoles to help you reduce or eliminate configuration tasks.</span></span>
 
-## <a name="initiate-phase"></a><span data-ttu-id="6d8c7-108">ขั้นตอนการเริ่มต้น</span><span class="sxs-lookup"><span data-stu-id="6d8c7-108">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="3ce93-108">เริ่มต้นเฟส</span><span class="sxs-lookup"><span data-stu-id="3ce93-108">Initiate phase</span></span>
 
--   <span data-ttu-id="6d8c7-109">ทำงานกับคุณเพื่อเริ่มการปฐมนิเทศ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-109">Work with you to begin onboarding.</span></span>
+-   <span data-ttu-id="3ce93-109">ทำงานร่วมกับคุณเพื่อเริ่มการเตรียมพร้อม</span><span class="sxs-lookup"><span data-stu-id="3ce93-109">Work with you to begin onboarding.</span></span>
 
--   <span data-ttu-id="6d8c7-110">กำหนดว่าบริการใดมีสิทธิ์คุณต้องเป็น onboard</span><span class="sxs-lookup"><span data-stu-id="6d8c7-110">Define which eligible services you want to onboard.</span></span>
+-   <span data-ttu-id="3ce93-110">กำหนดบริการที่มีสิทธิ์ที่คุณต้องการบนเครื่องบิน</span><span class="sxs-lookup"><span data-stu-id="3ce93-110">Define which eligible services you want to onboard.</span></span>
 
-## <a name="assess-phase"></a><span data-ttu-id="6d8c7-111">ขั้นตอนประเมิน</span><span class="sxs-lookup"><span data-stu-id="6d8c7-111">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="3ce93-111">ประเมินระยะ</span><span class="sxs-lookup"><span data-stu-id="3ce93-111">Assess phase</span></span>
 
--   <span data-ttu-id="6d8c7-112">แสดงภาพรวมสำหรับผู้ดูแล</span><span class="sxs-lookup"><span data-stu-id="6d8c7-112">Provide an administrative overview.</span></span>
+-   <span data-ttu-id="3ce93-112">แสดงภาพรวมของการดูแลระบบ</span><span class="sxs-lookup"><span data-stu-id="3ce93-112">Provide an administrative overview.</span></span>
 
--   <span data-ttu-id="6d8c7-113">ให้คำแนะนำเกี่ยวกับ:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-113">Provide guidance about:</span></span>
+-   <span data-ttu-id="3ce93-113">ให้คำแนะนำเกี่ยวกับ:</span><span class="sxs-lookup"><span data-stu-id="3ce93-113">Provide guidance about:</span></span>
 
-    -   <span data-ttu-id="6d8c7-114">DNS เครือข่าย และโครงสร้างพื้นฐานของความต้องการ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-114">DNS, network, and infrastructure needs.</span></span>
+    -   <span data-ttu-id="3ce93-114">ความต้องการของ DNS เครือข่ายและโครงสร้างพื้นฐาน</span><span class="sxs-lookup"><span data-stu-id="3ce93-114">DNS, network, and infrastructure needs.</span></span>
 
-    -   <span data-ttu-id="6d8c7-115">ไคลเอนต์ความต้องการ (อินเทอร์เน็ตเบราว์เซอร์ ระบบปฏิบัติการของไคลเอนต์ และความต้องการของบริการ)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-115">Client needs (Internet browser, client operating system, and services' needs).</span></span>
+    -   <span data-ttu-id="3ce93-115">ความต้องการของลูกค้า (อินเทอร์เน็ตเบราว์เซอร์ระบบปฏิบัติการไคลเอ็นต์และความต้องการของบริการ)</span><span class="sxs-lookup"><span data-stu-id="3ce93-115">Client needs (Internet browser, client operating system, and services' needs).</span></span>
 
-    -   <span data-ttu-id="6d8c7-116">ข้อมูลเฉพาะตัวของผู้ใช้และการเตรียมใช้งาน</span><span class="sxs-lookup"><span data-stu-id="6d8c7-116">User identity and provisioning.</span></span>
+    -   <span data-ttu-id="3ce93-116">ข้อมูลประจำตัวของผู้ใช้และการจัดสรร</span><span class="sxs-lookup"><span data-stu-id="3ce93-116">User identity and provisioning.</span></span>
 
-    -   <span data-ttu-id="6d8c7-117">การเปิดใช้งานสิทธิ์ได้รับบริการที่มีการสั่งซื้อ และกำหนดไว้เป็น ส่วนหนึ่งของการปฐมนิเทศ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-117">Enabling eligible services that have been purchased and defined to be part of the onboarding.</span></span>
+    -   <span data-ttu-id="3ce93-117">การเปิดใช้งานบริการที่มีสิทธิ์ซึ่งได้ซื้อและกำหนดให้เป็นส่วนหนึ่งของการปฐมนิเทศ</span><span class="sxs-lookup"><span data-stu-id="3ce93-117">Enabling eligible services that have been purchased and defined to be part of the onboarding.</span></span>
 
--   <span data-ttu-id="6d8c7-118">สร้างเส้นเวลาสำหรับกิจกรรมด้าน</span><span class="sxs-lookup"><span data-stu-id="6d8c7-118">Establish the timeline for remediation activities.</span></span>
+-   <span data-ttu-id="3ce93-118">สร้างเส้นเวลาสำหรับกิจกรรมด้านการแก้ไข</span><span class="sxs-lookup"><span data-stu-id="3ce93-118">Establish the timeline for remediation activities.</span></span>
 
--   <span data-ttu-id="6d8c7-119">แสดงรายการตรวจสอบด้านทั้ง Intune และ Azure โฆษณาพิเศษ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-119">Provide a remediation checklist for both Intune and Azure AD Premium.</span></span>
+-   <span data-ttu-id="3ce93-119">ระบุรายการตรวจสอบสำหรับทั้ง Intune และ Azure โฆษณาพรีเมี่ยม</span><span class="sxs-lookup"><span data-stu-id="3ce93-119">Provide a remediation checklist for both Intune and Azure AD Premium.</span></span>
 
-## <a name="remediate-phase"></a><span data-ttu-id="6d8c7-120">Remediate ขั้นตอน</span><span class="sxs-lookup"><span data-stu-id="6d8c7-120">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="3ce93-120">ระยะแก้ไข</span><span class="sxs-lookup"><span data-stu-id="3ce93-120">Remediate phase</span></span>
 
--   <span data-ttu-id="6d8c7-121">หยุดการเรียกประชุมกับคุณตามกำหนดเวลาที่ตกลงไว้เพื่อตรวจสอบความคืบหน้าของกิจกรรมด้าน เช่น แนะนำคุณเกี่ยวกับการติดตั้งเบื้องต้นก่อนหน้าปฐมนิเทศบริการ cloud Microsoft</span><span class="sxs-lookup"><span data-stu-id="6d8c7-121">Hold conference calls with you according to the agreed-upon schedule to review the progress of the remediation activities, for example, guide you through installation pre-requisites prior onboarding a Microsoft cloud service.</span></span>
+-   <span data-ttu-id="3ce93-121">ถือการประชุมทางโทรศัพท์กับคุณตามตารางเวลาที่ตกลงกันเพื่อตรวจสอบความคืบหน้าของกิจกรรมการแก้ไขตัวอย่างเช่นแนะนำให้คุณผ่านการติดตั้งก่อนการเตรียมการบริการระบบคลาวด์ของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="3ce93-121">Hold conference calls with you according to the agreed-upon schedule to review the progress of the remediation activities, for example, guide you through installation pre-requisites prior onboarding a Microsoft cloud service.</span></span>
 
-## <a name="enable-phase"></a><span data-ttu-id="6d8c7-122">ขั้นตอนการเปิดใช้งาน</span><span class="sxs-lookup"><span data-stu-id="6d8c7-122">Enable phase</span></span>
-<span data-ttu-id="6d8c7-123">ให้คำแนะนำเกี่ยวกับ:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-123">Provide guidance about:</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="3ce93-122">เปิดใช้งานเฟส</span><span class="sxs-lookup"><span data-stu-id="3ce93-122">Enable phase</span></span>
+<span data-ttu-id="3ce93-123">ให้คำแนะนำเกี่ยวกับ:</span><span class="sxs-lookup"><span data-stu-id="3ce93-123">Provide guidance about:</span></span>
 
--   <span data-ttu-id="6d8c7-124">เปิดใช้งานผู้เช่าบริการแบบออนไลน์ของ Microsoft หรือสมัครใช้งานของคุณ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-124">Activating your Microsoft online service tenant or subscription.</span></span>
+-   <span data-ttu-id="3ce93-124">การเปิดใช้งานผู้เช่าบริการออนไลน์ของ Microsoft หรือการสมัครสมาชิกของคุณ</span><span class="sxs-lookup"><span data-stu-id="3ce93-124">Activating your Microsoft online service tenant or subscription.</span></span>
 
--   <span data-ttu-id="6d8c7-125">การกำหนดค่าโพรโทคอล TCP/IP และพอร์ตไฟร์วอลล์</span><span class="sxs-lookup"><span data-stu-id="6d8c7-125">Configuring TCP/IP protocols and firewall ports.</span></span>
+-   <span data-ttu-id="3ce93-125">การกำหนดค่าโพรโทคอล TCP/IP และพอร์ตของไฟร์วอลล์</span><span class="sxs-lookup"><span data-stu-id="3ce93-125">Configuring TCP/IP protocols and firewall ports.</span></span>
 
--   <span data-ttu-id="6d8c7-126">การกำหนดค่า DNS สำหรับบริการที่เหมาะสม</span><span class="sxs-lookup"><span data-stu-id="6d8c7-126">Configuring DNS for eligible services.</span></span>
+-   <span data-ttu-id="3ce93-126">การกำหนดค่า DNS สำหรับบริการที่มีสิทธิ์</span><span class="sxs-lookup"><span data-stu-id="3ce93-126">Configuring DNS for eligible services.</span></span>
 
--   <span data-ttu-id="6d8c7-127">ตรวจสอบการเชื่อมต่อกับบริการแบบออนไลน์ของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="6d8c7-127">Validating connectivity to Microsoft online services.</span></span>
+-   <span data-ttu-id="3ce93-127">ตรวจสอบการเชื่อมต่อกับบริการออนไลน์ของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="3ce93-127">Validating connectivity to Microsoft online services.</span></span>
 
--   <span data-ttu-id="6d8c7-128">สำหรับสภาพแวดล้อมของฟอเรสต์เดียว:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-128">For a single-forest environment:</span></span>
+-   <span data-ttu-id="3ce93-128">สำหรับสภาพแวดล้อมแบบฟอเรสต์เดียว:</span><span class="sxs-lookup"><span data-stu-id="3ce93-128">For a single-forest environment:</span></span>
 
-    -   <span data-ttu-id="6d8c7-129">ติดตั้งเซิร์ฟเวอร์ไดเรกตอรีซิงโครไนส์ระหว่างของบริการไดเรกทอรีโดเมน (AD DS) ที่ใช้งานอยู่และเหมาะสม Microsoft บริการแบบออนไลน์ (เฉพาะคำแนะนำถ้าจำเป็น)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-129">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and the eligible Microsoft online services (only guidance if required).</span></span>
+    -   <span data-ttu-id="3ce93-129">การติดตั้งเซิร์ฟเวอร์การซิงโครไนส์ไดเรกทอรีระหว่างบริการระบบโดเมนไดเรกทอรีที่ใช้งานอยู่ (AD DS) และบริการออนไลน์ของ Microsoft ที่มีสิทธิ์ (เฉพาะคำแนะนำถ้าจำเป็น)</span><span class="sxs-lookup"><span data-stu-id="3ce93-129">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and the eligible Microsoft online services (only guidance if required).</span></span>
 
-    -   <span data-ttu-id="6d8c7-130">กำหนดค่าการพิสูจน์ตัวจริงที่มีการจัดการ (ซิงค์แฮชของรหัสผ่านหรือการรับรองความถูกต้องของพาส-ทรู) โดยใช้เครื่องมือ Azure Active Directory เชื่อมต่อ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-130">Configuring managed authentication (Password Hash Sync or Pass-through Authentication) with the Azure Active Directory Connect tool.</span></span> <span data-ttu-id="6d8c7-131">(เฉพาะคำแนะนำถ้าจำเป็น)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-131">(only guidance if required).</span></span>
+    -   <span data-ttu-id="3ce93-130">การกำหนดค่าการรับรองความถูกต้องที่มีการจัดการ (การซิงค์แฮชของรหัสผ่านหรือการรับรองความถูกต้องแบบพาส-ทรู) ด้วยเครื่องมือ Azure เชื่อมต่อไดเรกทอรี</span><span class="sxs-lookup"><span data-stu-id="3ce93-130">Configuring managed authentication (Password Hash Sync or Pass-through Authentication) with the Azure Active Directory Connect tool.</span></span> <span data-ttu-id="3ce93-131">(เฉพาะการแนะนำถ้าจำเป็น)</span><span class="sxs-lookup"><span data-stu-id="3ce93-131">(only guidance if required).</span></span>
 
         > [!NOTE]
-        > <span data-ttu-id="6d8c7-132">การพัฒนาและการใช้งานสำหรับส่วนขยายของกฎที่กำหนดเองอยู่นอกขอบเขต</span><span class="sxs-lookup"><span data-stu-id="6d8c7-132">Development and implementation for custom rules extensions are out of scope.</span></span>
+        > <span data-ttu-id="3ce93-132">การพัฒนาและการดำเนินการสำหรับส่วนขยายกฎที่กำหนดเองอยู่นอกขอบเขต</span><span class="sxs-lookup"><span data-stu-id="3ce93-132">Development and implementation for custom rules extensions are out of scope.</span></span>
 
--   <span data-ttu-id="6d8c7-133">สำหรับฟอเรสต์เดียวเมื่อเป้าหมายเป็นผู้ใช้อีเมลที่ติดต่อกับภายนอก: การติดตั้ง และตั้งค่าคอนฟิกบริการสหพันธรัฐไดเรกทอรีที่ใช้งานอยู่ (AD FS) สำหรับการตรวจสอบโดเมนเฉพาะกับ Intune ในการกำหนดค่า ไซต์เดียว แบบทนต่อ ถ้าจำเป็น</span><span class="sxs-lookup"><span data-stu-id="6d8c7-133">For a single forest when the target is federated identities: Installing and configuring Active Directory Federation Services (AD FS) for local domain authentication with Intune in a single-site, fault-tolerant configuration, if required.</span></span>
+-   <span data-ttu-id="3ce93-133">สำหรับฟอเรสต์เดียวเมื่อเป้าหมายเป็นข้อมูลประจำตัวที่ติดต่อกับภายนอก: การติดตั้งและการตั้งค่าคอนฟิกบริการสหพันธรัฐไดเรกทอรีที่ใช้งานอยู่ (AD FS) สำหรับการรับรองความถูกต้องของโดเมนภายในเครื่องกับ Intune ในไซต์เดียวการกำหนดค่าแบบทนต่อความผิดพลาดถ้าจำเป็น</span><span class="sxs-lookup"><span data-stu-id="3ce93-133">For a single forest when the target is federated identities: Installing and configuring Active Directory Federation Services (AD FS) for local domain authentication with Intune in a single-site, fault-tolerant configuration, if required.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="6d8c7-134">สำหรับหลายฟอเรสต์โครงแบบ จัดวางโฆษณา FS อยู่นอกขอบเขต</span><span class="sxs-lookup"><span data-stu-id="6d8c7-134">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
+    > <span data-ttu-id="3ce93-134">สำหรับการตั้งค่าคอนฟิกฟอเรสต์หลายการปรับใช้ FS โฆษณาอยู่นอกขอบเขต</span><span class="sxs-lookup"><span data-stu-id="3ce93-134">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
 
--   <span data-ttu-id="6d8c7-135">การทดสอบเดียวเข้าสู่ระบบ (SSO) ฟังก์ชัน ถ้ามีการปรับใช้</span><span class="sxs-lookup"><span data-stu-id="6d8c7-135">Testing single sign-on (SSO) functionality, if deployed.</span></span>
+-   <span data-ttu-id="3ce93-135">การทดสอบฟังก์ชันการเข้าสู่ระบบแบบครั้งเดียว (SSO) ถ้ามีการปรับใช้</span><span class="sxs-lookup"><span data-stu-id="3ce93-135">Testing single sign-on (SSO) functionality, if deployed.</span></span>
 
-### <a name="enable-phase---microsoft-azure-active-directory-premium"></a><span data-ttu-id="6d8c7-136">เปิดใช้งานขั้นตอน - Microsoft Azure พิเศษไดเรกทอรีที่ใช้งานอยู่</span><span class="sxs-lookup"><span data-stu-id="6d8c7-136">Enable phase - Microsoft Azure Active Directory Premium</span></span>
+### <a name="enable-phase---microsoft-azure-active-directory-premium"></a><span data-ttu-id="3ce93-136">เปิดใช้งานเฟส-Microsoft Azure ที่ใช้งานอยู่ไดเรกทอรีพรีเมี่ยม</span><span class="sxs-lookup"><span data-stu-id="3ce93-136">Enable phase - Microsoft Azure Active Directory Premium</span></span>
 
-<span data-ttu-id="6d8c7-137">ให้คำแนะนำเกี่ยวกับ:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-137">Provide guidance about:</span></span>
+<span data-ttu-id="3ce93-137">ให้คำแนะนำเกี่ยวกับ:</span><span class="sxs-lookup"><span data-stu-id="3ce93-137">Provide guidance about:</span></span>
 
-- <span data-ttu-id="6d8c7-138">เปิดใช้งานผู้เช่าพิเศษโฆษณา Azure ของคุณ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-138">Activating your Azure AD Premium tenant.</span></span>
+- <span data-ttu-id="3ce93-138">การเปิดใช้งานผู้เช่าพรีเมี่ยมโฆษณา Azure ของคุณ</span><span class="sxs-lookup"><span data-stu-id="3ce93-138">Activating your Azure AD Premium tenant.</span></span>
 
-- <span data-ttu-id="6d8c7-139">ตั้งค่าคอนฟิกพอร์ตไฟร์วอลล์</span><span class="sxs-lookup"><span data-stu-id="6d8c7-139">Configuring firewall ports.</span></span>
+- <span data-ttu-id="3ce93-139">การกำหนดค่าพอร์ตไฟร์วอลล์</span><span class="sxs-lookup"><span data-stu-id="3ce93-139">Configuring firewall ports.</span></span>
 
-- <span data-ttu-id="6d8c7-140">การกำหนดค่า DNS สำหรับบริการที่เหมาะสม</span><span class="sxs-lookup"><span data-stu-id="6d8c7-140">Configuring DNS for eligible services.</span></span>
+- <span data-ttu-id="3ce93-140">การกำหนดค่า DNS สำหรับบริการที่มีสิทธิ์</span><span class="sxs-lookup"><span data-stu-id="3ce93-140">Configuring DNS for eligible services.</span></span>
 
-- <span data-ttu-id="6d8c7-141">ตรวจสอบการเชื่อมต่อกับบริการพิเศษโฆษณา Azure</span><span class="sxs-lookup"><span data-stu-id="6d8c7-141">Validating connectivity to Azure AD Premium services.</span></span>
+- <span data-ttu-id="3ce93-141">ตรวจสอบการเชื่อมต่อกับบริการ Azure AD Premium</span><span class="sxs-lookup"><span data-stu-id="3ce93-141">Validating connectivity to Azure AD Premium services.</span></span>
 
-- <span data-ttu-id="6d8c7-142">สำหรับสภาพแวดล้อมของฟอเรสต์เดียว:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-142">For a single-forest environment:</span></span>
+- <span data-ttu-id="3ce93-142">สำหรับสภาพแวดล้อมแบบฟอเรสต์เดียว:</span><span class="sxs-lookup"><span data-stu-id="3ce93-142">For a single-forest environment:</span></span>
 
-  -   <span data-ttu-id="6d8c7-143">ติดตั้งไดเรกทอรีที่ปรับให้ตรงกันระหว่างบริการระบบโดเมนไดเรกทอรีที่ใช้งานอยู่ (AD DS) ของคุณและเชื่อมต่อ AD Azure ถ้าจำเป็น</span><span class="sxs-lookup"><span data-stu-id="6d8c7-143">Installing a directory synchronization between your Active Directory Domain Services (AD DS) and Azure AD Connect, if required.</span></span>
+  -   <span data-ttu-id="3ce93-143">การติดตั้งไดเรกทอรีให้ตรงกันระหว่างบริการระบบโดเมนไดเรกทอรีที่ใช้งานอยู่ (AD DS) และการเชื่อมต่อ AD Azure ถ้าจำเป็น</span><span class="sxs-lookup"><span data-stu-id="3ce93-143">Installing a directory synchronization between your Active Directory Domain Services (AD DS) and Azure AD Connect, if required.</span></span>
 
-  -   <span data-ttu-id="6d8c7-144">ตั้งค่าคอนฟิกวิธีการรับรองความถูกต้อง (ซิงค์แฮชของรหัสผ่านหรือการรับรองความถูกต้องของพาส-ทรู) ด้วยเครื่องมือการเชื่อมต่อ AD Azure</span><span class="sxs-lookup"><span data-stu-id="6d8c7-144">Configuring an authentication method (Password Hash Sync or Pass-Through Authentication) with the Azure AD Connect tool.</span></span>
+  -   <span data-ttu-id="3ce93-144">การกำหนดค่าวิธีการรับรองความถูกต้อง (การซิงค์แฮชของรหัสผ่านหรือการรับรองความถูกต้องแบบพาส-ทรู) ด้วยเครื่องมือการเชื่อมต่อ AD Azure</span><span class="sxs-lookup"><span data-stu-id="3ce93-144">Configuring an authentication method (Password Hash Sync or Pass-Through Authentication) with the Azure AD Connect tool.</span></span>
 
-- <span data-ttu-id="6d8c7-145">สำหรับสภาพแวดล้อมแบบหลายฟอเรสต์:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-145">For a multiple-forest environment:</span></span>
+- <span data-ttu-id="3ce93-145">สำหรับสภาพแวดล้อมแบบหลายฟอเรสต์:</span><span class="sxs-lookup"><span data-stu-id="3ce93-145">For a multiple-forest environment:</span></span>
 
-  -   <span data-ttu-id="6d8c7-146">การติดตั้งการซิงโครไนส์เชื่อมต่อ AD Azure ตั้งค่าฟอเรสต์หลายสถานการณ์</span><span class="sxs-lookup"><span data-stu-id="6d8c7-146">Installing Azure AD Connect synchronization, set up for multiple forest scenarios.</span></span>
-- <span data-ttu-id="6d8c7-147">สำหรับสภาพแวดล้อมของฟอเรสต์เดียว และหลาย:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-147">For single- and multiple-forest environments:</span></span>
-  - <span data-ttu-id="6d8c7-148">การกำหนดค่า Azure Active Directory พาส-ทรูรับรองความถูกต้อง ถ้าจำเป็น</span><span class="sxs-lookup"><span data-stu-id="6d8c7-148">Configuring Azure Active Directory Pass-through Authentication, if required.</span></span>
-  - <span data-ttu-id="6d8c7-149">การกำหนดค่า Azure Active Directory อย่างราบเดียวเข้าสู่ระบบ (SSO), ถ้าจำเป็น</span><span class="sxs-lookup"><span data-stu-id="6d8c7-149">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required.</span></span>
+  -   <span data-ttu-id="3ce93-146">การติดตั้งการซิงโครไนส์การเชื่อมต่อ AD Azure ตั้งค่าสำหรับสถานการณ์ป่าหลาย</span><span class="sxs-lookup"><span data-stu-id="3ce93-146">Installing Azure AD Connect synchronization, set up for multiple forest scenarios.</span></span>
+- <span data-ttu-id="3ce93-147">สำหรับสภาพแวดล้อมแบบเดี่ยวและหลายฟอเรสต์:</span><span class="sxs-lookup"><span data-stu-id="3ce93-147">For single- and multiple-forest environments:</span></span>
+  - <span data-ttu-id="3ce93-148">การกำหนดค่าการรับรองความถูกต้องแบบพาส-ทรูไดเรกทอรีที่ใช้งานอยู่ของ Azure ถ้าจำเป็น</span><span class="sxs-lookup"><span data-stu-id="3ce93-148">Configuring Azure Active Directory Pass-through Authentication, if required.</span></span>
+  - <span data-ttu-id="3ce93-149">การกำหนดค่า Azure ที่ใช้งานไดเรกทอรีการเข้าสู่ระบบแบบครั้งเดียว (SSO) ถ้าจำเป็น</span><span class="sxs-lookup"><span data-stu-id="3ce93-149">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required.</span></span>
     > [!NOTE]
-    > <span data-ttu-id="6d8c7-150">Azure Active Directory พาส-ทรูรับรองความถูกต้องสำหรับสภาพแวดล้อมหลายฟอเรสต์ได้รับการสนับสนุนถ้ามีความเชื่อถือฟอเรสต์ระหว่างฟอเรสต์เป็นไดเรกทอรีที่ใช้งานอยู่ของคุณและ ถ้ามีการกำหนดเส้นทางส่วนต่อท้ายชื่อถูกกำหนดค่าอย่างถูกต้อง</span><span class="sxs-lookup"><span data-stu-id="6d8c7-150">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured.</span></span> <span data-ttu-id="6d8c7-151">ตัวแทนเพิ่มเติมสามารถติดตั้งบนเซิร์ฟเวอร์ในสถานที่หลายตัวเพื่อให้พร้อมใช้งานสูงสำหรับการร้องขอการเข้าสู่ระบบ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-151">Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests.</span></span>
+    > <span data-ttu-id="3ce93-150">การรับรองความถูกต้องแบบพาส-ทรูของไดเรกทอรี Azure สำหรับสภาพแวดล้อมแบบหลายฟอเรสต์ได้รับการสนับสนุนถ้ามีความเชื่อถือฟอเรสต์ระหว่างฟอเรสต์ไดเรกทอรีที่ใช้งานอยู่ของคุณและถ้ามีการกำหนดค่าการกำหนดเส้นทางต่อท้ายชื่อ</span><span class="sxs-lookup"><span data-stu-id="3ce93-150">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured.</span></span> <span data-ttu-id="3ce93-151">ตัวแทนเพิ่มเติมสามารถติดตั้งบนเซิร์ฟเวอร์หลายในสถานที่เพื่อให้มีความพร้อมใช้งานสูงสำหรับการร้องขอการเข้าสู่ระบบ</span><span class="sxs-lookup"><span data-stu-id="3ce93-151">Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests.</span></span>
 
-  - <span data-ttu-id="6d8c7-152">สำหรับข้อมูลเพิ่มเติม ดู[Azure Active Directory พาส-ทรูรับรองความถูกต้อง: เริ่มต้นอย่างรวดเร็ว](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites)และ[Azure Active Directory อย่างราบเดียวเข้าสู่ระบบ: เริ่มต้นอย่างรวดเร็ว](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-152">For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).</span></span>
-  - <span data-ttu-id="6d8c7-153">สำหรับข้อมูลเพิ่มเติมเกี่ยวกับข้อจำกัดของการรับรองความถูกต้องแบบพาส-ทรู ดู[Azure Active Directory พาส-ทรูรับรองความถูกต้อง: ข้อจำกัดปัจจุบัน](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-153">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).</span></span>
-  - <span data-ttu-id="6d8c7-154">สำหรับข้อมูลเพิ่มเติมเกี่ยวกับปัญหาอย่างราบ SSO ดู[การแก้ปัญหา Azure ใช้งานไดเรกทอรีอย่างราบเดียวเข้าสู่ระบบ](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-154">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso).</span></span>
+  - <span data-ttu-id="3ce93-152">สำหรับข้อมูลเพิ่มเติมให้ดูการ[รับรองความถูกต้องแบบพาส-ทรูไดเรกทอรีที่ใช้งานอยู่: เริ่มต้นอย่างรวดเร็ว](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites)และ[Azure ที่ใช้งานอยู่การเข้าสู่ระบบแบบครั้งเดียว: เริ่มต้นอย่างรวดเร็ว](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites)</span><span class="sxs-lookup"><span data-stu-id="3ce93-152">For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).</span></span>
+  - <span data-ttu-id="3ce93-153">สำหรับข้อมูลเพิ่มเติมเกี่ยวกับขีดจำกัดการรับรองความถูกต้องแบบพาส-ทรูโปรดดูที่การ[รับรองความถูกต้องแบบพาสไดเรกทอรีที่ใช้งานอยู่ของ Azure: ข้อจำกัดปัจจุบัน](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)</span><span class="sxs-lookup"><span data-stu-id="3ce93-153">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).</span></span>
+  - <span data-ttu-id="3ce93-154">สำหรับข้อมูลเพิ่มเติมเกี่ยวกับปัญหา SSO แบบไร้รอยต่อโปรดดูที่[การแก้ไขปัญหา Azure ที่ใช้งานไดเรกทอรีการเข้าสู่ระบบแบบครั้งเดียว](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)</span><span class="sxs-lookup"><span data-stu-id="3ce93-154">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso).</span></span>
 
       > [!NOTE]
-      > <span data-ttu-id="6d8c7-155">ซิงค์แฮชของรหัสผ่านและรหัสผ่านการเขียนกลับสนับสนุนหลายป่าไม้</span><span class="sxs-lookup"><span data-stu-id="6d8c7-155">Password hash sync and password writeback support multiple forests.</span></span> <span data-ttu-id="6d8c7-156">อย่างไรก็ตาม สถานการณ์อื่น ๆ เขียนกลับไม่ได้รับการสนับสนุน</span><span class="sxs-lookup"><span data-stu-id="6d8c7-156">However, other writeback scenarios aren't supported.</span></span>
+      > <span data-ttu-id="3ce93-155">การซิงค์แฮชของรหัสผ่านและรหัสผ่านกลับสนับสนุนป่าไม้หลาย</span><span class="sxs-lookup"><span data-stu-id="3ce93-155">Password hash sync and password writeback support multiple forests.</span></span> <span data-ttu-id="3ce93-156">อย่างไรก็ตามสถานการณ์เขียนกลับอื่นๆไม่ได้รับการสนับสนุน</span><span class="sxs-lookup"><span data-stu-id="3ce93-156">However, other writeback scenarios aren't supported.</span></span>
 
-  - <span data-ttu-id="6d8c7-157">การกำหนดค่าให้ตรงกันระหว่างฟอเรสต์เป็นไดเรกทอรีที่ใช้งานอยู่ในสถานและไดเรกทอรีของ Microsoft Azure พิเศษไดเรกทอรีที่ใช้งานอยู่ (Azure ไดเรกทอรีที่ใช้งานอยู่)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-157">Configuring synchronization between on-premises Active Directory forests and Microsoft Azure Active Directory Premium directory (Azure Active Directory).</span></span>
+  - <span data-ttu-id="3ce93-157">การตั้งค่าคอนฟิกการซิงโครไนส์ระหว่างในสถานป่าไม้ไดเรกทอรีที่ใช้งานอยู่และไดเรกทอรีของ Azure ไดเรกทอรีที่ใช้งานอยู่ของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="3ce93-157">Configuring synchronization between on-premises Active Directory forests and Microsoft Azure Active Directory Premium directory (Azure Active Directory).</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="6d8c7-158">การพัฒนาและการใช้งานสำหรับส่วนขยายของกฎที่กำหนดเองอยู่นอกขอบเขต</span><span class="sxs-lookup"><span data-stu-id="6d8c7-158">Development and implementation for custom rules extensions are out of scope.</span></span>
+    > <span data-ttu-id="3ce93-158">การพัฒนาและการดำเนินการสำหรับส่วนขยายกฎที่กำหนดเองอยู่นอกขอบเขต</span><span class="sxs-lookup"><span data-stu-id="3ce93-158">Development and implementation for custom rules extensions are out of scope.</span></span>
 
-- <span data-ttu-id="6d8c7-159">สำหรับข้อมูลเฉพาะตัวของฟอเรสต์เดียวเมื่อมีเป้าหมายติดต่อกับภายนอก:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-159">For a single forest when the target is federated identities:</span></span>
+- <span data-ttu-id="3ce93-159">สำหรับฟอเรสต์เดียวเมื่อเป้าหมายเป็นข้อมูลเฉพาะตัวที่ติดต่อกับภายนอก:</span><span class="sxs-lookup"><span data-stu-id="3ce93-159">For a single forest when the target is federated identities:</span></span>
 
-  -   <span data-ttu-id="6d8c7-160">การติดตั้ง และตั้งค่าคอนฟิก FS โฆษณาสำหรับการรับรองความถูกต้องของโดเมนเฉพาะ ด้วยค่าจ้างพิเศษโฆษณา Azure ในการกำหนดค่า ไซต์เดียว แบบทนต่อ (ถ้าจำเป็น)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-160">Installing and configuring AD FS for local domain authentication with Azure AD Premium in a single-site, fault-tolerant configuration (if required).</span></span>
+  -   <span data-ttu-id="3ce93-160">การติดตั้งและตั้งค่า AD FS สำหรับการรับรองความถูกต้องของโดเมนภายในเครื่องด้วย Azure AD Premium ในไซต์เดียวการกำหนดค่าแบบทนต่อความผิดพลาด (ถ้าจำเป็น)</span><span class="sxs-lookup"><span data-stu-id="3ce93-160">Installing and configuring AD FS for local domain authentication with Azure AD Premium in a single-site, fault-tolerant configuration (if required).</span></span>
 
   > [!NOTE]
-  > <span data-ttu-id="6d8c7-161">สำหรับหลายฟอเรสต์โครงแบบ จัดวางโฆษณา FS อยู่นอกขอบเขต</span><span class="sxs-lookup"><span data-stu-id="6d8c7-161">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
+  > <span data-ttu-id="3ce93-161">สำหรับการตั้งค่าคอนฟิกฟอเรสต์หลายการปรับใช้ FS โฆษณาอยู่นอกขอบเขต</span><span class="sxs-lookup"><span data-stu-id="3ce93-161">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
 
-- <span data-ttu-id="6d8c7-162">การทดสอบฟังก์ชัน SSO (ถ้าใช้)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-162">Testing SSO functionality (if deployed).</span></span>
+- <span data-ttu-id="3ce93-162">การทดสอบฟังก์ชัน SSO (ถ้ามีการปรับใช้)</span><span class="sxs-lookup"><span data-stu-id="3ce93-162">Testing SSO functionality (if deployed).</span></span>
 
-### <a name="enable-phase---azure-ad-premium---with-azure-ad-connect-and-ad-fs"></a><span data-ttu-id="6d8c7-163">เปิดใช้งานระยะ - Azure โฆษณาพิเศษ - มีการเชื่อมต่อ AD Azure และ FS โฆษณา</span><span class="sxs-lookup"><span data-stu-id="6d8c7-163">Enable phase - Azure AD Premium - with Azure AD Connect and AD FS</span></span>
+### <a name="enable-phase---azure-ad-premium---with-azure-ad-connect-and-ad-fs"></a><span data-ttu-id="3ce93-163">เปิดใช้งานระยะ-Azure โฆษณาพรีเมี่ยม-ด้วยการเชื่อมต่อ AD Azure และ FS โฆษณา</span><span class="sxs-lookup"><span data-stu-id="3ce93-163">Enable phase - Azure AD Premium - with Azure AD Connect and AD FS</span></span>
 
-<span data-ttu-id="6d8c7-164">ให้คำแนะนำเกี่ยวกับการตั้งค่า:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-164">Provide guidance about setting up:</span></span>
+<span data-ttu-id="3ce93-164">ให้คำแนะนำเกี่ยวกับการตั้งค่า:</span><span class="sxs-lookup"><span data-stu-id="3ce93-164">Provide guidance about setting up:</span></span>
 
-- <span data-ttu-id="6d8c7-165">ผู้ใช้การเตรียมใช้งาน รวมถึงการอนุญาตให้ใช้สิทธิ์</span><span class="sxs-lookup"><span data-stu-id="6d8c7-165">User provisioning, including licensing.</span></span>
+- <span data-ttu-id="3ce93-165">การจัดสรรผู้ใช้รวมถึงการให้ใบอนุญาต</span><span class="sxs-lookup"><span data-stu-id="3ce93-165">User provisioning, including licensing.</span></span>
 
-- <span data-ttu-id="6d8c7-166">ตรงไดเรกทอรีการเชื่อมต่อ AD azure (มีการเขียนกลับรหัสผ่านและซิงค์แฮชของรหัสผ่าน)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-166">Azure AD Connect directory synchronization (with password writeback and password hash sync).</span></span>
+- <span data-ttu-id="3ce93-166">การซิงโครไนส์ไดเรกทอรีการเชื่อมต่อ AD Azure (ด้วยการเขียนกลับรหัสผ่านและซิงค์แฮชของรหัสผ่าน)</span><span class="sxs-lookup"><span data-stu-id="3ce93-166">Azure AD Connect directory synchronization (with password writeback and password hash sync).</span></span>
 
-  - <span data-ttu-id="6d8c7-167">ไดเรกทอรีที่ใช้งานอยู่ที่ azure Self บริการรีเซ็ตรหัสผ่าน (SSPR)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-167">Azure Active Directory Self Service Password Reset (SSPR).</span></span>
+  - <span data-ttu-id="3ce93-167">รีเซ็ตรหัสผ่านบริการตนเองของไดเรกทอรีที่ใช้งานอยู่ของ Azure (SSPR)</span><span class="sxs-lookup"><span data-stu-id="3ce93-167">Azure Active Directory Self Service Password Reset (SSPR).</span></span>
 
-  - <span data-ttu-id="6d8c7-168">พิสูจน์ตัวจริงด้วยหลายปัจจัย azure</span><span class="sxs-lookup"><span data-stu-id="6d8c7-168">Azure Multi-Factor Authentication.</span></span>
+  - <span data-ttu-id="3ce93-168">การรับรองความถูกต้องด้วยหลายปัจจัย Azure</span><span class="sxs-lookup"><span data-stu-id="3ce93-168">Azure Multi-Factor Authentication.</span></span>
 
-  - <span data-ttu-id="6d8c7-169">ได้ถึงสาม (3) หรือเพิ่มเติมซอฟต์แวร์เป็นการรวมแอพลิเคชันเป็นบริการ (SaaS) กับหนึ่งเข้าสู่ระบบ (SSO) จาก[Azure Marketplace ของไดเรกทอรีที่ใช้งานอยู่](https://azure.microsoft.com/marketplace/active-directory/)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-169">Up to three (3) or more Software as a Service (SaaS) application integrations with Single Sign-On (SSO) from the [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).</span></span>
+  - <span data-ttu-id="3ce93-169">ถึงสาม (3) หรือมากกว่าซอฟต์แวร์เป็นการรวมแอพลิเคชันบริการ (SaaS) กับการเข้าสู่ระบบแบบครั้งเดียว (SSO) จาก[ตลาดไดเรกทอรีที่ใช้งานอยู่ของ Azure](https://azure.microsoft.com/marketplace/active-directory/)</span><span class="sxs-lookup"><span data-stu-id="3ce93-169">Up to three (3) or more Software as a Service (SaaS) application integrations with Single Sign-On (SSO) from the [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).</span></span>
 
-  - <span data-ttu-id="6d8c7-170">กำลังเตรียมใช้งานผู้ใช้โดยอัตโนมัติสำหรับล่วงหน้ารวมแอพลิเคชัน SaaS ตามที่แสดงรายการอยู่ใน[รายการของบทสอนการรวมแอพลิเคชัน](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list)จำกัดจัดสรรขาออกเท่านั้น</span><span class="sxs-lookup"><span data-stu-id="6d8c7-170">Automatic user provisioning for pre-integrated SaaS applications as listed in the [App integration tutorial list](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list), limited to outbound provisioning only.</span></span>
+  - <span data-ttu-id="3ce93-170">การจัดสรรผู้ใช้โดยอัตโนมัติสำหรับแอปพลิเคชัน SaaS แบบบูรณาการล่วงหน้าตามที่ระบุไว้ใน[รายการการสอนการรวมแอป](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list)จำกัดการจัดสรรขาออกเท่านั้น</span><span class="sxs-lookup"><span data-stu-id="3ce93-170">Automatic user provisioning for pre-integrated SaaS applications as listed in the [App integration tutorial list](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list), limited to outbound provisioning only.</span></span>
 
-  - <span data-ttu-id="6d8c7-171">เข้าสู่ระบบที่กำหนดเองหน้าจอแสดงผล รวมถึงโลโก้ ข้อความ และภาพพื้นหลัง</span><span class="sxs-lookup"><span data-stu-id="6d8c7-171">Customized logon screen, including logo, text, and images.</span></span>
+  - <span data-ttu-id="3ce93-171">หน้าจอเข้าสู่ระบบที่กำหนดเองรวมถึงโลโก้ข้อความและรูปภาพ</span><span class="sxs-lookup"><span data-stu-id="3ce93-171">Customized logon screen, including logo, text, and images.</span></span>
 
-  - <span data-ttu-id="6d8c7-172">บริการตนเอง และแบบไดนามิกกลุ่ม (กลุ่ม)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-172">Self-Service and Dynamic Groups (Groups).</span></span>
+  - <span data-ttu-id="3ce93-172">การบริการตนเองและกลุ่มแบบไดนามิก (กลุ่ม)</span><span class="sxs-lookup"><span data-stu-id="3ce93-172">Self-Service and Dynamic Groups (Groups).</span></span>
 
-  - <span data-ttu-id="6d8c7-173">พร็อกซีโปรแกรมประยุกต์ azure ไดเรกทอรีที่ใช้งานอยู่</span><span class="sxs-lookup"><span data-stu-id="6d8c7-173">Azure Active Directory Application Proxy.</span></span>
+  - <span data-ttu-id="3ce93-173">พร็อกซีโปรแกรมประยุกต์ไดเรกทอรีที่ใช้งานอยู่ของ Azure</span><span class="sxs-lookup"><span data-stu-id="3ce93-173">Azure Active Directory Application Proxy.</span></span>
 
-  - <span data-ttu-id="6d8c7-174">ไดเรกทอรีที่ใช้งานอยู่ที่ azure เชื่อมต่อสุขภาพ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-174">Azure Active Directory Connect Health.</span></span>
+  - <span data-ttu-id="3ce93-174">Azure ที่ใช้งานอยู่ไดเรกทอรีเชื่อมต่อสุขภาพ</span><span class="sxs-lookup"><span data-stu-id="3ce93-174">Azure Active Directory Connect Health.</span></span>
 
-  - <span data-ttu-id="6d8c7-175">เข้าถึงไดเรกทอรีที่ใช้งานอยู่ที่ azure ตามเงื่อนไข</span><span class="sxs-lookup"><span data-stu-id="6d8c7-175">Azure Active Directory Conditional Access.</span></span>
+  - <span data-ttu-id="3ce93-175">การเข้าถึงแบบมีเงื่อนไข Azure ไดเรกทอรีที่ใช้งานอยู่</span><span class="sxs-lookup"><span data-stu-id="3ce93-175">Azure Active Directory Conditional Access.</span></span>
 
-  - <span data-ttu-id="6d8c7-176">ไดเรกทอรีที่ใช้งานอยู่ที่ azure ข้อตกลงการใช้งาน</span><span class="sxs-lookup"><span data-stu-id="6d8c7-176">Azure Active Directory Terms of Use.</span></span>
+  - <span data-ttu-id="3ce93-176">เงื่อนไขการใช้ไดเรกทอรีที่ใช้งานอยู่ของ Azure</span><span class="sxs-lookup"><span data-stu-id="3ce93-176">Azure Active Directory Terms of Use.</span></span>
 
-  - <span data-ttu-id="6d8c7-177">การป้องกันข้อมูลเฉพาะตัวของไดเรกทอรีที่ใช้งานอยู่ที่ azure</span><span class="sxs-lookup"><span data-stu-id="6d8c7-177">Azure Active Directory Identity Protection.</span></span>
+  - <span data-ttu-id="3ce93-177">การป้องกันข้อมูลเฉพาะตัวของไดเรกทอรีที่ใช้งานอยู่</span><span class="sxs-lookup"><span data-stu-id="3ce93-177">Azure Active Directory Identity Protection.</span></span>
 
-  - <span data-ttu-id="6d8c7-178">ไดเรกทอรีที่ใช้งานอยู่ที่ azure มีสิทธิ์จัดการข้อมูลประจำตัว</span><span class="sxs-lookup"><span data-stu-id="6d8c7-178">Azure Active Directory Privileged Identity Management.</span></span>
+  - <span data-ttu-id="3ce93-178">การจัดการข้อมูลเฉพาะตัวของไดเรกทอรีที่ใช้งานอยู่ของ Azure</span><span class="sxs-lookup"><span data-stu-id="3ce93-178">Azure Active Directory Privileged Identity Management.</span></span>
 
-  - <span data-ttu-id="6d8c7-179">บทวิจารณ์เข้าถึงไดเรกทอรีที่ใช้งานอยู่ที่ azure</span><span class="sxs-lookup"><span data-stu-id="6d8c7-179">Azure Active Directory Access Reviews.</span></span>
+  - <span data-ttu-id="3ce93-179">รีวิวการเข้าถึงไดเรกทอรีที่ใช้งานอยู่ของ Azure</span><span class="sxs-lookup"><span data-stu-id="3ce93-179">Azure Active Directory Access Reviews.</span></span>
 
-### <a name="enable-phase---intune"></a><span data-ttu-id="6d8c7-180">เปิดใช้งานขั้นตอน - Intune</span><span class="sxs-lookup"><span data-stu-id="6d8c7-180">Enable phase - Intune</span></span>
+### <a name="enable-phase---intune"></a><span data-ttu-id="3ce93-180">เปิดใช้เฟส-Intune</span><span class="sxs-lookup"><span data-stu-id="3ce93-180">Enable phase - Intune</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="6d8c7-181">FastTrack ไม่สนับสนุนการจัดการพีซีคลาสสิค Windows 10 ด้วย Intune</span><span class="sxs-lookup"><span data-stu-id="6d8c7-181">FastTrack does not support Windows 10 classic PC management with Intune.</span></span> <span data-ttu-id="6d8c7-182">FastTrack สนับสนุนเฉพาะ Windows 10 จัดการผ่านทางการจัดการอุปกรณ์เคลื่อนที่ Intune (MDM) เท่านั้น</span><span class="sxs-lookup"><span data-stu-id="6d8c7-182">FastTrack only supports Windows 10 management through Intune mobile device management (MDM).</span></span>
+> <span data-ttu-id="3ce93-181">FastTrack ไม่สนับสนุนการจัดการพีซีแบบคลาสสิกของ Windows 10 กับ Intune</span><span class="sxs-lookup"><span data-stu-id="3ce93-181">FastTrack does not support Windows 10 classic PC management with Intune.</span></span> <span data-ttu-id="3ce93-182">FastTrack สนับสนุนเฉพาะการจัดการ Windows 10 ผ่านการจัดการอุปกรณ์เคลื่อนที่ Intune (MDM) เท่านั้น</span><span class="sxs-lookup"><span data-stu-id="3ce93-182">FastTrack only supports Windows 10 management through Intune mobile device management (MDM).</span></span>
 
-<span data-ttu-id="6d8c7-183">ให้คำแนะนำบน:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-183">Provide guidance on:</span></span>
+<span data-ttu-id="3ce93-183">ให้คำแนะนำเกี่ยวกับ:</span><span class="sxs-lookup"><span data-stu-id="3ce93-183">Provide guidance on:</span></span>
 
--   <span data-ttu-id="6d8c7-184">การกำหนดค่าข้อมูลเฉพาะตัวที่จะใช้ โดยการใช้ประโยชน์ของคุณในสถานไดเรกทอรีที่ใช้งานอยู่หรือก้อนเมฆรหัสประจำตัว (Azure Active Directory) จาก Intune</span><span class="sxs-lookup"><span data-stu-id="6d8c7-184">Configuring identities to be used by Intune, by either leveraging your on-premises Active Directory or cloud identities (Azure Active Directory).</span></span>
+-   <span data-ttu-id="3ce93-184">การตั้งค่าคอนฟิกข้อมูลเฉพาะตัวที่จะใช้โดย Intune โดยใช้ประโยชน์จากไดเรกทอรี Active Directory ของคุณในสถานที่หรือข้อมูลเฉพาะตัวของระบบคลาวด์ (Azure Active Directory)</span><span class="sxs-lookup"><span data-stu-id="3ce93-184">Configuring identities to be used by Intune, by either leveraging your on-premises Active Directory or cloud identities (Azure Active Directory).</span></span>
 
--   <span data-ttu-id="6d8c7-185">อนุญาตให้ใช้สิทธิ์ของผู้ใช้</span><span class="sxs-lookup"><span data-stu-id="6d8c7-185">Licensing your end users.</span></span>
+-   <span data-ttu-id="3ce93-185">ให้สิทธิ์ผู้ใช้ปลายทางของคุณ</span><span class="sxs-lookup"><span data-stu-id="3ce93-185">Licensing your end users.</span></span>
 
--   <span data-ttu-id="6d8c7-186">เพิ่มผู้ใช้ให้การสมัครใช้งาน Intune การกำหนดบทบาทผู้ดูแลระบบ IT และสร้างกลุ่มผู้ใช้และอุปกรณ์</span><span class="sxs-lookup"><span data-stu-id="6d8c7-186">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
+-   <span data-ttu-id="3ce93-186">การเพิ่มผู้ใช้ไปยังการบอกรับเป็นสมาชิก Intune ของคุณกำหนดบทบาทผู้ดูแลระบบไอทีและการสร้างกลุ่มผู้ใช้และอุปกรณ์</span><span class="sxs-lookup"><span data-stu-id="3ce93-186">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
 
--   <span data-ttu-id="6d8c7-187">ตั้งค่าคอนฟิก MDM การจัดการอุปกรณ์มือถือของคุณ) หน่วยงาน ตามความต้องการจัดการ รวมถึง:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-187">Configuring your Mobile Device Management MDM) authority, based on your management needs, including:</span></span>
+-   <span data-ttu-id="3ce93-187">การตั้งค่าคอนฟิกสิทธิ์การจัดการอุปกรณ์เคลื่อนที่ของคุณ) ขึ้นอยู่กับความต้องการในการจัดการของคุณรวมถึง:</span><span class="sxs-lookup"><span data-stu-id="3ce93-187">Configuring your Mobile Device Management MDM) authority, based on your management needs, including:</span></span>
 
-    -   <span data-ttu-id="6d8c7-188">การตั้งค่า Intune เป็นหน่วยงานของคุณ MDM</span><span class="sxs-lookup"><span data-stu-id="6d8c7-188">Setting Intune as your MDM authority.</span></span>
+    -   <span data-ttu-id="3ce93-188">การตั้งค่า Intune เป็นหน่วยงาน MDM ของคุณ</span><span class="sxs-lookup"><span data-stu-id="3ce93-188">Setting Intune as your MDM authority.</span></span>
 
-    -   <span data-ttu-id="6d8c7-189">การกำหนดค่ากลุ่มทดสอบที่จะใช้ในการตรวจสอบ MDM นโยบายการจัดการ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-189">Configuring tests groups to be used to validate MDM management policies.</span></span>
+    -   <span data-ttu-id="3ce93-189">การตั้งค่าคอนฟิกกลุ่มการทดสอบที่จะใช้ในการตรวจสอบความถูกต้องของนโยบายการจัดการ MDM</span><span class="sxs-lookup"><span data-stu-id="3ce93-189">Configuring tests groups to be used to validate MDM management policies.</span></span>
 
-    -   <span data-ttu-id="6d8c7-190">การนำทางในพอร์ทัล admin Intune เพื่อค้นหาข้อมูลเกี่ยวกับผู้ใช้และอุปกรณ์</span><span class="sxs-lookup"><span data-stu-id="6d8c7-190">Navigating the Intune admin portal to locate information on users and devices.</span></span>
+    -   <span data-ttu-id="3ce93-190">การนำทางพอร์ทัล admin Intune เพื่อค้นหาข้อมูลบนผู้ใช้และอุปกรณ์</span><span class="sxs-lookup"><span data-stu-id="3ce93-190">Navigating the Intune admin portal to locate information on users and devices.</span></span>
 
-    -   <span data-ttu-id="6d8c7-191">การตั้งค่าบทบาท Intune (ผู้ให้บริการความช่วยเหลือโต๊ะทำงาน admins เป็นต้น)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-191">Setting up Intune roles (Help desk operator, admins, etc.)</span></span>
+    -   <span data-ttu-id="3ce93-191">การตั้งค่าบทบาท Intune (ตัวดำเนินการโต๊ะช่วยเหลือผู้ดูแลระบบฯลฯ)</span><span class="sxs-lookup"><span data-stu-id="3ce93-191">Setting up Intune roles (Help desk operator, admins, etc.)</span></span>
 
-    -   <span data-ttu-id="6d8c7-192">การกำหนดค่านโยบายการจัดการ MDM และบริการเช่น:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-192">Configuring MDM management policies and services like:</span></span>
+    -   <span data-ttu-id="3ce93-192">การกำหนดค่านโยบายการจัดการ MDM และบริการเช่น:</span><span class="sxs-lookup"><span data-stu-id="3ce93-192">Configuring MDM management policies and services like:</span></span>
 
-        -   <span data-ttu-id="6d8c7-193">ปรับใช้แอพลิเคชันสำหรับแต่ละแพลตฟอร์มที่ได้รับการสนับสนุนผ่านการเชื่อมโยงเว็บ MSI และ/หรือความลึกของการเชื่อมโยง</span><span class="sxs-lookup"><span data-stu-id="6d8c7-193">App deployment for each supported platform through web links, MSI and/or deep links.</span></span>
+        -   <span data-ttu-id="3ce93-193">การปรับใช้แอปสำหรับแต่ละแพลตฟอร์มที่ได้รับการสนับสนุนผ่านการเชื่อมโยงเว็บ, MSI และ/หรือลิงก์ลึก</span><span class="sxs-lookup"><span data-stu-id="3ce93-193">App deployment for each supported platform through web links, MSI and/or deep links.</span></span>
 
-        -   <span data-ttu-id="6d8c7-194">ปรับใช้ Office ProPlus บนอุปกรณ์ Windows 10</span><span class="sxs-lookup"><span data-stu-id="6d8c7-194">Deploying Office ProPlus onto Windows 10 devices.</span></span>
+        -   <span data-ttu-id="3ce93-194">การปรับใช้ Office ProPlus บนอุปกรณ์ Windows 10</span><span class="sxs-lookup"><span data-stu-id="3ce93-194">Deploying Office ProPlus onto Windows 10 devices.</span></span>
 
-        -   <span data-ttu-id="6d8c7-195">โปรแกรมการซื้อไดรฟ์ข้อมูลสำหรับการปรับใช้โปรแกรมประยุกต์ รวมถึงของ Apple VPP ร้านค้า Windows สำหรับธุรกิจ และเล่นของ Google ของร้านทำงาน</span><span class="sxs-lookup"><span data-stu-id="6d8c7-195">Volume purchase programs for app deployment, including Apple's VPP, Windows Store for Business, and Google's Play for Work Store.</span></span>
+        -   <span data-ttu-id="3ce93-195">โปรแกรมการซื้อระดับเสียงสำหรับการปรับใช้แอปรวมถึง VPP ของ Apple, Windows Store สำหรับธุรกิจและการเล่นของ Google สำหรับร้านทำงาน</span><span class="sxs-lookup"><span data-stu-id="3ce93-195">Volume purchase programs for app deployment, including Apple's VPP, Windows Store for Business, and Google's Play for Work Store.</span></span>
 
-        -   <span data-ttu-id="6d8c7-196">การปรับใช้ของอีเมล เครือข่ายไร้สาย และโปรไฟล์ VPN ถ้าคุณมีใบรับรองที่มีอยู่ Wi-fi หรือ VPN โครงสร้างพื้นฐานในองค์กรของคุณ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-196">Deployment of e-mail, wireless networks, and VPN profiles if you have an existing certificate authority, Wi-Fi or VPN infrastructure in your organization.</span></span>
+        -   <span data-ttu-id="3ce93-196">การใช้งานของ e-mail เครือข่ายไร้สายและโปรไฟล์ VPN ถ้าคุณมีหน่วยงานออกใบรับรองที่มีอยู่, Wi-fi หรือ VPN โครงสร้างพื้นฐานในองค์กรของคุณ</span><span class="sxs-lookup"><span data-stu-id="3ce93-196">Deployment of e-mail, wireless networks, and VPN profiles if you have an existing certificate authority, Wi-Fi or VPN infrastructure in your organization.</span></span>
 
-        -   <span data-ttu-id="6d8c7-197">การตั้งค่าที่ Microsoft Intune แลกเปลี่ยนตัวเชื่อมต่อ (เมื่อใช้ได้)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-197">Setting up the Microsoft Intune Exchange Connector (when applicable).</span></span>
+        -   <span data-ttu-id="3ce93-197">การตั้งค่าตัวเชื่อมต่อ Exchange Intune Microsoft (เมื่อมี)</span><span class="sxs-lookup"><span data-stu-id="3ce93-197">Setting up the Microsoft Intune Exchange Connector (when applicable).</span></span>
 
-        -   <span data-ttu-id="6d8c7-198">โพรไฟล์การตั้งค่าคอนฟิกอุปกรณ์สำหรับแพลตฟอร์มของอุปกรณ์ที่ได้รับการสนับสนุน</span><span class="sxs-lookup"><span data-stu-id="6d8c7-198">Device configuration profiles for supported device platforms.</span></span>
+        -   <span data-ttu-id="3ce93-198">โปรไฟล์การกำหนดค่าอุปกรณ์สำหรับแพลตฟอร์มอุปกรณ์ที่รองรับ</span><span class="sxs-lookup"><span data-stu-id="3ce93-198">Device configuration profiles for supported device platforms.</span></span>
 
-    -   <span data-ttu-id="6d8c7-199">การตั้งค่านโยบายการเข้าถึงแบบมีเงื่อนไข</span><span class="sxs-lookup"><span data-stu-id="6d8c7-199">Setting up conditional access policies.</span></span>
+    -   <span data-ttu-id="3ce93-199">การตั้งค่านโยบายการเข้าถึงแบบมีเงื่อนไข</span><span class="sxs-lookup"><span data-stu-id="3ce93-199">Setting up conditional access policies.</span></span>
 
-    -   <span data-ttu-id="6d8c7-200">ตั้งค่าคอนฟิก และปรับใช้นโยบายการป้องกันโปรแกรมประยุกต์ Intune สำหรับแต่ละแพลตฟอร์มที่ได้รับการสนับสนุน</span><span class="sxs-lookup"><span data-stu-id="6d8c7-200">Configuring and deploying Intune app protection policies for each supported platform.</span></span>
+    -   <span data-ttu-id="3ce93-200">การกำหนดค่าและการปรับใช้นโยบายการป้องกันแอป Intune สำหรับแต่ละแพลตฟอร์มที่ได้รับการสนับสนุน</span><span class="sxs-lookup"><span data-stu-id="3ce93-200">Configuring and deploying Intune app protection policies for each supported platform.</span></span>
 
-    -   <span data-ttu-id="6d8c7-201">กำลังเตรียมบรรทัดของธุรกิจ (LOB) apps สำหรับ Intune app ป้องกันนโยบาย ด้วยคำแนะนำในตัวเลือกที่พร้อมใช้งาน</span><span class="sxs-lookup"><span data-stu-id="6d8c7-201">Preparing line-of-business (LOB) apps for Intune app protection policies, with guidance on available options.</span></span>
+    -   <span data-ttu-id="3ce93-201">กำลังจัดเตรียมแอปบรรทัดของธุรกิจ (LOB) สำหรับนโยบายการป้องกันแอป Intune พร้อมด้วยคำแนะนำเกี่ยวกับตัวเลือกที่มีอยู่</span><span class="sxs-lookup"><span data-stu-id="3ce93-201">Preparing line-of-business (LOB) apps for Intune app protection policies, with guidance on available options.</span></span>
 
-    -   <span data-ttu-id="6d8c7-202">ลงทะเบียนอุปกรณ์ของแต่ละรายการได้รับการสนับสนุนแพลตฟอร์ม Intune หรือตัวจัดการการตั้งค่าคอนฟิกบริการ Microsoft Intune ของคุณ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-202">Enrolling devices of each supported platform to your Intune or Configuration Manager with Microsoft Intune service.</span></span>
+    -   <span data-ttu-id="3ce93-202">ลงทะเบียนอุปกรณ์ของแต่ละแพลตฟอร์มที่ได้รับการสนับสนุนไปยัง Intune หรือตัวจัดการการตั้งค่าคอนฟิกของคุณกับบริการ Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="3ce93-202">Enrolling devices of each supported platform to your Intune or Configuration Manager with Microsoft Intune service.</span></span>
 
-    -   <span data-ttu-id="6d8c7-203">การเชื่อมต่อกับคลังสินค้า Intune ข้อมูล</span><span class="sxs-lookup"><span data-stu-id="6d8c7-203">Connecting to Intune Data Warehouse.</span></span>
+    -   <span data-ttu-id="3ce93-203">การเชื่อมต่อกับคลังข้อมูล Intune</span><span class="sxs-lookup"><span data-stu-id="3ce93-203">Connecting to Intune Data Warehouse.</span></span>
 
-    -   <span data-ttu-id="6d8c7-204">Intune กับการรวม:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-204">Integrating Intune with:</span></span>
-        -   <span data-ttu-id="6d8c7-205">ทีม Viewer สำหรับความช่วยเหลือระยะไกล (การบอกรับเป็นสมาชิกทีม Viewer จำเป็น)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-205">Team Viewer for remote assistance (Team Viewer subscription is required).</span></span>
+    -   <span data-ttu-id="3ce93-204">การรวม Intune ด้วย:</span><span class="sxs-lookup"><span data-stu-id="3ce93-204">Integrating Intune with:</span></span>
+        -   <span data-ttu-id="3ce93-205">ตัวแสดงทีมสำหรับความช่วยเหลือระยะไกล (จำเป็นต้องสมัครสมาชิกตัวแสดงทีม)</span><span class="sxs-lookup"><span data-stu-id="3ce93-205">Team Viewer for remote assistance (Team Viewer subscription is required).</span></span>
 
-        -   <span data-ttu-id="6d8c7-206">ป้องกันการคุกคามมือถือหุ้นส่วนการแก้ไขปัญหา (Mobile ป้องกันการคุกคามคู่ค้าโซลูชันบอกรับเป็นสมาชิกที่จำเป็น)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-206">Mobile Threat Defense partner solutions (Mobile Threat Defense partner solution subscription is required).</span></span>
+        -   <span data-ttu-id="3ce93-206">โซลูชั่นคู่ค้าป้องกันภัยคุกคามมือถือ (การสมัครสมาชิกโซลูชันป้องกันภัยคุกคามมือถือเป็นสิ่งจำเป็น)</span><span class="sxs-lookup"><span data-stu-id="3ce93-206">Mobile Threat Defense partner solutions (Mobile Threat Defense partner solution subscription is required).</span></span>
 
-        -   <span data-ttu-id="6d8c7-207">โทรคมนาคมค่าใช้จ่ายบริหารการแก้ไขปัญหา (สมัครใช้งานโซลูชันการจัดการค่าใช้จ่ายโทรคมนาคมจำเป็น)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-207">Telecom expense management solutions (Telecom expense management solution subscription is required).</span></span>
+        -   <span data-ttu-id="3ce93-207">โซลูชั่นการจัดการค่าใช้จ่ายโทรคมนาคม (จำเป็นต้องสมัครสมาชิกโซลูชันการจัดการค่าใช้จ่ายโทรคมนาคม)</span><span class="sxs-lookup"><span data-stu-id="3ce93-207">Telecom expense management solutions (Telecom expense management solution subscription is required).</span></span>
 
-        -   <span data-ttu-id="6d8c7-208">การป้องกันภัยคุกคามขั้นสูงของ Windows Defender (ใบอนุญาต Windows E5 หรือ Microsoft 365 E5 จำเป็นต้องมี)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-208">Windows Defender Advanced Threat Protection (Windows E5 or Microsoft 365 E5 licenses are required).</span></span>
+        -   <span data-ttu-id="3ce93-208">จำเป็นต้องมีการป้องกันภัยคุกคามขั้นสูงของ windows Defender (Windows E5 หรือ Microsoft ๓๖๕ E5)</span><span class="sxs-lookup"><span data-stu-id="3ce93-208">Windows Defender Advanced Threat Protection (Windows E5 or Microsoft 365 E5 licenses are required).</span></span>
 
-    -   <span data-ttu-id="6d8c7-209">การกำหนดค่าการปรับปรุงซอฟต์แวร์สำหรับแพลตฟอร์มที่ได้รับการสนับสนุนที่เกี่ยวข้อง</span><span class="sxs-lookup"><span data-stu-id="6d8c7-209">Configuring Software updates for applicable supported platforms.</span></span>
+    -   <span data-ttu-id="3ce93-209">การกำหนดค่าการปรับปรุงซอฟต์แวร์สำหรับแพลตฟอร์มที่สนับสนุนที่เกี่ยวข้อง</span><span class="sxs-lookup"><span data-stu-id="3ce93-209">Configuring Software updates for applicable supported platforms.</span></span>
 
-    -   <span data-ttu-id="6d8c7-210">ทรัพยากรสำหรับผู้ใช้เริ่มการวางแผน</span><span class="sxs-lookup"><span data-stu-id="6d8c7-210">Resources for user adoption planning.</span></span>
+    -   <span data-ttu-id="3ce93-210">ทรัพยากรสำหรับการวางแผนการนำผู้ใช้</span><span class="sxs-lookup"><span data-stu-id="3ce93-210">Resources for user adoption planning.</span></span>
 
-- <span data-ttu-id="6d8c7-211">การตั้งค่า Windows Autopilot:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-211">Setting up Windows Autopilot:</span></span>
+- <span data-ttu-id="3ce93-211">การตั้งค่า Windows ออโตไพลอต:</span><span class="sxs-lookup"><span data-stu-id="3ce93-211">Setting up Windows Autopilot:</span></span>
 
-    - <span data-ttu-id="6d8c7-212">กำหนดค่า และการตั้งค่า Microsoft Intune สำหรับ Windows Autopilot</span><span class="sxs-lookup"><span data-stu-id="6d8c7-212">Configure and setup Microsoft Intune for Windows Autopilot.</span></span>
+    - <span data-ttu-id="3ce93-212">กำหนดค่าและตั้งค่า Microsoft Intune สำหรับระบบออโตไพลอต Windows</span><span class="sxs-lookup"><span data-stu-id="3ce93-212">Configure and setup Microsoft Intune for Windows Autopilot.</span></span>
 
-    - <span data-ttu-id="6d8c7-213">การตั้งค่าคอนฟิกกลุ่มแบบไดนามิกโฆษณา Azure</span><span class="sxs-lookup"><span data-stu-id="6d8c7-213">Configure Azure AD dynamic groups</span></span>
+    - <span data-ttu-id="3ce93-213">กำหนดค่ากลุ่มแบบไดนามิกของโฆษณา Azure</span><span class="sxs-lookup"><span data-stu-id="3ce93-213">Configure Azure AD dynamic groups</span></span>
 
-    - <span data-ttu-id="6d8c7-214">เพิ่มบริษัทของคุณกำหนดตราสินค้าไว้ในโฆษณา Azure</span><span class="sxs-lookup"><span data-stu-id="6d8c7-214">Add your Company branding into Azure AD.</span></span>
+    - <span data-ttu-id="3ce93-214">เพิ่มตราสินค้าของบริษัทของคุณลงในโฆษณา Azure</span><span class="sxs-lookup"><span data-stu-id="3ce93-214">Add your Company branding into Azure AD.</span></span>
 
-    - <span data-ttu-id="6d8c7-215">สร้าง และกำหนดอุปกรณ์กับส่วนกำหนดค่า Windows Autopilot (เช่นโพรไฟล์ Windows Autopilot ที่จำกัดการสร้างบัญชีผู้ใช้ผู้ดูแลระบบท้องถิ่น)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-215">Create and assign devices to Windows Autopilot profiles (e.g a Windows Autopilot profile that restricts Local Administrator account creation).</span></span>
+    - <span data-ttu-id="3ce93-215">สร้างและกำหนดอุปกรณ์ให้กับโพรไฟล์ของ Windows ออโตไพลอต (เช่นโปรไฟล์ของ Windows ออโตไพลอตที่จำกัดการสร้างบัญชีผู้ดูแลภายใน)</span><span class="sxs-lookup"><span data-stu-id="3ce93-215">Create and assign devices to Windows Autopilot profiles (e.g a Windows Autopilot profile that restricts Local Administrator account creation).</span></span>
 
-    - <span data-ttu-id="6d8c7-216">การกำหนดเองออกของ--ประสบการณ์ใช้งานแบบทันที (OOBE) เพื่อให้สอดคล้องกับความต้องการขององค์กร</span><span class="sxs-lookup"><span data-stu-id="6d8c7-216">Customize the Out-of-box-experience (OOBE) to comply with organization's requirements.</span></span>
+    - <span data-ttu-id="3ce93-216">ปรับแต่งประสบการณ์ใช้งานแบบออกจากกล่อง (OOBE) เพื่อให้สอดคล้องกับความต้องการขององค์กร</span><span class="sxs-lookup"><span data-stu-id="3ce93-216">Customize the Out-of-box-experience (OOBE) to comply with organization's requirements.</span></span>
 
-    - <span data-ttu-id="6d8c7-217">การตั้งค่าคอนฟิกการลงทะเบียนอัตโนมัติ MDM ในโฆษณา Azure และ Intune</span><span class="sxs-lookup"><span data-stu-id="6d8c7-217">Configuring MDM Auto-enrollment in Azure AD and Intune.</span></span>
+    - <span data-ttu-id="3ce93-217">การกำหนดค่า MDM อัตโนมัติลงทะเบียนในโฆษณา Azure และ Intune</span><span class="sxs-lookup"><span data-stu-id="3ce93-217">Configuring MDM Auto-enrollment in Azure AD and Intune.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="6d8c7-218">การตั้งค่า Windows Autopilot นอก Intune อยู่นอกขอบเขตสำหรับสวัสดิการ FastTrack</span><span class="sxs-lookup"><span data-stu-id="6d8c7-218">Setting up Windows Autopilot outside Intune is out of scope for the FastTrack benefit.</span></span>
+    > <span data-ttu-id="3ce93-218">การตั้งค่า Windows ออโตไพลอตภายนอก Intune อยู่นอกขอบเขตสำหรับสวัสดิการของ FastTrack</span><span class="sxs-lookup"><span data-stu-id="3ce93-218">Setting up Windows Autopilot outside Intune is out of scope for the FastTrack benefit.</span></span>
 
-### <a name="enable-phase---co-management"></a><span data-ttu-id="6d8c7-219">เปิดใช้งานขั้นตอน - การจัดการร่วม</span><span class="sxs-lookup"><span data-stu-id="6d8c7-219">Enable phase - Co-management</span></span>
+### <a name="enable-phase---co-management"></a><span data-ttu-id="3ce93-219">เปิดใช้งานระยะ-การจัดการร่วม</span><span class="sxs-lookup"><span data-stu-id="3ce93-219">Enable phase - Co-management</span></span>
 
-<span data-ttu-id="6d8c7-220">ให้คำแนะนำบน:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-220">Provide guidance on:</span></span>
+<span data-ttu-id="3ce93-220">ให้คำแนะนำเกี่ยวกับ:</span><span class="sxs-lookup"><span data-stu-id="3ce93-220">Provide guidance on:</span></span>
 
--   <span data-ttu-id="6d8c7-221">อนุญาตให้ใช้สิทธิ์ของผู้ใช้</span><span class="sxs-lookup"><span data-stu-id="6d8c7-221">Licensing your end users.</span></span>
+-   <span data-ttu-id="3ce93-221">ให้สิทธิ์ผู้ใช้ปลายทางของคุณ</span><span class="sxs-lookup"><span data-stu-id="3ce93-221">Licensing your end users.</span></span>
 
--   <span data-ttu-id="6d8c7-222">เพิ่มผู้ใช้ให้การสมัครใช้งาน Intune การกำหนดบทบาทผู้ดูแลระบบ IT และสร้างกลุ่มผู้ใช้และอุปกรณ์ (ถ้าไม่ได้ติดตั้ง Intune)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-222">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups (if Intune is not installed).</span></span>
+-   <span data-ttu-id="3ce93-222">การเพิ่มผู้ใช้ไปยังการบอกรับเป็นสมาชิก Intune ของคุณกำหนดบทบาทผู้ดูแลระบบไอทีและการสร้างกลุ่มผู้ใช้และอุปกรณ์ (ถ้า Intune ไม่ได้ติดตั้ง)</span><span class="sxs-lookup"><span data-stu-id="3ce93-222">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups (if Intune is not installed).</span></span>
 
--   <span data-ttu-id="6d8c7-223">การตั้งค่าไดเรกทอรีที่ใช้งานอยู่ของ Azure สำหรับการลงทะเบียนอัตโนมัติ MDM</span><span class="sxs-lookup"><span data-stu-id="6d8c7-223">Setting up Azure Active Directory for MDM auto-enrollment.</span></span>
+-   <span data-ttu-id="3ce93-223">การตั้งค่าไดเรกทอรีที่ใช้งานอยู่ของ Azure สำหรับการลงทะเบียนอัตโนมัติ MDM</span><span class="sxs-lookup"><span data-stu-id="3ce93-223">Setting up Azure Active Directory for MDM auto-enrollment.</span></span>
 
--   <span data-ttu-id="6d8c7-224">ตั้งค่าไฮบริดสลี Azure Active Directory เข้าร่วม</span><span class="sxs-lookup"><span data-stu-id="6d8c7-224">Set up hybrid Azure Active Directory Join.</span></span>
+-   <span data-ttu-id="3ce93-224">ตั้งค่าการเข้าร่วมไดเรกทอรีที่ใช้งานอยู่ของไฮบริดสลี Azure</span><span class="sxs-lookup"><span data-stu-id="3ce93-224">Set up hybrid Azure Active Directory Join.</span></span>
 
--   <span data-ttu-id="6d8c7-225">ตั้งค่าเกตเวย์จัดการ Cloud</span><span class="sxs-lookup"><span data-stu-id="6d8c7-225">Set up Cloud Management Gateway.</span></span>
+-   <span data-ttu-id="3ce93-225">ตั้งค่าเกตเวย์จัดการคลาวด์</span><span class="sxs-lookup"><span data-stu-id="3ce93-225">Set up Cloud Management Gateway.</span></span>
 
--   <span data-ttu-id="6d8c7-226">เพิ่มผู้ใช้ให้การสมัครใช้งาน Intune การกำหนดบทบาทผู้ดูแลระบบ IT และสร้างกลุ่มผู้ใช้และอุปกรณ์</span><span class="sxs-lookup"><span data-stu-id="6d8c7-226">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
+-   <span data-ttu-id="3ce93-226">การเพิ่มผู้ใช้ไปยังการบอกรับเป็นสมาชิก Intune ของคุณกำหนดบทบาทผู้ดูแลระบบไอทีและการสร้างกลุ่มผู้ใช้และอุปกรณ์</span><span class="sxs-lookup"><span data-stu-id="3ce93-226">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
 
--   <span data-ttu-id="6d8c7-227">เตรียม Intune (ถ้าไม่ได้ติดตั้ง Intune):</span><span class="sxs-lookup"><span data-stu-id="6d8c7-227">Prepare Intune (if Intune is not installed):</span></span>
+-   <span data-ttu-id="3ce93-227">เตรียม Intune (ถ้าไม่ได้ติดตั้ง Intune):</span><span class="sxs-lookup"><span data-stu-id="3ce93-227">Prepare Intune (if Intune is not installed):</span></span>
 
-    -   <span data-ttu-id="6d8c7-228">ตั้งค่าคอนฟิก MDM การจัดการอุปกรณ์มือถือของคุณ) หน่วยงาน ตามความต้องการจัดการ รวมถึง:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-228">Configuring your Mobile Device Management MDM) authority, based on your management needs, including:</span></span>
+    -   <span data-ttu-id="3ce93-228">การตั้งค่าคอนฟิกสิทธิ์การจัดการอุปกรณ์เคลื่อนที่ของคุณ) ขึ้นอยู่กับความต้องการในการจัดการของคุณรวมถึง:</span><span class="sxs-lookup"><span data-stu-id="3ce93-228">Configuring your Mobile Device Management MDM) authority, based on your management needs, including:</span></span>
 
-    -   <span data-ttu-id="6d8c7-229">การตั้งค่า Intune เป็นหน่วยงานของคุณ MDM</span><span class="sxs-lookup"><span data-stu-id="6d8c7-229">Setting Intune as your MDM authority.</span></span>
+    -   <span data-ttu-id="3ce93-229">การตั้งค่า Intune เป็นหน่วยงาน MDM ของคุณ</span><span class="sxs-lookup"><span data-stu-id="3ce93-229">Setting Intune as your MDM authority.</span></span>
 
-    -   <span data-ttu-id="6d8c7-230">การกำหนดค่ากลุ่มทดสอบที่จะใช้ในการตรวจสอบ MDM นโยบายการจัดการ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-230">Configuring tests groups to be used to validate MDM management policies.</span></span>
+    -   <span data-ttu-id="3ce93-230">การตั้งค่าคอนฟิกกลุ่มการทดสอบที่จะใช้ในการตรวจสอบความถูกต้องของนโยบายการจัดการ MDM</span><span class="sxs-lookup"><span data-stu-id="3ce93-230">Configuring tests groups to be used to validate MDM management policies.</span></span>
 
-    -   <span data-ttu-id="6d8c7-231">การนำทางในพอร์ทัล admin Intune เพื่อค้นหาข้อมูลเกี่ยวกับผู้ใช้และอุปกรณ์</span><span class="sxs-lookup"><span data-stu-id="6d8c7-231">Navigating the Intune admin portal to locate information on users and devices.</span></span>
+    -   <span data-ttu-id="3ce93-231">การนำทางพอร์ทัล admin Intune เพื่อค้นหาข้อมูลบนผู้ใช้และอุปกรณ์</span><span class="sxs-lookup"><span data-stu-id="3ce93-231">Navigating the Intune admin portal to locate information on users and devices.</span></span>
 
-    -   <span data-ttu-id="6d8c7-232">การตั้งค่าบทบาท Intune (ผู้ให้บริการความช่วยเหลือโต๊ะทำงาน admins เป็นต้น)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-232">Setting up Intune roles (Help desk operator, admins, etc.)</span></span>
+    -   <span data-ttu-id="3ce93-232">การตั้งค่าบทบาท Intune (ตัวดำเนินการโต๊ะช่วยเหลือผู้ดูแลระบบฯลฯ)</span><span class="sxs-lookup"><span data-stu-id="3ce93-232">Setting up Intune roles (Help desk operator, admins, etc.)</span></span>
 
-    -   <span data-ttu-id="6d8c7-233">ตั้งค่าคอนฟิก และปรับใช้นโยบายการป้องกันโปรแกรมประยุกต์ Intune สำหรับแต่ละแพลตฟอร์มที่ได้รับการสนับสนุน</span><span class="sxs-lookup"><span data-stu-id="6d8c7-233">Configuring and deploying Intune app protection policies for each supported platform.</span></span>
+    -   <span data-ttu-id="3ce93-233">การกำหนดค่าและการปรับใช้นโยบายการป้องกันแอป Intune สำหรับแต่ละแพลตฟอร์มที่ได้รับการสนับสนุน</span><span class="sxs-lookup"><span data-stu-id="3ce93-233">Configuring and deploying Intune app protection policies for each supported platform.</span></span>
 
-    -   <span data-ttu-id="6d8c7-234">ลงทะเบียนอุปกรณ์ Windows 10 Intune ของคุณ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-234">Enrolling Windows 10 devices to your Intune.</span></span>
+    -   <span data-ttu-id="3ce93-234">การลงทะเบียนอุปกรณ์ Windows 10 ไปยัง Intune ของคุณ</span><span class="sxs-lookup"><span data-stu-id="3ce93-234">Enrolling Windows 10 devices to your Intune.</span></span>
 
-- <span data-ttu-id="6d8c7-235">เปิดใช้งานการจัดการร่วมในคอนโซลการจัดการการตั้งค่า</span><span class="sxs-lookup"><span data-stu-id="6d8c7-235">Enable Co-Management in the Configuration Manager console.</span></span>
+- <span data-ttu-id="3ce93-235">เปิดใช้งานการจัดการร่วมในคอนโซลการจัดการการตั้งค่า</span><span class="sxs-lookup"><span data-stu-id="3ce93-235">Enable Co-Management in the Configuration Manager console.</span></span>
 
-- <span data-ttu-id="6d8c7-236">สลับเวิร์กโหลดไปที่ Intune</span><span class="sxs-lookup"><span data-stu-id="6d8c7-236">Switch workloads to Intune.</span></span>
+- <span data-ttu-id="3ce93-236">เปลี่ยนเวิร์กโหลดเป็น Intune</span><span class="sxs-lookup"><span data-stu-id="3ce93-236">Switch workloads to Intune.</span></span>
 
-- <span data-ttu-id="6d8c7-237">ตรวจสอบกิจกรรมการจัดการร่วมในสภาพแวดล้อมของคุณ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-237">Monitor the Co-management activity in your environment.</span></span>
+- <span data-ttu-id="3ce93-237">ติดตามกิจกรรมการจัดการร่วมในสภาพแวดล้อมของคุณ</span><span class="sxs-lookup"><span data-stu-id="3ce93-237">Monitor the Co-management activity in your environment.</span></span>
 
-### <a name="enable-phase--azure-information-protection"></a><span data-ttu-id="6d8c7-238">เปิดใช้งานขั้นตอน – ป้องกันข้อมูล Azure</span><span class="sxs-lookup"><span data-stu-id="6d8c7-238">Enable phase – Azure Information Protection</span></span>
+### <a name="enable-phase--azure-information-protection"></a><span data-ttu-id="3ce93-238">เปิดใช้งานระยะ–การป้องกันข้อมูล Azure</span><span class="sxs-lookup"><span data-stu-id="3ce93-238">Enable phase – Azure Information Protection</span></span>
 
-<span data-ttu-id="6d8c7-239">ให้คำแนะนำบน:</span><span class="sxs-lookup"><span data-stu-id="6d8c7-239">Provided guidance on:</span></span> 
+<span data-ttu-id="3ce93-239">ให้คำแนะนำเกี่ยวกับ:</span><span class="sxs-lookup"><span data-stu-id="3ce93-239">Provided guidance on:</span></span> 
 
-- <span data-ttu-id="6d8c7-240">เปิดใช้งาน และตั้งค่าคอนฟิกผู้เช่าลูกค้า</span><span class="sxs-lookup"><span data-stu-id="6d8c7-240">Activating and configuring the customer tenant.</span></span>
+- <span data-ttu-id="3ce93-240">การเปิดใช้งานและการตั้งค่าคอนฟิกผู้เช่าลูกค้า</span><span class="sxs-lookup"><span data-stu-id="3ce93-240">Activating and configuring the customer tenant.</span></span>
 
-- <span data-ttu-id="6d8c7-241">การสร้าง และการตั้งค่าป้ายชื่อและนโยบาย</span><span class="sxs-lookup"><span data-stu-id="6d8c7-241">Creating and setting up labels and policies.</span></span>
+- <span data-ttu-id="3ce93-241">การสร้างและการตั้งค่าป้ายชื่อและนโยบาย</span><span class="sxs-lookup"><span data-stu-id="3ce93-241">Creating and setting up labels and policies.</span></span>
 
-- <span data-ttu-id="6d8c7-242">การป้องกันข้อมูลที่ใช้กับเอกสาร</span><span class="sxs-lookup"><span data-stu-id="6d8c7-242">Applying information protection to documents.</span></span> 
+- <span data-ttu-id="3ce93-242">การใช้การป้องกันข้อมูลกับเอกสาร</span><span class="sxs-lookup"><span data-stu-id="3ce93-242">Applying information protection to documents.</span></span> 
 
-- <span data-ttu-id="6d8c7-243">จัดประเภท และป้ายชื่อข้อมูลในโปรแกรมประยุกต์ Office (เช่น Word, PowerPoint, Excel และ Outlook) โดยอัตโนมัติทำงานบน Windows และใช้ไคลเอ็นต์การป้องกันข้อมูล Azure</span><span class="sxs-lookup"><span data-stu-id="6d8c7-243">Automatically classifying and labeling information in Office apps (like Word, PowerPoint, Excel, and Outlook) running on Windows and using the Azure Information Protection client.</span></span>
+- <span data-ttu-id="3ce93-243">การจัดประเภทและการติดฉลากข้อมูลโดยอัตโนมัติในแอป Office (เช่น Word, PowerPoint, Excel และ Outlook) ที่ทำงานบน Windows และใช้ไคลเอ็นต์การป้องกันข้อมูล Azure</span><span class="sxs-lookup"><span data-stu-id="3ce93-243">Automatically classifying and labeling information in Office apps (like Word, PowerPoint, Excel, and Outlook) running on Windows and using the Azure Information Protection client.</span></span>
 
-- <span data-ttu-id="6d8c7-244">การใช้แฟ้มที่เหลือกับสแกนเนอร์ป้องกันข้อมูล Azure</span><span class="sxs-lookup"><span data-stu-id="6d8c7-244">Using files at rest with the Azure Information Protection scanner.</span></span>
+- <span data-ttu-id="3ce93-244">การใช้แฟ้มที่เหลือด้วยเครื่องสแกนเนอร์การป้องกันข้อมูล Azure</span><span class="sxs-lookup"><span data-stu-id="3ce93-244">Using files at rest with the Azure Information Protection scanner.</span></span>
 
-- <span data-ttu-id="6d8c7-245">ตรวจสอบอีเมล์ในการส่งต่อโดยใช้กฎกระแสจดหมาย Exchange แบบออนไลน์</span><span class="sxs-lookup"><span data-stu-id="6d8c7-245">Monitoring emails in transit using Exchange Online mail flow rules.</span></span>
+- <span data-ttu-id="3ce93-245">การตรวจสอบจดหมายในการส่งต่อโดยใช้กฎของโฟลว์จดหมาย Exchange แบบออนไลน์</span><span class="sxs-lookup"><span data-stu-id="3ce93-245">Monitoring emails in transit using Exchange Online mail flow rules.</span></span>
 
-<span data-ttu-id="6d8c7-246">นอกจากนี้คำแนะนำที่ให้แก่ลูกค้าที่ต้องการใช้การป้องกันโดยใช้ บริการจัดการสิทธิ์ Azure ของ Microsoft (Azure RMS), การเข้ารหัสลับข้อความใน 365 Office (าน), และป้องกันการสูญหายของข้อมูล (DLP)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-246">Guidance is also provided to customers who want to apply protection using Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME), and data loss prevention (DLP).</span></span>
+<span data-ttu-id="3ce93-246">คำแนะนำยังให้แก่ลูกค้าที่ต้องการใช้การป้องกันโดยใช้บริการจัดการสิทธิ์ Azure ของ Microsoft (Azure RMS), Office ๓๖๕การเข้ารหัสลับข้อความ (OME), และการป้องกันการสูญหายของข้อมูล (DLP)</span><span class="sxs-lookup"><span data-stu-id="3ce93-246">Guidance is also provided to customers who want to apply protection using Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME), and data loss prevention (DLP).</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="6d8c7-247">**ต้องการเรียนรู้เพิ่มเติมได้อย่างไร** ดู[องค์กร Mobility + ความปลอดภัย](https://www.microsoft.com/cloud-platform/enterprise-mobility)</span><span class="sxs-lookup"><span data-stu-id="6d8c7-247">**Want to learn more?** see [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span></span>
+> <span data-ttu-id="3ce93-247">**ต้องการเรียนรู้เพิ่มเติมหรือไม่** ดูการ[เคลื่อนย้ายขององค์กร + ความปลอดภัย](https://www.microsoft.com/cloud-platform/enterprise-mobility)</span><span class="sxs-lookup"><span data-stu-id="3ce93-247">**Want to learn more?** see [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="6d8c7-248">ขั้นตอนถัดไป</span><span class="sxs-lookup"><span data-stu-id="6d8c7-248">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="3ce93-248">ขั้นตอนถัดไป</span><span class="sxs-lookup"><span data-stu-id="3ce93-248">Next steps</span></span>
 
-[<span data-ttu-id="6d8c7-249">สวัสดิการ FastTrack สำหรับ EMS - ความรับผิดชอบของคุณ</span><span class="sxs-lookup"><span data-stu-id="6d8c7-249">FastTrack benefit for EMS - Your responsibilities</span></span>](EMS-your-responsibilities.md)
+[<span data-ttu-id="3ce93-249">ประโยชน์ของ FastTrack สำหรับ EMS-ความรับผิดชอบของคุณ</span><span class="sxs-lookup"><span data-stu-id="3ce93-249">FastTrack benefit for EMS - Your responsibilities</span></span>](EMS-your-responsibilities.md)
