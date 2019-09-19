@@ -9,16 +9,16 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: 'ถ้าคุณมีข้อตกลงการร่วมธุรกิจของ HIPAA (BAA) กับ Microsoft สำหรับบริการ FastTrack บริการทั้งหมดที่แสดงอยู่ในการใช้ประโยชน์ของศูนย์ FastTrack สำหรับ Office ๓๖๕จะรวมอยู่ในที่ BAA ยกเว้น:'
-ms.openlocfilehash: 8917e30a216f2d3ef0b4bb9727bfb38ba635102b
-ms.sourcegitcommit: 2dd6bbedc1a83e0dfed061efea9999958a680dcc
+ms.openlocfilehash: abd382f82e456993b4545766e55c9d653f649958
+ms.sourcegitcommit: dbc549e070dfaaffd24964b6826f1d749b5bd08b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "37013490"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37026159"
 ---
 # <a name="appendix-c---fasttrack-center-hipaa-business-associate-agreement"></a>ภาคผนวก C - ข้อตกลง HIPAA Business Associate ของศูนย์ FastTrack
 
-หากคุณมีข้อตกลงการร่วมธุรกิจของ HIPAA (BAA) ที่ตกลงกับ Microsoft สำหรับบริการ FastTrack บริการทั้งหมดที่แสดงรายการอยู่ในศูนย์การใช้[สิทธิประโยชน์สำหรับ Office ๓๖๕](O365-fasttrack-benefit-for-office-365.md)จะดำเนินการให้สอดคล้องกับ BAA ที่ยกเว้น: 
+หากคุณมีข้อตกลงการเชื่อมโยงธุรกิจของ HIPAA (BAA) ตกลงกับ Microsoft บริการทั้งหมดที่ระบุไว้ในการใช้[ประโยชน์จากศูนย์ FastTrack สำหรับ Office ๓๖๕มีการ](O365-fasttrack-benefit-for-office-365.md)ดำเนินการตามที่ BAA ยกเว้น: 
   
 - การย้ายข้อมูลใน Gmail   
 - การย้ายข้อมูลของ GroupWise
