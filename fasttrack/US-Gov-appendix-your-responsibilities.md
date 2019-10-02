@@ -3,19 +3,19 @@ title: ความรับผิดชอบของคุณสำหรั�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: คุณมีความรับผิดชอบต่อไปนี้ในระหว่างการปฐมนิเทศ
-ms.openlocfilehash: c01471077e3dde1fee4c210f2d0328d06d5224c5
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 1f83286c6941ba5edafd0b05634fee3528168205
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712179"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342588"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>ความรับผิดชอบของคุณสำหรับ Office ๓๖๕รัฐบาลสหรัฐ
 

@@ -3,19 +3,19 @@ title: ความรับผิดชอบของ FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: ผู้เชี่ยวชาญ FastTrack มีความรับผิดชอบต่อไปนี้ระหว่างการปฐมนิเทศ
-ms.openlocfilehash: 4e2383b2654fb1218bbb2cb9913e6cbf6b94572a
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712171"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342300"
 ---
 # <a name="fasttrack-responsibilities"></a>ความรับผิดชอบของ FastTrack
 
@@ -225,14 +225,6 @@ ms.locfileid: "36712171"
 - การเลือกและการตั้งค่าการติดตั้งแบบโลคัลหรือระบบคลาวด์
 - การสร้างการกำหนดค่าเครื่องมือการปรับใช้ Office XML ด้วยเครื่องมือกำหนดเองของ Office หรือ XML ดั้งเดิมเพื่อกำหนดค่าแพคเกจการปรับใช้
 - การปรับใช้โดยใช้ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบรวมถึงความช่วยเหลือในการสร้างบรรจุภัณฑ์ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบ
-    
-## <a name="microsoft-staffhub"></a>ไมโครซอฟท์
-
-ให้คำแนะนำเกี่ยวกับ:
-- การยืนยัน Microsoft StaffHub ถูกเปิดใช้งานบนผู้เช่า Office ๓๖๕ของคุณ
-- การเปิดหรือปิดใช้งานใบอนุญาตของผู้ให้บริการ
-- คุณสมบัติของผลิตภัณฑ์หลัก
-- ดาวน์โหลดสถานที่สำหรับ Microsoft StaffHub
     
 ## <a name="outlook-for-ios-and-android"></a>Outlook สำหรับ iOS และ Android
 

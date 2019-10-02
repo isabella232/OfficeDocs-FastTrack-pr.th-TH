@@ -5,21 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
-ms.reviewer: ''
-ms.suite: ems
-ms.openlocfilehash: ba93fb6e6ba23219752eebb857ed156f2cbfaab8
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 5b661d709b4f5c25395f07f005d055c5bb84db35
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711545"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342624"
 ---
 # <a name="onboarding-phases"></a>ระยะการปฐมนิเทศ
 
@@ -140,7 +137,7 @@ ms.locfileid: "36711545"
 
 -   การกำหนดค่าสิทธิในการจัดการอุปกรณ์เคลื่อนที่ (MDM) ตามความต้องการในการจัดการของคุณซึ่งรวมถึง:
 
-    -   การตั้งค่า Intune เป็นหน่วยงาน MDM ของคุณเมื่อ Intune เป็นโซลูชัน MDM เฉพาะของคุณหรืออยู่ร่วมกับการจัดการอุปกรณ์มือถือสำหรับ Office ๓๖๕
+    -   การตั้งค่า Intune เป็นหน่วยงาน MDM ของคุณเมื่อ Intune เป็นโซลูชัน MDM ของคุณเท่านั้น
 
 -   การให้คำแนะนำ MDM สำหรับ:
 
