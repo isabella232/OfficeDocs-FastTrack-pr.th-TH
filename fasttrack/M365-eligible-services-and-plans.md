@@ -3,19 +3,19 @@ title: บริการและแผนที่มีสิทธิ์
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: เมื่อคุณซื้อบริการใดๆของ Microsoft ๓๖๕ผู้เชี่ยวชาญของ FastTrack ให้คำแนะนำสำหรับคุณในการบินไปยัง Microsoft ๓๖๕และเริ่มต้นการใช้งานของพวกเขา
-ms.openlocfilehash: a9214126f8795d99c90b2008d16d99fc6dc83676
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 984f10eb9c9854f28e5cb56537594f87aeb8cef7
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342564"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921179"
 ---
 # <a name="eligible-services-and-plans"></a>บริการและแผนที่มีสิทธิ์
 
@@ -49,20 +49,22 @@ ms.locfileid: "37342564"
 
 ศูนย์ FastTrack ให้ความช่วยเหลือสำหรับบริการต่อไปนี้:
   
-- แลกเปลี่ยนแบบออนไลน์
-- SharePoint แบบออนไลน์
-- OneDrive สำหรับธุรกิจ
-- ไมโครซอฟท์ทีม
-- Skype สำหรับธุรกิจออนไลน์
-- พลังงาน BI
-- โครงการออนไลน์
-- องค์กร Yammer 
-- สำนักงาน๓๖๕ ProPlus
-- วินโดวส์10
 - พรีเมียมไดเรกทอรีที่ใช้งานอยู่ของ Azure
 - การป้องกันข้อมูล Azure
+- แลกเปลี่ยนแบบออนไลน์ 
+- การป้องกันภัยคุกคามขั้นสูงของ Microsoft Defender
 - ไมโครซอฟท์ Intune
-    
+- Microsoft Teams
+- การป้องกันภัยคุกคามขั้นสูงของ Office ๓๖๕
+- สำนักงาน๓๖๕ ProPlus
+- OneDrive สำหรับธุรกิจ
+- พลังงาน BI
+- โครงการออนไลน์
+- SharePoint Online
+- Skype สำหรับธุรกิจออนไลน์
+- วินโดวส์10
+- องค์กร Yammer 
+  
 ## <a name="eligible-microsoft-365-plans"></a>แผนบริการของ Microsoft ๓๖๕ที่มีสิทธิ์
   
  **ไมโครซอฟท์๓๖๕องค์กร**
@@ -118,7 +120,7 @@ ms.locfileid: "37342564"
 - โครงการมืออาชีพออนไลน์
 - พรีเมี่ยมโครงการออนไลน์
     
- **SharePoint แบบออนไลน์**
+ **SharePoint Online**
   
 - SharePoint แบบออนไลน์แผน1
 - SharePoint แบบออนไลน์แผน2

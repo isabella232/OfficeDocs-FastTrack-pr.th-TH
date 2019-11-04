@@ -3,19 +3,19 @@ title: ข้อกำหนดของสภาพแวดล้อมต้�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: ประโยชน์ของศูนย์ FastTrack ให้คำแนะนำสำหรับคุณในการตั้งค่าระดับของการรวมกับสภาพแวดล้อมของแหล่งที่มาของคุณสำหรับการปรับใช้ Windows 10
-ms.openlocfilehash: f2cbee68266e953dd9b58f25bb0cf9fabb67e7b7
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: bdd76e9ca00f868d6231a65b140966baec983edc
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342672"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921883"
 ---
 # <a name="source-environment-expectations"></a>ข้อกำหนดของสภาพแวดล้อมต้นทาง
 

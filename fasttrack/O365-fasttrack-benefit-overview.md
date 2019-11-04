@@ -3,7 +3,7 @@ title: ภาพรวมสิทธิประโยชน์จากศู�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: ด้วยประโยชน์ของศูนย์ FastTrack สำหรับ Office ๓๖๕คุณทำงานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อรับสภาพแวดล้อม Office ๓๖๕ของคุณพร้อมสำหรับการใช้งานและการวางแผนและการใช้งานภายในองค์กรของคุณ หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับสิทธิ์โปรดดูสิทธิประโยชน์ของศูนย์ FastTrack สำหรับ Office ๓๖๕
-ms.openlocfilehash: 4ae837cc05f6b5dbfa53c6a60bae83fc89d75c03
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: ae92d6dc3984f0de2c64b4a7545c09df18fcbb8b
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342048"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921503"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>ภาพรวมสิทธิประโยชน์จากศูนย์ FastTrack
 

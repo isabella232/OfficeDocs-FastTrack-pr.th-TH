@@ -3,19 +3,19 @@ title: วินโดวส์10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack มีคำแนะนำในการปรับใช้ Windows 10 เพื่อช่วยคุณในการอัพเกรดจาก Windows 7 Professional และ Windows ๘.๑มืออาชีพไปยัง Windows 10 Enterprise
-ms.openlocfilehash: ffbbde094e77bfc5ddf6155a318e7534e2a1c666
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: e9999306b8ac1a6916562eb7ac0f422622c834da
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342660"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921575"
 ---
 # <a name="windows-10"></a>วินโดวส์10
 
@@ -24,6 +24,7 @@ FastTrack มีคำแนะนำในการปรับใช้ Window
 - ปรับใช้ Windows 10 องค์กรด้วยตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบ Microsoft หรือ Microsoft ๓๖๕
 - ปรับใช้ Office ๓๖๕ ProPlus 
 - ปรับปรุง Windows 10 องค์กรและ Office ๓๖๕ ProPlus โดยใช้ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบหรือ Microsoft ๓๖๕
+- ตัวจัดการการตั้งค่าคอนฟิกที่แนบเมฆกับ Microsoft Intune หรือปรับใช้ Intune เป็นโซลูชันการจัดการคลาวด์เพียงอย่างเดียว
   
 > [!NOTE]
 > ให้คำแนะนำและแนวทางปฏิบัติที่ดีที่สุดในการออกแบบเพื่อให้ได้ผลลัพธ์ที่รวดเร็วและคาดการณ์ได้ หากคุณเลือกที่จะปรับใช้ภายนอกคำแนะนำนี้ประสบการณ์ของคุณอาจได้รับผลกระทบ คำแนะนำถูกกำหนดให้เป็นการรวมกันของความช่วยเหลือทางวาจาและเป็นลายลักษณ์อักษร เมื่อผู้เชี่ยวชาญ FastTrack ให้คำแนะนำเจ้าหน้าที่ FastTrack จะไม่สามารถดำเนินการแทนคุณได้ คุณสามารถใช้บริการ FastTrack สำหรับแผนการคัดเลือกได้ตราบใดที่การสมัครใช้งานของคุณเป็นปัจจุบัน  

@@ -3,19 +3,19 @@ title: สิทธิประโยชน์จากศูนย์ FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: คุณสามารถใช้สิทธิประโยชน์ของศูนย์ FastTrack สำหรับ Windows 10 เมื่อคุณซื้อสิทธิ์การใช้งานอย่าง*น้อย*๑๕๐สำหรับบริการหรือแผนงานที่มีสิทธิ์
-ms.openlocfilehash: b41536789bdb119c25b136779fb55b35460cabd4
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 444268c16b93ef8cccbf156e779c6465d32a5b8a
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342708"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921907"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Windows 10
 
