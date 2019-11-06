@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: คุณสามารถใช้สิทธิประโยชน์ของศูนย์ FastTrack สำหรับ Windows 10 เมื่อคุณซื้อสิทธิ์การใช้งานอย่าง*น้อย*๑๕๐สำหรับบริการหรือแผนงานที่มีสิทธิ์
-ms.openlocfilehash: 444268c16b93ef8cccbf156e779c6465d32a5b8a
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 6cea55294624df24437ef509e33a27d946675ef5
+ms.sourcegitcommit: bcb004732e9198bddea721c98b3221a7d9c0ddd6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921907"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "37992379"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Windows 10
 
@@ -24,8 +24,9 @@ ms.locfileid: "37921907"
 > [!NOTE]
 > สำหรับวัตถุประสงค์ของเอกสารนี้ผู้เชี่ยวชาญ FastTrack สามารถรวมถึงพนักงานของ Microsoft ที่ได้รับการอนุมัติจาก Microsoft และคู่ค้าที่ได้รับการรับรองจาก Microsoft 
     
-- [วินโดวส์10](Win-10-windows-10.md)
+- [Windows 10](Win-10-windows-10.md)
 - [Desktop App Assure](Win-10-desktop-app-assure.md)
+- [Microsoft Defender Advanced Threat Protection](Win-10-microsoft-defender-atp.md)
   
 
   
