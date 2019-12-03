@@ -3,19 +3,19 @@ title: บริการและแผนที่มีสิทธิ์
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: เมื่อคุณซื้อบริการใดๆของ Microsoft ๓๖๕ผู้เชี่ยวชาญของ FastTrack ให้คำแนะนำสำหรับคุณในการบินไปยัง Microsoft ๓๖๕และเริ่มต้นการใช้งานของพวกเขา
-ms.openlocfilehash: 984f10eb9c9854f28e5cb56537594f87aeb8cef7
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 47f0a830a289974b8cfe370101d4049f3f19816f
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921179"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662774"
 ---
 # <a name="eligible-services-and-plans"></a>บริการและแผนที่มีสิทธิ์
 
@@ -52,7 +52,7 @@ ms.locfileid: "37921179"
 - พรีเมียมไดเรกทอรีที่ใช้งานอยู่ของ Azure
 - การป้องกันข้อมูล Azure
 - แลกเปลี่ยนแบบออนไลน์ 
-- การป้องกันภัยคุกคามขั้นสูงของ Microsoft Defender
+- Microsoft Defender Advanced Threat Protection
 - ไมโครซอฟท์ Intune
 - Microsoft Teams
 - การป้องกันภัยคุกคามขั้นสูงของ Office ๓๖๕
@@ -62,7 +62,7 @@ ms.locfileid: "37921179"
 - โครงการออนไลน์
 - SharePoint Online
 - Skype สำหรับธุรกิจออนไลน์
-- วินโดวส์10
+- Windows 10
 - องค์กร Yammer 
   
 ## <a name="eligible-microsoft-365-plans"></a>แผนบริการของ Microsoft ๓๖๕ที่มีสิทธิ์
@@ -72,6 +72,7 @@ ms.locfileid: "37921179"
 - ไมโครซอฟท์๓๖๕ E3\*
 - ไมโครซอฟท์๓๖๕ E5\*
 - ไมโครซอฟท์๓๖๕ E5 ความปลอดภัย\*
+- ไมโครซอฟท์๓๖๕ F1 *
 - ไมโครซอฟท์๓๖๕ธุรกิจ\*
     
  **ไมโครซอฟท์๓๖๕การศึกษา**
@@ -164,8 +165,6 @@ ms.locfileid: "37921179"
 |**ไมโครซอฟท์ Intune**    |   มีสิทธิ์ถ้าซื้อเป็นแผนแบบสแตนด์อโลนหรือเป็นส่วนหนึ่งของ E3 หรือ E5      |
 |**Microsoft Intune และตัวจัดการการตั้งค่าคอนฟิก**     |    มีสิทธิ์ถ้าซื้อเป็นแผนแบบสแตนด์อโลนหรือเป็นส่วนหนึ่งของ E3 หรือ E5     |
 |**Microsoft Intune สำหรับการศึกษา**     |  มีสิทธิ์ถ้าซื้อเป็นแผนแบบสแตนด์อโลนหรือเป็นส่วนหนึ่งของ A3 หรือ A5       |
-|**การป้องกันภัยคุกคามขั้นสูงของ Azure**     |    จำกัด มีสิทธิ์เฉพาะเมื่อซื้อเป็นแผนแบบสแตนด์อโลนเท่านั้น การทำเช่นนี้ไปที่[เว็บไซต์ของ Microsoft ๓๖๕ FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903)   |
-|**การรักษาความปลอดภัยของแอป Microsoft Cloud**    |       จำกัด มีสิทธิ์เฉพาะเมื่อซื้อเป็นแผนแบบสแตนด์อโลนเท่านั้น การทำเช่นนี้ไปที่[เว็บไซต์ของ Microsoft ๓๖๕ FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903)    |
 
 สำหรับข้อมูลเพิ่มเติมให้ดู[สิทธิประโยชน์ของศูนย์ FastTrack สำหรับการเคลื่อนย้ายขององค์กร + ความปลอดภัย](EMS-fasttrack-benefit-for-EMS.md)
 

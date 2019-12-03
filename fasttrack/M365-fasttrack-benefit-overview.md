@@ -3,7 +3,7 @@ title: สิทธิประโยชน์จากศูนย์ FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack สำหรับ Microsoft ๓๖๕ให้คำแนะนำสำหรับการวางแผนการปรับใช้และการยอมรับรวมถึงการเข้าถึงระยะไกลไปยังความเชี่ยวชาญด้านวิศวกรรมของ Microsoft แนวทางปฏิบัติเครื่องมือและทรัพยากรที่ดีที่สุด FastTrack สำหรับ Microsoft ๓๖๕ช่วยให้องค์กรและคู่ค้าของพวกเขาเร่งการปรับใช้และได้รับการนำผู้ใช้ของ Office ๓๖๕, Windows 10 และการเคลื่อนย้ายขององค์กร + ความปลอดภัย
-ms.openlocfilehash: 56b48a7a8b451e4027bbfdfc6ad90b9577edad11
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 429cab1672ca5e8f7950124068da48e19de5a8e4
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921479"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662838"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365
 
@@ -29,7 +29,7 @@ ms.locfileid: "37921479"
   
 หากต้องการเรียนรู้เพิ่มเติมโปรดดูที่:
 
-- [สิทธิประโยชน์จาก FastTrack สำหรับ Office 365](O365-fasttrack-benefit-for-office-365.md) 
+- [สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365](O365-fasttrack-benefit-for-office-365.md) 
 - [ประโยชน์ของศูนย์ FastTrack สำหรับการเคลื่อนย้ายขององค์กร + ความปลอดภัย](EMS-fasttrack-benefit-for-EMS.md)
 - [ประโยชน์ของศูนย์ FastTrack สำหรับ Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md) นอกจากนี้คุณยังสามารถสำรวจบริการ FastTrack และ[ขอความช่วยเหลือ](https://go.microsoft.com/fwlink/p/?LinkId=2003903)จาก fasttrack ในวันนี้
 

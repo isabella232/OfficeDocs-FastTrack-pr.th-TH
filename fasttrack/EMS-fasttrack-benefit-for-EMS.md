@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 520f97a657715abb4741bfe3473c5c5dccd97737
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 7b5a49b4fc2a41952efabe6265e1a79c4b966b7b
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921203"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662886"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Enterprise Mobility + Security (EMS)
 
@@ -33,7 +33,7 @@ ms.locfileid: "37921203"
 - หากต้องการเรียนรู้เกี่ยวกับกระบวนการของศูนย์ FastTrack และผู้ที่รับผิดชอบสิ่งใดโปรดดู[กระบวนการสวัสดิการของศูนย์ FastTrack สำหรับการเคลื่อนย้ายขององค์กร + ความปลอดภัย](EMS-fasttrack-process.md)
 
     > [!TIP]
-    > หากคุณต้องการดาวน์โหลดไฟล์ .zip ที่มีคู่มือการเคลื่อนไหวขององค์กร +**วิธีแนะนำวิธีการ**และข้อความที่สามารถปรับแต่งด้วยโลโก้ขององค์กรของคุณเพื่อช่วยส่งเสริมการยอมรับ ems ภายในองค์กรของคุณ, ดู[FastTrack สำหรับ EMS วิธีการแนะนำ & การกำหนดเอง](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c)
+    > หากคุณต้องการดาวน์โหลดไฟล์ .zip ที่มีคำแนะนำด้านการเคลื่อนไหวขององค์กร +**วิธีการ**และข้อความที่สามารถปรับแต่งได้ด้วยโลโก้ขององค์กรของคุณเพื่อช่วยส่งเสริมการยอมรับ ems ภายในองค์กรของคุณให้ดูที่[FastTrack สำหรับ EMS วิธีการแนะนำ & ไปยังการกำหนดเอง](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c)
 
 ## <a name="next-steps"></a>ขั้นตอนถัดไป
 

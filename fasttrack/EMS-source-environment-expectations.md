@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,16 +14,16 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 3163294fc53913a125beb560a0ec21f7aac96e22
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 2ea6b9a8aa9c3e6ac98e073b9449ab97c9659303
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921191"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662898"
 ---
 # <a name="source-environment-expectations"></a>ข้อกำหนดของสภาพแวดล้อมต้นทาง
 
-เมื่อคุณใช้[ประโยชน์ของศูนย์ FastTrack สำหรับการเคลื่อนย้ายขององค์กร + ความปลอดภัย (EMS)](EMS-fasttrack-benefit-for-EMS.md)เพื่อให้ได้ Microsoft Azure ใช้งานอยู่ไดเรกทอรีแบบพรีเมียม, Microsoft Intune และการป้องกันข้อมูล Azure พร้อมสำหรับการใช้งานสภาพแวดล้อมของคุณต้องการที่จะตอบสนองความคาดหวัง ตามที่อธิบายไว้ในส่วนต่อไปนี้
+เมื่อคุณใช้[ประโยชน์ของศูนย์ FastTrack สำหรับการเคลื่อนย้ายขององค์กร + ความปลอดภัย (EMS)](EMS-fasttrack-benefit-for-EMS.md)เพื่อให้ได้ Microsoft Azure ใช้งานอยู่ไดเรกทอรีแบบพรีเมียม, Microsoft Intune และการป้องกันข้อมูล Azure พร้อมใช้งานสภาพแวดล้อมของคุณต้องตอบสนองความคาดหวังที่อธิบายไว้ในส่วนต่อไปนี้
 
 คุณอาจมีไดเรกทอรีที่ใช้งานอยู่ในสถานที่ในองค์กรของคุณที่คุณต้องการรวมเข้ากับองค์กร Mobility + Security (EMS) หรือบริการของแต่ละบุคคลที่ใช้การจัดการข้อมูลประจำตัวที่หลากหลายจากคอนโซลเดียว สิทธิประโยชน์ของศูนย์ FastTrack สำหรับการเคลื่อนย้ายขององค์กร + ความปลอดภัย (EMS) รวมถึงการช่วยคุณรวมไดเรกทอรีที่ใช้งานอยู่ของ Azure กับสภาพแวดล้อมของไดเรกทอรีที่ใช้งานอยู่ในสถานที่ของคุณ
 
