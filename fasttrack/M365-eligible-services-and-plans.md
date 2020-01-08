@@ -10,16 +10,16 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: เมื่อคุณซื้อบริการใดๆของ Microsoft ๓๖๕ผู้เชี่ยวชาญของ FastTrack ให้คำแนะนำสำหรับคุณในการบินไปยัง Microsoft ๓๖๕และเริ่มต้นการใช้งานของพวกเขา
-ms.openlocfilehash: 910ff60ff314f63bbd1fa2083e481399ac0aa7d2
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 08b1129c7758f26d98b0bdc3989e7f39f423da0e
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40928639"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959181"
 ---
 # <a name="eligible-services-and-plans"></a>บริการและแผนที่มีสิทธิ์
 
-เมื่อคุณซื้อบริการใดๆของ Microsoft ๓๖๕ผู้เชี่ยวชาญของ FastTrack ให้คำแนะนำสำหรับคุณในการบินไปยัง Microsoft ๓๖๕และเริ่มต้นการใช้งานของพวกเขา 
+เมื่อคุณซื้อบริการใดๆของ Microsoft ๓๖๕ผู้เชี่ยวชาญของ FastTrack ให้คำแนะนำสำหรับคุณในการบินไปยัง Microsoft ๓๖๕และเริ่มต้นการใช้งานของพวกเขา
 
 > [!IMPORTANT]
 > คุณต้องซื้อสิทธิ์การใช้งานอย่าง*น้อย*๑๕๐จากแผนการมีสิทธิ์ที่ระบุไว้เพื่อรับบริการ FastTrack

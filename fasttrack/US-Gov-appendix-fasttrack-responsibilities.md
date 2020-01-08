@@ -10,16 +10,16 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: ผู้เชี่ยวชาญ FastTrack มีความรับผิดชอบต่อไปนี้ระหว่างการปฐมนิเทศ
-ms.openlocfilehash: 6ac727d55ba8d5653fb9ebffa95b7c3c4a104f70
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: ab9213c8ea5095531a0a06bb40138c995be093a6
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929299"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959193"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>ความรับผิดชอบของ FastTrack สำหรับ Office ๓๖๕รัฐบาลสหรัฐ
 
-ผู้เชี่ยวชาญ FastTrack มีความรับผิดชอบต่อไปนี้ระหว่างการปฐมนิเทศ
+ผู้เชี่ยวชาญ FastTrack มีความรับผิดชอบต่อไปนี้ระหว่างการปฐมนิเทศ  
   
 ## <a name="general"></a>ทั่ว ไป
 
