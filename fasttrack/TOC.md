@@ -24,7 +24,7 @@
 #### [ข้อกำหนดของสภาพแวดล้อมต้นทาง](Win-10-source-environment-expectations.md)
 #### [ขั้นตอนการออนบอร์ด](Win-10-onboarding-phases.md)
 #### [ความรับผิดชอบของคุณ](Win-10-your-responsibilities.md)
-### [Desktop App Assure](Win-10-desktop-app-assure.md)
+### [App Assure](Win-10-desktop-app-assure.md)
 #### [ความช่วยเหลือที่ให้](Win-10-daa-assistance-offered.md)
 ### [Microsoft Defender Advanced Threat Protection](Win-10-microsoft-defender-atp.md)
 #### [ความช่วยเหลือที่ให้](Win-10-microsoft-defender-atp-assistance-offered.md)
