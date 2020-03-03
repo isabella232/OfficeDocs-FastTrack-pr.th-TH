@@ -1,23 +1,23 @@
 ---
-title: ตรวจสอบให้แน่ใจ
+title: App Assure
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack ศูนย์ประโยชน์สำหรับ Windows 10 ให้การเข้าถึงแอพลิเคชันรับประกัน–บริการที่ออกแบบมาเพื่อแก้ปัญหาที่อยู่กับ Windows 10 และ Office ๓๖๕ ProPlus App ที่เข้ากันได้.
-ms.openlocfilehash: e27aa3e882dcd780880eea62c202d9dd2435d02c
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 5ecbbb7ef31b16e266ae4b4a614a424f62fa2007
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677217"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347605"
 ---
-# <a name="app-assure"></a>ตรวจสอบให้แน่ใจ
+# <a name="app-assure"></a>App Assure
 
 FastTrack ศูนย์ประโยชน์สำหรับ Windows 10 ให้การเข้าถึงแอพลิเคชันรับประกัน–บริการที่ออกแบบมาเพื่อแก้ปัญหาที่อยู่กับ Windows 10 และ Office ๓๖๕ ProPlus App ที่เข้ากันได้. วิศวกร Microsoft จะทำงานร่วมกับคุณเพื่อแก้ปัญหาแอพที่ถูกต้องโดยไม่มีค่าใช้จ่ายเพิ่มเติมสำหรับคุณด้วยการสมัครสมาชิกที่มีสิทธิ์ นอกจากนี้เรายังให้คำแนะนำแก่ลูกค้าที่เผชิญปัญหาความเข้ากันได้เมื่อปรับใช้เดสก์ท็อปเสมือนของ Windows และ Microsoft Edge ใหม่ 
 

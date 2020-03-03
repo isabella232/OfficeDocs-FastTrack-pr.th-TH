@@ -3,7 +3,7 @@ title: สิทธิประโยชน์จากศูนย์ FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack สำหรับ Microsoft ๓๖๕มีคำแนะนำสำหรับการวางแผนการปรับใช้และการยอมรับรวมทั้งการเข้าถึงระยะไกลไปยังความเชี่ยวชาญด้านวิศวกรรมของ Microsoft แนวทางปฏิบัติเครื่องมือและทรัพยากรที่ดีที่สุด FastTrack สำหรับ Microsoft ๓๖๕ช่วยองค์กรและคู่ค้าของพวกเขาเร่งการปรับใช้และการยอมรับผู้ใช้ปลายทางของ Office ๓๖๕, Windows 10 และการรักษาความปลอดภัยระดับองค์กร + Security
-ms.openlocfilehash: 4e6c53605d8054493c7e5603da0139e7c25535c5
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 84e08aab87cc1223c858f82c8e84484dd257cde8
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677049"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347569"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365
 

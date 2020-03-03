@@ -3,19 +3,19 @@ title: ภาคผนวก A - การโยกย้ายจาก IBM Dom
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'การโยกย้ายจาก IBM Domino แลกเปลี่ยนแบบออนไลน์รวมถึงด้านที่สำคัญหลายประการรวมทั้งสิ่งที่เกิดขึ้นในระหว่างขั้นตอนต่อไปนี้:'
-ms.openlocfilehash: 8221d1657f6ccbcf51178aada4f5ac10531832f1
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: ac945137e7beee0d0813ce171fc7292d683e9cd9
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677121"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347581"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>ภาคผนวก A - การโยกย้ายจาก IBM Domino ไปยัง Exchange Online
 

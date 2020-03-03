@@ -3,19 +3,19 @@ title: บริการและแผนที่มีสิทธิ์
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: เมื่อคุณซื้อบริการ Microsoft ๓๖๕ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำสำหรับคุณบนเครื่องไปยัง Microsoft ๓๖๕และเริ่มต้นทำการใช้งานของพวกเขา
-ms.openlocfilehash: be16cbd7248d9a05b75ea9bcccb48f0580febca6
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: dd51175a74a4693da43030c36a2e84db77294d32
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677025"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347545"
 ---
 # <a name="eligible-services-and-plans"></a>บริการและแผนที่มีสิทธิ์
 
@@ -30,15 +30,15 @@ ms.locfileid: "41677025"
 
 เมื่อต้องการรับความช่วยเหลือผ่าน[เว็บไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  ลงชื่อเข้าใช้ใน[เว็บไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
-2.  เลือก**บริการ**
-3.  ทำการ**ร้องขอความช่วยเหลือให้เสร็จสมบูรณ์ด้วย Microsoft ๓๖๕**ฟอร์ม
+2.  เลือก**คำขอความช่วยเหลือสำหรับ Microsoft ๓๖๕**จาก**การดำเนินการด่วน**ที่ด้านบนของเพจเริ่มต้นของคุณหรือโดยการเลือก**คำขอความช่วยเหลือสำหรับ Microsoft ๓๖๕**บนการ์ดการปรับใช้
+3.  ดำเนินการความ**ช่วยเหลือในการร้องขอสำหรับ Microsoft ๓๖๕**ฟอร์ม
   
 นอกจากนี้คู่ค้ายังสามารถรับความช่วยเหลือผ่าน[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698)ในนามของลูกค้าได้ด้วย เมื่อต้องการทำเช่นนั้น:
 1.  ลงชื่อเข้าใช้ใน[เว็บไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
 2.  เลือก**ลูกค้าของฉัน**
 3.  ค้นหาลูกค้าของคุณหรือเลือกจากรายชื่อลูกค้าของคุณ
 4.  เลือก**บริการ**
-5.  ทำการ**ร้องขอความช่วยเหลือให้เสร็จสมบูรณ์ด้วย Microsoft ๓๖๕**ฟอร์ม
+5.  ดำเนินการความ**ช่วยเหลือในการร้องขอสำหรับ Microsoft ๓๖๕**ฟอร์ม
 
 นอกจากนี้คุณยังสามารถขอความช่วยเหลือศูนย์ FastTrack จาก[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698)ในรายการบริการที่พร้อมใช้งานสำหรับผู้เช่าของคุณ 
 

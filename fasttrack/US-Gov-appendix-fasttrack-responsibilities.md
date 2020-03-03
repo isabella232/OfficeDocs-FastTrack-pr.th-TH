@@ -3,19 +3,19 @@ title: FastTrack ความรับผิดชอบสำหรับ Offic
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: ผู้เชี่ยวชาญ FastTrack มีความรับผิดชอบต่อไปนี้ในระหว่างปฐมนิเทศ
-ms.openlocfilehash: 502f3c7595de510caf98b51b7b2d0bd274d076e8
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 450106d47775f531cbfccdec978d3d15eedad5ac
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677037"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347461"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack ความรับผิดชอบสำหรับ Office ๓๖๕รัฐบาลสหรัฐอเมริกา
 
@@ -203,7 +203,7 @@ ms.locfileid: "41677037"
 - การติดตั้งแอปพลิเคชัน Office Mobile (เช่น Outlook Mobile, Word Mobile, Excel Mobile และ PowerPoint Mobile) บนอุปกรณ์เคลื่อนที่ iOS, Android หรือ Windows ของคุณ   
 - การตั้งค่าคอนฟิกการปรับปรุงโดยใช้เครื่องมือการปรับใช้ Office ๒๐๑๖หรือแม่แบบของนโยบายกลุ่ม   
 - การตั้งค่าเซิร์ฟเวอร์การแจกจ่ายในไซต์เดียวสำหรับ Office ๓๖๕ ProPlus รวมทั้งความช่วยเหลือเกี่ยวกับการสร้างแฟ้ม .xml การตั้งค่าคอนฟิกสำหรับใช้กับเครื่องมือการปรับใช้ Office ๓๖๕   
-- การปรับใช้โดยใช้ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบรวมถึงความช่วยเหลือด้วยการสร้างบรรจุภัณฑ์ของตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบ
+- การปรับใช้โดยใช้ตัวจัดการการตั้งค่าคอนฟิกปลายทางของ Microsoft รวมถึงความช่วยเหลือด้วยการสร้างบรรจุภัณฑ์ของตัวจัดการการตั้งค่าคอนฟิกปลายทาง
 
     
 

@@ -3,19 +3,19 @@ title: ความรับผิดชอบของ FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: ผู้เชี่ยวชาญ FastTrack มีความรับผิดชอบต่อไปนี้ในระหว่างปฐมนิเทศ
-ms.openlocfilehash: c8bbd015252265f7742c071b04c79e3b9d2c884c
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: f7fc935c51bdab416bedd9e1681d9c6940aa2999
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677109"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347773"
 ---
 # <a name="fasttrack-responsibilities"></a>ความรับผิดชอบของ FastTrack
 
@@ -152,7 +152,7 @@ ms.locfileid: "41677109"
 - การกำหนดค่าการปรับปรุงโดยใช้เครื่องมือการปรับใช้ Office ๓๖๕
 - การเลือกและตั้งค่าการติดตั้งท้องถิ่นหรือเมฆ
 - การสร้างการกำหนดค่าเครื่องมือการปรับใช้ Office XML ด้วยเครื่องมือกำหนดเองของ Office หรือ XML ดั้งเดิมเพื่อกำหนดค่าแพคเกจการปรับใช้
-- การปรับใช้โดยใช้ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบรวมถึงความช่วยเหลือด้วยการสร้างบรรจุภัณฑ์ของตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบ
+- การปรับใช้โดยใช้ตัวจัดการการตั้งค่าคอนฟิกปลายทางของ Microsoft รวมถึงความช่วยเหลือด้วยการสร้างบรรจุภัณฑ์ของตัวจัดการการตั้งค่าคอนฟิกปลายทาง
     
 ## <a name="onedrive-for-business"></a>OneDrive สำหรับธุรกิจ
 
