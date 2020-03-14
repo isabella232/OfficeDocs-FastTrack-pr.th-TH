@@ -11,12 +11,12 @@ ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 38d4c3c71c9127314f4453238a1b03a7b8945217
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: face8c17be9ca475abfb9b6eaabdfc3584677e93
+ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347509"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42637397"
 ---
 # <a name="onboarding-phases"></a>ขั้นตอนการออนบอร์ด
 
@@ -266,7 +266,7 @@ FastTrack ยังให้คำแนะนำเกี่ยวกับว�
 
 ![ปฐมนิเทศเปิดใช้งานเฟส-Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![ปฐมนิเทศเปิดใช้งานการจัดการร่วม](./media/ft-9-enable-phase-comanagement.png)
+![ปฐมนิเทศเปิดใช้งานการจัดการร่วม](./media/ft-9-enable-phase-comanagement.png) 
 
 #### <a name="enable-phase--azure-information-protection"></a>เปิดใช้งานเฟส–การป้องกันข้อมูล Azure
 

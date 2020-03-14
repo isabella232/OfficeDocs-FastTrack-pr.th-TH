@@ -10,35 +10,35 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: เมื่อคุณซื้อบริการ Microsoft ๓๖๕ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำสำหรับคุณบนเครื่องไปยัง Microsoft ๓๖๕และเริ่มต้นทำการใช้งานของพวกเขา
-ms.openlocfilehash: dd51175a74a4693da43030c36a2e84db77294d32
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: dd0ebf343498250492b6af42b0fbbf144dc1b5e8
+ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347545"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42637385"
 ---
 # <a name="eligible-services-and-plans"></a>บริการและแผนที่มีสิทธิ์
 
 เมื่อคุณซื้อบริการ Microsoft ๓๖๕ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำสำหรับคุณบนเครื่องไปยัง Microsoft ๓๖๕และเริ่มต้นทำการใช้งานของพวกเขา
 
 > [!IMPORTANT]
-> คุณต้องซื้ออย่าง*น้อย*๑๕๐สิทธิ์การใช้งานจากแผนสิทธิ์ที่อยู่ในรายการเพื่อรับบริการ FastTrack
+> คุณต้องซื้ออย่าง*น้อย*๑๕๐สิทธิ์การใช้งานจากแผนสิทธิ์ที่อยู่ในรายการเพื่อรับบริการ FastTrack 
   
 คุณสามารถขอรับความช่วยเหลือผ่านทาง[Microsoft ๓๖๕ admin ศูนย์](https://go.microsoft.com/fwlink/?linkid=2032704)หรือ[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
 
 หากต้องการรับความช่วยเหลือผ่าน[ศูนย์การดูแล Microsoft ๓๖๕](https://go.microsoft.com/fwlink/?linkid=2032704)ผู้ดูแลของคุณจะลงชื่อเข้าใช้ศูนย์การดูแลจากนั้นคลิก**ต้องการความช่วยเหลือ**วิดเจ็ต 
 
 เมื่อต้องการรับความช่วยเหลือผ่าน[เว็บไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  ลงชื่อเข้าใช้ใน[เว็บไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
-2.  เลือก**คำขอความช่วยเหลือสำหรับ Microsoft ๓๖๕**จาก**การดำเนินการด่วน**ที่ด้านบนของเพจเริ่มต้นของคุณหรือโดยการเลือก**คำขอความช่วยเหลือสำหรับ Microsoft ๓๖๕**บนการ์ดการปรับใช้
-3.  ดำเนินการความ**ช่วยเหลือในการร้องขอสำหรับ Microsoft ๓๖๕**ฟอร์ม
+1.    ลงชื่อเข้าใช้ใน[เว็บไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
+2.    เลือก**คำขอความช่วยเหลือสำหรับ Microsoft ๓๖๕**จาก**การดำเนินการด่วน**ที่ด้านบนของเพจเริ่มต้นของคุณหรือโดยการเลือก**คำขอความช่วยเหลือสำหรับ Microsoft ๓๖๕**บนการ์ดการปรับใช้
+3.    ดำเนินการความ**ช่วยเหลือในการร้องขอสำหรับ Microsoft ๓๖๕**ฟอร์ม
   
 นอกจากนี้คู่ค้ายังสามารถรับความช่วยเหลือผ่าน[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698)ในนามของลูกค้าได้ด้วย เมื่อต้องการทำเช่นนั้น:
-1.  ลงชื่อเข้าใช้ใน[เว็บไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
-2.  เลือก**ลูกค้าของฉัน**
-3.  ค้นหาลูกค้าของคุณหรือเลือกจากรายชื่อลูกค้าของคุณ
-4.  เลือก**บริการ**
-5.  ดำเนินการความ**ช่วยเหลือในการร้องขอสำหรับ Microsoft ๓๖๕**ฟอร์ม
+1.    ลงชื่อเข้าใช้ใน[เว็บไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
+2.    เลือก**ลูกค้าของฉัน**
+3.    ค้นหาลูกค้าของคุณหรือเลือกจากรายชื่อลูกค้าของคุณ
+4.    เลือก**บริการ**
+5.    ดำเนินการความ**ช่วยเหลือในการร้องขอสำหรับ Microsoft ๓๖๕**ฟอร์ม
 
 นอกจากนี้คุณยังสามารถขอความช่วยเหลือศูนย์ FastTrack จาก[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698)ในรายการบริการที่พร้อมใช้งานสำหรับผู้เช่าของคุณ 
 
