@@ -10,19 +10,19 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: เมื่อคุณซื้อบริการ Microsoft ๓๖๕ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำสำหรับคุณบนเครื่องไปยัง Microsoft ๓๖๕และเริ่มต้นทำการใช้งานของพวกเขา
-ms.openlocfilehash: dd0ebf343498250492b6af42b0fbbf144dc1b5e8
-ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
+ms.openlocfilehash: 801984b3f6f6762ba455bbff0f86e5cc3b1c2365
+ms.sourcegitcommit: 6f67f054a52821211ee0e3a5bc1926ec6c111310
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637385"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707050"
 ---
 # <a name="eligible-services-and-plans"></a>บริการและแผนที่มีสิทธิ์
 
 เมื่อคุณซื้อบริการ Microsoft ๓๖๕ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำสำหรับคุณบนเครื่องไปยัง Microsoft ๓๖๕และเริ่มต้นทำการใช้งานของพวกเขา
 
 > [!IMPORTANT]
-> คุณต้องซื้ออย่าง*น้อย*๑๕๐สิทธิ์การใช้งานจากแผนสิทธิ์ที่อยู่ในรายการเพื่อรับบริการ FastTrack 
+> คุณต้องซื้ออย่าง*น้อย*๑๕๐สิทธิ์การใช้งานจากแผนสิทธิ์ที่อยู่ในรายการเพื่อรับบริการ FastTrack ใหม่ในเดือนมีนาคม๒๐๒๐, Microsoft จะทำให้ใช้งานได้หกเดือน[สำนักงาน๓๖๕ E1](https://docs.microsoft.com/microsoftteams/e1-trial-license)และ[Office ๓๖๕ G1](https://docs.microsoft.com/microsoftteams/g1-trial-license)ใบอนุญาตทดลองเพื่อช่วยให้มีการทำงานระยะไกลและการเรียนรู้เป็นลูกค้าตอบสนองต่อ COVID (coronavirus) ระบาด. ในฐานะที่เป็นข้อยกเว้น FastTrack จะให้ความช่วยเหลือกับปฐมนิเทศใบอนุญาตฟรีเหล่านี้ตั้งแต่เดือนมีนาคม๒๐๒๐ถึงสิงหาคม๒๐๒๐  
   
 คุณสามารถขอรับความช่วยเหลือผ่านทาง[Microsoft ๓๖๕ admin ศูนย์](https://go.microsoft.com/fwlink/?linkid=2032704)หรือ[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
 
@@ -152,7 +152,7 @@ ms.locfileid: "42637385"
 \*\*\*สามารถใช้ได้กับทั้ง Skype สำหรับธุรกิจออนไลน์และผู้ใช้ที่ได้รับอนุญาตจากทีม Microsoft ต้องการการซื้อที่มีคุณสมบัติเหมาะสมของ Skype สำหรับธุรกิจหรือทีมงานของ Microsoft 
 
 > [!NOTE]
-> สิทธิประโยชน์ของ FastTrack Center จะขึ้นอยู่กับการซื้อสิทธิการใช้งานที่ได้รับค่าจ้างสำหรับแผนการที่มีสิทธิ์ดังกล่าวก่อนหน้านี้ 
+> สิทธิประโยชน์ของ FastTrack Center จะขึ้นอยู่กับการซื้อสิทธิการใช้งานที่ได้รับค่าจ้างสำหรับแผนการที่มีสิทธิ์ดังกล่าวก่อนหน้านี้ ใหม่ในเดือนมีนาคม๒๐๒๐, Microsoft จะทำให้ใช้งานได้หกเดือน[สำนักงาน๓๖๕ E1](https://docs.microsoft.com/microsoftteams/e1-trial-license)และ[Office ๓๖๕ G1](https://docs.microsoft.com/microsoftteams/g1-trial-license)ใบอนุญาตทดลองเพื่อช่วยให้มีการทำงานระยะไกลและการเรียนรู้เป็นลูกค้าตอบสนองต่อ COVID (coronavirus) ระบาด. ในฐานะที่เป็นข้อยกเว้น FastTrack จะให้ความช่วยเหลือกับปฐมนิเทศใบอนุญาตฟรีเหล่านี้ตั้งแต่เดือนมีนาคม๒๐๒๐ถึงสิงหาคม๒๐๒๐ 
  
 สำหรับข้อมูลเพิ่มเติมให้ดูที่[FastTrack ศูนย์ประโยชน์สำหรับ Office ๓๖๕](https://go.microsoft.com/fwlink/?linkid=2044752)
 
