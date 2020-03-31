@@ -11,47 +11,48 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: คุณใช้ FastTrack ศูนย์ประโยชน์สำหรับ Office ๓๖๕เมื่อคุณซื้ออย่างน้อย๑๕๐สิทธิ์การใช้งานสำหรับบริการที่มีสิทธิ์หรือแผนสำหรับผู้เช่า Office ๓๖๕ของคุณ คุณแล้วทำงานกับผู้เชี่ยวชาญ FastTrack เพื่อประเมิน remediate เปิดใช้งานและการใช้งานไดรฟ์ของบริการเหล่านั้น ผู้เชี่ยวชาญเหล่านี้ยังให้คำแนะนำการโยกย้าย.
-ms.openlocfilehash: 246786daecd665a2e9e6d02ae7a1699ae135ab40
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+description: คุณใช้ประโยชน์ในศูนย์ FastTrack สําหรับ Office 365 เมื่อคุณซื้อสิทธิ์การใช้งาน 150 อย่างน้อยสําหรับบริการที่มีสิทธิ์หรือแผนสําหรับผู้เช่า Office 365 ของคุณ จากนั้นคุณทํางานร่วมกับผู้เชี่ยวชาญ FastTrack เพื่อประเมิน แก้ไข เปิดใช้งาน และผลักดันการใช้งานบริการเหล่านั้น ผู้เชี่ยวชาญเหล่านี้ยังให้คําแนะนําเกี่ยวกับการย้ายข้อมูล
+ms.openlocfilehash: 9bb79dbf6c7dc770d460801048476e0e6e8ba8a8
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347390"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052746"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365
 
-คุณใช้ FastTrack ศูนย์ประโยชน์สำหรับ Office ๓๖๕เมื่อคุณซื้ออย่าง*น้อย*๑๕๐สิทธิ์การใช้งานสำหรับบริการที่มีสิทธิ์หรือแผนสำหรับผู้เช่า Office ๓๖๕ของคุณ คุณแล้วทำงานกับผู้เชี่ยวชาญ FastTrack เพื่อประเมิน remediate เปิดใช้งานและการใช้งานไดรฟ์ของบริการเหล่านั้น ผู้เชี่ยวชาญเหล่านี้ยังให้คำแนะนำการโยกย้าย. 
+คุณใช้ประโยชน์ในศูนย์ FastTrack สําหรับ Office 365 เมื่อคุณซื้อสิทธิ์การใช้งาน*150 อย่างน้อย*สําหรับบริการที่มีสิทธิ์หรือแผนสําหรับผู้เช่า Office 365 ของคุณ จากนั้นคุณทํางานร่วมกับผู้เชี่ยวชาญ FastTrack เพื่อประเมิน แก้ไข เปิดใช้งาน และผลักดันการใช้งานบริการเหล่านั้น ผู้เชี่ยวชาญเหล่านี้ยังให้คําแนะนําเกี่ยวกับการย้ายข้อมูล 
   
 > [!NOTE]
-> สำหรับวัตถุประสงค์ของเอกสารฉบับนี้ผู้เชี่ยวชาญ FastTrack สามารถรวมพนักงานของ Microsoft ที่ได้รับการอนุมัติจาก microsoft และคู่ค้าที่ได้รับการอนุมัติของ Microsoft 
+> สําหรับวัตถุประสงค์ของเอกสารนี้ ผู้เชี่ยวชาญ FastTrack สามารถรวมพนักงาน Microsoft ผู้จัดจําหน่ายที่ได้รับการอนุมัติจาก Microsoft และคู่ค้าที่ได้รับอนุมัติจาก Microsoft 
   
-การมีคุณสมบัติสำหรับบริการการโยกย้ายศูนย์ FastTrack Office ๓๖๕ผู้เช่าของคุณต้องมี๕๐๐หรือใบอนุญาตเพิ่มเติม สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[ย้ายข้อมูล](O365-data-migration.md)
+เมื่อต้องการมีสิทธิ์ได้รับบริการการโยกย้ายของ FastTrack Center ผู้เช่า Office 365 ของคุณต้องมีสิทธิ์การใช้งานตั้งแต่ 500 รายขึ้นไป สําหรับข้อมูลเพิ่มเติม ให้ดูที่[การโยกย้ายข้อมูล](O365-data-migration.md)
   
-หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับบริการและแผนงานที่มีสิทธิ์โปรดดูที่[บริการและแผน](M365-eligible-services-and-plans.md)ที่มีสิทธิ์
+เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับบริการและแผนที่มีสิทธิ์ โปรดดูที่[บริการและแผนที่มีสิทธิ์](M365-eligible-services-and-plans.md)
   
-เมื่อต้องการเรียนรู้เกี่ยวกับกระบวนการของศูนย์ FastTrack และผู้ที่รับผิดชอบสิ่งใดให้ดูที่[ภาพรวมสวัสดิการศูนย์ FastTrack](O365-fasttrack-benefit-overview.md)
+หากต้องการเรียนรู้เกี่ยวกับกระบวนการของ FastTrack Center และผู้รับผิดชอบสิ่งที่เห็น โปรดดู[ภาพรวมสิทธิประโยชน์ของศูนย์ FastTrack](O365-fasttrack-benefit-overview.md)
 
-หากต้องการเรียนรู้เกี่ยวกับสิทธิประโยชน์ที่ให้ไว้โดย FastTrack บริการให้ดูที่:
+หากต้องการเรียนรู้เกี่ยวกับสิทธิประโยชน์ที่ FastTrack มอบให้โดยบริการ ให้ดูที่
 
 - [แลกเปลี่ยนแบบออนไลน์](O365-fasttrack-responsibilities.md#exchange-online)
 - [Microsoft Teams](O365-fasttrack-responsibilities.md#microsoft-teams)
-- [การป้องกันการคุกคามขั้นสูงของ Office ๓๖๕](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
-- [สำนักงาน๓๖๕ ProPlus](O365-fasttrack-responsibilities.md#office-365-proplus)
-- [OneDrive สำหรับธุรกิจ](O365-fasttrack-responsibilities.md#onedrive-for-business)
-- [Outlook สำหรับ iOS และ Android](O365-fasttrack-responsibilities.md#outlook-for-ios-and-android)
+- [การป้องกันภัยคุกคามขั้นสูงของ Office 365](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
+- [สํานักงาน 365 ProPlus](O365-fasttrack-responsibilities.md#office-365-proplus)
+- [วันไดรฟ์สําหรับธุรกิจ](O365-fasttrack-responsibilities.md#onedrive-for-business)
+- [แนวโน้มสําหรับ iOS และแอนดรอยด์](O365-fasttrack-responsibilities.md#outlook-for-ios-and-android)
 - [พลังงาน BI](O365-fasttrack-responsibilities.md#power-bi)
 - [โครงการออนไลน์](O365-fasttrack-responsibilities.md#project-online)
-- [พรีเมี่ยมออนไลน์ของโครงการระดับมืออาชีพและโครงการ](O365-fasttrack-responsibilities.md#project-online-professional-and-project-online-premium)
+- [โครงการออนไลน์ระดับมืออาชีพและโครงการพรีเมี่ยม](O365-fasttrack-responsibilities.md#project-online-professional-and-project-online-premium)
 - [SharePoint Online](O365-fasttrack-responsibilities.md#sharepoint-online)
-- [Skype สำหรับธุรกิจออนไลน์](O365-fasttrack-responsibilities.md#skype-for-business-online)
+- [Skype สําหรับธุรกิจออนไลน์](O365-fasttrack-responsibilities.md#skype-for-business-online)
 - [Yammer องค์กร](O365-fasttrack-responsibilities.md#yammer-enterprise)
   
-คุณกำลังมองหา[สิทธิประโยชน์ที่ศูนย์ FastTrack สำหรับการเคลื่อนไหวขององค์กร + ความปลอดภัย](EMS-fasttrack-benefit-for-EMS.md)หรือไม่ รวมถึงข้อมูลเกี่ยวกับ:
+คุณกําลังมองหา[ประโยชน์ FastTrack Center สําหรับองค์กร Mobility + การรักษาความปลอดภัย](EMS-fasttrack-benefit-for-EMS.md)? ซึ่งรวมถึงข้อมูลเกี่ยวกับ:
   
-- Microsoft Intune    
-- พรีเมี่ยม Azure ไดเรกทอรีที่ใช้งานอยู่ 
+- ไมโครซอฟท์อินทูป    
+- พรีเมี่ยมไดเรกทอรีที่ใช้งานอยู่ของ azure 
 - การป้องกันข้อมูล Azure
     
 > [!NOTE]
 > เพื่อวัตถุประสงค์ในการให้ข้อมูลเท่านั้น 
+

@@ -1,6 +1,6 @@
 ---
 title: สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Enterprise Mobility + Security (EMS)
-description: โปรแกรมเพื่อช่วยให้ลูกค้าที่มีสิทธิ์วางแผนและปรับใช้ Intune และพรีเมี่ยม Azure ไดเรกทอรีที่ใช้งานอยู่
+description: โปรแกรมเพื่อช่วยลูกค้าที่มีสิทธิ์วางแผน และปรับใช้ Intune และ Azure ที่ใช้งานอยู่ไดเรกทอรีพรีเมียม
 keywords: ''
 author: andredm7
 ms.author: andredm
@@ -14,29 +14,28 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2a81deb376f9d25a9d998c7ba49ae9a26205d94d
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 9788df4d240397f1373849d3e4a740a5b58d4cae
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347797"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052302"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Enterprise Mobility + Security (EMS)
 
-คุณใช้ความคล่องตัวองค์กร + ความปลอดภัย (EMS) FastTrack ศูนย์ประโยชน์เมื่อคุณซื้ออย่างน้อย๑๕๐สิทธิ์การใช้งานสำหรับ EMS หรือใดๆของบริการ cloud ของแต่ละบุคคลในแผนที่มีสิทธิ์ คุณแล้วทำงานกับผู้เชี่ยวชาญ FastTrack เพื่อประเมิน remediate เปิดใช้งานและการใช้งานไดรฟ์ของบริการเหล่านั้น ผู้เชี่ยวชาญเหล่านี้ยังให้คำแนะนำการโยกย้าย. 
+คุณใช้สิทธิประโยชน์ของ FastTrack Center + การรักษาความปลอดภัยองค์กร (EMS) เมื่อคุณซื้อใบอนุญาตอย่างน้อย 150 สิทธิ์สําหรับ EMS หรือบริการคลาวด์แต่ละแห่งในแผนที่มีสิทธิ์ จากนั้นคุณทํางานร่วมกับผู้เชี่ยวชาญ FastTrack เพื่อประเมิน แก้ไข เปิดใช้งาน และผลักดันการใช้งานบริการเหล่านั้น ผู้เชี่ยวชาญเหล่านี้ยังให้คําแนะนําเกี่ยวกับการย้ายข้อมูล 
 
 > [!IMPORTANT]
-> สำหรับวัตถุประสงค์ของเอกสารฉบับนี้ผู้เชี่ยวชาญ FastTrack สามารถรวมพนักงานของ Microsoft ที่ได้รับการอนุมัติจาก microsoft และคู่ค้าที่ได้รับการอนุมัติของ Microsoft
+> สําหรับวัตถุประสงค์ของเอกสารนี้ ผู้เชี่ยวชาญ FastTrack สามารถรวมพนักงาน Microsoft ผู้จัดจําหน่ายที่ได้รับการอนุมัติจาก Microsoft และคู่ค้าที่ได้รับอนุมัติจาก Microsoft
 
-- หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับบริการและแผนงานที่มีสิทธิ์โปรดดูที่[บริการและแผน](M365-eligible-services-and-plans.md)ที่มีสิทธิ์
+- เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับบริการและแผนที่มีสิทธิ์ โปรดดูที่[บริการและแผนที่มีสิทธิ์](M365-eligible-services-and-plans.md)
 
-- เมื่อต้องการเรียนรู้เกี่ยวกับกระบวนการของศูนย์ FastTrack และผู้ที่รับผิดชอบสิ่งใดให้ดูที่[กระบวนการสวัสดิการศูนย์ FastTrack สำหรับความปลอดภัยขององค์กร + Security](EMS-fasttrack-process.md)
+- หากต้องการเรียนรู้เกี่ยวกับกระบวนการศูนย์ FastTrack และผู้รับผิดชอบสิ่งที่โปรดดูที่[กระบวนการประโยชน์ศูนย์ FastTrack สําหรับองค์กร Mobility + การรักษาความปลอดภัย](EMS-fasttrack-process.md)
 
     > [!TIP]
-    > หากคุณต้องการดาวน์โหลดไฟล์ .zip ที่มีความคล่องตัวขององค์กร +**การสนับสนุนวิธีการ**และอีเมลที่สามารถปรับแต่งได้ด้วยโลโก้ขององค์กรของคุณเพื่อช่วยส่งเสริมการรับ ems ภายในองค์กรของคุณโปรดดู[ที่ FastTrack สำหรับ Ems วิธีการแนะนำ & อีเมลเพื่อกำหนดเอง](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c)
+    > ถ้าคุณต้องการดาวน์โหลดไฟล์ .zip ที่มีคู่มือการรักษาความปลอดภัยและ**อีเมล**ที่สามารถปรับแต่งด้วยโลโก้ขององค์กรเพื่อช่วยส่งเสริมการนํา EMS ภายในองค์กรของคุณ ดู[FastTrack สําหรับ EMS วิธีการแนะนํา& อีเมลเพื่อ ปรับแต่ง](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c).
 
 ## <a name="next-steps"></a>ขั้นตอนถัดไป
 
-[การบริการและแผนงานที่มีสิทธิ์สำหรับ FastTrack ที่เป็นประโยชน์สำหรับ EMS](M365-eligible-services-and-plans.md)
-
+[บริการและแผนสิทธิประโยชน์ของ FastTrack Center สําหรับ EMS](M365-eligible-services-and-plans.md)
 

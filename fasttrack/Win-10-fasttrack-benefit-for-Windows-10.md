@@ -9,31 +9,27 @@ ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: คุณสามารถใช้ประโยชน์ศูนย์ FastTrack สำหรับ Windows 10 เมื่อคุณซื้ออย่าง*น้อย*๑๕๐สิทธิ์การใช้งานสำหรับการบริการที่มีสิทธิ์หรือแผน
-ms.openlocfilehash: d856f8bb6448d118eff7f4092841efe70bf8018b
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+description: คุณใช้สิทธิประโยชน์ของศูนย์ FastTrack สําหรับ Windows 10 เมื่อคุณซื้อสิทธิ์การใช้งาน*อย่างน้อย*150 สําหรับบริการหรือแผนที่มีสิทธิ์
+ms.openlocfilehash: 6e8b9a998d55197069b86f4cf21640808f255dd7
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347701"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052902"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Windows 10
 
-คุณสามารถใช้ประโยชน์ศูนย์ FastTrack สำหรับ Windows 10 เมื่อคุณซื้ออย่างน้อย๑๕๐สิทธิ์การใช้งานสำหรับการบริการที่มีสิทธิ์หรือแผน จากนั้นคุณทำงานกับผู้เชี่ยวชาญ FastTrack เพื่อประเมิน remediate และปรับใช้ Windows 10, Microsoft Edge ใหม่หรือการป้องกันเธรดขั้นสูงของ Microsoft Defender และพิกัด FastTrack ศูนย์ประโยชน์สำหรับ Office ๓๖๕ ProPlus 
+คุณสามารถใช้สิทธิประโยชน์ของ FastTrack Center สําหรับ Windows 10 เมื่อคุณซื้อใบอนุญาตอย่างน้อย 150 สิทธิ์สําหรับบริการหรือแผนที่มีสิทธิ์ จากนั้นคุณทํางานกับผู้เชี่ยวชาญ FastTrack เพื่อประเมิน แก้ไข และปรับใช้อย่างใดอย่างหนึ่ง Windows 10 ขอบ Microsoft ใหม่ หรือ Microsoft Defender ขั้นสูงเธรดการป้องกัน และประสานงานประโยชน์ศูนย์ FastTrack สําหรับ Office 365 ProPlus 
 
-ศูนย์ FastTrack ประโยชน์สำหรับ Windows 10 ยังให้บริการให้ความมั่นใจใน App. ด้วยบริการนี้ผู้เชี่ยวชาญ FastTrack จะมีการให้คำแนะนำและแนวทางการปฏิบัติถ้าคุณพบปัญหาความเข้ากันได้ของโปรแกรมประยุกต์ 
+ประโยชน์จากศูนย์ FastTrack สําหรับ Windows 10 ยังให้บริการ Assure ของแอป ด้วยบริการนี้ผู้เชี่ยวชาญ FastTrack พร้อมให้บริการให้คําแนะนําและคําแนะนําเกี่ยวกับการแก้ไขหากคุณพบปัญหาความเข้ากันได้ของแอป 
 
-ผู้เชี่ยวชาญ FastTrack ยังจะให้คำแนะนำในขณะที่คุณปรับใช้และอยู่ทันสมัยกับ Windows 10, Microsoft Edge และ Office ๓๖๕ ProPlus. สิทธิประโยชน์จากบริการเหล่านี้มีให้บริการโดยไม่มีค่าใช้จ่ายเพิ่มเติมกับการสมัครสมาชิกที่มีสิทธิ์รวมอยู่ใน FastTrack[และแผนการบริการ](M365-eligible-services-and-plans.md)ที่มีสิทธิ์
+ผู้เชี่ยวชาญ FastTrack จะให้คําแนะนําในขณะที่คุณปรับใช้และติดตามข้อมูลล่าสุดอยู่เสมอด้วย Windows 10, Microsoft Edge และ Office 365 ProPlus สิทธิประโยชน์ของบริการเหล่านี้จะพร้อมใช้งานโดยไม่มีค่าใช้จ่ายเพิ่มเติมกับการสมัครรับสิทธิ์ที่รวมอยู่ใน[บริการและแผนที่มีสิทธิ์](M365-eligible-services-and-plans.md)ของ FastTrack
   
 > [!NOTE]
-> สำหรับวัตถุประสงค์ของเอกสารฉบับนี้ผู้เชี่ยวชาญ FastTrack สามารถรวมพนักงานของ Microsoft ที่ได้รับการอนุมัติจาก microsoft และคู่ค้าที่ได้รับการอนุมัติของ Microsoft 
+> สําหรับวัตถุประสงค์ของเอกสารนี้ ผู้เชี่ยวชาญ FastTrack สามารถรวมพนักงาน Microsoft ผู้จัดจําหน่ายที่ได้รับการอนุมัติจาก Microsoft และคู่ค้าที่ได้รับอนุมัติจาก Microsoft 
     
 - [Windows 10](Win-10-windows-10.md)
 - [App Assure](Win-10-app-assure.md)
 - [Microsoft Edge](Win-10-microsoft-edge.md)
 - [Microsoft Defender Advanced Threat Protection](Win-10-microsoft-defender-atp.md)
-  
 
-  
-
- 

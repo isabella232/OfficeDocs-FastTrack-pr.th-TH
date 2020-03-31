@@ -1,5 +1,5 @@
 ---
-title: ขอบ Microsoft ใหม่
+title: ขอบไมโครซอฟท์ใหม่
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -9,16 +9,18 @@ ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: ประโยชน์ของ FastTrack สำหรับ Windows 10 ให้คำแนะนำในการปรับใช้สำหรับ Microsoft Edge ใหม่สำหรับ Windows 10 ลูกค้าองค์กรที่มี๑๕๐หรือมากกว่าที่นั่ง
-ms.openlocfilehash: e45905e191d4d00d21e27c87b76af52f9d67188f
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+description: ประโยชน์ FastTrack สําหรับ Windows 10 ให้คําแนะนําการปรับใช้สําหรับ Microsoft ขอบใหม่สําหรับ Windows 10 ลูกค้าองค์กรที่มี 150 หรือมากกว่าที่นั่ง
+ms.openlocfilehash: fb6856bcde7fb8a2de4afafd7e62e1faea9c2ef3
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347737"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052507"
 ---
-# <a name="the-new-microsoft-edge"></a>ขอบ Microsoft ใหม่
+# <a name="the-new-microsoft-edge"></a>ขอบไมโครซอฟท์ใหม่
 
-ประโยชน์ของ FastTrack สำหรับ Windows 10 ให้คำแนะนำในการปรับใช้สำหรับ Microsoft Edge ใหม่สำหรับ Windows 10 ลูกค้าองค์กรที่มี๑๕๐หรือมากกว่าที่นั่ง นอกจากนี้ถ้าคุณมีเว็บแอปหรือไซต์ที่ทำงานร่วมกับ Internet Explorer หรือ Google Chrome และคุณประสบปัญหาความเข้ากันได้เราจะแก้ไขได้โดยไม่มีค่าใช้จ่ายเพิ่มเติมผ่านทาง[โปรแกรมประยุกต์รับประกัน](Win-10-app-assure.md)
+ประโยชน์ FastTrack สําหรับ Windows 10 ให้คําแนะนําการปรับใช้สําหรับ Microsoft ขอบใหม่สําหรับ Windows 10 ลูกค้าองค์กรที่มี 150 หรือมากกว่าที่นั่ง นอกจากนี้หากคุณมีเว็บแอปหรือเว็บไซต์ที่ทํางานร่วมกับ Internet Explorer หรือ Google Chrome และคุณจะพบปัญหาความเข้ากันได้เราจะแก้ไขได้โดยไม่มีค่าใช้จ่ายเพิ่มเติมผ่าน[โปรแกรม App Assure](Win-10-app-assure.md)
 
-ผู้เชี่ยวชาญ FastTrack ทำงานร่วมกับคุณเพื่อปรับใช้ Microsoft Edge บน Windows 10 องค์กรด้วยตัวจัดการปลายทางของ Microsoft (ตัวจัดการการตั้งค่าคอนฟิกปลายทางของ Microsoft หรือ Microsoft Intune)
+ผู้เชี่ยวชาญ FastTrack ทํางานร่วมกับคุณสามารถปรับใช้ Microsoft ขอบบน Windows 10 องค์กรด้วยตัวจัดการปลายทางของ Microsoft (Microsoft ปลายทางตั้งค่าคอนฟิกตัวจัดการหรือ Microsoft Intune)
+
+
