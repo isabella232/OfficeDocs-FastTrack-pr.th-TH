@@ -3,19 +3,19 @@ title: ความคาดหวังด้านสิ่งแวดล้�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: ประโยชน์จากศูนย์ FastTrack จะให้คําแนะนําแก่คุณในการตั้งค่าระดับการรวมเข้ากับสภาพแวดล้อมต้นทางของคุณ (ตัวอย่างเช่น ถ้าคุณมีบริการในสภาพแวดล้อมต้นทางที่คุณต้องการย้ายไปยัง Office 365 อยู่แล้ว)
-ms.openlocfilehash: 47bfa8393c9e14eb8b35f90cd8d776b2c81aa78e
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 006767b91d42654ef9303a7f682a5523f64f92a9
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052949"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098155"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>ความคาดหวังด้านสิ่งแวดล้อมที่มาสําหรับรัฐบาลสหรัฐ Office 365
 

@@ -3,19 +3,19 @@ title: การโยกย้ายข้อมูล
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: ผู้เชี่ยวชาญ FastTrack ให้คําแนะนําเกี่ยวกับขั้นตอนสําหรับการย้ายข้อมูลไปยัง Office 365 ซึ่งพร้อมใช้งานสําหรับลูกค้าที่มีสิทธิ์ทั้งหมดที่มีบริการ Office 365 สําหรับการแลกเปลี่ยนแบบออนไลน์ OneDrive สําหรับธุรกิจ และ SharePoint Online
-ms.openlocfilehash: c0dae3b6f052e13693ed226b312cbdf0b0866d7b
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: d7fdf8a6f751e2443449c8ef29e33df2978695a5
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052578"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098143"
 ---
 # <a name="data-migration"></a>การโยกย้ายข้อมูล
 
@@ -50,12 +50,11 @@ ms.locfileid: "43052578"
 |**การโยกย้าย OneDrive สําหรับธุรกิจ**  <br/> | แชร์ไฟล์ (แชร์ไฟล์ SMB บนอุปกรณ์ที่สนับสนุน SMB 2.0 เป็นต้นไป)  <br/>  สภาพแวดล้อม G Suite เดียว (เฉพาะ Google ไดรฟ์เท่านั้น)  <br/>  กล่อง (เริ่มต้นธุรกิจองค์กร) <br/> <br/> **หมายเหตุ** *FastTrack จะโยกย้ายไปยังไดรฟ์ Office 365 ที่ใช้งานอยู่เท่านั้น*|
    
 ## <a name="migration-to-exchange-online"></a>การย้ายข้อมูลไปยัง Exchange แบบออนไลน์
-
+''
 ### <a name="enable-to-migrate"></a>เปิดใช้งานเพื่อโยกย้าย
   
 ถ้าคุณใช้ Microsoft เพื่อโยกย้ายอีเมลของคุณ เราให้คําแนะนําเพื่อเปิดใช้งานทั้ง Exchange แบบออนไลน์และสภาพแวดล้อมต้นทางสําหรับการโยกย้าย ทั้งนี้ขึ้นอยู่กับสภาพแวดล้อมของแหล่งที่มา, เราอาจดําเนินการต่าง ๆ เปิดใช้งานขั้นตอนต่าง ๆ. เราให้คําแนะนําแก่คุณโดยใช้ชุดเครื่องมือและเอกสารและโดยการปฏิบัติงานการกําหนดค่าที่บังคับใช้และเป็นไปได้ ขึ้นอยู่กับพารามิเตอร์ที่เกี่ยวข้องเราจะย้ายกล่องจดหมายตรวจสอบงานและรายงานสถานะ
-  
-Microsoft อาจต้องการการเข้าถึงที่เหมาะสมและสิทธิ์การเข้าถึงระบบจดหมายของคุณเพื่อทํากิจกรรมการย้ายข้อมูล
+'' Microsoft อาจต้องการการเข้าถึงที่เหมาะสมและสิทธิ์ในการเข้าถึงระบบจดหมายของคุณเพื่อทํากิจกรรมการย้ายข้อมูล
   
 ### <a name="migration-policy-and-steps"></a>นโยบายและขั้นตอนการย้ายข้อมูล
   

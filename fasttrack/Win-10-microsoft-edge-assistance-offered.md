@@ -3,19 +3,19 @@ title: ความช่วยเหลือที่ให้
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: เมื่อคุณซื้อบริการใด ๆ ของ Windows 10 หรือ Microsoft 365 (รายละเอียดในบริการและแผนที่มีสิทธิ์) ผู้เชี่ยวชาญ FastTrack จะให้คําแนะนําการปรับใช้ระยะไกลและความช่วยเหลือในการทํางานร่วมกันถ้าคุณมีโปรแกรมประยุกต์เว็บหรือไซต์ที่ทํางานร่วมกับ Internet Explorer หรือ 10000000000
-ms.openlocfilehash: 5bcad9585c9ebb6449350d72ed3ad9e5f17ae061
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+description: เมื่อคุณซื้อบริการ Windows 10 หรือ Microsoft 365 (รายละเอียดในบริการและแผนที่มีสิทธิ์) ผู้เชี่ยวชาญ FastTrack จะให้คําแนะนําเกี่ยวกับการปรับใช้งานระยะไกลและความช่วยเหลือในการทํางานร่วมกันถ้าคุณมีเว็บแอปหรือเว็บไซต์ที่ทํางานร่วมกับ Internet Explorer หรือ Google Chrome
+ms.openlocfilehash: 1a843d087560f728aa44a26a66403900df8fad3b
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052986"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097735"
 ---
 # <a name="assistance-offered"></a>ความช่วยเหลือที่ให้
 

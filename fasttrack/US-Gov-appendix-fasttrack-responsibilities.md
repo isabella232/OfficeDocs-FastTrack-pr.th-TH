@@ -3,19 +3,19 @@ title: ความรับผิดชอบของ FastTrack สําห�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: ผู้เชี่ยวชาญ FastTrack มีหน้าที่รับผิดชอบต่อไปนี้ระหว่างการปฐมนต
-ms.openlocfilehash: 03718f62f7ce28d9e3cbd2b586b64bc26b93e614
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 2a39c7fb74d0b8d9e369a0b61a7a97b892aa9e7a
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052794"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098259"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>ความรับผิดชอบของ FastTrack สําหรับรัฐบาลสหรัฐฯ ของ Office 365
 

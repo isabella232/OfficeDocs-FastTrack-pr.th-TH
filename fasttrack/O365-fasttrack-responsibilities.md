@@ -3,19 +3,19 @@ title: ความรับผิดชอบของ FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: ผู้เชี่ยวชาญ FastTrack มีหน้าที่รับผิดชอบต่อไปนี้ระหว่างการปฐมนต
-ms.openlocfilehash: 0a6ec092c8c9ec5ba574465fc10a59ae48e7b23e
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052278"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098283"
 ---
 # <a name="fasttrack-responsibilities"></a>ความรับผิดชอบของ FastTrack
 
@@ -100,7 +100,7 @@ ms.locfileid: "43052278"
 ให้คําแนะนําเกี่ยวกับ:
 - การสร้างหรือการปรับปรุงระเบียน DNS 
 - การเปิดใช้งานการกําหนดเส้นทางอีเมลระหว่างระบบการส่งข้อความต้นทางและสภาพแวดล้อม Office 365 
-- การกําหนดค่าการป้องกันแบบออนไลน์ของ Exchange การป้องกันข้อมูลสูญหาย (DLP) และการเข้ารหัสลับข้อความ Office 365 (OME) และการป้องกันภัยคุกคามขั้นสูงของ Office 365 (ATP) (ถ้ามีให้ในการสมัครใช้งานของคุณ) และยืนยันระเบียน MX ของคุณชี้ไปที่ Office 365 สําหรับการตรวจสอบความถูกต้องทั้งหมด โดเมนที่เปิดใช้งานจดหมาย
+- การกําหนดค่าการป้องกันแบบออนไลน์ของ Exchange การป้องกันข้อมูลสูญหาย (DLP) และการเข้ารหัสลับข้อความ Office 365 (OME) และการป้องกันภัยคุกคามขั้นสูงของ Office 365 (ATP) (ถ้ามีให้ในการสมัครใช้งานของคุณ) และยืนยันระเบียน MX ของคุณชี้ไปที่ Office 365 สําหรับโดเมนที่เปิดใช้งานจดหมายทั้งหมดที่มีการตรวจสอบ
 - การตั้งค่าคอนฟิกการตั้งค่าไฮบริดสลีระหว่างองค์กร Exchange ในสถานที่เดียว และ Office 365*หรือ*ระหว่างองค์กร Exchange ในสถานที่หลายแห่งและ Office 365 
 - การกําหนดค่าไคลเอนต์กล่องจดหมาย (Outlook สําหรับ Windows, Outlook บนเว็บ และ Outlook สําหรับ iOS และ Android)
 - การกําหนดค่าการทํางานอัตโนมัติ
