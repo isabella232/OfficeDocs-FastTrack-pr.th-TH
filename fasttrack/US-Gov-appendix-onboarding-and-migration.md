@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: การเริ่มต้นใช้งาน Office 365 สําหรับรัฐบาลสหรัฐฯ Office 365 มีสี่ขั้นตอนหลัก ได้แก่ เริ่มต้น ประเมิน แก้ไข และเปิดใช้งาน คุณสามารถทําตามขั้นตอนเหล่านี้ด้วยขั้นตอนการย้ายข้อมูลทางเลือกดังที่แสดงในรูปต่อไปนี้
-ms.openlocfilehash: 2fe39da0e41e6d42cecef8d4ecb410a1676419e1
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 88c74a4839df42dbc57da65f7f2c4776bd5d90cb
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098247"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665923"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>ขั้นตอนการเตรียมพร้อมและการย้ายสําหรับสํานักงาน 365 สหรัฐฯ
 
@@ -175,15 +175,15 @@ ms.locfileid: "43098247"
 > [!NOTE]
 > องค์กร Yammer ไม่ใช่ส่วนประกอบของรัฐบาลสหรัฐ Office 365 แต่สามารถรับได้โดยไม่มีค่าใช้จ่ายเป็นข้อเสนอแบบสแตนด์อโลนสําหรับแต่ละสิทธิ์การใช้งานสําหรับ Office 365 ใน GCC ข้อเสนอนี้จํากัดอยู่เฉพาะลูกค้าที่ซื้อ Office 365 GCC ภายใต้ ข้อตกลงระดับองค์กรและข้อตกลงการสมัครสมาชิกระดับองค์กร Yammer ไม่พร้อมใช้งานใน GCC สูงหรือแผน DoD 
   
-## <a name="office-365-proplus"></a>สํานักงาน 365 ProPlus
+## <a name="microsoft-365-apps"></a>ไมโครซอฟท์ 365 ปพลิเคชัน
 
-สําหรับ Office 365 ProPlus เราให้คําแนะนําสําหรับ: 
+สําหรับแอป Microsoft 365 เราให้คําแนะนําสําหรับ: 
 - การแก้ไขปัญหาการปรับใช้    
 - การกําหนดสิทธิ์การใช้งานสําหรับผู้ใช้โดยใช้[ศูนย์การจัดการ Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704)และ Windows PowerShell    
-- การติดตั้ง Office 365 ProPlus จากพอร์ทัล Office 365 โดยใช้คลิก-ทู-รัน    
-- การติดตั้งแอป Office Mobile (เช่น อุปกรณ์เคลื่อนที่ของ Outlook, มือถือ Word, มือถือ Excel และ PowerPoint Mobile) บนอุปกรณ์ iOS, Android หรือ Windows Mobile ของคุณ   
+- การติดตั้งแอป Microsoft 365 จากพอร์ทัล Office 365 โดยใช้คลิก-ทู-รัน    
+- การติดตั้งแอป Office Mobile (เช่น อุปกรณ์เคลื่อนที่ของ Outlook, มือถือ Word, มือถือ Excel และ PowerPoint Mobile) บนอุปกรณ์ iOS หรือ Android ของคุณ   
 - การกําหนดค่าการตั้งค่าการปรับปรุงโดยใช้เครื่องมือการปรับใช้ Office 365    
-- การตั้งค่าเซิร์ฟเวอร์การแจกจ่ายไซต์เดียวสําหรับ Office 365 ProPlus รวมทั้งความช่วยเหลือในการสร้างแฟ้ม configuration.xml สําหรับใช้กับเครื่องมือการปรับใช้ Office 365    
+- การตั้งค่าเซิร์ฟเวอร์การแจกจ่ายในสถานที่เดียวสําหรับ Microsoft 365 Apps รวมถึงความช่วยเหลือในการสร้างแฟ้ม configuration.xml สําหรับใช้กับเครื่องมือการปรับใช้ Office 365    
 - การปรับใช้โดยใช้ตัวจัดการการตั้งค่าคอนฟิกปลายทางของ Microsoft รวมทั้งความช่วยเหลือกับการสร้างบรรจุภัณฑ์ของตัวจัดการการตั้งค่าคอนฟิกปลายทางของ Microsoft
     
-![ขั้นตอนการเริ่มต้นใช้งาน Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
+![ขั้นตอนการเริ่มต้นใช้งาน Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)

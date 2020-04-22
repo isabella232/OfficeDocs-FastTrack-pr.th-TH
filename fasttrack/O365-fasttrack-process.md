@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: กระบวนการ FastTrack ให้บริการการปฐมวิและผู้ใช้
-ms.openlocfilehash: 98e4f944e54de52ebbdf1755c5ab185a80395b33
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 641637705a5a578b18f3ba06130d9477975b92f8
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097711"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666148"
 ---
 # <a name="the-fasttrack-process"></a>กระบวนการ FastTrack
 
@@ -35,7 +35,7 @@ ms.locfileid: "43097711"
 
 แผนภาพต่อไปนี้แสดงกระบวนการเริ่มต้น
   
-![เส้นเวลาสําหรับการใช้ประโยชน์ในการปฐมภาพ](media/O365-Onboarding-Timeline.png)
+![เส้นเวลาสําหรับการใช้ประโยชน์ในการปฐมภาพ](media/o365-onboarding-timeline-m365-apps.png)
   
 คุณสามารถขอความช่วยเหลือจาก[ศูนย์การจัดการ Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704)หรือ[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
 

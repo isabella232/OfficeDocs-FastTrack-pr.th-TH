@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: ผู้เชี่ยวชาญ FastTrack มีหน้าที่รับผิดชอบต่อไปนี้ระหว่างการปฐมนต
-ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 6968d49dadaba3b95665cc03408a222000e59c4a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098283"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666177"
 ---
 # <a name="fasttrack-responsibilities"></a>ความรับผิดชอบของ FastTrack
 
@@ -107,6 +107,18 @@ ms.locfileid: "43098283"
     
 สําหรับข้อมูลเพิ่มเติมเกี่ยวกับความรับผิดชอบในการย้ายข้อมูล ให้ดูที่[การโยกย้ายข้อมูล](O365-data-migration.md)
   
+## <a name="microsoft-365-apps"></a>ไมโครซอฟท์ 365 ปพลิเคชัน
+
+ให้คําแนะนําเกี่ยวกับ:
+- การแก้ไขปัญหาการปรับใช้
+- การกําหนดสิทธิ์การใช้งานตามอุปกรณ์และผู้ใช้โดยใช้[ศูนย์การจัดการ Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704)และ Windows PowerShell
+- การติดตั้งแอป Microsoft 365 จากพอร์ทัล Office 365 โดยใช้คลิก-ทู-รัน
+- การติดตั้งแอป Office Mobile (เช่น Outlook สําหรับ iOS และ Android, มือถือด้วยมือถือของ Excel, และ PowerPoint Mobile) บน iOS หรือ Android ของคุณ 
+- การกําหนดค่าการตั้งค่าการปรับปรุงโดยใช้เครื่องมือการปรับใช้ Office 365
+- เลือกและตั้งค่าการติดตั้งภายในเครื่องหรือบนคลาวด์
+- สร้าง XML การกําหนดค่าเครื่องมือการปรับใช้ Office ด้วยเครื่องมือกําหนดเอง Office หรือ XML ดั้งเดิมเพื่อกําหนดค่าแพคเกจการปรับใช้
+- การปรับใช้โดยใช้ตัวจัดการการตั้งค่าคอนฟิกปลายทางของ Microsoft รวมทั้งความช่วยเหลือกับการสร้างบรรจุภัณฑ์ของตัวจัดการการตั้งค่าคอนฟิกปลายทางของ Microsoft
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 ให้คําแนะนําเกี่ยวกับ:
@@ -141,18 +153,6 @@ ms.locfileid: "43098283"
 - การกําหนดค่าระบบอัตโนมัติ
 - การใช้จําลองการโจมตี
 - การรายงานและการวิเคราะห์ภัยคุกคาม
-
-## <a name="office-365-proplus"></a>สํานักงาน 365 ProPlus
-
-ให้คําแนะนําเกี่ยวกับ:
-- การแก้ไขปัญหาการปรับใช้
-- การกําหนดสิทธิ์การใช้งานตามอุปกรณ์และผู้ใช้โดยใช้[ศูนย์การจัดการ Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704)และ Windows PowerShell
-- การติดตั้ง Office 365 ProPlus จากพอร์ทัล Office 365 โดยใช้คลิก-ทู-รัน
-- การติดตั้งแอป Office Mobile (เช่น Outlook สําหรับ iOS และ Android, Word Mobile, Excel Mobile และ PowerPoint Mobile) บนอุปกรณ์ iOS, Android หรือ Windows Mobile ของคุณ 
-- การกําหนดค่าการตั้งค่าการปรับปรุงโดยใช้เครื่องมือการปรับใช้ Office 365
-- เลือกและตั้งค่าการติดตั้งภายในเครื่องหรือบนคลาวด์
-- สร้าง XML การกําหนดค่าเครื่องมือการปรับใช้ Office ด้วยเครื่องมือกําหนดเอง Office หรือ XML ดั้งเดิมเพื่อกําหนดค่าแพคเกจการปรับใช้
-- การปรับใช้โดยใช้ตัวจัดการการตั้งค่าคอนฟิกปลายทางของ Microsoft รวมทั้งความช่วยเหลือกับการสร้างบรรจุภัณฑ์ของตัวจัดการการตั้งค่าคอนฟิกปลายทางของ Microsoft
     
 ## <a name="onedrive-for-business"></a>วันไดรฟ์สําหรับธุรกิจ
 

@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: คุณมีความรับผิดชอบต่อไปนี้ในระหว่างการเริ่มต้นการปฐมนารถของ Windows 10
-ms.openlocfilehash: 57db4d80d9f5f0fb227598932915fdceefddbf66
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 75e9746d8e3ac9f4389cc26d2a89d6d3c8aa3294
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097795"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666093"
 ---
 # <a name="your-responsibilities"></a>ความรับผิดชอบของคุณ
 
@@ -55,6 +55,6 @@ ms.locfileid: "43097795"
 
 - แชร์หน้าจอของคุณกับทีม FastTrack หากจําเป็นต้องมีคําแนะนําเมื่อเรียกใช้เครื่องมือประเมินเทียบกับสภาพแวดล้อมหรือบริการคลาวด์ (ถ้าคุณเลือกที่จะ)
 - กําหนดค่ารายการที่เกี่ยวข้องกับเครือข่ายต่อคําแนะนําจากทีม FastTrack
-- ดําเนินการความพร้อมของไดเรกทอรี และกําหนดค่าการซิงโครไนส์ไดเรกทอรีสําหรับแต่ละคําแนะนําจากทีม FastTrack เมื่อปรับใช้ Office 365 ProPlus กับ Windows 10
+- ดําเนินการความพร้อมของไดเรกทอรี และกําหนดค่าการซิงโครไนส์ไดเรกทอรีสําหรับแต่ละคําแนะนําจากทีม FastTrack เมื่อปรับใช้โปรแกรมประยุกต์ของ Microsoft 365 กับ Windows 10
 - กําหนดค่าวิธีการตรวจสอบสิทธิ์ เช่น ที่จัดการหรือติดต่อกับภายนอก
 

@@ -10,20 +10,20 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack ให้คําแนะนําการปรับใช้ Windows 10 เพื่อช่วยคุณในการอัพเกรดจาก Windows 7 Professional และ Windows 8.1 ระดับมืออาชีพเป็น Windows 10 องค์กร
-ms.openlocfilehash: d9f2ea820828f91e6eb0ddc22e37c7f98dd8f71d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: d8f8821c1a730a8c42f7ae3755e6c227d53a2b7a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098367"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665841"
 ---
 # <a name="windows-10"></a>Windows 10
 
 FastTrack ให้คําแนะนําการปรับใช้ Windows 10 เพื่อช่วยคุณในการอัพเกรดจาก Windows 7 Professional และ Windows 8.1 ระดับมืออาชีพเป็น Windows 10 องค์กร คุณทํางานร่วมกับผู้เชี่ยวชาญ FastTrack เพื่อ:
 
 - ปรับใช้ Windows 10 องค์กรโดยใช้โปรแกรมจัดการการตั้งค่าคอนฟิกปลายทางของ Microsoft หรือ Microsoft 365
-- ปรับใช้ Office 365 ProPlus 
-- ปรับปรุง Windows 10 องค์กรและ Office 365 ProPlus ใช้โปรแกรมจัดการการตั้งค่าคอนฟิกปลายทางของ Microsoft หรือ 365
+- ปรับใช้โปรแกรมประยุกต์ของ Microsoft 365 
+- ปรับปรุง Windows 10 องค์กรและโปรแกรมประยุกต์ของ Microsoft 365 โดยใช้โปรแกรมจัดการการตั้งค่าคอนฟิกปลายทางของ Microsoft หรือ Microsoft 365
 - ตัวจัดการการตั้งค่าคอนฟิกแนบเมฆกับ Microsoft Intune หรือปรับใช้ Intune เป็นโซลูชันการจัดการเมฆเพียงอย่างเดียว
   
 > [!NOTE]

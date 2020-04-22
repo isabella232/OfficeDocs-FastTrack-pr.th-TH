@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: คุณมีหน้าที่รับผิดชอบต่อไปนี้ระหว่างการปฐมบัตร
-ms.openlocfilehash: 26432b8bc6228956012fc7708b6de95d2b8b69da
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 159f38e85340308bd97eaf31eb20f58fec1d0554
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098355"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665817"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>ความรับผิดชอบของคุณสําหรับรัฐบาลสหรัฐของ Office 365
 
@@ -61,7 +61,7 @@ ms.locfileid: "43098355"
 - ตั้งค่าพื้นที่ทํางานร่วมกันของ Microsoft Teams สําหรับความร่วมมือในการเริ่มต้นใช้งาน และเชิญสมาชิกทีม FastTrack Center (ไม่มีในแผน GCC สูงหรือ DoD)   
 - ทํางานร่วมกับผู้เชี่ยวชาญ FastTrack เพื่อเริ่มการปฐมการบริการที่มีสิทธิ์    
 - เข้าร่วมในการประชุมการหยุดงานหมั้น จัดการ และนําผู้เข้าร่วมจากองค์กรของคุณ และยืนยันระยะเวลาการแก้ไข    
-- ระบุวัตถุประสงค์ของคุณสําหรับบริการ Office 365 (ตัวอย่างเช่น SharePoint Online, Exchange แบบออนไลน์, ทีม Microsoft และ Office 365 ProPlus) และเป้าหมายขององค์กร
+- ระบุวัตถุประสงค์ของคุณสําหรับบริการ Office 365 (ตัวอย่างเช่น SharePoint Online, Exchange Online, Microsoft Teams และแอป Microsoft 365) และเป้าหมายขององค์กร
     
 ## <a name="assess-phase"></a>ประเมินระยะ
 

@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: คุณใช้ประโยชน์ในศูนย์ FastTrack สําหรับ Office 365 เมื่อคุณซื้อสิทธิ์การใช้งาน 150 อย่างน้อยสําหรับบริการที่มีสิทธิ์หรือแผนสําหรับผู้เช่า Office 365 ของคุณ จากนั้นคุณทํางานร่วมกับผู้เชี่ยวชาญ FastTrack เพื่อประเมิน แก้ไข เปิดใช้งาน และผลักดันการใช้งานบริการเหล่านั้น ผู้เชี่ยวชาญเหล่านี้ยังให้คําแนะนําเกี่ยวกับการย้ายข้อมูล
-ms.openlocfilehash: 830aca2f274cb00d7c365866b31dced314e5429d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 5bf7e1d6376adc1c2224e4a0f9919b0b051bf3f1
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098223"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665805"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365
 
@@ -35,9 +35,9 @@ ms.locfileid: "43098223"
 หากต้องการเรียนรู้เกี่ยวกับสิทธิประโยชน์ที่ FastTrack มอบให้โดยบริการ ให้ดูที่
 
 - [แลกเปลี่ยนแบบออนไลน์](O365-fasttrack-responsibilities.md#exchange-online)
+- [ไมโครซอฟท์ 365 ปพลิเคชัน](O365-fasttrack-responsibilities.md#microsoft-365-apps)
 - [Microsoft Teams](O365-fasttrack-responsibilities.md#microsoft-teams)
 - [การป้องกันภัยคุกคามขั้นสูงของ Office 365](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
-- [สํานักงาน 365 ProPlus](O365-fasttrack-responsibilities.md#office-365-proplus)
 - [วันไดรฟ์สําหรับธุรกิจ](O365-fasttrack-responsibilities.md#onedrive-for-business)
 - [แนวโน้มสําหรับ iOS และแอนดรอยด์](O365-fasttrack-responsibilities.md#outlook-for-ios-and-android)
 - [พลังงาน BI](O365-fasttrack-responsibilities.md#power-bi)
@@ -49,7 +49,7 @@ ms.locfileid: "43098223"
   
 คุณกําลังมองหา[ประโยชน์ FastTrack Center สําหรับองค์กร Mobility + การรักษาความปลอดภัย](EMS-fasttrack-benefit-for-EMS.md)? ซึ่งรวมถึงข้อมูลเกี่ยวกับ:
   
-- ไมโครซอฟท์อินทูป    
+- ไมโครซอฟท์อินทูป
 - พรีเมี่ยมไดเรกทอรีที่ใช้งานอยู่ของ azure 
 - การป้องกันข้อมูล Azure
     
