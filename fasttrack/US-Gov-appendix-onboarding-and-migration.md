@@ -3,19 +3,19 @@ title: ขั้นตอนการเตรียมพร้อมและ�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: การเริ่มต้นใช้งาน Office 365 สําหรับรัฐบาลสหรัฐฯ Office 365 มีสี่ขั้นตอนหลัก ได้แก่ เริ่มต้น ประเมิน แก้ไข และเปิดใช้งาน คุณสามารถทําตามขั้นตอนเหล่านี้ด้วยขั้นตอนการย้ายข้อมูลทางเลือกดังที่แสดงในรูปต่อไปนี้
-ms.openlocfilehash: 88c74a4839df42dbc57da65f7f2c4776bd5d90cb
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 8725265751740495e1264945c3472f6ee233b1c5
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665923"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999801"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>ขั้นตอนการเตรียมพร้อมและการย้ายสําหรับสํานักงาน 365 สหรัฐฯ
 

@@ -3,19 +3,19 @@ title: บริการและแผนที่มีสิทธิ์
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: เมื่อคุณซื้อบริการ Microsoft 365 ผู้เชี่ยวชาญด้าน FastTrack จะให้คําแนะนําแก่คุณในการขึ้นเครื่องไปยัง Microsoft 365 และเริ่มใช้งานบริการเหล่านั้น
-ms.openlocfilehash: 7b27f5c3c2e989e1dbe932346d013bd6e9fb1890
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 9b6c7272d1b8083acd3d5765687ce841e08d086a
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666081"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999837"
 ---
 # <a name="eligible-services-and-plans"></a>บริการและแผนที่มีสิทธิ์
 

@@ -3,25 +3,25 @@ title: Microsoft Defender Advanced Threat Protection
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: ประโยชน์จากศูนย์ FastTrack สําหรับ Windows 10 ให้การเข้าถึง Microsoft Defender ขั้นสูงป้องกันภัยคุกคาม (ATP) – บริการใหม่ที่ออกแบบมาเพื่อช่วยให้เครือข่ายองค์กรป้องกัน ตรวจสอบ และตอบสนองต่อภัยคุกคามขั้นสูง
-ms.openlocfilehash: f5f81609fe1d632f0499a96135aca048b7e1e158
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 9407dfddff1b59c88a19fb0266e73efe3d117615
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097783"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999647"
 ---
 # <a name="microsoft-defender-advanced-threat-protection"></a>Microsoft Defender Advanced Threat Protection
 
-ประโยชน์จากศูนย์ FastTrack สําหรับ Windows 10 ให้การเข้าถึง Microsoft Defender ขั้นสูงป้องกันภัยคุกคาม (ATP) – บริการใหม่ที่ออกแบบมาเพื่อช่วยให้เครือข่ายองค์กรป้องกัน ตรวจสอบ และตอบสนองต่อภัยคุกคามขั้นสูง เมื่อคุณร้องขอบริการ Microsoft Defender ATP ผู้เชี่ยวชาญ FastTrack จะทํางานร่วมกับคุณเพื่อช่วยคุณปรับใช้เทคโนโลยีต่างๆ เพื่อรักษาความปลอดภัยให้กับอุปกรณ์ปลายทางของคุณ
+ประโยชน์จากศูนย์ FastTrack สําหรับ Windows 10 ให้การเข้าถึง Microsoft Defender ขั้นสูงป้องกันภัยคุกคาม (ATP) – แพลตฟอร์มที่ออกแบบมาเพื่อช่วยให้เครือข่ายองค์กรป้องกัน ตรวจสอบ ตรวจสอบ และตอบสนองต่อภัยคุกคามขั้นสูง เมื่อคุณร้องขอความช่วยเหลือในการปรับใช้ Microsoft Defender ATP ผ่าน FastTrack ผู้เชี่ยวชาญ FastTrack จะทํางานร่วมกับคุณเพื่อช่วยในการปรับใช้เทคโนโลยีเพื่อรักษาความปลอดภัยให้กับปลายทางของคุณ
 
-วิศวกรของ Microsoft ทํางานร่วมกับคุณเพื่อประเมินการจัดการเวอร์ชันและการบริหารจัดการอุปกรณ์ของระบบปฏิบัติการ ตลอดจนสถานะของบริการ Windows AV หรือซอฟต์แวร์รักษาความปลอดภัยปลายทางอื่นๆ เรายังให้คําแนะนําสําหรับโปรไฟล์การกําหนดค่าสําหรับการป้องกันปลายทางและข้อ จํากัด ของอุปกรณ์  
+ในฐานะส่วนหนึ่งของ FastTrack Benefit วิศวกรของ Microsoft ทํางานร่วมกับคุณในการประเมินการจัดการเวอร์ชันและการบริหารจัดการอุปกรณ์ของระบบปฏิบัติการ ตลอดจนสถานะของบริการ Windows Defender AV หรือซอฟต์แวร์รักษาความปลอดภัยปลายทางอื่นๆ เรายังให้คําแนะนําสําหรับการกําหนดค่าของการป้องกันปลายทางและโปรไฟล์ข้อจํากัดของอุปกรณ์  
 
 > [!NOTE]
 > นี่คือบริการที่ FastTrack จัดหาและไม่ใช่แพคเกจซอฟต์แวร์ 

@@ -3,19 +3,19 @@ title: ขอบไมโครซอฟท์ใหม่
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: ประโยชน์ FastTrack สําหรับ Windows 10 ให้คําแนะนําการปรับใช้สําหรับ Microsoft ขอบใหม่สําหรับ Windows 10 ลูกค้าองค์กรที่มี 150 หรือมากกว่าที่นั่ง
-ms.openlocfilehash: 89c410a4ceb15a57dfcc7fe4510b3241e39882b7
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: f24fc38dc192ce36a604a2250c3dc2a28bbb7c53
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097747"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999623"
 ---
 # <a name="the-new-microsoft-edge"></a>ขอบไมโครซอฟท์ใหม่
 

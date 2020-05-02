@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 76a7665de8d37721ed833c5a864302c4ac1b4932
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 8f340e3f3adb96038424663e7af0d641e1f845c7
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098047"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999087"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>กระบวนการสิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Enterprise Mobility + Security (EMS)
 ถ้าองค์กรของคุณมีสิทธิ์ได้รับสิทธิประโยชน์จากศูนย์ FastTrack สําหรับ EMS คุณสามารถทํางานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อรับ Microsoft Azure ไดเรกทอรีที่ใช้งานอยู่พรีเมียม, Microsoft Intune และ Azure คุ้มครองข้อมูลพร้อมใช้งาน นอกจากนี้คุณยังสามารถร้องขอความช่วยเหลือผ่านไซต์[FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems)สําหรับการป้องกันข้อมูล Azure และความปลอดภัยของโปรแกรมประยุกต์ Cloud ของ Microsoft เมื่อต้องการทราบว่าองค์กรของคุณมีสิทธิ์หรือไม่ ให้ดูที่[บริการและแผนที่มีสิทธิ์](M365-eligible-services-and-plans.md)

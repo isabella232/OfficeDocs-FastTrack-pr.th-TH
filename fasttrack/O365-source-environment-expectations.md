@@ -3,19 +3,19 @@ title: ข้อกำหนดของสภาพแวดล้อมต้�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: ประโยชน์จากศูนย์ FastTrack จะให้คําแนะนําแก่คุณในการตั้งค่าระดับการรวมเข้ากับสภาพแวดล้อมต้นทางของคุณ (ตัวอย่างเช่น ถ้าคุณมีบริการในสภาพแวดล้อมต้นทางที่คุณต้องการย้ายไปยัง Office 365 อยู่แล้ว)
-ms.openlocfilehash: 734cd91ad3ff67c2a2a0be316a8d78aec2224b81
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 96fea95bcb8e96de9833463b02d34ec39d96bd55
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666105"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999849"
 ---
 # <a name="source-environment-expectations"></a>ข้อกำหนดของสภาพแวดล้อมต้นทาง
 
