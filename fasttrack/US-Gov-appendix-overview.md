@@ -1,5 +1,5 @@
 ---
-title: ภาคผนวก C - ภาพรวมสวัสดิการศูนย์ FastTrack สําหรับ Office 365 รัฐบาลสหรัฐ
+title: ภาคผนวก C - ภาพรวมสิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -16,7 +16,7 @@ ms.contentlocale: th-TH
 ms.lasthandoff: 06/01/2020
 ms.locfileid: "44472158"
 ---
-# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>ภาคผนวก C - ภาพรวมสวัสดิการศูนย์ FastTrack สําหรับ Office 365 รัฐบาลสหรัฐ
+# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>ภาคผนวก C - ภาพรวมสิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365 US Government
 
 ด้วย FastTrack Center Benefit สําหรับ Office 365 คุณทํางานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อให้สภาพแวดล้อม Office 365 ของคุณพร้อมสําหรับการใช้งานและวางแผนการเปิดตัวและการใช้งานภายในองค์กรของคุณ 
   
@@ -32,4 +32,4 @@ ms.locfileid: "44472158"
 - [การโยกย้ายข้อมูล](O365-data-migration.md)    
 - [ความรับผิดชอบของ FastTrack สําหรับสํานักงาน 365 รัฐบาลสหรัฐ](US-Gov-appendix-fasttrack-responsibilities.md)   
 - [ความรับผิดชอบของคุณสําหรับสํานักงาน 365 รัฐบาลสหรัฐ](US-Gov-appendix-your-responsibilities.md)    
-- [ภาคผนวก A - ศูนย์ FastTrack ประโยชน์เพิ่มเติม](O365-fasttrack-additional-benefits.md)
+- [ภาคผนวก A - สิทธิประโยชน์เพิ่มเติมจากศูนย์ FastTrack](O365-fasttrack-additional-benefits.md)
