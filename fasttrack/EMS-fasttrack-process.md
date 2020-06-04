@@ -1,11 +1,11 @@
 ---
 title: กระบวนการ FastTrack
-description: ภาพรวมของกระบวนการการเริ่มต้นใช้งานของ FastTrack Center
+description: ภาพรวมของกระบวนการเริ่มต้นสิทธิประโยชน์ของศูนย์ FastTrack
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,48 +14,48 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 8f340e3f3adb96038424663e7af0d641e1f845c7
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: b190e4c3c27717988ee4f5e2e21deff56233a670
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999087"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471498"
 ---
-# <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a><span data-ttu-id="14a60-103">กระบวนการสิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Enterprise Mobility + Security (EMS)</span><span class="sxs-lookup"><span data-stu-id="14a60-103">FastTrack Center Benefit Process for Enterprise Mobility + Security (EMS)</span></span>
-<span data-ttu-id="14a60-104">ถ้าองค์กรของคุณมีสิทธิ์ได้รับสิทธิประโยชน์จากศูนย์ FastTrack สําหรับ EMS คุณสามารถทํางานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อรับ Microsoft Azure ไดเรกทอรีที่ใช้งานอยู่พรีเมียม, Microsoft Intune และ Azure คุ้มครองข้อมูลพร้อมใช้งาน</span><span class="sxs-lookup"><span data-stu-id="14a60-104">If your organization is eligible for the FastTrack Center Benefit for EMS, you can work remotely with FastTrack Specialists to get Microsoft Azure Active Directory Premium, Microsoft Intune, and Azure Information Protection ready for use.</span></span> <span data-ttu-id="14a60-105">นอกจากนี้คุณยังสามารถร้องขอความช่วยเหลือผ่านไซต์[FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems)สําหรับการป้องกันข้อมูล Azure และความปลอดภัยของโปรแกรมประยุกต์ Cloud ของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="14a60-105">You can also request help through the [FastTrack site](https://www.microsoft.com/fasttrack/microsoft-365/ems) for Azure Information Protection and Microsoft Cloud App Security.</span></span> <span data-ttu-id="14a60-106">เมื่อต้องการทราบว่าองค์กรของคุณมีสิทธิ์หรือไม่ ให้ดูที่[บริการและแผนที่มีสิทธิ์](M365-eligible-services-and-plans.md)</span><span class="sxs-lookup"><span data-stu-id="14a60-106">To learn whether your organization is eligible, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+# <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a><span data-ttu-id="e1570-103">กระบวนการสิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Enterprise Mobility + Security (EMS)</span><span class="sxs-lookup"><span data-stu-id="e1570-103">FastTrack Center Benefit Process for Enterprise Mobility + Security (EMS)</span></span>
+<span data-ttu-id="e1570-104">ถ้าองค์กรของคุณมีสิทธิ์ได้รับสิทธิประโยชน์ศูนย์ FastTrack สําหรับ EMS คุณสามารถทํางานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อรับ Microsoft Azure Active Directory Premium, Microsoft Intunem และการป้องกันข้อมูล Azure พร้อมสําหรับการใช้งาน</span><span class="sxs-lookup"><span data-stu-id="e1570-104">If your organization is eligible for the FastTrack Center Benefit for EMS, you can work remotely with FastTrack Specialists to get Microsoft Azure Active Directory Premium, Microsoft Intune, and Azure Information Protection ready for use.</span></span> <span data-ttu-id="e1570-105">คุณยังสามารถร้องขอความช่วยเหลือผ่าน[ไซต์ FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems)สําหรับการป้องกันข้อมูล Azure และความปลอดภัยของโปรแกรมประยุกต์ระบบคลาวด์ของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="e1570-105">You can also request help through the [FastTrack site](https://www.microsoft.com/fasttrack/microsoft-365/ems) for Azure Information Protection and Microsoft Cloud App Security.</span></span> <span data-ttu-id="e1570-106">เมื่อต้องการทราบว่าองค์กรของคุณมีสิทธิ์หรือไม่ ให้ดูที่[บริการและแผนที่มีสิทธิ์](M365-eligible-services-and-plans.md)</span><span class="sxs-lookup"><span data-stu-id="e1570-106">To learn whether your organization is eligible, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
 
 
-<span data-ttu-id="14a60-107">นี่คือสิ่งที่เราครอบคลุมเกี่ยวกับกระบวนการเตรียมพร้อม:</span><span class="sxs-lookup"><span data-stu-id="14a60-107">Here's what we cover about the onboarding process:</span></span>
+<span data-ttu-id="e1570-107">นี่คือสิ่งที่เราครอบคลุมเกี่ยวกับกระบวนการเริ่มต้น:</span><span class="sxs-lookup"><span data-stu-id="e1570-107">Here's what we cover about the onboarding process:</span></span>
 
--   [<span data-ttu-id="14a60-108">ภาพรวมของกระบวนการปฐมนารถ</span><span class="sxs-lookup"><span data-stu-id="14a60-108">Overview of the onboarding process</span></span>](EMS-fasttrack-benefit-overview.md)
+-   [<span data-ttu-id="e1570-108">ภาพรวมของกระบวนการเริ่มต้น</span><span class="sxs-lookup"><span data-stu-id="e1570-108">Overview of the onboarding process</span></span>](EMS-fasttrack-benefit-overview.md)
 
--   [<span data-ttu-id="14a60-109">ความคาดหวังสําหรับสภาพแวดล้อมต้นทางของคุณ</span><span class="sxs-lookup"><span data-stu-id="14a60-109">Expectations for your source environment</span></span>](EMS-source-environment-expectations.md)
+-   [<span data-ttu-id="e1570-109">ความคาดหวังสําหรับสภาพแวดล้อมต้นทางของคุณ</span><span class="sxs-lookup"><span data-stu-id="e1570-109">Expectations for your source environment</span></span>](EMS-source-environment-expectations.md)
 
--   [<span data-ttu-id="14a60-110">ขั้นตอนของกระบวนการเริ่มต้น</span><span class="sxs-lookup"><span data-stu-id="14a60-110">Phases of the onboarding process</span></span>](EMS-onboarding-phases.md)
+-   [<span data-ttu-id="e1570-110">ขั้นตอนของกระบวนการเริ่มต้น</span><span class="sxs-lookup"><span data-stu-id="e1570-110">Phases of the onboarding process</span></span>](EMS-onboarding-phases.md)
 
--   <span data-ttu-id="14a60-111">[ความรับผิดชอบของ FastTrack](EMS-fasttrack-responsibilities.md)ในแต่ละเฟส</span><span class="sxs-lookup"><span data-stu-id="14a60-111">[FastTrack responsibilities](EMS-fasttrack-responsibilities.md) for each phase</span></span>
+-   <span data-ttu-id="e1570-111">[ความรับผิดชอบของ FastTrack](EMS-fasttrack-responsibilities.md)สําหรับแต่ละเฟส</span><span class="sxs-lookup"><span data-stu-id="e1570-111">[FastTrack responsibilities](EMS-fasttrack-responsibilities.md) for each phase</span></span>
 
--   <span data-ttu-id="14a60-112">[ความรับผิดชอบของลูกค้า](EMS-your-responsibilities.md)สําหรับแต่ละระยะ</span><span class="sxs-lookup"><span data-stu-id="14a60-112">[Customer responsibilities](EMS-your-responsibilities.md) for each phase</span></span>
+-   <span data-ttu-id="e1570-112">[ความรับผิดชอบของลูกค้า](EMS-your-responsibilities.md)สําหรับแต่ละขั้นตอน</span><span class="sxs-lookup"><span data-stu-id="e1570-112">[Customer responsibilities](EMS-your-responsibilities.md) for each phase</span></span>
 
-<span data-ttu-id="14a60-113">นี่คือสิ่งที่คุณสามารถคาดหวังได้เมื่อการปฐมนาเสร็จสมบูรณ์:</span><span class="sxs-lookup"><span data-stu-id="14a60-113">Here's what you can expect when onboarding is complete:</span></span>
+<span data-ttu-id="e1570-113">นี่คือสิ่งที่คุณสามารถคาดหวังเมื่อเริ่มต้นเสร็จสมบูรณ์:</span><span class="sxs-lookup"><span data-stu-id="e1570-113">Here's what you can expect when onboarding is complete:</span></span>
 
--   <span data-ttu-id="14a60-114">ผู้เช่า EMS สําหรับบริการที่คุณเลือกจะถูกสร้างขึ้น</span><span class="sxs-lookup"><span data-stu-id="14a60-114">Your EMS tenants for your selected services are created.</span></span>
+-   <span data-ttu-id="e1570-114">ผู้เช่า EMS ของคุณสําหรับบริการที่คุณเลือกจะถูกสร้างขึ้น</span><span class="sxs-lookup"><span data-stu-id="e1570-114">Your EMS tenants for your selected services are created.</span></span>
 
--   <span data-ttu-id="14a60-115">ผู้ใช้ที่มีสิทธิ์การใช้งานสามารถเข้าถึงบริการ EMS โดยใช้หนึ่งในตัวเลือกข้อมูลประจําตัวต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="14a60-115">Licensed users can access EMS Services by using one of the following identity options:</span></span>
+-   <span data-ttu-id="e1570-115">ผู้ใช้ที่ได้รับสิทธิการใช้งานสามารถเข้าถึงบริการ EMS โดยใช้ตัวเลือกข้อมูลประจําตัวอย่างใดอย่างหนึ่งต่อไปนี้:</span><span class="sxs-lookup"><span data-stu-id="e1570-115">Licensed users can access EMS Services by using one of the following identity options:</span></span>
 
-    -   <span data-ttu-id="14a60-116">ข้อมูลเฉพาะตัวของ Cloud (บัญชี EMS ที่ไม่ซ้ํากัน)</span><span class="sxs-lookup"><span data-stu-id="14a60-116">Cloud Identities (unique EMS accounts).</span></span>
+    -   <span data-ttu-id="e1570-116">ข้อมูลเฉพาะตัวของเมฆ (บัญชี EMS ที่ไม่ซ้ํากัน)</span><span class="sxs-lookup"><span data-stu-id="e1570-116">Cloud Identities (unique EMS accounts).</span></span>
 
-    -   <span data-ttu-id="14a60-117">ซิงโครไนส์ข้อมูลเฉพาะตัว: บัญชี EMS ซิงโครไนส์จากไดเรกทอรีที่ใช้งานอยู่ในสถานที่ของคุณ โดยใช้เครื่องมือ Azure เชื่อมต่อไดเรกทอรีที่ใช้งานอยู่ (รหัสผ่านแฮซิงค์หรือการรับรองความถูกต้องแบบพาส-ทรู)</span><span class="sxs-lookup"><span data-stu-id="14a60-117">Synchronized Identities: EMS accounts synchronized from your on-premises Active Directory by using the Azure Active Directory Connect tool (Password Hash Sync or Pass-through Authentication).</span></span> <span data-ttu-id="14a60-118">ตัวเลือกนี้สําหรับลูกค้าที่มีฟอเรสต์เดียวหรือหลายฟอเรสต์ Active Directory</span><span class="sxs-lookup"><span data-stu-id="14a60-118">This option is for customers with a single forest or multiple Active Directory forests.</span></span>
+    -   <span data-ttu-id="e1570-117">ข้อมูลประจําตัวที่ซิงโครไนส์: บัญชี EMS ซิงโครไนส์จากไดเรกทอรีที่ใช้งานอยู่ในสถานของคุณ โดยใช้เครื่องมือการเชื่อมต่อไดเรกทอรีที่ใช้งานอยู่ของ Azure (รหัสผ่านแฮซิงค์หรือการรับรองความถูกต้องผ่าน)</span><span class="sxs-lookup"><span data-stu-id="e1570-117">Synchronized Identities: EMS accounts synchronized from your on-premises Active Directory by using the Azure Active Directory Connect tool (Password Hash Sync or Pass-through Authentication).</span></span> <span data-ttu-id="e1570-118">ตัวเลือกนี้สําหรับลูกค้าที่มีฟอเรสต์เดียวหรือฟอเรสต์ไดเรกทอรีที่ใช้งานอยู่หลายฟอเรสต์</span><span class="sxs-lookup"><span data-stu-id="e1570-118">This option is for customers with a single forest or multiple Active Directory forests.</span></span>
 
-    -   <span data-ttu-id="14a60-119">Identities ติดต่อกับภายนอก--กับบัญชี Microsoft EMS ที่อยู่:</span><span class="sxs-lookup"><span data-stu-id="14a60-119">Federated Identities--with Microsoft EMS accounts that are:</span></span>
+    -   <span data-ttu-id="e1570-119">ข้อมูลเฉพาะตัวที่ติดต่อกับภายนอก -- ด้วยบัญชี Microsoft EMS ที่:</span><span class="sxs-lookup"><span data-stu-id="e1570-119">Federated Identities--with Microsoft EMS accounts that are:</span></span>
 
-        -   <span data-ttu-id="14a60-120">ซิงโครไนส์จากไดเรกทอรีที่ใช้งานอยู่กับเครื่องมือเชื่อมต่อ AD Azure</span><span class="sxs-lookup"><span data-stu-id="14a60-120">Synchronized from Active Directory with the Azure AD Connect tool.</span></span> <span data-ttu-id="14a60-121">ตัวเลือกนี้สําหรับลูกค้าที่มีการตั้งค่าคอนฟิกฟอเรสต์ไดเรกทอรีที่ใช้งานอยู่เดียว</span><span class="sxs-lookup"><span data-stu-id="14a60-121">This option is for customers with a single Active Directory forest configuration.</span></span>
+        -   <span data-ttu-id="e1570-120">ซิงโครไนส์จากไดเรกทอรีที่ใช้งานอยู่ด้วยเครื่องมือการเชื่อมต่อโฆษณา Azure</span><span class="sxs-lookup"><span data-stu-id="e1570-120">Synchronized from Active Directory with the Azure AD Connect tool.</span></span> <span data-ttu-id="e1570-121">ตัวเลือกนี้สําหรับลูกค้าที่มีการกําหนดค่าฟอเรสต์ไดเรกทอรีที่ใช้งานอยู่เดียว</span><span class="sxs-lookup"><span data-stu-id="e1570-121">This option is for customers with a single Active Directory forest configuration.</span></span>
 
-        -   <span data-ttu-id="14a60-122">ติดต่อกับเซิร์ฟเวอร์ Windows Server 2012 R2 ที่ใช้งานอยู่ไดเรกทอรีสหพันธรัฐบริการ (AD FS) 2.0 หรือในภายหลังจากไดเรกทอรีที่ใช้งานอยู่ในสถานที่ของคุณ</span><span class="sxs-lookup"><span data-stu-id="14a60-122">Federated with Windows Server 2012 R2 Active Directory Federation Services (AD FS) 2.0 or later from your on-premises Active Directory.</span></span>
+        -   <span data-ttu-id="e1570-122">ติดต่อกับภายนอกด้วย Windows Server 2012 R2 บริการสหพันธรัฐไดเรกทอรีที่ใช้งานอยู่ (AD FS) 2.0 หรือรุ่นที่ใหม่กว่าจากไดเรกทอรีที่ใช้งานอยู่ในสถานที่ของคุณ</span><span class="sxs-lookup"><span data-stu-id="e1570-122">Federated with Windows Server 2012 R2 Active Directory Federation Services (AD FS) 2.0 or later from your on-premises Active Directory.</span></span>
 
-        -   <span data-ttu-id="14a60-123">ความสามารถในการจัดประเภทและปกป้องข้อมูลทั้งระหว่างเดินทางและระหว่างขนส่งด้วยการปกป้องข้อมูล Azure โดยอัตโนมัติ</span><span class="sxs-lookup"><span data-stu-id="14a60-123">The ability to auto-classify and protect information both at rest and in transit with Azure Information Protection.</span></span> 
+        -   <span data-ttu-id="e1570-123">ความสามารถในการจําแนกและปกป้องข้อมูลทั้งที่พักผ่อนและในระหว่างการขนส่งด้วยการป้องกันข้อมูล Azure โดยอัตโนมัติ</span><span class="sxs-lookup"><span data-stu-id="e1570-123">The ability to auto-classify and protect information both at rest and in transit with Azure Information Protection.</span></span> 
 
-        -   <span data-ttu-id="14a60-124">ความสามารถในการค้นหาข้อมูลภายในแฟ้มในสถานที่ใช้ร่วมกันและเซิร์ฟเวอร์ SharePoint กับสแกนเนอร์ Azure ป้องกันข้อมูล</span><span class="sxs-lookup"><span data-stu-id="14a60-124">The ability to discover information within on-premises file shares and SharePoint servers with the Azure Information Protection scanner.</span></span> 
+        -   <span data-ttu-id="e1570-124">ความสามารถในการค้นหาข้อมูลภายในการแชร์ไฟล์ในสถานที่และเซิร์ฟเวอร์ SharePoint ด้วยสแกนเนอร์การป้องกันข้อมูล Azure</span><span class="sxs-lookup"><span data-stu-id="e1570-124">The ability to discover information within on-premises file shares and SharePoint servers with the Azure Information Protection scanner.</span></span> 
 
-        -   <span data-ttu-id="14a60-125">ความสามารถในการจัดการคีย์ผู้เช่าการป้องกันข้อมูล Azure ภายในชุดเก็บคีย์ Azure</span><span class="sxs-lookup"><span data-stu-id="14a60-125">The ability to manage your Azure Information Protection tenant keys within the Azure Key Vault.</span></span> 
+        -   <span data-ttu-id="e1570-125">ความสามารถในการจัดการคีย์ผู้เช่าการป้องกันข้อมูล Azure ของคุณภายในชุดเก็บคีย์ Azure</span><span class="sxs-lookup"><span data-stu-id="e1570-125">The ability to manage your Azure Information Protection tenant keys within the Azure Key Vault.</span></span> 
 
