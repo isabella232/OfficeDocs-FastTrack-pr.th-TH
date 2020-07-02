@@ -3,19 +3,19 @@ title: ขั้นตอนการออนบอร์ด
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: การเริ่มต้น Windows 10 มีสี่ขั้นตอนหลัก ได้แก่ เริ่มต้น ประเมิน แก้ไข และเปิดใช้งาน
-ms.openlocfilehash: c42792ea21b0c8d08ba9fa5e225882fa540a792a
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 6cbfe4b41fa3e6dfdb8b69787d1d70672e0b19c2
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472074"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011543"
 ---
 # <a name="onboarding-phases"></a>ขั้นตอนการออนบอร์ด
 

@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack ให้คําแนะนําการปรับใช้ Windows 10 เพื่อช่วยให้คุณสําหรับการปรับรุ่นจาก Windows 7 Professional และ Windows 8.1 Professional เป็น Windows 10 องค์กร
-ms.openlocfilehash: 472a5efb28a269ecdd262ed9c31cf4cceaa06ddf
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 0aa98b787af20c12f851033b0524d450fd0fcb87
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472098"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011519"
 ---
 # <a name="windows-10"></a>Windows 10
 
