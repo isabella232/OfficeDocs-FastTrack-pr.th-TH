@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,18 +14,18 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 62ed549ea78146541d0d4a2d860f02b15c02f44f
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 517e031793114328b8def0cd474e9e71ca54ee79
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471729"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011195"
 ---
 # <a name="fasttrack-responsibilities"></a>ความรับผิดชอบของ FastTrack
 
 FastTrack มีความรับผิดชอบต่อไปนี้ในระหว่างการเตรียมพร้อม
 
-## <a name="general"></a>ทั่ว ไป
+## <a name="general"></a>ทั่วไป
 
 -   ให้ความช่วยเหลือสนับสนุนระยะไกลแก่คุณสําหรับกิจกรรมการกําหนดค่าที่จําเป็นตามที่ระบุไว้ในคําอธิบายเฟสโดยละเอียด
 

@@ -3,25 +3,25 @@ title: ความรับผิดชอบของคุณ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: คุณมีความรับผิดชอบต่อไปนี้ในระหว่างการขึ้นเครื่อง
-ms.openlocfilehash: 0db5f1d7ebe2d5ebf2a7561ab7d6cdff62d7f1f8
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 7f64d9eb22efac331abe629304693618cf370c56
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471546"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011070"
 ---
 # <a name="your-responsibilities"></a>ความรับผิดชอบของคุณ
 
 คุณมีความรับผิดชอบต่อไปนี้ในระหว่างการขึ้นเครื่อง\*
   
-## <a name="general"></a>ทั่ว ไป
+## <a name="general"></a>ทั่วไป
 
 - พัฒนาและดําเนินการตามแผนความสําเร็จของคุณ
 - จัดเตรียมการปรับปรุงและการผสานรวมใดๆ ให้กับผู้เช่า Office 365 ของคุณนอกเหนือจากตัวเลือกการกําหนดค่าที่แสดงไว้ในที่นี้  

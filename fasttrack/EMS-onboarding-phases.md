@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: ed37297c1d085c1b4140e229d35e9de0d138b9a9
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: e7347b884f2226923ecbd81db5051328b5d30916
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471834"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45010967"
 ---
 # <a name="onboarding-phases"></a>ขั้นตอนการออนบอร์ด
 
