@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: ผู้เชี่ยวชาญ FastTrack ให้คําแนะนําเกี่ยวกับขั้นตอนสําหรับการย้ายข้อมูลไปยัง Office 365 ซึ่งพร้อมใช้งานสําหรับลูกค้าที่มีสิทธิ์ทั้งหมดด้วยบริการ Office 365 สําหรับการแลกเปลี่ยนแบบออนไลน์ OneDrive สําหรับธุรกิจ และ SharePoint แบบออนไลน์
-ms.openlocfilehash: 7780af3d5edcdbdf21acba1d421bf379967305fa
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: 2befdc8e1eb2464b1c9831528849fb39671cfff2
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011315"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534054"
 ---
 # <a name="data-migration"></a>การโยกย้ายข้อมูล
 
@@ -38,9 +38,6 @@ ms.locfileid: "45011315"
   
 > [!NOTE]
 > ถ้าจําเป็นต้องรวม 
-  
-> [!NOTE]
-> ใหม่มีนาคม 2020, ไมโครซอฟท์จะทําให้พร้อมใช้งานหกเดือน[Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license)และ[Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license)ใบอนุญาตทดลองใช้เพื่อช่วยในการทํางานระยะไกลและการเรียนรู้เป็นลูกค้าตอบสนองต่อการระบาด COVI-19 เป็นข้อยกเว้น FastTrack กําลังให้บริการการย้ายข้อมูลพร้อมใช้งานสําหรับผู้เช่าที่มีสิทธิ์การใช้งาน 500 หรือมากกว่าของการทดลองเหล่านี้ และสําหรับ[Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)สําหรับนักเรียนจากเดือนมีนาคม 2020 ถึงสิงหาคม 2020 Microsoft ขอสงวนสิทธิ์ในการยกเลิก เปลี่ยนแปลง หรือระงับข้อเสนอนี้ได้ตลอดเวลาโดยไม่ต้องแจ้งให้ทราบล่วงหน้า
 
 ตารางต่อไปนี้อธิบายสิ่งที่คาดหวังสําหรับการย้ายในสภาพแวดล้อมของแหล่งที่มาที่มีอยู่ของคุณ
   

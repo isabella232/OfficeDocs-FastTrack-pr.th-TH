@@ -10,19 +10,19 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: เมื่อคุณซื้อบริการใดๆ ของ Microsoft 365 ผู้เชี่ยวชาญ FastTrack ให้คําแนะนําสําหรับคุณที่จะขึ้นเครื่องไปยัง Microsoft 365 และเริ่มใช้งาน
-ms.openlocfilehash: c5d959a40e11bf17382887d31494eac9e4ed9a93
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: bdd1ce3f98a807d6c07002741b5092390463bf86
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011231"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534042"
 ---
 # <a name="eligible-services-and-plans"></a>บริการและแผนที่มีสิทธิ์
 
 เมื่อคุณซื้อบริการใดๆ ของ Microsoft 365 ผู้เชี่ยวชาญ FastTrack ให้คําแนะนําสําหรับคุณที่จะขึ้นเครื่องไปยัง Microsoft 365 และเริ่มใช้งาน
 
 > [!IMPORTANT]
-> คุณต้องซื้อสิทธิ์การใช้งาน*อย่างน้อย*150 รายการจากแผนที่มีสิทธิ์ในรายการเพื่อรับบริการ FastTrack ใหม่มีนาคม 2020, ไมโครซอฟท์จะทําให้พร้อมใช้งานหกเดือน[Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license)และ[Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license)ใบอนุญาตทดลองใช้เพื่อช่วยในการทํางานระยะไกลและการเรียนรู้เป็นลูกค้าตอบสนองต่อการระบาด COVI-19 ยกเว้น FastTrack กําลังให้ความช่วยเหลือกับการเตรียมพร้อมสําหรับใบอนุญาตทดลองใช้ฟรีเหล่านี้และ[Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)สําหรับนักเรียนจากเดือนมีนาคม 2020 ถึงสิงหาคม 2020 Microsoft ขอสงวนสิทธิ์ในการยกเลิก เปลี่ยนแปลง หรือระงับข้อเสนอนี้ได้ตลอดเวลาโดยไม่ต้องแจ้งให้ทราบล่วงหน้า   
+> คุณต้องซื้อสิทธิ์การใช้งาน*อย่างน้อย*150 รายการจากแผนที่มีสิทธิ์ในรายการเพื่อรับบริการ FastTrack  
   
 คุณสามารถขอความช่วยเหลือผ่าน[ศูนย์การจัดการ Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704)หรือ[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
 
