@@ -1,23 +1,23 @@
 ---
-title: ภาคผนวก B - ข้อตกลง HIPAA Business Associate ของศูนย์ FastTrack
+title: ภาคผนวก A-FastTrack ศูนย์ข้อตกลงทางธุรกิจ HIPAA
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/01/2020
+ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-description: 'ถ้าคุณมีข้อตกลง HIPAA Business Associate (BAA) กับ Microsoft สําหรับบริการ FastTrack บริการทั้งหมดที่แสดงไว้ในสิทธิประโยชน์ของศูนย์ FastTrack สําหรับ Office 365 จะรวมอยู่ใน BAA นั้นยกเว้น:'
-ms.openlocfilehash: 0ab618d9aac4c59e6441d817878d279c43d5e8a1
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+description: 'ถ้าคุณมีข้อตกลงทางธุรกิจของ HIPAA (โยง) กับ Microsoft for FastTrack services บริการทั้งหมดที่แสดงรายการใน FastTrack Center สวัสดิการสำหรับ Office ๓๖๕จะรวมอยู่ในบายกเว้น:'
+ms.openlocfilehash: bfb0ee1e853f1e4bfcd8d58ed0fc3f573b5e75f6
+ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011423"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46776411"
 ---
-# <a name="appendix-b---fasttrack-center-hipaa-business-associate-agreement"></a>ภาคผนวก B - ข้อตกลง HIPAA Business Associate ของศูนย์ FastTrack
+# <a name="appendix-a---fasttrack-center-hipaa-business-associate-agreement"></a>ภาคผนวก A-FastTrack ศูนย์ข้อตกลงทางธุรกิจ HIPAA
 
-หากคุณมีข้อตกลง HIPAA Business Associate (BAA) ที่ตกลงกับ Microsoft บริการทั้งหมดที่แสดงอยู่ใน[สิทธิประโยชน์ของศูนย์ FastTrack สําหรับ Office 365](O365-fasttrack-benefit-for-office-365.md)จะดําเนินการตาม BAA นั้น
+ถ้าคุณมีข้อตกลงทางธุรกิจ HIPAA (§) ที่ตกลงร่วมกับ Microsoft บริการทั้งหมดที่แสดงอยู่ใน [Office ๓๖๕](products-and-capabilities.md#office-365) จะถูกดำเนินการสอดคล้องกับการเชื่อมโยงนั้น
 
 

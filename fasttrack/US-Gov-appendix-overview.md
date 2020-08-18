@@ -1,35 +1,35 @@
 ---
-title: ภาคผนวก C - ภาพรวมสิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365 US Government
+title: ภาพรวมของภาคผนวก B-FastTrack Center สวัสดิการสำหรับ Office ๓๖๕รัฐบาลสหรัฐอเมริกา
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/01/2020
+ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
-description: ด้วย FastTrack Center Benefit สําหรับ Office 365 คุณทํางานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อให้สภาพแวดล้อม Office 365 ของคุณพร้อมสําหรับการใช้งานและวางแผนการเปิดตัวและการใช้งานภายในองค์กรของคุณ
-ms.openlocfilehash: 1d6ab76f63bb9c15f037c9462e49024d805c6850
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+description: ด้วยประโยชน์ของ FastTrack Center สำหรับ Office ๓๖๕คุณทำงานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อรับสภาพแวดล้อม Office ๓๖๕ของคุณพร้อมสำหรับการใช้งานและวางแผนไวร์และการใช้งานภายในองค์กรของคุณ
+ms.openlocfilehash: 71aa948e87a2f4c5193bf4a1e860d10bb0fa9e3f
+ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011656"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46776469"
 ---
-# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>ภาคผนวก C - ภาพรวมสิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365 US Government
+# <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>ภาพรวมของภาคผนวก B-FastTrack Center สวัสดิการสำหรับ Office ๓๖๕รัฐบาลสหรัฐอเมริกา
 
-ด้วย FastTrack Center Benefit สําหรับ Office 365 คุณทํางานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อให้สภาพแวดล้อม Office 365 ของคุณพร้อมสําหรับการใช้งานและวางแผนการเปิดตัวและการใช้งานภายในองค์กรของคุณ 
+ด้วยประโยชน์ของ FastTrack Center สำหรับ Office ๓๖๕คุณทำงานจากระยะไกลกับผู้เชี่ยวชาญ FastTrack เพื่อรับสภาพแวดล้อม Office ๓๖๕ของคุณพร้อมสำหรับการใช้งานและวางแผนไวร์และการใช้งานภายในองค์กรของคุณ 
   
-แม้ว่าผลิตภัณฑ์และคุณลักษณะส่วนใหญ่จะเหมือนกันระหว่าง Office 365 Suite และ Office 365 U.S. แต่ฟีเจอร์บางรายการจะไม่พร้อมใช้งานในทุกแผน อ่านคําอธิบายบริการ[Office 365 รัฐบาลสหรัฐ](https://aka.ms/aboutgovcloud)สําหรับรายการล่าสุดของคุณลักษณะ
+แม้ว่าผลิตภัณฑ์และฟีเจอร์ส่วนใหญ่จะเหมือนกันระหว่าง Office ๓๖๕ Suite และ Office ๓๖๕ของรัฐบาลสหรัฐอเมริกาแต่ฟีเจอร์บางอย่างไม่พร้อมใช้งานในทุกแผนการใช้งานในขณะนี้ ตรวจทานคำอธิบายบริการของ [รัฐของ Office ๓๖๕](https://aka.ms/aboutgovcloud) สำหรับรายชื่อของฟีเจอร์ที่ทันสมัยที่สุด
 
 > [!NOTE]
-> เมื่อต้องการรับบริการ FastTrack ให้ไปที่[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698)และขอความช่วยเหลือ  
+> เมื่อต้องการรับบริการ FastTrack ให้ไปที่ [ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) และร้องขอความช่วยเหลือ  
 
-เราครอบคลุมหัวข้อต่อไปนี้:
-- [กระบวนการ FastTrack](O365-fasttrack-process.md) 
-- [ความคาดหวังของสภาพแวดล้อมของแหล่งที่มาสําหรับ Office 365 รัฐบาลสหรัฐ](US-Gov-appendix-source-environment-expectations.md)   
-- [ขั้นตอนการเริ่มต้นและการย้ายถิ่นสําหรับ Office 365 รัฐบาลสหรัฐ](US-Gov-appendix-onboarding-and-migration.md)
-- [การโยกย้ายข้อมูล](O365-data-migration.md)    
-- [ความรับผิดชอบของ FastTrack สําหรับสํานักงาน 365 รัฐบาลสหรัฐ](US-Gov-appendix-fasttrack-responsibilities.md)   
-- [ความรับผิดชอบของคุณสําหรับสํานักงาน 365 รัฐบาลสหรัฐ](US-Gov-appendix-your-responsibilities.md)    
-- [ภาคผนวก A - สิทธิประโยชน์เพิ่มเติมจากศูนย์ FastTrack](O365-fasttrack-additional-benefits.md)
+เราจะครอบคลุมหัวข้อต่อไปนี้:
+- [กระบวนการและความคาดหวัง](process-and-expectations.md) 
+- [ความคาดหวังของสภาพแวดล้อมของแหล่งที่มาสำหรับ Office ๓๖๕รัฐบาลสหรัฐอเมริกา](US-Gov-appendix-source-environment-expectations.md)   
+- [ปฐมนิเทศและการโยกย้ายขั้นตอนสำหรับ Office ๓๖๕รัฐบาลสหรัฐอเมริกา](US-Gov-appendix-onboarding-and-migration.md)
+- [การโยกย้ายข้อมูล](data-migration.md)    
+- [ความรับผิดชอบของ FastTrack สำหรับ Office ๓๖๕รัฐบาลสหรัฐอเมริกา](US-Gov-appendix-fasttrack-responsibilities.md)   
+- [ความรับผิดชอบของคุณสำหรับรัฐบาล Office ๓๖๕ของสหรัฐอเมริกา](US-Gov-appendix-your-responsibilities.md)    
+
