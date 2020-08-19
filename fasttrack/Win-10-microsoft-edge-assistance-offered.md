@@ -1,0 +1,55 @@
+---
+title: ความช่วยเหลือที่ให้
+ms.author: v-rberg
+author: v-rberg-msft
+manager: jimmuir
+ms.date: 7/01/2020
+ms.audience: ITPro
+ms.topic: overview
+ms.service: windows-10-administration
+localization_priority: Priority
+ms.collection: FastTrack
+description: เมื่อคุณซื้อ Windows 10 หรือบริการ Microsoft ๓๖๕ (ตามรายละเอียดในบริการและแผนที่มีสิทธิ์การใช้งาน) ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำในการใช้งานระยะไกลและความช่วยเหลือเกี่ยวกับความเข้ากันได้ถ้าคุณมีเว็บแอปหรือไซต์ที่ทำงานกับ Internet Explorer หรือ Google Chrome
+ms.openlocfilehash: 23cd4ea46bb13255acf975ee2ee727dd307a59b0
+ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46800709"
+---
+# <a name="assistance-offered"></a>ความช่วยเหลือที่ให้
+
+เมื่อคุณซื้อบริการที่มีสิทธิ์การใช้งาน Windows 10 หรือ Microsoft ๓๖๕ (ตามรายละเอียดใน [สิทธิ์](eligibility.md)) ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำในการปรับใช้ระยะไกลและความช่วยเหลือเกี่ยวกับความเข้ากันได้ถ้าคุณมีเว็บแอปหรือไซต์ที่ทำงานกับ Internet Explorer หรือ Google Chrome 
+
+## <a name="assistance"></a>เหลือ
+
+FastTrack ให้คำแนะนำระยะไกลสำหรับสิ่งต่อไปนี้:
+- คำแนะนำในการปรับใช้ Microsoft Edge ใหม่บน Windows 10 Enterprise ด้วยตัวจัดการ Microsoft จุดสิ้นสุดของ microsoft (ตัวจัดการการกำหนดค่าจุดสิ้นสุดของ Microsoft หรือ Microsoft Intune)
+- คำแนะนำเกี่ยวกับการกำหนดค่า Microsoft Edge (โดยใช้นโยบายกลุ่มหรือการกำหนดค่าแอป Intune และนโยบายแอป)
+- คำแนะนำเกี่ยวกับสินค้าคงคลังรายการของไซต์ที่อาจจำเป็นต้องใช้ในโหมด Internet Explorer
+- คำแนะนำในการเปิดใช้งานโหมด Internet Explorer กับรายการไซต์องค์กรที่มีอยู่
+
+เมื่อต้องการร้องขอคำแนะนำในการปรับใช้ Microsoft Edge คุณสามารถขอรับความช่วยเหลือผ่าน[ศูนย์การจัดการ microsoft ๓๖๕](https://go.microsoft.com/fwlink/?linkid=2032704)หรือ[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) เมื่อต้องการลงชื่อเข้าใช้คุณจะต้องมีบัญชีผู้ใช้ที่ทำงานหรือที่โรงเรียน (ID ขององค์กรหรือ active Directory ID) บนผู้เช่าที่ใช้งานอยู่ 
+
+เมื่อต้องการรับความช่วยเหลือผ่าน [ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698)ให้ทำดังนี้ 
+1.    ลงชื่อเข้าใช้[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
+2.    เลือก **ร้องขอความช่วยเหลือเกี่ยวกับ Microsoft ๓๖๕** จากการ **ดำเนินการด่วน** ที่ด้านบนของหน้า landing page ของคุณ
+3.    ทำการ **ร้องขอความช่วยเหลือให้เสร็จสมบูรณ์ด้วย Microsoft ๓๖๕** ฟอร์ม
+  
+คู่ค้ายังสามารถรับความช่วยเหลือผ่าน [ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) ในนามของลูกค้าได้อีกด้วย เมื่อต้องการทำเช่นนี้ให้ทำดังนี้
+1.    ลงชื่อเข้าใช้[ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) 
+2.    เลือก **ร้องขอความช่วยเหลือเกี่ยวกับ Microsoft ๓๖๕** จากการ **ดำเนินการด่วน** ที่ด้านบนของหน้า landing page ของคุณ
+3.    ค้นหาลูกค้าของคุณโดยการใส่ชื่อลูกค้าโดเมนหรือ TPID
+4.    เลือกลูกค้าจากผลลัพธ์การค้นหา
+5.    ทำการ **ร้องขอความช่วยเหลือให้เสร็จสมบูรณ์ด้วย Microsoft ๓๖๕** ฟอร์ม
+ 
+เมื่อต้องการรับความช่วยเหลือเกี่ยวกับความเข้ากันได้ของแอปให้ดำเนินการ [คำขอบริ](https://go.microsoft.com/fwlink/?linkid=2022721)การให้เสร็จสมบูรณ์
+
+คู่ค้ายังสามารถรับความช่วยเหลือผ่าน [ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) ในนามของลูกค้าได้อีกด้วย เมื่อต้องการทำเช่นนี้คู่ค้าจะลงชื่อเข้าใช้ไซต์ให้เลือกระเบียนลูกค้า, คลิก **บริการ**และทำให้การ **ร้องขอความช่วยเหลือ** เสร็จสมบูรณ์สำหรับฟอร์มการรับรองความถูกต้องของแอป
+
+## <a name="out-of-scope"></a>อยู่นอกขอบเขต
+
+บริการ FastTrack ไม่มีสิ่งต่อไปนี้
+- การจัดการโครงการของการปรับใช้ Microsoft Edge ของลูกค้า
+- การสนับสนุนภายในไซต์
+
