@@ -7,15 +7,15 @@ ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: ในหัวข้อนี้เราจะครอบคลุมวิธีการมีส่วนร่วมในการให้ความช่วยเหลือในการให้ความช่วยเหลือ FastTrack การให้คำแนะนำเคล็ดลับสำหรับประสบการณ์การใช้งานที่ประสบความสำเร็จและทำความเข้าใจเกี่ยวกับความรับผิดชอบของหลักของทั้ง FastTrack และบริษัทของคุณ
-ms.openlocfilehash: c484179acd265df11496418fb4af21758d363d7e
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: 229679a0bd248e79cd8ebedc563b173a20756f80
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46777241"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817586"
 ---
 # <a name="process-and-expectations"></a>กระบวนการและความคาดหวัง
 

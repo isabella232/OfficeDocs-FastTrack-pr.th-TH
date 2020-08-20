@@ -7,15 +7,15 @@ ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: หัวข้อนี้มีรายละเอียดเกี่ยวกับสถานการณ์ปริมาณงานที่ได้รับการสนับสนุนโดย FastTrack และความคาดหวังของสภาพแวดล้อมแหล่งข้อมูลที่จำเป็นก่อนที่เราจะเริ่มต้น จากการตั้งค่าปัจจุบันของคุณเราจะทำงานร่วมกับคุณเพื่อสร้างแผนการทำงานที่จะนำสภาพแวดล้อมต้นฉบับของคุณไปใช้กับความต้องการขั้นต่ำสำหรับปฐมนิเทศที่ประสบความสำเร็จ
-ms.openlocfilehash: 1b1ffa5812905630723b5d8a23196fbbc18a9c32
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: d25c1df8e628f14487952cacc86ccf8fb9dad8c1
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800973"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817706"
 ---
 # <a name="products-and-capabilities"></a>ผลิตภัณฑ์และความสามารถ
 

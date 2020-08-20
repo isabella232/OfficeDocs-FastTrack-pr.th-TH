@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: ประโยชน์ของ FastTrack สำหรับ Windows 10 จะให้คำแนะนำในการปรับใช้สำหรับลูกค้าใหม่ของ Microsoft Edge สำหรับ Windows 10 Enterprise ที่มี๑๕๐หรือมากกว่าที่นั่ง
-ms.openlocfilehash: 0d73f9dcf1486939bc21a857f0df44202e1b269e
-ms.sourcegitcommit: 299d214edc2570c007bd0cbd7cfb36d1ceebdf49
+ms.openlocfilehash: b0a0523749cfa834d0ade55c72e29ae9b0c2506e
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46796573"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817622"
 ---
 # <a name="the-new-microsoft-edge"></a>Microsoft Edge ใหม่
 

@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: สิทธิประโยชน์ของ FastTrack Center สำหรับ Windows 10 มีสิทธิ์เข้าถึงแอป-บริการที่ได้รับการออกแบบมาเพื่อแก้ไขปัญหาเกี่ยวกับ Windows 10 และความเข้ากันได้ของแอป Microsoft ๓๖๕ Apps
-ms.openlocfilehash: 4c7c32769dfe34f231e80f66a51556f23660cff2
-ms.sourcegitcommit: a293da96a47a7e1d97d09e1665fdb17ea0506944
+ms.openlocfilehash: b568b1c2a0a9473318404f50c37bbbc739018b41
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46795101"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817682"
 ---
 # <a name="app-assure"></a>App Assure
 

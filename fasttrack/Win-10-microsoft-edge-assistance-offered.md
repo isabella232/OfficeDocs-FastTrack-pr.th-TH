@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: เมื่อคุณซื้อ Windows 10 หรือบริการ Microsoft ๓๖๕ (ตามรายละเอียดในบริการและแผนที่มีสิทธิ์การใช้งาน) ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำในการใช้งานระยะไกลและความช่วยเหลือเกี่ยวกับความเข้ากันได้ถ้าคุณมีเว็บแอปหรือไซต์ที่ทำงานกับ Internet Explorer หรือ Google Chrome
-ms.openlocfilehash: 23cd4ea46bb13255acf975ee2ee727dd307a59b0
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 7dbbe81784e208898ee35e8036a7ac7403cfe5c3
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800709"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817634"
 ---
 # <a name="assistance-offered"></a>ความช่วยเหลือที่ให้
 

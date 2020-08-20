@@ -7,15 +7,15 @@ ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: ในหัวข้อนี้เราจะจัดเค้าร่างข้อกำหนดสิทธิ์สำหรับการรับระยะไกลความช่วยเหลือที่แนะนำจากผู้เชี่ยวชาญ FastTrack รวมอยู่ในการซื้อสิทธิ์การใช้งาน Microsoft ๓๖๕และรายละเอียดผลิตภัณฑ์และความสามารถที่เฉพาะเจาะจงที่ได้รับการคุ้มครอง
-ms.openlocfilehash: f89c4f090ca08795d7ba7bc311e7f218e004da9f
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: ce37dd547b93dd2a66b18d5250626c14ed20ff53
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46777227"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817574"
 ---
 # <a name="eligibility"></a>สิทธิ์
 

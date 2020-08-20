@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack ให้คำแนะนำในการปรับใช้ Windows 10 เพื่อช่วยคุณในการอัปเกรดจาก Windows 7 Professional และ Windows ๘.๑ Professional เป็น Windows 10 Enterprise
-ms.openlocfilehash: e91c5a1c52125387a0d341a01e74be0a14738d29
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 0b19ada41624d8c8fa8d3ab5e85a14b42edd53f3
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800613"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817142"
 ---
 # <a name="windows-10"></a>Windows 10
 
