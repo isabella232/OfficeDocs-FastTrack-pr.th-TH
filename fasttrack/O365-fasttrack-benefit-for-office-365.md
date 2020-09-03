@@ -9,62 +9,62 @@ ms.topic: overview
 f1_keywords:
 - office-365-onboarding-benefit
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: None
 ms.collection: FastTrack
 description: คุณใช้ FastTrack Center สวัสดิการสำหรับ Office ๓๖๕เมื่อคุณซื้อสิทธิ์การใช้งานอย่างน้อย๑๕๐สำหรับบริการที่มีสิทธิ์การใช้งานหรือแผนสำหรับผู้เช่า Office ๓๖๕ของคุณ จากนั้นคุณจะทำงานกับผู้เชี่ยวชาญ FastTrack เพื่อประเมิน remediate เปิดใช้งานและการใช้งานการใช้บริการเหล่านั้น ผู้เชี่ยวชาญเหล่านี้ยังมีคำแนะนำในการโยกย้าย
-ms.openlocfilehash: 657b0baf6c4427dcae8aba70949e45df9f690be1
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 151bd1f653fb8aa67e112132da6f89b36d168cb5
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800913"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338587"
 ---
-# <a name="fasttrack-center-benefit-for-office-365"></a><span data-ttu-id="a9958-105">สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365</span><span class="sxs-lookup"><span data-stu-id="a9958-105">FastTrack Center Benefit for Office 365</span></span>
+# <a name="fasttrack-center-benefit-for-office-365"></a><span data-ttu-id="4ae6f-105">สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365</span><span class="sxs-lookup"><span data-stu-id="4ae6f-105">FastTrack Center Benefit for Office 365</span></span>
 
 > [!CAUTION]
-> <span data-ttu-id="a9958-106">เนื้อหานี้ไม่ได้อยู่ในปัจจุบันอีกต่อไปและมีการจัดกำหนดการสำหรับการเอาออก</span><span class="sxs-lookup"><span data-stu-id="a9958-106">This content is no longer current and is scheduled for removal.</span></span> <span data-ttu-id="a9958-107">ใช้สารบัญในการนำทางด้านซ้ายสำหรับเนื้อหาปัจจุบัน</span><span class="sxs-lookup"><span data-stu-id="a9958-107">Use the table of contents in the left-hand navigation for current content.</span></span>
+> <span data-ttu-id="4ae6f-106">เนื้อหานี้ไม่ได้อยู่ในปัจจุบันอีกต่อไปและมีการจัดกำหนดการสำหรับการเอาออก</span><span class="sxs-lookup"><span data-stu-id="4ae6f-106">This content is no longer current and is scheduled for removal.</span></span> <span data-ttu-id="4ae6f-107">ใช้สารบัญในการนำทางด้านซ้ายสำหรับเนื้อหาปัจจุบัน</span><span class="sxs-lookup"><span data-stu-id="4ae6f-107">Use the table of contents in the left-hand navigation for current content.</span></span>
 
-<span data-ttu-id="a9958-108">คุณใช้ FastTrack Center สวัสดิการสำหรับ Office ๓๖๕เมื่อคุณซื้อสิทธิ์การใช้งานอย่าง  *น้อย*  ๑๕๐สำหรับบริการที่มีสิทธิ์การใช้งานหรือแผนสำหรับผู้เช่า Office ๓๖๕ของคุณ</span><span class="sxs-lookup"><span data-stu-id="a9958-108">You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  150 licenses for an eligible service or plan for your Office 365 tenant.</span></span> <span data-ttu-id="a9958-109">จากนั้นคุณจะทำงานกับผู้เชี่ยวชาญ FastTrack เพื่อประเมิน remediate เปิดใช้งานและการใช้งานการใช้บริการเหล่านั้น</span><span class="sxs-lookup"><span data-stu-id="a9958-109">You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services.</span></span> <span data-ttu-id="a9958-110">ผู้เชี่ยวชาญเหล่านี้ยังมีคำแนะนำในการโยกย้าย</span><span class="sxs-lookup"><span data-stu-id="a9958-110">These specialists also provide migration guidance.</span></span> 
+<span data-ttu-id="4ae6f-108">คุณใช้ FastTrack Center สวัสดิการสำหรับ Office ๓๖๕เมื่อคุณซื้อสิทธิ์การใช้งานอย่าง  *น้อย*  ๑๕๐สำหรับบริการที่มีสิทธิ์การใช้งานหรือแผนสำหรับผู้เช่า Office ๓๖๕ของคุณ</span><span class="sxs-lookup"><span data-stu-id="4ae6f-108">You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  150 licenses for an eligible service or plan for your Office 365 tenant.</span></span> <span data-ttu-id="4ae6f-109">จากนั้นคุณจะทำงานกับผู้เชี่ยวชาญ FastTrack เพื่อประเมิน remediate เปิดใช้งานและการใช้งานการใช้บริการเหล่านั้น</span><span class="sxs-lookup"><span data-stu-id="4ae6f-109">You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services.</span></span> <span data-ttu-id="4ae6f-110">ผู้เชี่ยวชาญเหล่านี้ยังมีคำแนะนำในการโยกย้าย</span><span class="sxs-lookup"><span data-stu-id="4ae6f-110">These specialists also provide migration guidance.</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="a9958-111">สำหรับวัตถุประสงค์ของเอกสารนี้ผู้เชี่ยวชาญ FastTrack สามารถรวมพนักงานของไมโครซอฟท์ผู้จำหน่ายที่ได้รับการอนุมัติจากไมโครซอฟท์และคู่ค้าที่ได้รับการอนุมัติของไมโครซอฟท์</span><span class="sxs-lookup"><span data-stu-id="a9958-111">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
+> <span data-ttu-id="4ae6f-111">สำหรับวัตถุประสงค์ของเอกสารนี้ผู้เชี่ยวชาญ FastTrack สามารถรวมพนักงานของไมโครซอฟท์ผู้จำหน่ายที่ได้รับการอนุมัติจากไมโครซอฟท์และคู่ค้าที่ได้รับการอนุมัติของไมโครซอฟท์</span><span class="sxs-lookup"><span data-stu-id="4ae6f-111">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
   
-<span data-ttu-id="a9958-112">เมื่อต้องการมีคุณสมบัติสำหรับบริการการโยกย้าย FastTrack Center ผู้เช่า Office ๓๖๕ของคุณจะต้องมี๕๐๐หรือสิทธิ์การใช้งานเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="a9958-112">To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses.</span></span> <span data-ttu-id="a9958-113">สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[โยกย้ายข้อมูล](O365-data-migration.md)</span><span class="sxs-lookup"><span data-stu-id="a9958-113">For more information, see [Data Migration](O365-data-migration.md).</span></span>
+<span data-ttu-id="4ae6f-112">เมื่อต้องการมีคุณสมบัติสำหรับบริการการโยกย้าย FastTrack Center ผู้เช่า Office ๓๖๕ของคุณจะต้องมี๕๐๐หรือสิทธิ์การใช้งานเพิ่มเติม</span><span class="sxs-lookup"><span data-stu-id="4ae6f-112">To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses.</span></span> <span data-ttu-id="4ae6f-113">สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[โยกย้ายข้อมูล](O365-data-migration.md)</span><span class="sxs-lookup"><span data-stu-id="4ae6f-113">For more information, see [Data Migration](O365-data-migration.md).</span></span>
   
-<span data-ttu-id="a9958-114">เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับบริการและแผนที่มีสิทธิ์ให้ดูที่ [บริการและแผน](M365-eligible-services-and-plans.md)ที่มีสิทธิ์</span><span class="sxs-lookup"><span data-stu-id="a9958-114">To learn more about eligible services and plans, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+<span data-ttu-id="4ae6f-114">เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับบริการและแผนที่มีสิทธิ์ให้ดูที่ [บริการและแผน](M365-eligible-services-and-plans.md)ที่มีสิทธิ์</span><span class="sxs-lookup"><span data-stu-id="4ae6f-114">To learn more about eligible services and plans, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
   
-<span data-ttu-id="a9958-115">เมื่อต้องการเรียนรู้เกี่ยวกับกระบวนการของศูนย์ FastTrack และผู้ที่รับผิดชอบสิ่งใดให้ดูที่[ภาพรวมสวัสดิการศูนย์ FastTrack](O365-fasttrack-benefit-overview.md)</span><span class="sxs-lookup"><span data-stu-id="a9958-115">To learn about the FastTrack Center process and who's responsible for what, see [FastTrack Center Benefit Overview](O365-fasttrack-benefit-overview.md).</span></span>
+<span data-ttu-id="4ae6f-115">เมื่อต้องการเรียนรู้เกี่ยวกับกระบวนการของศูนย์ FastTrack และผู้ที่รับผิดชอบสิ่งใดให้ดูที่[ภาพรวมสวัสดิการศูนย์ FastTrack](O365-fasttrack-benefit-overview.md)</span><span class="sxs-lookup"><span data-stu-id="4ae6f-115">To learn about the FastTrack Center process and who's responsible for what, see [FastTrack Center Benefit Overview](O365-fasttrack-benefit-overview.md).</span></span>
 
-<span data-ttu-id="a9958-116">เมื่อต้องการเรียนรู้เกี่ยวกับสิทธิประโยชน์ที่ได้รับจาก FastTrack โดยบริการให้ดูที่:</span><span class="sxs-lookup"><span data-stu-id="a9958-116">To learn about the benefits provided by FastTrack by service, see:</span></span>
+<span data-ttu-id="4ae6f-116">เมื่อต้องการเรียนรู้เกี่ยวกับสิทธิประโยชน์ที่ได้รับจาก FastTrack โดยบริการให้ดูที่:</span><span class="sxs-lookup"><span data-stu-id="4ae6f-116">To learn about the benefits provided by FastTrack by service, see:</span></span>
 
-- [<span data-ttu-id="a9958-117">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="a9958-117">Exchange Online</span></span>](O365-fasttrack-responsibilities.md#exchange-online)
-- [<span data-ttu-id="a9958-118">แอป Microsoft ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="a9958-118">Microsoft 365 Apps</span></span>](O365-fasttrack-responsibilities.md#microsoft-365-apps)
-- [<span data-ttu-id="a9958-119">การกำกับดูแลข้อมูลของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="a9958-119">Microsoft Information Governance</span></span>](O365-fasttrack-responsibilities.md#microsoft-information-governance)
-- [<span data-ttu-id="a9958-120">การป้องกันข้อมูลของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="a9958-120">Microsoft Information Protection</span></span>](O365-fasttrack-responsibilities.md#microsoft-information-protection)
-- [<span data-ttu-id="a9958-121">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="a9958-121">Microsoft Teams</span></span>](O365-fasttrack-responsibilities.md#microsoft-teams)
-- [<span data-ttu-id="a9958-122">การป้องกันการคุกคามขั้นสูงของ Office ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="a9958-122">Office 365 Advanced Threat Protection</span></span>](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
-- [<span data-ttu-id="a9958-123">OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="a9958-123">OneDrive for Business</span></span>](O365-fasttrack-responsibilities.md#onedrive-for-business)
-- [<span data-ttu-id="a9958-124">Outlook สำหรับ iOS และ Android</span><span class="sxs-lookup"><span data-stu-id="a9958-124">Outlook for iOS and Android</span></span>](O365-fasttrack-responsibilities.md#outlook-for-ios-and-android)
-- [<span data-ttu-id="a9958-125">Power BI</span><span class="sxs-lookup"><span data-stu-id="a9958-125">Power BI</span></span>](O365-fasttrack-responsibilities.md#power-bi)
-- [<span data-ttu-id="a9958-126">Project Online</span><span class="sxs-lookup"><span data-stu-id="a9958-126">Project Online</span></span>](O365-fasttrack-responsibilities.md#project-online)
-- [<span data-ttu-id="a9958-127">Project Online Professional และ Project Online Premium</span><span class="sxs-lookup"><span data-stu-id="a9958-127">Project Online Professional and Project Online Premium</span></span>](O365-fasttrack-responsibilities.md#project-online-professional-and-project-online-premium)
-- [<span data-ttu-id="a9958-128">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="a9958-128">SharePoint Online</span></span>](O365-fasttrack-responsibilities.md#sharepoint-online)
-- [<span data-ttu-id="a9958-129">Skype for Business Online</span><span class="sxs-lookup"><span data-stu-id="a9958-129">Skype for Business Online</span></span>](O365-fasttrack-responsibilities.md#skype-for-business-online)
-- [<span data-ttu-id="a9958-130">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="a9958-130">Yammer Enterprise</span></span>](O365-fasttrack-responsibilities.md#yammer-enterprise)
+- [<span data-ttu-id="4ae6f-117">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="4ae6f-117">Exchange Online</span></span>](O365-fasttrack-responsibilities.md#exchange-online)
+- [<span data-ttu-id="4ae6f-118">แอป Microsoft ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="4ae6f-118">Microsoft 365 Apps</span></span>](O365-fasttrack-responsibilities.md#microsoft-365-apps)
+- [<span data-ttu-id="4ae6f-119">การกำกับดูแลข้อมูลของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="4ae6f-119">Microsoft Information Governance</span></span>](O365-fasttrack-responsibilities.md#microsoft-information-governance)
+- [<span data-ttu-id="4ae6f-120">การป้องกันข้อมูลของ Microsoft</span><span class="sxs-lookup"><span data-stu-id="4ae6f-120">Microsoft Information Protection</span></span>](O365-fasttrack-responsibilities.md#microsoft-information-protection)
+- [<span data-ttu-id="4ae6f-121">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="4ae6f-121">Microsoft Teams</span></span>](O365-fasttrack-responsibilities.md#microsoft-teams)
+- [<span data-ttu-id="4ae6f-122">การป้องกันการคุกคามขั้นสูงของ Office ๓๖๕</span><span class="sxs-lookup"><span data-stu-id="4ae6f-122">Office 365 Advanced Threat Protection</span></span>](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
+- [<span data-ttu-id="4ae6f-123">OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="4ae6f-123">OneDrive for Business</span></span>](O365-fasttrack-responsibilities.md#onedrive-for-business)
+- [<span data-ttu-id="4ae6f-124">Outlook สำหรับ iOS และ Android</span><span class="sxs-lookup"><span data-stu-id="4ae6f-124">Outlook for iOS and Android</span></span>](O365-fasttrack-responsibilities.md#outlook-for-ios-and-android)
+- [<span data-ttu-id="4ae6f-125">Power BI</span><span class="sxs-lookup"><span data-stu-id="4ae6f-125">Power BI</span></span>](O365-fasttrack-responsibilities.md#power-bi)
+- [<span data-ttu-id="4ae6f-126">Project Online</span><span class="sxs-lookup"><span data-stu-id="4ae6f-126">Project Online</span></span>](O365-fasttrack-responsibilities.md#project-online)
+- [<span data-ttu-id="4ae6f-127">Project Online Professional และ Project Online Premium</span><span class="sxs-lookup"><span data-stu-id="4ae6f-127">Project Online Professional and Project Online Premium</span></span>](O365-fasttrack-responsibilities.md#project-online-professional-and-project-online-premium)
+- [<span data-ttu-id="4ae6f-128">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="4ae6f-128">SharePoint Online</span></span>](O365-fasttrack-responsibilities.md#sharepoint-online)
+- [<span data-ttu-id="4ae6f-129">Skype for Business Online</span><span class="sxs-lookup"><span data-stu-id="4ae6f-129">Skype for Business Online</span></span>](O365-fasttrack-responsibilities.md#skype-for-business-online)
+- [<span data-ttu-id="4ae6f-130">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="4ae6f-130">Yammer Enterprise</span></span>](O365-fasttrack-responsibilities.md#yammer-enterprise)
   
-<span data-ttu-id="a9958-131">คุณกำลังมองหา [ประโยชน์ของศูนย์ FastTrack สำหรับการเคลื่อนไหวขององค์กร + ความปลอดภัย](EMS-fasttrack-benefit-for-EMS.md)หรือไม่</span><span class="sxs-lookup"><span data-stu-id="a9958-131">Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)?</span></span> <span data-ttu-id="a9958-132">รวมถึงข้อมูลเกี่ยวกับ:</span><span class="sxs-lookup"><span data-stu-id="a9958-132">It includes information about:</span></span>
+<span data-ttu-id="4ae6f-131">คุณกำลังมองหา [ประโยชน์ของศูนย์ FastTrack สำหรับการเคลื่อนไหวขององค์กร + ความปลอดภัย](EMS-fasttrack-benefit-for-EMS.md)หรือไม่</span><span class="sxs-lookup"><span data-stu-id="4ae6f-131">Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)?</span></span> <span data-ttu-id="4ae6f-132">รวมถึงข้อมูลเกี่ยวกับ:</span><span class="sxs-lookup"><span data-stu-id="4ae6f-132">It includes information about:</span></span>
   
-- <span data-ttu-id="a9958-133">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="a9958-133">Microsoft Intune</span></span>
-- <span data-ttu-id="a9958-134">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="a9958-134">Azure Active Directory Premium</span></span> 
-- <span data-ttu-id="a9958-135">การป้องกันข้อมูล Azure</span><span class="sxs-lookup"><span data-stu-id="a9958-135">Azure Information Protection</span></span>
+- <span data-ttu-id="4ae6f-133">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="4ae6f-133">Microsoft Intune</span></span>
+- <span data-ttu-id="4ae6f-134">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="4ae6f-134">Azure Active Directory Premium</span></span> 
+- <span data-ttu-id="4ae6f-135">การป้องกันข้อมูล Azure</span><span class="sxs-lookup"><span data-stu-id="4ae6f-135">Azure Information Protection</span></span>
 
-<span data-ttu-id="a9958-136">คุณกำลังมองหา [ประโยชน์ของศูนย์ FastTrack สำหรับ Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)หรือไม่</span><span class="sxs-lookup"><span data-stu-id="a9958-136">Are you looking for [FastTrack Center Benefit for Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)?</span></span> <span data-ttu-id="a9958-137">รวมถึงข้อมูลเกี่ยวกับ:</span><span class="sxs-lookup"><span data-stu-id="a9958-137">It includes information about:</span></span>
+<span data-ttu-id="4ae6f-136">คุณกำลังมองหา [ประโยชน์ของศูนย์ FastTrack สำหรับ Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)หรือไม่</span><span class="sxs-lookup"><span data-stu-id="4ae6f-136">Are you looking for [FastTrack Center Benefit for Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)?</span></span> <span data-ttu-id="4ae6f-137">รวมถึงข้อมูลเกี่ยวกับ:</span><span class="sxs-lookup"><span data-stu-id="4ae6f-137">It includes information about:</span></span>
 
-- <span data-ttu-id="a9958-138">Windows 10</span><span class="sxs-lookup"><span data-stu-id="a9958-138">Windows 10</span></span>
-- <span data-ttu-id="a9958-139">App Assure</span><span class="sxs-lookup"><span data-stu-id="a9958-139">App Assure</span></span>
-- <span data-ttu-id="a9958-140">Microsoft Edge ใหม่</span><span class="sxs-lookup"><span data-stu-id="a9958-140">The new Microsoft Edge</span></span>
-- <span data-ttu-id="a9958-141">Microsoft Defender Advanced Threat Protection</span><span class="sxs-lookup"><span data-stu-id="a9958-141">Microsoft Defender Advanced Threat Protection</span></span>
+- <span data-ttu-id="4ae6f-138">Windows 10</span><span class="sxs-lookup"><span data-stu-id="4ae6f-138">Windows 10</span></span>
+- <span data-ttu-id="4ae6f-139">App Assure</span><span class="sxs-lookup"><span data-stu-id="4ae6f-139">App Assure</span></span>
+- <span data-ttu-id="4ae6f-140">Microsoft Edge ใหม่</span><span class="sxs-lookup"><span data-stu-id="4ae6f-140">The new Microsoft Edge</span></span>
+- <span data-ttu-id="4ae6f-141">Microsoft Defender Advanced Threat Protection</span><span class="sxs-lookup"><span data-stu-id="4ae6f-141">Microsoft Defender Advanced Threat Protection</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="a9958-142">สำหรับวัตถุประสงค์ในการให้ข้อมูลเท่านั้น</span><span class="sxs-lookup"><span data-stu-id="a9958-142">For informational purposes only.</span></span> 
+> <span data-ttu-id="4ae6f-142">สำหรับวัตถุประสงค์ในการให้ข้อมูลเท่านั้น</span><span class="sxs-lookup"><span data-stu-id="4ae6f-142">For informational purposes only.</span></span> 
 
