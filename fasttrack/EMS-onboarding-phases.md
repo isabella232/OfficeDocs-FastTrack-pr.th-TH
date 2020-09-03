@@ -9,14 +9,14 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
-ms.openlocfilehash: e919acc1a1982de5c023b0cdf84d4ac955b2ec9d
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 980cd0e0d996737df96d677ade192d5fcca38343
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817515"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338371"
 ---
 # <a name="onboarding-phases"></a>ขั้นตอนการออนบอร์ด
 

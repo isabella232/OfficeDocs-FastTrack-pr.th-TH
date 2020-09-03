@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: ประโยชน์ของศูนย์ FastTrack จะให้คำแนะนำสำหรับคุณในการตั้งค่าระดับการรวมกับสภาพแวดล้อมต้นฉบับของคุณ (ตัวอย่างเช่นถ้าคุณมีบริการในสภาพแวดล้อมต้นทางของคุณที่คุณต้องการย้ายไปยัง Office ๓๖๕)
-ms.openlocfilehash: 8290c2c4681aff05d2ed25521105098a24dec7e0
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 4627c0e50a0b843101a767ea5d9e3542812fad22
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817346"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338143"
 ---
 # <a name="source-environment-expectations"></a>ข้อกำหนดของสภาพแวดล้อมต้นทาง
 > [!CAUTION]

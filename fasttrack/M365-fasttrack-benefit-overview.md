@@ -9,15 +9,15 @@ ms.topic: overview
 f1_keywords:
 - microsoft-365-onboarding-benefit
 ms.service: m365-administration
-localization_priority: Priority
+localization_priority: None
 ms.collection: FastTrack
 description: FastTrack สำหรับ Microsoft ๓๖๕มีคำแนะนำสำหรับการวางแผนการปรับใช้และการนำไปใช้รวมถึงการเข้าถึงระยะไกลไปยังความเชี่ยวชาญด้านวิศวกรรมของ Microsoft แนวทางปฏิบัติที่ดีที่สุดเครื่องมือและทรัพยากร FastTrack สำหรับ Microsoft ๓๖๕ช่วยให้องค์กรและคู่ค้าของพวกเขาเร่งการปรับใช้และรับการปรับใช้ Office ๓๖๕, Windows 10 และการเคลื่อนไหวขององค์กร + ความปลอดภัย
-ms.openlocfilehash: 2e0c429de0a3557260e9c9689514d8f1728e639e
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: caaac70314d1c93405da5d0f0c3587d58b8343f6
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800949"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338431"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365
 

@@ -9,15 +9,15 @@ ms.topic: overview
 f1_keywords:
 - office-365-onboarding-benefit
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: None
 ms.collection: FastTrack
 description: คุณใช้ FastTrack Center สวัสดิการสำหรับ Office ๓๖๕เมื่อคุณซื้อสิทธิ์การใช้งานอย่างน้อย๑๕๐สำหรับบริการที่มีสิทธิ์การใช้งานหรือแผนสำหรับผู้เช่า Office ๓๖๕ของคุณ จากนั้นคุณจะทำงานกับผู้เชี่ยวชาญ FastTrack เพื่อประเมิน remediate เปิดใช้งานและการใช้งานการใช้บริการเหล่านั้น ผู้เชี่ยวชาญเหล่านี้ยังมีคำแนะนำในการโยกย้าย
-ms.openlocfilehash: 657b0baf6c4427dcae8aba70949e45df9f690be1
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 151bd1f653fb8aa67e112132da6f89b36d168cb5
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800913"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338587"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365
 

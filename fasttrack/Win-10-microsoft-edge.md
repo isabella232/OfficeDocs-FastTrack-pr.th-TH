@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: ประโยชน์ของ FastTrack สำหรับ Windows 10 จะให้คำแนะนำในการปรับใช้สำหรับลูกค้าใหม่ของ Microsoft Edge สำหรับ Windows 10 Enterprise ที่มี๑๕๐หรือมากกว่าที่นั่ง
-ms.openlocfilehash: b0a0523749cfa834d0ade55c72e29ae9b0c2506e
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 521249edbcca687432074792b1cdf86f4298b263
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817622"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338491"
 ---
 # <a name="the-new-microsoft-edge"></a>Microsoft Edge ใหม่
 
@@ -23,4 +23,4 @@ ms.locfileid: "46817622"
 
 ผู้เชี่ยวชาญ FastTrack ทำงานร่วมกับคุณเพื่อปรับใช้ Microsoft Edge บน Windows 10 Enterprise ด้วยตัวจัดการ Microsoft จุดสิ้นสุดของ microsoft (ตัวจัดการการกำหนดค่า Microsoft จุดสิ้นสุดของ microsoft หรือ Microsoft Intune)
 
-
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับสิทธิประโยชน์ FastTrack ให้ดูที่[FastTrack Center สวัสดิการสำหรับ Microsoft ๓๖๕](introduction.md)

@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: คุณใช้ประโยชน์ของ FastTrack Center สำหรับ Windows 10 เมื่อคุณซื้อสิทธิ์การใช้งาน๑๕๐อย่าง  *น้อย*  สำหรับบริการที่มีสิทธิ์การใช้งานหรือแผน
-ms.openlocfilehash: 6616b967bac16402f732c56d763dc67accf19f70
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 3293ff9212224774cd101171a20e18972e51f8c4
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817670"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338539"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Windows 10
 

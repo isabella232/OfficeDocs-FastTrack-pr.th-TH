@@ -7,14 +7,14 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: None
 description: ลูกค้าที่ซื้อสิทธิ์การใช้งาน๒๐,๐๐๐อย่างน้อยสำหรับผู้เช่า Exchange Online จะมีสิทธิ์ FastTrack ศูนย์บริการเพิ่มเติม ดูรายละเอียดเพิ่มเติมที่บริการที่มีสิทธิ์และแผนสำหรับรายละเอียดเพิ่มเติม
-ms.openlocfilehash: 48559090e5fe55cf0001a5e11793dec75a12dfaf
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 7b98f341bf645b83a91e11eec1a1f2347380d97a
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817550"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338443"
 ---
 # <a name="appendix-a---fasttrack-center-additional-benefit"></a>ภาคผนวก A - สิทธิประโยชน์เพิ่มเติมจากศูนย์ FastTrack
 
@@ -25,7 +25,7 @@ ms.locfileid: "46817550"
   
 ## <a name="onboarding-and-migration-phases"></a>ขั้นตอนการปฐมนิเทศและการโยกย้าย
 
-## <a name="core"></a>หลัก
+## <a name="core"></a>Core
 
 การเพิ่มการเพิ่มบริการหลักปฐมนิเทศรวมถึงคำแนะนำในการกำหนดค่าสำหรับการใช้งานของบริการสหพันธรัฐไดเรกทอรีที่ใช้งานอยู่ใน geo (AD FS) และนโยบายการเข้าถึงไคลเอ็นต์ FS โฆษณาสำหรับบริการ 
   

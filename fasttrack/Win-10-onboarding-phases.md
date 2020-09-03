@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: Windows 10 ปฐมนิเทศมีขั้นตอนหลักสี่ขั้นตอนได้แก่การเริ่มประเมินการ Remediate และเปิดใช้งาน
-ms.openlocfilehash: a7047bbec148fa6bbe49d8bb84f8a73f2a132e0d
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 02067415d8fa34d353a96d811c18fde30d18e8ab
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817562"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338479"
 ---
 # <a name="onboarding-phases"></a>ขั้นตอนการออนบอร์ด
 
