@@ -3,19 +3,19 @@ title: สิทธิ์
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: ในหัวข้อนี้เราจะจัดเค้าร่างข้อกำหนดสิทธิ์สำหรับการรับระยะไกลความช่วยเหลือที่แนะนำจากผู้เชี่ยวชาญ FastTrack รวมอยู่ในการซื้อสิทธิ์การใช้งาน Microsoft ๓๖๕และรายละเอียดผลิตภัณฑ์และความสามารถที่เฉพาะเจาะจงที่ได้รับการคุ้มครอง
-ms.openlocfilehash: ce37dd547b93dd2a66b18d5250626c14ed20ff53
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 36e838da202103ee2f6623f9c709f8e558cd5b22
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817574"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48320025"
 ---
 # <a name="eligibility"></a>สิทธิ์
 
@@ -46,8 +46,8 @@ ms.locfileid: "46817574"
   - Power BI
   - Project Online
   - SharePoint Online
-  - Skype for Business Online
   - Windows 10
+  - เดสก์ท็อปเสมือนของ Windows
   - Yammer Enterprise
 
 ## <a name="eligible-plans"></a>แผนที่มีสิทธิ์
@@ -65,6 +65,7 @@ ms.locfileid: "46817574"
   - การตรวจสอบ & ของ Microsoft ๓๖๕ E5 eDiscovery\*
   - Microsoft ๓๖๕ E5 การป้องกันข้อมูล & การกำกับดูแลกิจการ\*
   - การจัดการความเสี่ยงของ Microsoft ๓๖๕ E5 Insider\*
+  - Microsoft ๓๖๕ F1\*
   - Microsoft ๓๖๕ F3\*
   - Microsoft ๓๖๕ Business\*
   - แอป Microsoft ๓๖๕สำหรับองค์กร\*
@@ -115,6 +116,19 @@ ms.locfileid: "46817574"
   - การป้องกัน Exchange Online
   - การป้องกันการคุกคามขั้นสูงของ Office ๓๖๕
 
+#### <a name="microsoft-teams"></a>Microsoft Teams
+
+  - ระบบโทรศัพท์
+  - แผนการโทร
+  - การประชุมทางเสียง
+  - ห้องสำหรับทีม Microsoft
+
+#### <a name="onedrive-for-business"></a>OneDrive for Business
+
+  - OneDrive for Business กับ Office
+  - OneDrive for Business Plan 1
+  - แผน OneDrive for Business 2
+
 #### <a name="project-online"></a>Project Online
 
   - สิ่งจำเป็นสำหรับ Project Online
@@ -126,32 +140,16 @@ ms.locfileid: "46817574"
   - SharePoint Online Plan 1
   - SharePoint Online Plan 2
 
-#### <a name="onedrive-for-business"></a>OneDrive for Business
-
-  - OneDrive for Business กับ Office
-  - OneDrive for Business Plan 1
-  - แผน OneDrive for Business 2
-
-#### <a name="skype-for-business-online"></a>Skype for Business Online
-
-  - ระบบโทรศัพท์\*\*\*
-  - แผนการโทร\*\*\*
-  - การประชุมทางเสียง\*\*\*
-  - Skype for Business Online Plan 1
-  - Skype for Business Online Plan 2
-
 #### <a name="yammer"></a>Yammer
 
   - Yammer Enterprise
-
 
 <br>
 
 \*พร้อมใช้งานสำหรับบริการและฟีเจอร์ระบบคลาวด์ที่มีสิทธิ์ FastTrack ที่อธิบายไว้ในคำอธิบายสวัสดิการนี้เท่านั้น  
       
 \*\*สำหรับข้อมูลเพิ่มเติมเกี่ยวกับสิทธิประโยชน์ FastTrack สำหรับรัฐบาลสหรัฐอเมริกาโปรดดูที่[รัฐบาล Office ๓๖๕รัฐบาลสหรัฐอเมริกา](https://aka.ms/aboutgovcloud)  
-      
-\*\*\*สามารถใช้ได้กับผู้ใช้ Skype for Business Online และทีมที่ได้รับสิทธิ์การใช้งาน จำเป็นต้องมีการซื้อของ Skype for Business หรือทีมที่มีคุณสมบัติเหมาะสม  
+       
       
 ### <a name="enterprise-mobility--security-plans"></a>การเคลื่อนไหวขององค์กร + แผนความปลอดภัย  
       

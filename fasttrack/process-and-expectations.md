@@ -3,19 +3,19 @@ title: กระบวนการและความคาดหวัง
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: ในหัวข้อนี้เราจะครอบคลุมวิธีการมีส่วนร่วมในการให้ความช่วยเหลือในการให้ความช่วยเหลือ FastTrack การให้คำแนะนำเคล็ดลับสำหรับประสบการณ์การใช้งานที่ประสบความสำเร็จและทำความเข้าใจเกี่ยวกับความรับผิดชอบของหลักของทั้ง FastTrack และบริษัทของคุณ
-ms.openlocfilehash: 229679a0bd248e79cd8ebedc563b173a20756f80
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817586"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319941"
 ---
 # <a name="process-and-expectations"></a>กระบวนการและความคาดหวัง
 
@@ -43,6 +43,8 @@ ms.locfileid: "46817586"
 3.  ค้นหาลูกค้าของคุณโดยการใส่ชื่อลูกค้าโดเมนหรือ TPID
 4.  เลือกลูกค้าของคุณจากผลลัพธ์การค้นหา
 5.  ทำการ **ร้องขอความช่วยเหลือให้เสร็จสมบูรณ์ด้วย Microsoft ๓๖๕** ฟอร์ม
+
+เมื่อต้องการร้องขอความช่วยเหลือสำหรับแอปให้ทำตาม [คำขอบริ](https://go.microsoft.com/fwlink/?linkid=2022721)การให้เสร็จสมบูรณ์
 
 ## <a name="fasttrack-expectations"></a>ความคาดหวัง FastTrack
 
