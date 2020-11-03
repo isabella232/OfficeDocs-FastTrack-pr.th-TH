@@ -1,7 +1,7 @@
 ---
 title: บริการและแผนที่มีสิทธิ์
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: m365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: เมื่อคุณซื้อบริการ Microsoft ๓๖๕ผู้เชี่ยวชาญ FastTrack จะให้คำแนะนำแก่คุณในการใช้งาน Microsoft ๓๖๕และเริ่มต้นใช้งาน
-ms.openlocfilehash: 0a8549399ea73b2e509696a16783aa7e94b4cf0b
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 71f746cd5193c3c912e3cf08b3a89a369ad7d97c
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338287"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827063"
 ---
 # <a name="eligible-services-and-plans"></a>บริการและแผนที่มีสิทธิ์
 
@@ -86,7 +86,7 @@ FastTrack Center มีความช่วยเหลือสำหรับ
 - การจัดการความเสี่ยงของ Microsoft ๓๖๕ E5 Insider\*
 - Microsoft ๓๖๕ F1\*
 - Microsoft ๓๖๕ Business\*
-- แอป Microsoft ๓๖๕สำหรับองค์กร\*
+- Microsoft 365 Apps for enterprise\*
 - แอป Microsoft ๓๖๕สำหรับองค์กร (อุปกรณ์)\*
     
  **Microsoft ๓๖๕ Business**

@@ -1,7 +1,7 @@
 ---
 title: ความรับผิดชอบของ FastTrack
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: ผู้เชี่ยวชาญ FastTrack มีหน้าที่รับผิดชอบต่อไปนี้ในระหว่างการปฐมนิเทศ
-ms.openlocfilehash: 9300f7e15d77de5a87218482ea811085c989ef12
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: b0387ee7c525469e999f52f8f1994c8f41fb20fe
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338215"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827171"
 ---
 # <a name="fasttrack-responsibilities"></a>ความรับผิดชอบของ FastTrack
 
@@ -83,7 +83,7 @@ ms.locfileid: "47338215"
   - การกำหนดค่าการซิงโครไนซ์รหัสผ่าน (แฮชของรหัสผ่าน) ไปยัง Office ๓๖๕ (Azure Active directory) ที่มีเครื่องมือเชื่อมต่อไดเรกทอรีของ Azure ที่ใช้งานอยู่ถ้าจำเป็น
   - สำหรับสภาพแวดล้อมแบบเดี่ยวและแบบหลายฟอเรสต์:
       - การกำหนดค่าการรับรองความถูกต้องแบบพาส-ทรูของ Azure Active Directory ถ้าจำเป็น\*\*
-      - การกำหนดค่า Azure Active Directory อย่างราบรื่นการลงชื่อเข้าใช้ครั้งเดียว (SSO) ถ้าจำเป็น\*\*\*
+      - การกำหนดค่า Azure Active Directory ที่ไม่ราบรื่น Sign-On (SSO) ถ้าจำเป็น\*\*\*
     > [!NOTE]
     > การรับรองความถูกต้องแบบพาส-ทรูของไดเรกทอรีที่ใช้งานอยู่ของ Azure สำหรับสภาพแวดล้อมแบบหลายฟอเรสต์จะได้รับการสนับสนุนถ้ามีความเชื่อถือของฟอเรสต์ระหว่างฟอเรสต์ Active Directory ของคุณและถ้ามีการกำหนดเส้นทางคำต่อท้ายชื่อ คุณสามารถติดตั้งตัวแทนเพิ่มเติมบนเซิร์ฟเวอร์ภายในองค์กรหลายรายการเพื่อให้มีความพร้อมใช้งานสูงสำหรับการร้องขอการลงชื่อเข้าใช้ สำหรับข้อมูลเพิ่มเติมให้ดูที่การ[รับรองความถูกต้องแบบพาส-ทรูไดเรกทอรีที่ใช้งานอยู่ของ azure: เริ่มต้น](https://go.microsoft.com/fwlink/?linkid=860094)ใช้งานด่วนและ[azure Active Directory ได้อย่างราบรื่นการลงชื่อเข้าใช้แบบครั้งเดียว](https://go.microsoft.com/fwlink/?linkid=860095) 
 - สำหรับฟอเรสต์เดียวเมื่อข้อมูลเฉพาะตัวที่ติดต่อกับภายนอกคือเป้าหมาย: 

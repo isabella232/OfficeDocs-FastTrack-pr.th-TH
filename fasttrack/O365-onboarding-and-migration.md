@@ -1,7 +1,7 @@
 ---
 title: ขั้นตอนการออนบอร์ดและการโยกย้าย
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office ๓๖๕ปฐมนิเทศมีสี่ขั้นตอนหลักๆได้แก่เริ่มประเมิน Remediate และเปิดใช้งาน คุณสามารถทำตามขั้นตอนเหล่านี้ได้ด้วยขั้นตอนการโยกย้ายข้อมูลที่เป็นตัวเลือก
-ms.openlocfilehash: 69b77911afc351ff48f6198049204822e5dd0d3c
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 2358700e6e7bb052869c41b1f5b7fdc15e86207b
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338263"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827015"
 ---
 # <a name="onboarding-and-migration-phases"></a>ขั้นตอนการออนบอร์ดและการโยกย้าย
 

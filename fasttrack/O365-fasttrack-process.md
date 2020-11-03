@@ -1,7 +1,7 @@
 ---
 title: กระบวนการ FastTrack
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com-msft
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: กระบวนการ FastTrack ให้บริการปฐมนิเทศและผู้ใช้ได้รับการยอมรับ
-ms.openlocfilehash: 48469fb79fd093b1b9a9a299cd807b8dfa440843
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 6d13e6fc9247196c9a2e6cf7692abf3fa75152dc
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338551"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827051"
 ---
 # <a name="the-fasttrack-process"></a>กระบวนการ FastTrack
 

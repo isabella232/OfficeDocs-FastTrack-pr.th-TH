@@ -1,7 +1,7 @@
 ---
 title: ความช่วยเหลือที่ให้
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: เมื่อคุณซื้อ Windows 10 หรือบริการของ Microsoft ๓๖๕ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำและแนวทางในการปรับใช้ Windows 10 และแอป Microsoft ๓๖๕และอัปเดตข้อมูลที่ไม่มีค่าใช้จ่ายเพิ่มเติม (ด้วยการสมัครใช้งานที่มีสิทธิ์)
-ms.openlocfilehash: 5252f880f126dd20de792e5cbdb18abc2473764d
-ms.sourcegitcommit: dd7b2975ade7feaa12be079c8e54fa5612383538
+ms.openlocfilehash: c5c13e948651de813e1351e191e4aa135382339d
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48206258"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827423"
 ---
 # <a name="assistance-offered"></a>ความช่วยเหลือที่ให้  
 
@@ -23,7 +23,7 @@ ms.locfileid: "48206258"
 
 เมื่อต้องการรับความช่วยเหลือให้ดำเนินการตาม[คำขอบริการของแอป](https://go.microsoft.com/fwlink/?linkid=2022721)
 
-คู่ค้ายังสามารถรับความช่วยเหลือผ่าน [ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) ในนามของลูกค้าได้อีกด้วย เมื่อต้องการทำเช่นนี้คู่ค้าจะลงชื่อเข้าใช้ไซต์ให้เลือกระเบียนลูกค้า, คลิก **บริการ**และทำให้การ **ร้องขอความช่วยเหลือ** เสร็จสมบูรณ์สำหรับฟอร์มการรับรองความถูกต้องของแอป
+คู่ค้ายังสามารถรับความช่วยเหลือผ่าน [ไซต์ FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) ในนามของลูกค้าได้อีกด้วย เมื่อต้องการทำเช่นนี้คู่ค้าจะลงชื่อเข้าใช้ไซต์ให้เลือกระเบียนลูกค้า, คลิก **บริการ** และทำให้การ **ร้องขอความช่วยเหลือ** เสร็จสมบูรณ์สำหรับฟอร์มการรับรองความถูกต้องของแอป
 
 > [!NOTE]
 > การช่วยเหลือจะมีให้ในภาษาจีนดั้งเดิมและภาษาจีนประยุกต์ (แหล่งข้อมูลพูดภาษาจีนกลางเท่านั้น) อังกฤษฝรั่งเศสเยอรมันอิตาลีญี่ปุ่นเกาหลีโปรตุเกส (บราซิล) และสเปน 

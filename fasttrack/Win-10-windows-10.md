@@ -1,7 +1,7 @@
 ---
 title: Windows 10
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack ให้คำแนะนำในการปรับใช้ Windows 10 เพื่อช่วยคุณในการอัปเกรดจาก Windows 7 Professional และ Windows ๘.๑ Professional เป็น Windows 10 Enterprise
-ms.openlocfilehash: e4cebb463833c71cc9129155e86821c69f180a27
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 8f0064df50c8d7f88e930de01f8bc3e3e1f0e24f
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338131"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827579"
 ---
 # <a name="windows-10"></a>Windows 10
 
