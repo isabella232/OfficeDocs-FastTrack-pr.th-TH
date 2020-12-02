@@ -3,19 +3,19 @@ title: ความคาดหวังของสภาพแวดล้อ�
 ms.author: v-bermic@microsoft.com
 author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: ประโยชน์ของศูนย์ FastTrack จะให้คำแนะนำสำหรับคุณในการตั้งค่าระดับการรวมกับสภาพแวดล้อมต้นฉบับของคุณ (ตัวอย่างเช่นถ้าคุณมีบริการในสภาพแวดล้อมต้นทางของคุณที่คุณต้องการย้ายไปยัง Office ๓๖๕)
-ms.openlocfilehash: 5583368175955873c01963502d19f9a0b92919c9
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: ed74ad9fcc70765bb001152880b9ece5c84bb3b0
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827483"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525382"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>ความคาดหวังของสภาพแวดล้อมของแหล่งที่มาสำหรับ Office ๓๖๕รัฐบาลสหรัฐอเมริกา
 

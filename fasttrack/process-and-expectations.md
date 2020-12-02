@@ -3,19 +3,19 @@ title: กระบวนการและความคาดหวัง
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: ในหัวข้อนี้เราจะครอบคลุมวิธีการมีส่วนร่วมในการให้ความช่วยเหลือในการให้ความช่วยเหลือ FastTrack การให้คำแนะนำเคล็ดลับสำหรับประสบการณ์การใช้งานที่ประสบความสำเร็จและทำความเข้าใจเกี่ยวกับความรับผิดชอบของหลักของทั้ง FastTrack และบริษัทของคุณ
-ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 0cd9d4cb727915357f0dd6460ac46ef862ee9797
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827657"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525357"
 ---
 # <a name="process-and-expectations"></a>กระบวนการและความคาดหวัง
 

@@ -3,19 +3,19 @@ title: สิทธิ์
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: ในหัวข้อนี้เราจะจัดเค้าร่างข้อกำหนดสิทธิ์สำหรับการรับระยะไกลความช่วยเหลือที่แนะนำจากผู้เชี่ยวชาญ FastTrack รวมอยู่ในการซื้อสิทธิ์การใช้งาน Microsoft ๓๖๕และรายละเอียดผลิตภัณฑ์และความสามารถที่เฉพาะเจาะจงที่ได้รับการคุ้มครอง
-ms.openlocfilehash: 103ac3686aec9705fe9b48b9467a1927e1a9d018
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 4bfc085d29c447ab5c29f0ad274ddf59f3a97fda
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827639"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525394"
 ---
 # <a name="eligibility"></a>สิทธิ์
 
