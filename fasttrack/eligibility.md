@@ -3,19 +3,19 @@ title: สิทธิ์
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
-ms.service: m365-administration
+ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: ในหัวข้อนี้เราจะจัดเค้าร่างข้อกำหนดสิทธิ์สำหรับการรับระยะไกลความช่วยเหลือที่แนะนำจากผู้เชี่ยวชาญ FastTrack รวมอยู่ในการซื้อสิทธิ์การใช้งาน Microsoft ๓๖๕และรายละเอียดผลิตภัณฑ์และความสามารถที่เฉพาะเจาะจงที่ได้รับการคุ้มครอง
-ms.openlocfilehash: 4bfc085d29c447ab5c29f0ad274ddf59f3a97fda
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525394"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750024"
 ---
 # <a name="eligibility"></a>สิทธิ์
 
@@ -35,7 +35,10 @@ ms.locfileid: "49525394"
 > [!NOTE]
 > Office ๓๖๕ ProPlus ได้รับการเปลี่ยนชื่อเป็นแอป Microsoft ๓๖๕ ในบางกรณีคุณอาจพบว่าการใช้ชื่อเดิม สำหรับรายละเอียดของการเปลี่ยนแปลงนี้จะมีผลโปรดดูที่[การเปลี่ยนแปลงชื่อสำหรับ Office ๓๖๕ ProPlus](https://docs.microsoft.com/deployoffice/name-change)
 
+  - Microsoft ๓๖๕ Defender
+  - ความปลอดภัยของแอป Microsoft Cloud
   - การป้องกันภัยคุกคามขั้นสูงของ Microsoft Defender (ATP)
+  - Microsoft Defender สำหรับข้อมูลเฉพาะตัว 
   - Microsoft Edge
   - การกำกับดูแลข้อมูลของ Microsoft
   - การป้องกันข้อมูลของ Microsoft

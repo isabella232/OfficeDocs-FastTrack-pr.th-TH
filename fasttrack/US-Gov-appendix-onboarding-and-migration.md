@@ -1,21 +1,21 @@
 ---
 title: ปฐมนิเทศและการโยกย้ายขั้นตอนสำหรับ Office ๓๖๕รัฐบาลสหรัฐอเมริกา
-ms.author: v-bermic@microsoft.com
-author: rberg-steyer@microsoft.com
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office ๓๖๕ปฐมนิเทศสำหรับ Office ๓๖๕รัฐบาลสหรัฐอเมริกามีขั้นตอนหลักๆสี่ขั้นตอนได้แก่การเริ่มประเมินการ Remediate และเปิดใช้งาน คุณสามารถทำตามขั้นตอนเหล่านี้ได้ด้วยขั้นตอนการโยกย้ายข้อมูลที่เป็นตัวเลือกตามที่แสดงในรูปต่อไปนี้
-ms.openlocfilehash: f53831dfaca68a25ffc9233a5aaf0a461d76e90b
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 82f6b9add76ca5aecbc7e0d210cb32aec0a5e05c
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525430"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750144"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>ปฐมนิเทศและการโยกย้ายขั้นตอนสำหรับ Office ๓๖๕รัฐบาลสหรัฐอเมริกา
 
