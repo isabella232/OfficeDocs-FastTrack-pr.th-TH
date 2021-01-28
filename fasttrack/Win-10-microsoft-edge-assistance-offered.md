@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: เมื่อคุณซื้อ Windows 10 หรือบริการ Microsoft ๓๖๕ (ตามรายละเอียดในบริการและแผนที่มีสิทธิ์การใช้งาน) ผู้เชี่ยวชาญ FastTrack ให้คำแนะนำในการใช้งานระยะไกลและความช่วยเหลือเกี่ยวกับความเข้ากันได้ถ้าคุณมีเว็บแอปหรือไซต์ที่ทำงานกับ Internet Explorer หรือ Google Chrome
-ms.openlocfilehash: e656673cbbb5130c7cb24b43219a29db4f58c130
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: c63a5eaac44eae8006ed8cb3d9285d57808c141c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827327"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016621"
 ---
 # <a name="assistance-offered"></a>ความช่วยเหลือที่ให้
 
@@ -24,7 +24,7 @@ ms.locfileid: "48827327"
 ## <a name="assistance"></a>เหลือ
 
 FastTrack ให้คำแนะนำระยะไกลสำหรับสิ่งต่อไปนี้:
-- คำแนะนำในการปรับใช้ Microsoft Edge ใหม่บน Windows 10 Enterprise ด้วยตัวจัดการ Microsoft จุดสิ้นสุดของ microsoft (ตัวจัดการการกำหนดค่าจุดสิ้นสุดของ Microsoft หรือ Microsoft Intune)
+- คำแนะนำในการปรับใช้ Microsoft Edge บน Windows 10 Enterprise ด้วยตัวจัดการ Microsoft จุดสิ้นสุดของ microsoft (ตัวจัดการการกำหนดค่า Microsoft จุดสิ้นสุดหรือ Microsoft Intune)
 - คำแนะนำเกี่ยวกับการกำหนดค่า Microsoft Edge (โดยใช้นโยบายกลุ่มหรือการกำหนดค่าแอป Intune และนโยบายแอป)
 - คำแนะนำเกี่ยวกับสินค้าคงคลังรายการของไซต์ที่อาจจำเป็นต้องใช้ในโหมด Internet Explorer
 - คำแนะนำในการเปิดใช้งานโหมด Internet Explorer กับรายการไซต์องค์กรที่มีอยู่

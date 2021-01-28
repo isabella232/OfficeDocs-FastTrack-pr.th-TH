@@ -3,19 +3,19 @@ title: สิทธิ์
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: ในหัวข้อนี้เราจะจัดเค้าร่างข้อกำหนดสิทธิ์สำหรับการรับระยะไกลความช่วยเหลือที่แนะนำจากผู้เชี่ยวชาญ FastTrack รวมอยู่ในการซื้อสิทธิ์การใช้งาน Microsoft ๓๖๕และรายละเอียดผลิตภัณฑ์และความสามารถที่เฉพาะเจาะจงที่ได้รับการคุ้มครอง
-ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 53ff3d12318a77fc66810e92ec5dae090f281035
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750024"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016465"
 ---
 # <a name="eligibility"></a>สิทธิ์
 
@@ -168,7 +168,7 @@ ms.locfileid: "49750024"
 
 #### <a name="azure-information-protection"></a>การป้องกันข้อมูล Azure
 
-  - แผนการป้องกันข้อมูลของ Azure 2\*\*\*\*\*
+  - การป้องกันข้อมูล Azure
 
 #### <a name="microsoft-intune"></a>Microsoft Intune
 
@@ -184,10 +184,7 @@ ms.locfileid: "49750024"
       
 <br>
 
-\*\*\*\*พร้อมใช้งานสำหรับบริการ cloud ที่มีสิทธิ์ได้รับประโยชน์จาก FastTrack มิฉะนั้นนี้จะถูกกำหนดเส้นทางไปยังผู้เชี่ยวชาญ FastTrack หรือการอ้างอิงคู่ค้า  
-      
-\*\*\*\*\*พร้อมใช้งานสำหรับ P2 เนื่องจากเป็นส่วนหนึ่งของ E5 หรือเป็นแผนแบบสแตนด์อโลน พร้อมใช้งานสำหรับบริการ cloud ที่มีสิทธิ์ได้รับประโยชน์จาก FastTrack สำหรับ Cloud Services P1, FastTrack แชร์คู่มือการปรับใช้ด้วยตนเอง  
-      
+\*\*\*\*พร้อมใช้งานสำหรับบริการ cloud ที่มีสิทธิ์ได้รับประโยชน์จาก FastTrack มิฉะนั้นนี้จะถูกกำหนดเส้นทางไปยังผู้เชี่ยวชาญ FastTrack หรือการอ้างอิงคู่ค้า    
 
 ### <a name="windows-10-plans"></a>แผน Windows 10
 

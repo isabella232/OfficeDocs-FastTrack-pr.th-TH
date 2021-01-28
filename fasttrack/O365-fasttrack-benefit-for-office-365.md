@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: คุณใช้ FastTrack Center สวัสดิการสำหรับ Office ๓๖๕เมื่อคุณซื้อสิทธิ์การใช้งานอย่างน้อย๑๕๐สำหรับบริการที่มีสิทธิ์การใช้งานหรือแผนสำหรับผู้เช่า Office ๓๖๕ของคุณ จากนั้นคุณจะทำงานกับผู้เชี่ยวชาญ FastTrack เพื่อประเมิน remediate เปิดใช้งานและการใช้งานการใช้บริการเหล่านั้น ผู้เชี่ยวชาญเหล่านี้ยังมีคำแนะนำในการโยกย้าย
-ms.openlocfilehash: e55ea3df161fa93aa0a0da978e39d8d0eec42ac4
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 1185b35c74b7a8f8e789004a4e43e74640c5a28e
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827135"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016489"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>สิทธิประโยชน์จากศูนย์ FastTrack สำหรับ Office 365
 
@@ -62,7 +62,7 @@ ms.locfileid: "48827135"
 
 - Windows 10
 - App Assure
-- Microsoft Edge ใหม่
+- Microsoft Edge
 - Microsoft Defender Advanced Threat Protection
     
 > [!NOTE]
