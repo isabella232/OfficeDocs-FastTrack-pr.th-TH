@@ -3,27 +3,27 @@ title: ความรับผิดชอบแบบ FastTrack ของ Offi
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: ผู้เชี่ยวชาญด้าน FastTrack มีหน้าที่รับผิดชอบต่อไปนี้ระหว่างการออนบอร์ด
-ms.openlocfilehash: d75d5f7c541d0800e82d08f1b060b89bfa82ee88
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: dde74c9880072ad8e5ff6386d09f88967af0ab16
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416537"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188074"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>ความรับผิดชอบแบบ FastTrack ของ Office 365 ที่รัฐบาลสหรัฐอเมริกา
 
-ผู้เชี่ยวชาญด้าน FastTrack จะมีความรับผิดชอบต่อไปนี้ระหว่างการออนบอร์ด  
+ผู้เชี่ยวชาญด้าน FastTrack มีหน้าที่รับผิดชอบต่อไปนี้ระหว่างการออนบอร์ด  
   
 ## <a name="general"></a>ทั่วไป
 
-- มอบความช่วยเหลือด้านการสนับสนุนระยะไกลให้คุณในการวางแผนและการปรับใช้ที่สเร็จ และเพื่อให้มีกิจกรรมการกําหนดค่าที่กําหนดค่าตามรายละเอียดในรายละเอียดขั้นตอนต่างๆ
+- ให้ความช่วยเหลือด้านการสนับสนุนระยะไกลแก่คุณในการวางแผนและการปรับใช้ที่สเร็จ และเพื่อให้มีกิจกรรมการกําหนดค่าที่กําหนดค่าตามรายละเอียดในรายละเอียดขั้นตอนต่างๆ
 - มีเอกสารประกอบและเครื่องมือซอฟต์แวร์ คอนโซลผู้ดูแลระบบ และสคริปต์ที่พร้อมใช้งานเพื่อมอบแนวทางให้คุณลดหรือกรอการกําหนดค่างาน และทรัพยากรการวางแผนความสเร็จ   
     
 ## <a name="initiate-phase"></a>เริ่มขั้นตอน
@@ -57,7 +57,7 @@ ms.locfileid: "50416537"
   - Prerequisites to support split domain server configuration.  
   - ความพร้อมของผู้ใช้ที่ระบุเพื่อย้ายไปยัง Skype for Business Online  
 - ประเมินโครงสร้างพื้นฐานของการส่งข้อความ รวมถึง:   
-  - หลักเกณฑ์การต่อสายจดหมายและการเปลี่ยนเส้นทางโดยรวม  
+  - หลักเกณฑ์การต่อสายงานและการเปลี่ยนเส้นทางจดหมายโดยรวม  
   - การเข้าถึงไคลเอ็นต์ (รวมถึงจุดสิ้นสุดการเข้าถึงไคลเอ็นต์ที่เผยแพร่แล้ว)  
   - สภาพแวดล้อมการส่งข้อความต้นทางเพื่อความต้องการในการผสานรวม 
 - ให้การโยกย้ายข้อมูลถ้ามีการใช้งานบริการการโยกย้ายข้อมูลของ FastTrack Center และถ้าคุณเข้าเกณฑ์
@@ -82,14 +82,14 @@ ms.locfileid: "50416537"
       - การกําหนดค่าการรับรองความถูกต้องแบบพาส-ทะลุผ่านของ Azure Active Directory (ไม่พร้อมให้ใช้งานในแผน GCC High หรือ DoD)
       - การกําหนดค่าการลงชื่อเข้าใช้ครั้งเดียวอย่างราบรื่นของ Azure Active Sign-On Directory (SSO) (ไม่มีให้ใช้งานในแผน GCC High หรือ DoD)
     > [!NOTE]
-    > การรับรองความถูกต้องของ Azure Active Directory แบบพาส-พาส-ทะลุผ่าน สไลต์แบบหลายฟอเรสต์ได้รับการสนับสนุนถ้ามีความเชื่อถือฟอเรสต์ระหว่างฟอเรสต์ Active Directory ของคุณ และถ้ากําหนดค่าการกําหนดเส้นทางส่วนต่อท้ายของชื่ออย่างถูกต้อง คุณสามารถติดตั้งตัวแทนเพิ่มเติมได้บนเซิร์ฟเวอร์ภายในองค์กรหลายเซิร์ฟเวอร์เพื่อให้มีความพร้อมใช้งานสูงในการร้องขอการลงชื่อเข้าใช้ For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and Azure Active Directory Seamless Single [sign-on: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
+    > การรับรองความถูกต้องของ Azure Active Directory แบบพาส-พาส-ทะลุผ่าน สไลต์แบบหลายฟอเรสต์ได้รับการสนับสนุนถ้ามีความเชื่อถือฟอเรสต์ระหว่างฟอเรสต์ Active Directory ของคุณ และถ้าการกําหนดเส้นทางของชื่อต่อท้ายถูกกําหนดค่าอย่างถูกต้อง คุณสามารถติดตั้งตัวแทนเพิ่มเติมได้บนเซิร์ฟเวอร์ภายในองค์กรหลายเซิร์ฟเวอร์เพื่อให้มีความพร้อมใช้งานสูงในการร้องขอการลงชื่อเข้าใช้ For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and Azure Active Directory Seamless Single [sign-on: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
     > [!NOTE]
     > For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356). 
     > [!NOTE]
     > หากต้องการข้อมูลเพิ่มเติมเกี่ยวกับปัญหา SSO อย่างราบรื่น โปรดดู[การแก้ไขปัญหาการลงชื่อเข้าระบบครั้งเดียวอย่างราบรื่นของ Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=841926) 
 - For a single forest when federrated identities is the target: 
   - การติดตั้งและการกําหนดค่า AD FS สํารับการรับรองความถูกต้องของโดเมนภายในด้วย Office 365 ในไซต์เดียว การกําหนดค่า toแสดงความผิดพลาด (ถ้าต้องระบุ)  
-  - การติดตั้งและการกําหนดค่า WAP เพื่อเผยแพร่โครงสร้างพื้นฐาน AD FS ของคุณไปยังอินเทอร์เน็ตเมื่อจําเป็น 
+  - Installing and configuring WAP for publishing your AD FS infrastructure to the internet, when necessary. 
     > [!NOTE]
     > For all multiple forests configurations, AD FS deployments are out-of-scope. 
 - ถ้าปรับใช้ฟังก์ชันการทดสอบ SSO   
@@ -106,7 +106,7 @@ ms.locfileid: "50416537"
 
 ให้แนวทางเกี่ยวกับ: 
 - การสร้างหรือการอัปเดตระเบียน DNS    
-- เปิดใช้งานการเปลี่ยนเส้นทางอีเมลระหว่างระบบการส่งข้อความต้นทางกับสภาพแวดล้อม Office 365    
+- เปิดใช้งานการต่อสายอีเมลระหว่างระบบการส่งข้อความต้นทางกับสภาพแวดล้อม Office 365    
 - การกําหนดค่าฟีเจอร์ Exchange Online Protection (รวมถึงฟีเจอร์ Exchange Online Advanced Threat Protection ถ้ามีในการสมัครใช้งานของคุณ) และการตรวจสอบระเบียน MX ของคุณชี้ไปยัง Office 365 เพื่อให้โดเมนที่เปิดใช้งานจดหมายที่ผ่านการตรวจสอบทั้งหมด   
 - การกําหนดค่าการตั้งค่าแบบไฮบริดระหว่างองค์กร Exchange ภายในองค์กรเดียวและ Office 365 หรือระหว่างองค์กร Exchange ภายในองค์กรหลายองค์กรและ Office 365 
 - การตั้งค่าการส่งข้อความแบบครบวงจร (UM) ด้วย Exchange Online (UM ไม่พร้อมใช้งานในแผน GCC DoD) 
@@ -135,7 +135,7 @@ For more information about data migration responsibilities, see [Data Migration]
 - ระบุเวอร์ชัน SharePoint ภายในองค์กรและตัวเลือกการรวม    
 - ระบุตัวเลือกการซิงโครไนซ์และข้อมูลเฉพาะตัว   
 - การเลือกตัวเลือกการเริ่มใช้:   
-  - การเริ่มใช้ใหม่ได้ตามเวลา  
+  - การเริ่มใช้ใหม่ในเวลาจริง  
   - การเริ่มแบบเป็นขั้นตอน (เรียงลดับและจัดเป็นขั้น)   
 - การเตรียมสภาพแวดล้อมภายในองค์กรเพื่อการปรับใช้ OneDrive for Business:  
   - การระบุไคลเอ็นต์การซิงค์ OneDrive for Business ที่ถูกต้อง 
@@ -159,10 +159,10 @@ For more information about data migration responsibilities, see [Data Migration]
 - การเปิดใช้งานระบบโทรศัพท์ (ไม่มีให้ใช้งานในแผน GCC High หรือ DoD):  
   - การเปิดใช้งานการออนบอร์ดระบบโทรศัพท์และแผนการโทร (ในตลาดที่พร้อมใช้งาน) 
   - การมอบหมายหมายเลขให้กับผู้ใช้ที่มีสิทธิ์การใช้งาน  
-  - แนวทางพอร์ตหมายเลขในพื้นที่ผ่าน UI สูงสุดถึง 999  
+  - Local number porting guidance through UI up to 999.  
   - Local number porting SR support over 999.  
 - การเปิดใช้งานการออกอากาศการประชุม Skype for Business (ไม่มีให้ใช้งานในแผน GCC High หรือ DoD):  
-  - การเปิดใช้งานแนวทางการออกอากาศการประชุม Skype for Business แบบ Onboarding  
+  - การเปิดใช้งานแนวทางการออกอากาศการประชุม Skype for Business Onboarding  
   - การตั้งค่าองค์กรเพื่อติดต่อกับภายนอกด้วยบริการการออกอากาศการประชุม
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
@@ -173,7 +173,7 @@ For more information about data migration responsibilities, see [Data Migration]
 - การตั้งค่า DNS  
 - ยืนยันว่า Microsoft Teams เปิดใช้งานอยู่บนผู้เช่า Office 365 ของคุณ   
 - การเปิดใช้งานหรือปิดใช้งานสิทธิ์การใช้งานของผู้ใช้  
-- การเผยแพร่ลูกค้า Microsoft Teams    
+- การแจกจ่ายลูกค้า Microsoft Teams    
 - ฟีเจอร์ของมืออาชีพด้าน IT และผู้ดูแลระบบ 
 - ฟีเจอร์หลักของผลิตภัณฑ์  
 - เทมเพลตความสเร็จของลูกค้า
@@ -191,7 +191,7 @@ For more information about data migration responsibilities, see [Data Migration]
 - การตรวจสอบแผนการสมัครใช้งาน  
 - ตรวจสอบฟังก์ชันการใช้งาน SharePoint พื้นฐาน    
 - การเพิ่มบริการ Project Online  
-- การเพิ่มผู้ใช้ไปยัง Project Online รวมถึง ERP Sync  
+- การเพิ่มผู้ใช้ไปยัง Project Online รวมถึงการซิงค์ ERP  
 - ตรวจสอบฟังก์ชันการใช้งาน Project Online พื้นฐานโดยการสร้างโครงการ
     
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
@@ -199,13 +199,13 @@ For more information about data migration responsibilities, see [Data Migration]
 ให้แนวทางเกี่ยวกับการแปลงเครือข่าย Yammer Basic ของคุณไปเป็นเครือข่าย Yammer สําหรับองค์กรเดียว
 
 > [!NOTE]
-> Yammer Enterprise ไม่ใช่คอมโพเนนต์ของ Office 365 US Government แต่สามารถซื้อได้โดยไม่มีค่าใช้จ่ายเป็นข้อเสนอแบบสแตนด์อโลนของผู้ใช้แต่ละคนที่มีสิทธิ์การใช้งาน Office 365 ใน GCC ข้อเสนอนี้ขณะนี้ถูกจํากัดเฉพาะลูกค้าที่ซื้อ Office 365 GCC ภายใต้ข้อตกลง Enterprise และข้อตกลงการสมัครใช้งานระดับองค์กร Yammer ไม่พร้อมใช้งานในแผน GCC High หรือ DoD
+> Yammer Enterprise ไม่ใช่คอมโพเนนต์ของ Office 365 US Government แต่สามารถซื้อได้โดยไม่มีค่าใช้จ่ายเป็นข้อเสนอแบบสแตนด์อโลนของผู้ใช้แต่ละคนที่มีสิทธิ์การใช้งาน Office 365 ใน GCC ข้อเสนอนี้ขณะนี้ถูกจํากัดเฉพาะลูกค้าที่ซื้อ Office 365 GCC ภายใต้ข้อตกลง Enterprise และข้อตกลงการสมัครใช้งานขององค์กร Yammer ไม่พร้อมใช้งานในแผน GCC High หรือ DoD
   
 ## <a name="microsoft-365-apps"></a>แอป Microsoft 365
 
 ให้แนวทางเกี่ยวกับ:
 - การแก้ไขปัญหาการปรับใช้   
-- การกําหนดสิทธิ์การใช้งานของผู้ใช้ปลายทางโดยใช้ศูนย์การจัดการ [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) และ Windows PowerShell  
+- การกําหนดสิทธิ์การใช้งานของผู้ใช้ปลายทางโดยใช้ศูนย์การจัดการ [Microsoft 365 และ](https://go.microsoft.com/fwlink/?linkid=2032704) Windows PowerShell  
 - การติดตั้งแอป Microsoft 365 จากพอร์ทัล Office 365 โดยใช้คลิก-to-รัน   
 - การติดตั้งแอป Office Mobile (เช่น Outlook Mobile, Word Mobile, Excel Mobile และ PowerPoint Mobile) บนอุปกรณ์ iOS, Android หรือ Windows Mobile ของคุณ   
 - การกําหนดค่าการตั้งค่าการอัปเดตโดยใช้เครื่องมือการปรับใช้ Office 2016 หรือเทมเพลตนโยบายกลุ่ม   

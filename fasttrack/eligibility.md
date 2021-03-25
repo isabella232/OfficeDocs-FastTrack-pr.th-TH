@@ -3,19 +3,19 @@ title: สิทธิ์
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: ในหัวข้อนี้ เราได้จัดเค้าร่างข้อต้องมีสิทธิ์เพื่อรับความช่วยเหลือระยะไกลที่ได้รับความช่วยเหลือจากผู้เชี่ยวชาญ FastTrack ที่รวมอยู่ในการซื้อสิทธิ์การใช้งาน Microsoft 365 และรายละเอียดผลิตภัณฑ์และความสามารถเฉพาะที่ครอบคลุม
-ms.openlocfilehash: 095d3630431265e7f584388b21614e071ea8711c
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: 50f7dcc063285aae352b91595e1e79763a19cf3f
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416430"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51187990"
 ---
 # <a name="eligibility"></a>สิทธิ์
 
@@ -37,14 +37,14 @@ ms.locfileid: "50416430"
 
   - Microsoft 365 Defender
   - ความปลอดภัยของแอป Microsoft Cloud
-  - Microsoft Defender Advanced Threat Protection (ATP)
+  - Microsoft Defender for Endpoint
   - Microsoft Defender for Identity 
+  - Microsoft Defender for Office 365
   - Microsoft Edge
   - การควบคุมข้อมูลของ Microsoft
   - Microsoft Information Protection
   - Microsoft Intun1
   - Microsoft Teams
-  - Office 365 Advanced Threat Protection (ATP)
   - OneDrive for Business
   - Power BI
   - Project Online
@@ -55,7 +55,7 @@ ms.locfileid: "50416430"
 
 ## <a name="eligible-plans"></a>แผนที่มีสิทธิ์
 
-คุณต้องซื้อสิทธิ์การใช้งานอย่างน้อย 150 สิทธิ์ต่อผู้เช่าจากแผนใดแผนหนึ่งด้านล่างจึงจะมีสิทธิ์ใช้งาน FastTrack รายการถูกจัดกลุ่มตามตระกูลผลิตภัณฑ์เพื่อช่วยอํานวยความสะดวกในการค้นหาแผนเฉพาะที่บริษัทของคุณซื้อ: Microsoft 365, Office 365, Enterprise Mobility & Security และ Windows 10
+คุณต้องซื้อสิทธิ์การใช้งานอย่างน้อย 150 สิทธิ์ต่อผู้เช่าจากแผนใดแผนหนึ่งด้านล่างจึงจะมีสิทธิ์ใช้งาน FastTrack รายการถูกจัดกลุ่มตามตระกูลผลิตภัณฑ์เพื่อช่วยอํานวยความสะดวกในการค้นหาแผนเฉพาะที่บริษัทของคุณซื้อ: Microsoft 365, Office 365, Enterprise Mobility & ความปลอดภัยและ Windows 10
 
 ### <a name="microsoft-365-plans"></a>แผน Microsoft 365
 
@@ -117,7 +117,7 @@ ms.locfileid: "50416430"
   - Exchange Online Plan 2
   - Exchange Online Kiosk
   - Exchange Online Protection
-  - Office 365 Advanced Threat Protection
+  - Microsoft Defender for Office 365
 
 #### <a name="microsoft-teams"></a>Microsoft Teams
 
