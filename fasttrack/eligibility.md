@@ -3,25 +3,25 @@ title: สิทธิ์
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 3/24/2021
+ms.date: 4/21/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
-description: ในหัวข้อนี้ เราได้จัดเค้าร่างข้อต้องมีสิทธิ์เพื่อรับความช่วยเหลือระยะไกลที่ได้รับความช่วยเหลือจากผู้เชี่ยวชาญ FastTrack ที่รวมอยู่ในการซื้อสิทธิ์การใช้งาน Microsoft 365 และรายละเอียดผลิตภัณฑ์และความสามารถเฉพาะที่ครอบคลุม
-ms.openlocfilehash: 50f7dcc063285aae352b91595e1e79763a19cf3f
-ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
+description: ในหัวข้อนี้ เรามีเค้าร่างข้อกนรับสิทธิ์เพื่อรับความช่วยเหลือระยะไกลพร้อมแนวทางจากผู้เชี่ยวชาญด้าน FastTrack ที่รวมอยู่ในการซื้อสิทธิ์การใช้งาน Microsoft 365 และรายละเอียดผลิตภัณฑ์และความสามารถเฉพาะที่ครอบคลุม
+ms.openlocfilehash: 03d2b9f607ad72cc59a1d0c16c12401e8a437fe1
+ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51187990"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51927015"
 ---
 # <a name="eligibility"></a>สิทธิ์
 
-ในหัวข้อนี้ เราได้จัดเค้าร่างข้อต้องมีสิทธิ์เพื่อรับความช่วยเหลือระยะไกลที่ได้รับความช่วยเหลือจากผู้เชี่ยวชาญ FastTrack ที่รวมอยู่ในการซื้อสิทธิ์การใช้งาน Microsoft 365 และรายละเอียดผลิตภัณฑ์และความสามารถเฉพาะที่ครอบคลุม
+ในหัวข้อนี้ เรามีเค้าร่างข้อกนรับสิทธิ์เพื่อรับความช่วยเหลือระยะไกลพร้อมแนวทางจากผู้เชี่ยวชาญด้าน FastTrack ที่รวมอยู่ในการซื้อสิทธิ์การใช้งาน Microsoft 365 และรายละเอียดผลิตภัณฑ์และความสามารถเฉพาะที่ครอบคลุม
 
-ความช่วยเหลือ FastTrack พร้อมให้ใช้งานกับลูกค้าที่มีสิทธิ์การใช้งาน 150 สิทธิ์หรือมากกว่าจากแผนใดแผนหนึ่งที่มีสิทธิ์จากครอบครัวผลิตภัณฑ์ Microsoft ต่อไปนี้: Microsoft 365, Office 365, Enterprise Mobility & Security และ Windows 10 แผนเหล่านี้มีไว้เพื่อผลิตภัณฑ์แต่ละชนิด (เช่น Exchange Online) หรือชุดผลิตภัณฑ์ (Office 365 E3) เนื่องจาก Microsoft มีตัวเลือกการซื้อมากมาย รายการแผนที่มีสิทธิ์ครอบคลุมและพบ[อยู่ในแผนที่มีสิทธิ์](#eligible-plans)
+ความช่วยเหลือ FastTrack พร้อมให้ใช้งานกับลูกค้าที่มีสิทธิ์การใช้งาน 150 สิทธิ์หรือมากกว่าจากแผนใดแผนหนึ่งที่มีสิทธิ์จากตระกูลผลิตภัณฑ์ Microsoft ต่อไปนี้: Microsoft 365, Office 365, Enterprise Mobility & Security และ Windows 10 แผนเหล่านี้สามารถเป็นผลิตภัณฑ์แต่ละรายการ (เช่น Exchange Online) หรือชุดผลิตภัณฑ์ (Office 365 E3) เนื่องจาก Microsoft มีตัวเลือกการซื้อมากมาย รายการของแผนที่มีสิทธิ์จะครอบคลุมและพบใน[แผนที่มีสิทธิ์](#eligible-plans)
 
 ## <a name="products-and-capabilities-covered"></a>ผลิตภัณฑ์และความสามารถที่ครอบคลุม
 
@@ -33,7 +33,7 @@ ms.locfileid: "51187990"
   - แอป Microsoft 365
 
 > [!NOTE]
-> Office 365 ProPlus ถูกเปลี่ยนชื่อเป็นแอป Microsoft 365 ในบางกรณี คุณอาจพบว่ามีการใช้ชื่อดั้งเดิม For details of when this change takes effect, please see [Name change for Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
+> Office 365 ProPlus ถูกเปลี่ยนชื่อเป็น แอป Microsoft 365 ในบางกรณี คุณอาจพบว่ามีการใช้ชื่อดั้งเดิม For details of when this change effect, please see [Name change for Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
 
   - Microsoft 365 Defender
   - ความปลอดภัยของแอป Microsoft Cloud
@@ -55,7 +55,7 @@ ms.locfileid: "51187990"
 
 ## <a name="eligible-plans"></a>แผนที่มีสิทธิ์
 
-คุณต้องซื้อสิทธิ์การใช้งานอย่างน้อย 150 สิทธิ์ต่อผู้เช่าจากแผนใดแผนหนึ่งด้านล่างจึงจะมีสิทธิ์ใช้งาน FastTrack รายการถูกจัดกลุ่มตามตระกูลผลิตภัณฑ์เพื่อช่วยอํานวยความสะดวกในการค้นหาแผนเฉพาะที่บริษัทของคุณซื้อ: Microsoft 365, Office 365, Enterprise Mobility & ความปลอดภัยและ Windows 10
+คุณต้องซื้อสิทธิ์การใช้งานอย่างน้อย 150 สิทธิ์ต่อผู้เช่าจากแผนใดแผนหนึ่งด้านล่างเพื่อให้มีสิทธิ์ FastTrack รายการจะถูกจัดกลุ่มตามครอบครัวผลิตภัณฑ์เพื่อช่วยอํานวยความสะดวกในการค้นหาแผนเฉพาะที่บริษัทของคุณซื้อ: Microsoft 365, Office 365, Enterprise Mobility & Security และ Windows 10
 
 ### <a name="microsoft-365-plans"></a>แผน Microsoft 365
 
@@ -64,8 +64,8 @@ ms.locfileid: "51187990"
   - Microsoft 365 E3\*
   - Microsoft 365 E5\*
   - Microsoft 365 E5 Security\*
-  - การปฏิบัติตามข้อบังคับ Microsoft 365 E5\*
-  - Microsoft 365 E5 eDiscovery & Audit\*
+  - Microsoft 365 E5 Compliance\*
+  - การตรวจสอบ eDiscovery ของ Microsoft 365 E5 &\*
   - Microsoft 365 E5 Information Protection & Governance\*
   - Microsoft 365 E5 Insider Risk Management\*
   - Microsoft 365 F1\*
@@ -78,7 +78,7 @@ ms.locfileid: "51187990"
 
   - Microsoft 365 Business Basic\*
   - Microsoft 365 Business Standard\*
-  - แอป Microsoft 365 for Business\*
+  - Microsoft 365 Apps for Business\*
 
 #### <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -86,7 +86,7 @@ ms.locfileid: "51187990"
   - Microsoft 365 A5\*
   - ความปลอดภัยของ Microsoft 365 A5\*
   - การปฏิบัติตามข้อบังคับ Microsoft 365 A5\*
-  - การตรวจสอบอุปกรณ์ eDiscovery ของ Microsoft 365 A5 &\*
+  - การตรวจสอบ eDiscovery ของ Microsoft 365 A5 &\*
   - Microsoft 365 A5 Information Protection & Governance\*
   - Microsoft 365 A5 Insider Risk Management\*
   - Microsoft 365 Apps for Education (อุปกรณ์)\*
@@ -128,7 +128,7 @@ ms.locfileid: "51187990"
 
 #### <a name="onedrive-for-business"></a>OneDrive for Business
 
-  - OneDrive for Business ที่มี Office
+  - OneDrive for Business พร้อม Office
   - OneDrive for Business Plan 1
   - OneDrive for Business Plan 2
 
@@ -149,7 +149,7 @@ ms.locfileid: "51187990"
 
 <br>
 
-\*พร้อมใช้งานเฉพาะกับบริการระบบคลาวด์ที่มีสิทธิ์ของ FastTrack และฟีเจอร์ที่อธิบายไว้ในรายละเอียดสิทธิประโยชน์นี้เท่านั้น  
+\*พร้อมใช้งานเฉพาะกับบริการระบบคลาวด์และฟีเจอร์ที่มีสิทธิ์ของ FastTrack ที่อธิบายไว้ในรายละเอียดสิทธิประโยชน์นี้เท่านั้น  
       
 \*\*For more information on the FastTrack Benefit for the US Government, please see [Office 365 US Government](https://aka.ms/aboutgovcloud).  
        
@@ -184,7 +184,7 @@ ms.locfileid: "51187990"
       
 <br>
 
-\*\*\*\*พร้อมใช้งานกับบริการระบบคลาวด์ที่มีสิทธิ์รับสิทธิประโยชน์ FastTrack มิฉะนั้น สิ่งนี้จะถูกเส้นทางไปยังผู้เชี่ยวชาญด้าน FastTrack หรือเพื่อการอ้างอิงคู่ค้า    
+\*\*\*\*พร้อมใช้งานกับบริการระบบคลาวด์ที่มีสิทธิ์รับสิทธิประโยชน์ของ FastTrack มิฉะนั้น จะถูกเส้นทางไปยังผู้เชี่ยวชาญด้าน FastTrack หรือการอ้างอิงคู่ค้า    
 
 ### <a name="windows-10-plans"></a>แผน Windows 10
 
@@ -201,7 +201,7 @@ ms.locfileid: "51187990"
       
       
 > [!NOTE]
-> ไม่มีข้อกําหนดสิทธิ์การใช้งานขั้นต่าของผู้ขายซอฟต์แวร์อิสระ (ISVs) เชิงพาณิชย์ที่สร้างแอป Windows 10 การร้องขอแอปทั้งหมดต้องตั้งเป้าหมายไปที่เวอร์ชันแอป Windows 10 หรือ Microsoft 365 ที่ปัจจุบันอยู่ภายในหน้าต่างการบริการหลัก
+> ไม่มีข้อกําหนดสิทธิ์การใช้งานขั้นต่่สุดของผู้ขายซอฟต์แวร์ (ISVs) ในเชิงพาณิชย์ที่สร้างแอป Windows 10 การร้องขอแอปทั้งหมดต้องตั้งเป้าหมายไปที่เวอร์ชันแอป Windows 10 หรือ Microsoft 365 ที่ขณะนี้อยู่ในหน้าต่างการบริการหลัก
 
 ### <a name="ineligible-plans"></a>แผนที่ไม่มีสิทธิ์ 
  แผนที่ไม่เข้าเกณฑ์บริการ FastTrack มี (แต่ไม่จํากัดเพียง):
@@ -211,8 +211,8 @@ ms.locfileid: "51187990"
 |---------|---------|
 |**การเก็บถาวรของ Exchange Online**    |   แนวทาง FastTrack สําหรับแผนนี้จะพร้อมใช้งานเมื่อได้รับผ่านแผนที่มีสิทธิ์ เช่น Enterprise E3 และ E5      |
 |**Office 365 ที่ดําเนินการโดย 21Vianet**    |   For more information on the FastTrack Benefit for Office 365 operated by 21Vianet, contact [21Vianet support](https://go.microsoft.com/fwlink/?linkid=852156).      |
-| **แผน Microsoft Office 365 เฉพาะและ ITAR/Federal**     |         |
-|**แผนไม่มีค่าใช้จ่าย (เช่น Office 365 A1 หรือแผนสิทธิประโยชน์ของนักเรียน)**   |         |
+| **แผน Microsoft Office 365 Dedicated and ITAR/Federal**     |         |
+|**แผน No-cost (เช่น Office 365 A1 หรือแผนสิทธิประโยชน์ของนักเรียน)**   |         |
 
 
 
