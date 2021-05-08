@@ -1,0 +1,29 @@
+---
+title: App Assure
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
+manager: jimmuir
+ms.date: 7/01/2020
+ms.audience: ITPro
+ms.topic: overview
+ms.service: windows-10-administration
+localization_priority: Normal
+ms.collection: FastTrack
+description: สิทธิประโยชน์ของ FastTrack Center Windows 10ให้การเข้าถึง App Assure เป็นบริการที่ออกแบบมาเพื่อแก้ไขปัญหาเกี่ยวกับWindows 10 Microsoft 365 Appsแอปของคุณ
+ms.openlocfilehash: 4c16ee8ce7984d6cd44d623366d190cb51e6f5b6
+ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
+ms.translationtype: MT
+ms.contentlocale: th-TH
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52283480"
+---
+# <a name="app-assure"></a>App Assure
+
+สิทธิประโยชน์ของ FastTrack Center Windows 10ให้การเข้าถึง App Assure เป็นบริการที่ออกแบบมาเพื่อแก้ไขปัญหาเกี่ยวกับWindows 10 Microsoft 365 Appsแอปของคุณ เมื่อคุณร้องขอบริการ App Assure วิศวกรของ Microsoft จะทําให้คุณแก้ไขปัญหาแอปที่ถูกต้อง โดยไม่มีค่าใช้จ่ายเพิ่มเติมเกี่ยวกับการสมัครใช้งานที่มีสิทธิ์ให้คุณ นอกจากนี้ เรายังให้แนวทางสําหรับลูกค้าที่ประสบปัญหาความเข้ากันได้เมื่อปรับใช้ Windows Virtual Desktop Microsoft Edgeอีกด้วย 
+
+เมื่อต้องการรับความช่วยเหลือ ให้กรอกการร้องขอ [บริการ App Assure](https://go.microsoft.com/fwlink/?linkid=2022721)ให้เสร็จสมบูรณ์
+
+  > [!NOTE]
+> นี่เป็นบริการที่ FastTrack ให้บริการไม่ใช่แพคเกจซอฟต์แวร์
+
+For more information on the FastTrack benefit, see [FastTrack Center Benefit for Microsoft 365](introduction.md).
