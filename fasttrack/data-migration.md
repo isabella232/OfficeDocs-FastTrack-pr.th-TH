@@ -3,19 +3,19 @@ title: การโยกย้ายข้อมูล
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack สามารถช่วยให้คุณโยกย้ายจดหมายและไฟล์ข้อมูลในสภาพแวดล้อมแหล่งข้อมูลของคุณOffice 365 (Exchange Online SharePoint Online และ OneDrive for Business) ชนิดของความช่วยเหลือที่เรามีจะขึ้นอยู่กับจํานวนของOffice 365การใช้งานของคุณ
-ms.openlocfilehash: 0e33e8a79ebc577188644dbc69cd78707a575838
-ms.sourcegitcommit: 69a30fee5e7e199bd6830fb0837af1ae4904ef3b
+ms.openlocfilehash: 916343d73c46410990785515ac5f32de24703acf
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52312449"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570487"
 ---
 # <a name="data-migration"></a>การโยกย้ายข้อมูล
 
