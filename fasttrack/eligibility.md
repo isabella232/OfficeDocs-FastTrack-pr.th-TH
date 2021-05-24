@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: ในหัวข้อนี้ เรามีเค้าร่างข้อกนรับสิทธิ์เพื่อรับความช่วยเหลือระยะไกลที่ได้รับความช่วยเหลือเกี่ยวกับ FastTrack จากผู้เชี่ยวชาญด้าน FastTrack ที่รวมอยู่ในการซื้อสิทธิ์การใช้งาน Microsoft 365 และรายละเอียดผลิตภัณฑ์และความสามารถเฉพาะที่ครอบคลุม
-ms.openlocfilehash: eb3a73f7c1c58fe84cdc92d4ccd625330b4dcc82
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 7cadd0543f0daccadc2d522ff00e03becaf06acf
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570499"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592407"
 ---
 # <a name="eligibility"></a>สิทธิ์
 
@@ -33,7 +33,7 @@ ms.locfileid: "52570499"
   - Microsoft 365 Apps
 
 > [!NOTE]
-> Office 365 ProPlusถูกเปลี่ยนชื่อMicrosoft 365 Appsใหม่ ในบางกรณี คุณอาจพบว่ามีการใช้ชื่อดั้งเดิม For details of when this change effect, please see [Name change for Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
+> Office 365 ProPlusถูกเปลี่ยนชื่อMicrosoft 365 Appsใหม่ ในบางกรณี คุณอาจพบว่ามีการใช้ชื่อดั้งเดิม For details of when this change effect, please see [Name change for Office 365 ProPlus](/deployoffice/name-change).
 
   - Microsoft 365 Defender
   - Microsoft Cloud App Security
