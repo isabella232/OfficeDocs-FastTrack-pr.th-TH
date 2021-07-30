@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: ในหัวข้อนี้ เรามีเค้าร่างข้อกนรับสิทธิ์เพื่อรับความช่วยเหลือระยะไกลที่ได้รับความช่วยเหลือเกี่ยวกับ FastTrack จากผู้เชี่ยวชาญด้าน FastTrack ที่รวมอยู่ในการซื้อสิทธิ์การใช้งาน Microsoft 365 และรายละเอียดผลิตภัณฑ์และความสามารถเฉพาะที่ครอบคลุม
-ms.openlocfilehash: c264b4136ca7d55a54f9244b3dd1f32d627e3034
-ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
+ms.openlocfilehash: 3ab88165cc36f9b7da37e5e9810922b8c7dc1f27
+ms.sourcegitcommit: fb70cfd530a627505b3f05caba50cd8f846c1a56
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53629490"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661844"
 ---
 # <a name="eligibility"></a>สิทธิ์
 
@@ -55,7 +55,7 @@ ms.locfileid: "53629490"
 
 ## <a name="eligible-plans"></a>แผนที่มีสิทธิ์
 
-คุณต้องซื้อสิทธิ์การใช้งานอย่างน้อย 150 สิทธิ์จากแผนใดแผนหนึ่งด้านล่างเพื่อให้มีสิทธิ์ FastTrack รายการจะถูกจัดกลุ่มตามครอบครัวผลิตภัณฑ์เพื่อช่วยอวยความสะดวกในการค้นหาแผนเฉพาะที่บริษัทของคุณซื้อ: Microsoft 365, Office 365, Enterprise Mobility & Security, Windows 10
+คุณต้องซื้อสิทธิ์การใช้งานอย่างน้อย 150 สิทธิ์ต่อผู้เช่าจากแผนใดแผนหนึ่งด้านล่างเพื่อให้มีสิทธิ์ FastTrack รายการจะถูกจัดกลุ่มตามครอบครัวผลิตภัณฑ์เพื่อช่วยอวยความสะดวกในการค้นหาแผนเฉพาะที่บริษัทของคุณซื้อ: Microsoft 365, Office 365, Enterprise Mobility & Security, Windows 10 
 
 ### <a name="microsoft-365-plans"></a>Microsoft 365แผน
 
