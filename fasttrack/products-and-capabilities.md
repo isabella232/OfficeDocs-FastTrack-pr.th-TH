@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: หัวข้อนี้มีรายละเอียดเกี่ยวกับสถานการณ์ปริมาณงานที่สนับสนุนโดย FastTrack และความคาดหวังของสภาพแวดล้อมต้นทางที่จําเป็นก่อนที่เราจะสามารถเริ่มต้นได้ ตามการตั้งค่าปัจจุบันของคุณ เราจะร่วมงานกับคุณเพื่อสร้างแผนการแก้ไขที่ปรับสภาพแวดล้อมแหล่งข้อมูลของคุณขึ้นมาเป็นความต้องการขั้นต่สุดเพื่อออนบอร์ดที่ประสบความสาเร็จ
-ms.openlocfilehash: 8b7c1ea3867cebd2dc9f0ec1b309b3084288013d
-ms.sourcegitcommit: fb70cfd530a627505b3f05caba50cd8f846c1a56
+ms.openlocfilehash: 5d70ff4564bcaf3dba432304c1ab726c2f704a7b
+ms.sourcegitcommit: 142a445a491dcab79bf0779745d0beae81714507
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "53661856"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53679721"
 ---
 # <a name="products-and-capabilities"></a>ผลิตภัณฑ์และความสามารถ
 
@@ -35,7 +35,7 @@ FastTrack มอบแนวทางเพื่อช่วยให้คุ�
   - [Microsoft Edge](#microsoft-edge)
 
 > [!NOTE]
-> For information on source environment expectations for Office 365 US Government, see [Source Environment Expectations for Office 365 US Government](/us-gov-appendix-source-environment-expectations).  
+> For information on source environment expectations for Office 365 US Government, see [Source Environment Expectations for Office 365 US Government](US-Gov-appendix-source-environment-expectations.md).   
  
 ## <a name="general"></a>ทั่วไป
 
