@@ -1,25 +1,25 @@
 ---
-title: ความรับผิดชอบของ FastTrack Office 365รัฐบาลสหรัฐอเมริกา
+title: FastTrack ความรับผิดชอบของOffice 365รัฐบาลสหรัฐอเมริกา
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 7/28/2021
+ms.date: 8/18/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: ผู้เชี่ยวชาญด้าน FastTrack จะมีความรับผิดชอบต่อไปนี้ระหว่างการออนบอร์ด
-ms.openlocfilehash: cd4fa9cc96f84e5d7a5865dda077078032618bc0
-ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
+description: FastTrack ผู้เชี่ยวชาญด้านมีความรับผิดชอบต่อไปนี้ระหว่างการออนบอร์ด
+ms.openlocfilehash: d193207dc8f3081faca635f62085d30de9f49104
+ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53629502"
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "58392360"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>ความรับผิดชอบของ FastTrack Office 365รัฐบาลสหรัฐอเมริกา
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack ความรับผิดชอบของOffice 365รัฐบาลสหรัฐอเมริกา
 
-ผู้เชี่ยวชาญด้าน FastTrack จะมีความรับผิดชอบต่อไปนี้ระหว่างการออนบอร์ด  
+FastTrack ผู้เชี่ยวชาญด้านมีความรับผิดชอบต่อไปนี้ระหว่างการออนบอร์ด  
   
 ## <a name="general"></a>ทั่วไป
 
@@ -34,33 +34,33 @@ ms.locfileid: "53629502"
     
 ## <a name="assess-phase"></a>ประเมินระยะ
 
-- พักสายการวางแผนความสเร็จเพื่อให้แนวทางร่วมกับคุณสําหรับการนํามาใช้ของผู้ใช้ที่ประสบความสาเร็จ  
+- พักสายการวางแผนความสเร็จเพื่อให้แนวทางแก่คุณสําหรับการนํามาใช้ของผู้ใช้ที่ประสบความสาเร็จ  
 - ให้ภาพรวมการดูแลระบบ  
 - ให้แนวทางเกี่ยวกับ: 
   - Domain Name System (DNS) เครือข่าย และโครงสร้างพื้นฐานต้องการ  
   - ความต้องการของลูกค้า (เบราว์เซอร์อินเทอร์เน็ต ระบบปฏิบัติการของไคลเอ็นต์ อุปกรณ์เคลื่อนที่ และความต้องการของบริการ)
   - ข้อมูลเฉพาะตัวของผู้ใช้และการเตรียมใช้งาน 
   - การเปิดใช้งานบริการที่มีสิทธิ์ที่ซื้อและกําหนดเป็นส่วนหนึ่งของการออนบอร์ด
-  - การผลักดันการปรับใช้บริการและมูลค่าที่ประสบความสเร็จ   
+  - ผลักดันการปรับใช้บริการและมูลค่าที่ประสบความสเร็จ   
 - สร้างไทม์ไลน์เพื่อแก้ไขกิจกรรม
 - ระบุรายการตรวจสอบการแก้ไข   
 - ประเมินโครงสร้างพื้นฐาน SharePoint Server 2013 หรือ SharePoint Server 2016 ที่มีอยู่ รวมถึง:  
-  - Prerequisites for SharePoint Online hybrid.  
+  - เงื่อนไขเบื้องต้นSharePointไฮบริดทางออนไลน์  
   - ความพร้อมของโครงสร้างพื้นฐานภายในองค์กรSharePointฟีเจอร์ออนไลน์แบบไฮบริด  
   - Access to required SharePoint Online endpoints. 
   - ผู้ชมกลุ่มOneDrive for Businessแบบไฮบริด    
 - ประเมินโครงสร้างพื้นฐาน Lync หรือ Skype for Business Online ที่มีอยู่ รวมถึง:  
-  - กลยุทธ์การปรับใช้Skype for Businessไคลเอ็นต์ที่ได้รับการสนับสนุน  
+  - กลยุทธ์การปรับใช้Skype for Businessไคลเอ็นต์ที่สนับสนุน  
   - เข้าถึงจุดสิ้นสุด  
   - คุณภาพการเชื่อมต่อ  
   - การประเมินแบนด์วิดท์  
   - กําหนดเบื้องต้นเพื่อสนับสนุนการกําหนดค่าเซิร์ฟเวอร์โดเมนแบบแยก  
   - ความพร้อมของผู้ใช้ที่ระบุให้ย้ายไปยังSkype for Business Online  
 - ประเมินโครงสร้างพื้นฐานการส่งข้อความ รวมถึง:   
-  - หลักการการโฟลว์จดหมายและการเส้นทางโดยรวม  
+  - หลักการการโฟลว์จดหมายและการเปลี่ยนเส้นทางโดยรวม  
   - การเข้าถึงไคลเอ็นต์ (รวมถึงจุดสิ้นสุดการเข้าถึงไคลเอ็นต์ที่ประกาศที่มีอยู่)  
   - สภาพแวดล้อมการส่งข้อความต้นทางเพื่อความต้องการในการผสานรวม 
-- จัดเตรียมการโยกย้ายข้อมูล ถ้าบริการการโยกย้ายข้อมูลของ FastTrack Center ถูกใช้ และถ้าคุณมีคุณสมบัติตรงตามเกณฑ์
+- มอบการโยกย้ายข้อมูล ถ้าFastTrackการโยกย้ายข้อมูลศูนย์ศูนย์ถูกใช้ และถ้าคุณมีคุณสมบัติตรงตามเกณฑ์
     
 ## <a name="remediate-phase"></a>แก้ไขขั้นตอน
 
@@ -75,25 +75,25 @@ ms.locfileid: "53629502"
 - การกําหนดค่าโพรโทคอล TCP/IP และพอร์ตไฟร์วอลล์   
 - การกําหนดค่า DNS ของบริการที่มีสิทธิ์   
 - การตรวจสอบความถูกต้องของการเชื่อมต่อOffice 365   
-- การเชื่อมต่อ Active Directory ภายในองค์กรของคุณกับ Azure Active Directory:   
-  - การติดตั้งเซิร์ฟเวอร์การซิงโครไนซ์ไดเรกทอรีระหว่าง Active Directory Domain Services (AD DS) Office 365ไดเรกทอรีของคุณ ถ้าต้องใช้   
-  - การกําหนดค่าการซิงโครไนซ์รหัสผ่าน (แฮชOffice 365) Office 365 (Azure Active Directory) ด้วยAzure Active Directory เชื่อมต่อรหัสผ่าน (ถ้าต้องระบุ)  
+- การเชื่อมต่อ Active Directory ภายในองค์กรของคุณกับAzure Active Directory:   
+  - การติดตั้งเซิร์ฟเวอร์การซิงโครไนซ์ไดเรกทอรีระหว่าง Active Directory Domain Services (AD DS) และ Office 365 Active Directory Domain Services (AD DS) ของคุณ ถ้าต้องใช้   
+  - การกําหนดค่าการซิงโครไนซ์รหัสผ่าน (แฮชOffice 365) Office 365 (Azure Active Directory) ด้วยเครื่องมือAzure Active Directory เชื่อมต่อรหัสผ่าน ถ้าต้องใช้  
   - For single- and multiple-forest environments:
-      - การAzure Active Directoryผ่านการรับรองความถูกต้อง ถ้าต้องใช้ (ไม่พร้อมใช้งานในGCCแผน High หรือ DoD)
-      - การAzure Active DirectoryตัวเลือกการSign-Onแบบเดี่ยวอย่างราบรื่น (SSO) ถ้าต้องใช้ (ไม่พร้อมใช้งานGCCแผน High หรือ DoD)
+      - การAzure Active Directoryผ่านการรับรองความถูกต้อง ถ้าต้องใช้ (ไม่มีให้ใช้งานGCCแผน High หรือ DoD)
+      - การAzure Active DirectoryตัวเลือกการSign-Onแบบเดี่ยวอย่างราบรื่น (SSO) ถ้าไม่GCCแผน High หรือ DoD)
     > [!NOTE]
-    > Azure Active Directory การรับรองความถูกต้องแบบพาส-ทะลุผ่านสรีรวลแบบหลายฟอเรสต์ได้รับการสนับสนุนถ้ามีความเชื่อถือฟอเรสต์ระหว่างฟอเรสต์ Active Directory ของคุณ และถ้าการกําหนดเส้นทางส่วนต่อท้ายชื่อถูกกําหนดค่าอย่างถูกต้อง คุณสามารถติดตั้งตัวแทนเพิ่มเติมได้บนเซิร์ฟเวอร์ภายในองค์กรหลายเซิร์ฟเวอร์เพื่อให้มีความพร้อมใช้งานสูงในการร้องขอการลงชื่อเข้าใช้ For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and Azure Active Directory Seamless Single [Sign-on: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
+    > Azure Active Directory การรับรองความถูกต้องแบบพาส-โลนของสภาพแวดล้อมแบบหลายฟอเรสต์ได้รับการสนับสนุนถ้ามีความเชื่อถือฟอเรสต์ระหว่างฟอเรสต์ Active Directory ของคุณ และถ้าการกําหนดเส้นทางส่วนต่อท้ายชื่อถูกกําหนดค่าอย่างถูกต้อง คุณสามารถติดตั้งตัวแทนเพิ่มเติมได้บนเซิร์ฟเวอร์ภายในองค์กรหลายเซิร์ฟเวอร์เพื่อให้มีความพร้อมใช้งานสูงในการร้องขอการลงชื่อเข้าใช้ For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and Azure Active Directory Seamless Single [Sign-on: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
     > [!NOTE]
     > For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356). 
     > [!NOTE]
     > For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-on](https://go.microsoft.com/fwlink/?linkid=841926). 
 - For a single forest when federrated identities is the target: 
-  - การติดตั้งและการกําหนดค่า AD FS for local domain authentication ด้วย Office 365 ในไซต์เดียว การกําหนดค่า fault-to ready (ถ้าต้องระบุ)  
+  - การติดตั้งและการกําหนดค่า AD FS for local domain authentication ด้วย Office 365 ในไซต์เดียว การกําหนดค่า fault-tooid ถ้าต้องระบุ  
   - การติดตั้งและการกําหนดค่า WAP เพื่อเผยแพร่โครงสร้างพื้นฐาน AD FS ของคุณไปยังอินเทอร์เน็ตเมื่อจําเป็น 
     > [!NOTE]
     > For all multiple forests configurations, AD FS deployments are out-of-scope. 
 - ทดสอบฟังก์ชันการใช้ฟังก์ชัน SSO ถ้ามีการปรับใช้   
-- การผลักดันการปรับใช้บริการและมูลค่าที่ประสบความสเร็จ
+- ผลักดันการปรับใช้บริการและมูลค่าที่ประสบความสเร็จ
     
 ## <a name="compliance"></a>การปฏิบัติตามข้อบังคับ
 
@@ -106,9 +106,9 @@ ms.locfileid: "53629502"
 
 ให้แนวทางเกี่ยวกับ: 
 - การสร้างหรือการอัปเดตระเบียน DNS    
-- การเปิดใช้งานการเปลี่ยนเส้นทางอีเมลระหว่างระบบการส่งข้อความต้นทางOffice 365สภาพแวดล้อมหลัก    
+- การเปิดใช้งานการเปลี่ยนเส้นทางอีเมลระหว่างระบบการส่งข้อความต้นทางOffice 365สภาพแวดล้อมอีเมล    
 - การExchange Online Protectionฟีเจอร์ขั้นสูง (รวมถึง Exchange Online Advanced Threat Protection ถ้ามีให้ใช้งานในการสมัครใช้งานของคุณ) และการยืนยันระเบียน MX ของคุณOffice 365โดเมนที่เปิดใช้งานจดหมายที่ผ่านการตรวจสอบความถูกต้องทั้งหมด   
-- การกําหนดค่าการตั้งค่าแบบไฮบริดระหว่างองค์กรแบบภายในExchangeองค์กรเดียวOffice 365หรือระหว่างองค์กรภายในExchangeและOffice 365ภายในองค์กร   
+- การกําหนดค่าการตั้งค่าแบบไฮบริดระหว่างองค์กรแบบExchangeภายในองค์กรเดียวOffice 365 *หรือ* ระหว่างองค์กรแบบExchangeภายในองค์กรและOffice 365ระดับ   
 - การตั้งค่าการส่งข้อความแบบครบวงจร (UM) Exchange Online (UM ไม่พร้อมใช้งานในGCC DoD) 
     
 For more information about data migration responsibilities, see [Data Migration](data-migration.md).
@@ -121,9 +121,9 @@ For more information about data migration responsibilities, see [Data Migration]
 - การวางแผนไซต์คอลเลกชัน   
 - การรักษาความปลอดภัยเนื้อหาและการจัดการสิทธิ์   
 - การเปิดใช้งานไซต์ส่วนบุคคลและฟีเจอร์ทางสังคม   
-- การกําหนดSharePointฟีเจอร์ออนไลน์ของคุณ    
-- การมอบการโยกย้ายข้อมูล ถ้ามีการใช้งานบริการการโยกย้ายข้อมูลของ FastTrack Center และถ้าคุณมีคุณสมบัติตรงตามเกณฑ์  
-- การประเมินการตั้งค่าโครงสร้างพื้นฐานฟาร์มภายในSharePointที่SharePointไฮบริด Online    
+- การSharePointฟีเจอร์ออนไลน์ของคุณ    
+- การให้การโยกย้ายข้อมูลถ้าFastTrackการโยกย้ายข้อมูลของศูนย์ผลิตภัณฑ์ถูกใช้ และถ้าคุณมีคุณสมบัติตรงตามเกณฑ์  
+- การประเมินการกําหนดค่าโครงสร้างพื้นฐานฟาร์มSharePointภายในองค์กรที่SharePointแบบไฮบริดทางออนไลน์    
 - การใช้เครื่องมือและระบบอัตโนมัติเพื่อ: 
   - กําหนดค่าแอปพลิเคชันบริการการค้นหาบนระบบคลาวด์ภายในองค์กร    
   - กําหนดค่าความSharePointระหว่างสภาพแวดล้อมภายในองค์กรและระบบคลาวด์   
@@ -132,27 +132,27 @@ For more information about data migration responsibilities, see [Data Migration]
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
 ให้แนวทางเกี่ยวกับ: 
-- การระบุตัวเลือกการรวมและSharePointภายในองค์กร    
+- การระบุตัวเลือกเวอร์ชันและการSharePointภายในองค์กร    
 - การระบุตัวเลือกการซิงโครไนซ์และข้อมูลเฉพาะตัว   
 - การเลือกตัวเลือกการเริ่มใช้:   
   - การเริ่มเปิดให้ใหม่ในเวลาจริง  
   - การเริ่มงานแบบระยะ (เรียงลดับและแบบเป็นขั้น)   
-- การเตรียมสภาพแวดล้อมภายในองค์กรเพื่อการปรับใช้OneDrive for Business:  
-  - การระบุไคลเอ็นต์OneDrive for Businessการซิงค์ที่ถูกต้อง 
+- การเตรียมสภาพแวดล้อมภายในองค์กรOneDrive for Businessการปรับใช้:  
+  - การระบุไคลเอ็นต์OneDrive for Businessซิงค์ที่ถูกต้อง 
   - การกําหนดค่า DNS พอร์ตเครือข่าย และไฟร์วอลล์   
 - การกําหนดสิทธิ์การใช้งานของผู้ใช้ปลายทาง   
-- การตั้งค่าผู้ชมSharePoint Online เพื่อควบคุมและควบคุมว่าใครได้รับOneDrive for Businessกัน    
-- การปรับใช้OneDrive for Businessไคลเอ็นต์การซิงค์กับเดสก์ท็อป   
-- วิธีการกําหนดค่าSharePointการเปลี่ยนเส้นทางOneDrive for Business Online แบบไฮบริด (SharePoint 2013 และ SharePoint 2016 เท่านั้น)  
-- การโยกย้ายข้อมูล ถ้าบริการการโยกย้ายข้อมูลของ FastTrack Center ถูกใช้ และถ้าคุณมีคุณสมบัติตรงตามเกณฑ์
+- การตั้งค่าผู้ชมSharePointออนไลน์เพื่อควบคุมและควบคุมว่าใครOneDrive for Businessใคร    
+- การปรับใช้ไคลเอ็นต์OneDrive for Businessซิงค์เดสก์ท็อป   
+- วิธีการกําหนดค่าการSharePointการเปลี่ยนเส้นทางOneDrive for Business Online แบบไฮบริด (SharePoint 2013 และ SharePoint 2016 เท่านั้น)  
+- การโยกย้ายข้อมูล ถ้าFastTrackการโยกย้ายข้อมูลศูนย์ศูนย์ถูกใช้ และถ้าคุณมีคุณสมบัติตรงตามเกณฑ์
     
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
 ให้แนวทางเกี่ยวกับ:
-- ข้อมูลSkype for Businessข้อมูลOffice 365เตรียมใช้งาน   
+- ข้อมูลSkype for Businessข้อมูลเฉพาะตัวของOffice 365เตรียมใช้งาน   
 - การเปิดใช้งานการประชุมแบบออนไลน์ การส่งข้อความโต้ตอบแบบทันที (IM) และฟีเจอร์การแสดงตนOffice 365การประชุม  
 - สร้างบัญชีเพื่อเชื่อมโยงกับอุปกรณ์ระบบห้องที่สนับสนุน (สูงสุด 10 บัญชี)    
-- การกําหนดค่าสภาพแวดล้อมเซิร์ฟเวอร์โดเมนแยกเพื่อสนับสนุน Lync แบบไฮบริดSkype for Businessสถานการณ์ไฮบริดของ Online (ถ้ามี)   
+- การกําหนดค่าสภาพแวดล้อมเซิร์ฟเวอร์โดเมนแยกเพื่อสนับสนุน Lync แบบไฮบริดSkype for Businessสถานการณ์แบบไฮบริดของ Online (ถ้ามี)   
 - การเปิดใช้งานการประชุมทางเสียง:   
   - การตั้งค่าองค์กรของการตั้งค่าบริดจ์การประชุมเริ่มต้น   
   - การมอบหมายบริดจ์การประชุมให้กับผู้ใช้ที่มีสิทธิ์การใช้งาน 
@@ -161,7 +161,7 @@ For more information about data migration responsibilities, see [Data Migration]
   - การมอบหมายหมายเลขให้กับผู้ใช้ที่มีสิทธิ์การใช้งาน  
   - Local number porting guidance through UI up to 999.  
   - Local number porting SR support over 999.  
-- การเปิดใช้งาน Skype for Businessการออกอากาศการประชุม (ไม่พร้อมใช้งานในGCCแผน High หรือ DoD):  
+- การเปิดใช้งานSkype for Businessการออกอากาศการประชุม (ไม่พร้อมใช้งานในGCCแผน High หรือ DoD):  
   - การเปิดใช้งานSkype for Businessแนะนําการออกอากาศการประชุมแบบออนบอร์ด  
   - การตั้งค่าองค์กรเพื่อติดต่อกับภายนอกด้วยบริการการออกอากาศการประชุม
     
@@ -171,7 +171,7 @@ For more information about data migration responsibilities, see [Data Migration]
 - ยืนยันความต้องการขั้นต่สุด   
 - การกําหนดค่าพอร์ตไฟร์วอลล์  
 - การตั้งค่า DNS  
-- การยืนยันMicrosoft Teamsเปิดใช้งานในผู้Office 365ของคุณ   
+- การยืนยันMicrosoft Teamsเปิดใช้งานบนผู้Office 365ของคุณ   
 - การเปิดใช้งานหรือปิดใช้งานสิทธิ์การใช้งานของผู้ใช้  
 - Microsoft Teamsการแจกจ่ายไคลเอ็นต์    
 - ฟีเจอร์Proและผู้ดูแลระบบด้าน IT 
@@ -183,23 +183,23 @@ For more information about data migration responsibilities, see [Data Migration]
 ให้แนวทางเกี่ยวกับ:
 - การตรวจทานแผนการสมัครใช้งาน Power BI    
 - การเพิ่มบริการ Power BI    
-- ดาวน์โหลดแอปPower BI Desktopดาวน์โหลด
+- ดาวน์โหลดแอปPower BI Desktopของคุณ
     
 ## <a name="project-online"></a>Project Online
 
 ให้แนวทางเกี่ยวกับ:  
 - การตรวจทานแผนการสมัครใช้งาน  
-- การตรวจสอบฟังก์ชันการSharePointพื้นฐาน    
+- การตรวจสอบฟังก์ชันSharePointพื้นฐาน    
 - การเพิ่มProject Onlineบริการของคุณ  
 - การเพิ่มผู้ใช้Project Onlineรวมถึง ERP Sync  
 - การตรวจสอบฟังก์ชันProject Onlineพื้นฐานด้วยการสร้างโครงการ
     
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
-ให้แนวทางเกี่ยวกับการแปลงเครือข่าย Yammer Basic ของคุณให้เป็นเครือข่ายแบบYammer Enterpriseเดียว
+ให้แนวทางเกี่ยวกับการแปลงเครือข่าย Yammer Basic เพียงเครือข่ายเดียวYammer Enterpriseเดียว
 
 > [!NOTE]
-> Yammer Enterpriseไม่ใช่คอมโพเนนต์ของ Office 365 US Government แต่สามารถซื้อได้โดยไม่มีค่าใช้จ่ายเป็นข้อเสนอแบบสแตนด์อโลนของแต่ละผู้ใช้ที่ให้สิทธิ์การใช้งานOffice 365ในGCC ข้อเสนอนี้ขณะนี้ถูกจํากัดไว้เฉพาะลูกค้าที่ซื้อOffice 365 GCC Enterprise Agreements และ Enterprise Subscription Agreements Yammerไม่พร้อมใช้งานในแผน GCC High หรือ DoD
+> Yammer Enterpriseไม่ใช่คอมโพเนนต์ของ Office 365 US Government แต่สามารถซื้อได้โดยไม่มีค่าใช้จ่ายเป็นข้อเสนอแบบสแตนด์อโลนให้กับผู้ใช้แต่ละคนที่มีสิทธิ์การใช้งานOffice 365ในGCC ข้อเสนอนี้ขณะนี้จํากัดเฉพาะลูกค้าที่ซื้อOffice 365 GCC Enterprise Agreements และ Enterprise Subscription Agreements Yammerไม่พร้อมใช้งานในแผน GCC High หรือ DoD
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
@@ -207,7 +207,7 @@ For more information about data migration responsibilities, see [Data Migration]
 - การแก้ไขปัญหาการปรับใช้   
 - Assigning end-user licenses using the[ศูนย์การจัดการ Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) and Windows PowerShell.  
 - การติดตั้งMicrosoft 365 Appsจากคอมพิวเตอร์Office 365โดยใช้ คลิก-ต่อ-รัน   
-- การติดตั้งOfficeบนอุปกรณ์เคลื่อนที่ (เช่น Outlook Mobile, Word Mobile, Excel Mobile และ PowerPoint Mobile) บนอุปกรณ์เคลื่อนที่ iOS, Android หรือ Windows ของคุณ   
-- การกําหนดค่าการตั้งค่าการอัปเดตโดยใช้Office 2016 หรือเทมเพลตนโยบายกลุ่ม   
-- การตั้งค่าเซิร์ฟเวอร์การแจกจ่ายภายในMicrosoft 365 Appsไซต์เดียวMicrosoft 365 Apps รวมถึงความช่วยเหลือในการสร้างไฟล์ configuration.xml เพื่อใช้กับเครื่องมือOffice 365เนื้อหา   
-- การปรับใช้Microsoft Endpoint Configuration Managerผลิตภัณฑ์ รวมถึงความช่วยเหลือในการสร้างMicrosoft Endpoint Configuration Managerบรรจุภัณฑ์
+- การติดตั้งOffice Mobile (เช่น Outlook Mobile, Word Mobile, Excel Mobile และ PowerPoint Mobile) บนอุปกรณ์เคลื่อนที่ iOS, Android Windows ของคุณ   
+- การกําหนดค่าการตั้งค่าการอัปเดตโดยใช้เครื่องมือOffice 2016 หรือเทมเพลตนโยบายกลุ่ม   
+- การตั้งค่าเซิร์ฟเวอร์การแจกจ่ายภายในไซต์เดียวMicrosoft 365 Appsไซต์ของคุณ รวมถึงความช่วยเหลือในการสร้างไฟล์ configuration.xml เพื่อใช้กับเครื่องมือOffice 365เนื้อหา   
+- การปรับใช้โดยใช้Microsoft Endpoint Configuration Manager รวมถึงความช่วยเหลือในการสร้างแพคเกจMicrosoft Endpoint Configuration Managerใหม่
