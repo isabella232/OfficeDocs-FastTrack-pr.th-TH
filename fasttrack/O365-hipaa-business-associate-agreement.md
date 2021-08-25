@@ -3,18 +3,18 @@ title: ภาคผนวก A - ข้อตกลงผู้ให้บร�
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/18/2021
+ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-description: 'ถ้าคุณมีข้อตกลงการเชื่อมโยงธุรกิจ HIPAA (BAA) กับ Microsoft for FastTrack Services บริการทั้งหมดที่ระบุไว้ในสิทธิประโยชน์ของ FastTrack Center for Office 365 จะรวมอยู่ใน BAA ยกเว้น:'
-ms.openlocfilehash: 69e601f5f023a275ce27d1421ca77cde419b1b96
-ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
+description: 'ถ้าคุณมีข้อตกลงการเชื่อมโยงธุรกิจ HIPAA (BAA) กับ Microsoft for FastTrack Services บริการทั้งหมดที่ระบุไว้ในสิทธิประโยชน์ของ FastTrack Center for Office 365 จะรวมอยู่ใน BAA เว้นแต่:'
+ms.openlocfilehash: 735a52368a92bde66d2f82d6195a1e8cda113f57
+ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58392291"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58517529"
 ---
 # <a name="appendix-a---fasttrack-center-hipaa-business-associate-agreement"></a>ภาคผนวก A - ข้อตกลงผู้ให้บริการช่วงสำหรับธุรกิจ HIPAA ของศูนย์ FastTrack
 
