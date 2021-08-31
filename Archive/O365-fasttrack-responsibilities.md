@@ -7,22 +7,22 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
-description: ผู้เชี่ยวชาญด้าน FastTrack จะมีความรับผิดชอบต่อไปนี้ระหว่างการออนบอร์ด
-ms.openlocfilehash: b0387ee7c525469e999f52f8f1994c8f41fb20fe
-ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
+description: FastTrack ผู้เชี่ยวชาญด้านมีความรับผิดชอบต่อไปนี้ระหว่างการออนบอร์ด
+ms.openlocfilehash: 7e19589fe4b1e79716fb81d62df258defda49807
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52283498"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710292"
 ---
 # <a name="fasttrack-responsibilities"></a>ความรับผิดชอบของ FastTrack
 
 > [!CAUTION]
 > เนื้อหานี้จะไม่ใช่เนื้อหาปัจจุบันอีกต่อไปและถูกจัดเวลาให้เอาออก ใช้สารบัญในการนําทางด้านซ้ายมือกับเนื้อหาปัจจุบัน
 
-ผู้เชี่ยวชาญด้าน FastTrack จะมีความรับผิดชอบต่อไปนี้ระหว่างการออนบอร์ด\*
+FastTrack ผู้เชี่ยวชาญด้านมีความรับผิดชอบต่อไปนี้ระหว่างการออนบอร์ด\*
   
 ## <a name="general"></a>ทั่วไป
 
@@ -37,14 +37,14 @@ ms.locfileid: "52283498"
     
 ## <a name="assess-phase"></a>ประเมินระยะ
 
-- พักสายการวางแผนความสเร็จเพื่อให้แนวทางร่วมกับคุณสําหรับการนํามาใช้ของผู้ใช้ที่ประสบความสาเร็จ  
+- พักสายการวางแผนความสเร็จเพื่อให้แนวทางแก่คุณสําหรับการนํามาใช้ของผู้ใช้ที่ประสบความสาเร็จ  
 - ให้ภาพรวมการดูแลระบบ
 - ให้แนวทางเกี่ยวกับ: 
   - Domain Name System (DNS) เครือข่าย และโครงสร้างพื้นฐานต้องการ
   - ความต้องการของลูกค้า (เบราว์เซอร์อินเทอร์เน็ต ระบบปฏิบัติการของไคลเอ็นต์ อุปกรณ์เคลื่อนที่ และความต้องการของบริการ)
   - ข้อมูลเฉพาะตัวของผู้ใช้และการเตรียมใช้งาน
   - การเปิดใช้งานบริการที่มีสิทธิ์ที่ซื้อและกําหนดเป็นส่วนหนึ่งของการออนบอร์ด 
-  - การผลักดันการปรับใช้บริการและมูลค่าที่ประสบความสเร็จ  
+  - ผลักดันการปรับใช้บริการและมูลค่าที่ประสบความสเร็จ  
 - สร้างไทม์ไลน์เพื่อแก้ไขกิจกรรม
 - ระบุรายการตรวจสอบการแก้ไข 
 - ประเมินโครงสร้างพื้นฐาน SharePoint Server 2013 หรือ SharePoint Server 2016 ที่มีอยู่ รวมถึง:
@@ -60,10 +60,10 @@ ms.locfileid: "52283498"
   - กําหนดเบื้องต้นเพื่อสนับสนุนการกําหนดค่าเซิร์ฟเวอร์โดเมนแบบแยก
   - ความพร้อมของผู้ใช้ที่ระบุให้ย้ายไปยังSkype for Business Online หรือ Teams
 - ประเมินโครงสร้างพื้นฐานการส่งข้อความ รวมถึง: 
-  - หลักการการโฟลว์จดหมายและการเส้นทางโดยรวม
-  - การเข้าถึงไคลเอ็นต์ (รวมถึงจุดสิ้นสุดการเข้าถึงไคลเอ็นต์ที่ประกาศที่มีอยู่)
+  - หลักการการโฟลว์จดหมายและการเปลี่ยนเส้นทางโดยรวม
+  - การเข้าถึงไคลเอ็นต์ (รวมถึงจุดสิ้นสุดการเข้าถึงไคลเอ็นต์ที่เผยแพร่ที่มีอยู่)
   - สภาพแวดล้อมการส่งข้อความต้นทางเพื่อความต้องการในการผสานรวม
-- จัดเตรียมการโยกย้ายข้อมูล ถ้าบริการการโยกย้ายข้อมูลของ FastTrack Center ถูกใช้ และถ้าคุณมีคุณสมบัติตรงตามเกณฑ์
+- มอบการโยกย้ายข้อมูล ถ้าFastTrackการโยกย้ายข้อมูลศูนย์ศูนย์ถูกใช้ และถ้าคุณมีคุณสมบัติตรงตามเกณฑ์
     
 ## <a name="remediate-phase"></a>แก้ไขขั้นตอน
 
@@ -80,19 +80,19 @@ ms.locfileid: "52283498"
 - การตรวจสอบความถูกต้องของการเชื่อมต่อOffice 365
 - การเชื่อมต่อ Active Directory ภายในองค์กรของคุณกับ Azure Active Directory:
   - การติดตั้งเซิร์ฟเวอร์การซิงโครไนซ์ไดเรกทอรีระหว่าง Active Directory Domain Services (AD DS) Office 365ไดเรกทอรีของคุณ ถ้าต้องใช้ 
-  - การกําหนดค่าการซิงโครไนซ์รหัสผ่าน (แฮชOffice 365) Office 365 (Azure Active Directory) ด้วยAzure Active Directory เชื่อมต่อรหัสผ่าน (ถ้าต้องระบุ)
+  - การกําหนดค่าการซิงโครไนซ์รหัสผ่าน (แฮชรหัสผ่าน) Office 365 (Azure Active Directory) ด้วยAzure Active Directory เชื่อมต่อรหัสผ่าน (ถ้าต้องระบุ)
   - For single- and multiple-forest environments:
-      - การAzure Active Directoryผ่านการรับรองความถูกต้อง ถ้าต้องใช้\*\*
-      - การAzure Active Directoryการกําหนดค่าSign-Onแบบเดี่ยวอย่างราบรื่น (SSO) ถ้าต้องใช้\*\*\*
+      - การAzure Active Directoryผ่านการรับรองความถูกต้อง ถ้าต้องระบุ\*\*
+      - การAzure Active DirectoryตัวเลือกการSign-Onแบบเดี่ยวอย่างราบรื่น (SSO) ถ้าต้องใช้\*\*\*
     > [!NOTE]
-    > Azure Active Directory การรับรองความถูกต้องแบบพาส-ทะลุผ่านสรีรวลแบบหลายฟอเรสต์ได้รับการสนับสนุนถ้ามีความเชื่อถือฟอเรสต์ระหว่างฟอเรสต์ Active Directory ของคุณ และถ้าการกําหนดเส้นทางส่วนต่อท้ายชื่อถูกกําหนดค่าอย่างถูกต้อง คุณสามารถติดตั้งตัวแทนเพิ่มเติมได้บนเซิร์ฟเวอร์ภายในองค์กรหลายเซิร์ฟเวอร์เพื่อให้มีความพร้อมใช้งานสูงในการร้องขอการลงชื่อเข้าใช้ For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and Azure Active Directory Seamless Single [Sign-on: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
+    > Azure Active Directory การรับรองความถูกต้องแบบพาส-โลนสไตลสรีแบบหลายฟอเรสต์ได้รับการสนับสนุนถ้ามีความเชื่อถือฟอเรสต์ระหว่างฟอเรสต์ Active Directory ของคุณ และถ้าการกําหนดเส้นทางส่วนต่อท้ายชื่อถูกกําหนดค่าอย่างถูกต้อง คุณสามารถติดตั้งตัวแทนเพิ่มเติมได้บนเซิร์ฟเวอร์ภายในองค์กรหลายเซิร์ฟเวอร์เพื่อให้มีความพร้อมใช้งานสูงในการร้องขอการลงชื่อเข้าใช้ For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and Azure Active Directory Seamless Single [Sign-on: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
 - For a single forest when federrated identities is the target: 
-  - การติดตั้งและการกําหนดค่า AD FS for local domain authentication ด้วย Office 365 ในไซต์เดียว การกําหนดค่า fault-to ready (ถ้าต้องระบุ)
+  - การติดตั้งและการกําหนดค่า AD FS for local domain authentication ด้วย Office 365 ในไซต์เดียว การกําหนดค่า fault-tooid ถ้าต้องระบุ
   - การติดตั้งและการกําหนดค่า WAP เพื่อเผยแพร่โครงสร้างพื้นฐาน AD FS ของคุณไปยังอินเทอร์เน็ตเมื่อจําเป็น
     > [!NOTE]
     > For all multiple forests configurations, AD FS deployments are out-of-scope. 
 - การทดสอบฟังก์ชันการใช้ฟังก์ชัน SSO อย่างราบรื่นถ้ามีการปรับใช้
-- การผลักดันการปรับใช้บริการและมูลค่าที่ประสบความสเร็จ
+- ผลักดันการปรับใช้บริการและมูลค่าที่ประสบความสเร็จ
     
 \*\*For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356). 
 
@@ -103,9 +103,9 @@ ms.locfileid: "52283498"
 ให้แนวทางเกี่ยวกับ:
 - การสร้างหรือการอัปเดตระเบียน DNS 
 - การเปิดใช้งานการเปลี่ยนเส้นทางอีเมลระหว่างระบบการส่งข้อความต้นทางOffice 365สภาพแวดล้อมหลัก 
-- การกําหนดExchange Online Protectionการป้องกันข้อมูลสูญหาย (DLP) และ การเข้ารหัสลับข้อความของ Office 365 (OME) และ Office 365 Advanced Threat Protection (ATP) (ถ้ามีในการสมัครใช้งานของคุณ) และการตรวจสอบระเบียน MX ของคุณชี้ไปยัง Office 365 ให้กับโดเมนที่เปิดใช้งานจดหมายที่เปิดใช้งานจดหมายทั้งหมดที่มีการตรวจสอบความถูกต้อง
-- การกําหนดค่าการตั้งค่าแบบไฮบริดระหว่างองค์กรแบบภายในExchangeองค์กรเดียวOffice 365หรือระหว่างองค์กรภายในExchangeและOffice 365ภายในองค์กร   
-- การกําหนดค่าไคลเอ็นต์Outlookกล่องจดหมาย (Windows Outlookไคลเอ็นต์กล่องจดหมาย (เช่น ไคลเอ็นต์กล่องจดหมายOutlookไคลเอ็นต์บนเว็บ และไคลเอ็นต์ Outlook For iOS และ Android)
+- การกําหนดค่า Exchange Online Protection, การป้องกันการสูญหายของข้อมูล (DLP) และ การเข้ารหัสลับข้อความของ Office 365 (OME) และ Office 365 Advanced Threat Protection (ATP) (ถ้ามีในการสมัครใช้งานของคุณ) และตรวจสอบจุดระเบียน MX ของคุณไปยัง Office 365 กับโดเมนที่เปิดใช้งานจดหมายที่เปิดใช้งานจดหมายทั้งหมด
+- การกําหนดค่าการตั้งค่าแบบไฮบริดระหว่างองค์กรแบบExchangeภายในองค์กรเดียว *Office 365และแบบ* Office 365 หรือระหว่างองค์กรภายในExchangeภายในองค์กรหลายOffice 365องค์กร   
+- การกําหนดค่าไคลเอ็นต์Outlookกล่องจดหมาย (Windows Outlook บนเว็บกล่องจดหมาย Outlookไคลเอ็นต์กล่องจดหมาย (เช่น for iOS และ Android)
 - การกําหนดค่าระบบอัตโนมัติ การตรวจสอบ และการตอบกลับOffice 365 ATP (ถ้ามีในการสมัครใช้งานของคุณ)
     
 For more information about data migration responsibilities, see [Data Migration](O365-data-migration.md).
@@ -114,13 +114,13 @@ For more information about data migration responsibilities, see [Data Migration]
 
 ให้แนวทางเกี่ยวกับ:
 - การแก้ไขปัญหาการปรับใช้
-- กําหนดสิทธิ์การใช้งานของผู้ใช้ปลายทางและตามอุปกรณ์โดยใช้ศูนย์[Microsoft 365และWindows PowerShell](https://go.microsoft.com/fwlink/?linkid=2032704)อุปกรณ์
-- การติดตั้งMicrosoft 365 Appsจากคอมพิวเตอร์Office 365โดยใช้ คลิก-ต่อ-รัน
+- Assigning end-user and device-based licenses using the[ศูนย์การจัดการ Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) and Windows PowerShell.
+- การติดตั้งMicrosoft 365 AppsจากOffice 365ของคุณโดยใช้ คลิก-to-รัน
 - การติดตั้งOffice Mobile (เช่น Outlook for iOS และ Android, Word Mobile, Excel Mobile และ PowerPoint Mobile) บน iOS หรือ Android ของคุณ 
-- การกําหนดค่าการตั้งค่าการอัปเดตOffice 365เครื่องมือการปรับใช้งาน
+- การกําหนดค่าการตั้งค่าการอัปเดตOffice 365 เครื่องมือการปรับใช้
 - เลือกและตั้งค่าการติดตั้งภายในเครื่องหรือบนระบบคลาวด์
-- การสร้าง XML การกําหนดOfficeเครื่องมือการปรับใช้ข้อมูลด้วยเครื่องมือการกําหนดOfficeเองหรือ XML ดั้งเดิมเพื่อกําหนดค่าแพคเกจการปรับใช้
-- การปรับใช้โดยใช้ตัวจัดการการกําหนดค่าจุดสิ้นสุดของ Microsoft รวมถึงความช่วยเหลือเกี่ยวกับการสร้างแพคเกจตัวจัดการการกําหนดค่าจุดสิ้นสุดของ Microsoft
+- การสร้าง XML การOfficeการปรับใช้ข้อมูลด้วยเครื่องมือการกําหนดOfficeเองหรือ XML ดั้งเดิมเพื่อกําหนดค่าแพคเกจการปรับใช้
+- การปรับใช้Microsoft Endpoint Configuration Managerผลิตภัณฑ์ รวมถึงความช่วยเหลือในการสร้างMicrosoft Endpoint Configuration Managerบรรจุภัณฑ์
 
 ## <a name="microsoft-information-governance"></a>การควบคุมข้อมูลของ Microsoft 
 
@@ -147,13 +147,13 @@ For more information about data migration responsibilities, see [Data Migration]
   - ข้อมูลOffice 365ไม่ได้
   - การตั้งค่าสิทธิ์
   - การสร้างกรณี
-  - การเพิ่มผู้ครอบครอง 
+  - การเพิ่มนักการเมืองผู้ดี 
   - การถือตามกฎหมาย
   - ค้นหา
   - ตรวจทานชุด
   - การส่งออกเนื้อหา
 
-## <a name="microsoft-information-protection"></a>Microsoft Information Protection
+## <a name="microsoft-information-protection"></a>การป้องกันข้อมูลของ Microsoft
 
 ให้แนวทางเกี่ยวกับ:
 - การจัดประเภทข้อมูล
@@ -172,7 +172,7 @@ For more information about data migration responsibilities, see [Data Migration]
 - ยืนยันความต้องการขั้นต่สุด
 - การกําหนดค่าพอร์ตไฟร์วอลล์
 - การตั้งค่า DNS  
-- การยืนยันTeamsเปิดใช้งานในผู้Office 365ของคุณ
+- การยืนยันTeamsเปิดใช้งานบนผู้Office 365ของคุณ
 - การเปิดใช้งานหรือปิดใช้งานสิทธิ์การใช้งานของผู้ใช้
 - Teamsการแจกจ่ายไคลเอ็นต์
 - ฟีเจอร์ของมืออาชีพด้าน IT และผู้ดูแลระบบ
@@ -183,7 +183,7 @@ For more information about data migration responsibilities, see [Data Migration]
 - การเปิดใช้งานการประชุมทางเสียง
 - การตั้งค่าองค์กรของการตั้งค่าบริดจ์การประชุมเริ่มต้น
 - การมอบหมายบริดจ์การประชุมให้กับผู้ใช้ที่มีสิทธิ์การใช้งาน
-- การเปิดใช้งาน ระบบโทรศัพท์
+- เปิดใช้งาน ระบบโทรศัพท์
 - การเปิดใช้งานระบบโทรศัพท์และการออนบอร์ดแผนการโทร (ในตลาดที่พร้อมใช้งาน)
 - การมอบหมายหมายเลขให้กับผู้ใช้ที่มีสิทธิ์การใช้งาน
 - Local number porting guidance through UI up to 999.
@@ -194,8 +194,8 @@ For more information about data migration responsibilities, see [Data Migration]
 ## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 
 ให้แนวทางเกี่ยวกับ:
-- การเปิดใช้งานลิงก์ที่ปลอดภัย
-- การเปิดใช้งานสิ่งที่แนบมาที่ปลอดภัย
+- การเปิดใช้งานตู้เซฟลิงก์
+- เปิดใช้งานตู้เซฟสิ่งที่แนบมา
 - การเปิดใช้งานนโยบายการป้องกันฟิชชิ่ง
 - การกําหนดค่าระบบอัตโนมัติ การตรวจสอบ และการตอบกลับ
 - การใช้ Attack 10
@@ -209,27 +209,27 @@ For more information about data migration responsibilities, see [Data Migration]
 - การเลือกตัวเลือกการเริ่มใช้:   
   - การเริ่มเปิดให้ใหม่ในเวลาจริง
   - การเริ่มงานแบบระยะ (เรียงลดับและแบบเป็นขั้น)
-- การเตรียมสภาพแวดล้อมภายในองค์กรเพื่อการปรับใช้OneDrive for Business:
-  - การระบุไคลเอ็นต์OneDrive for Businessการซิงค์ที่ถูกต้อง
+- การเตรียมสภาพแวดล้อมภายในองค์กรOneDrive for Businessการปรับใช้:
+  - การระบุไคลเอ็นต์OneDrive for Businessซิงค์ที่ถูกต้อง
   - การกําหนดค่า DNS พอร์ตเครือข่าย และไฟร์วอลล์ 
 - การกําหนดสิทธิ์การใช้งานของผู้ใช้ปลายทาง 
-- การตั้งค่าผู้ชมSharePoint Online เพื่อควบคุมและควบคุมว่าใครได้รับOneDrive for Businessกัน 
-- การปรับใช้OneDrive for Businessไคลเอ็นต์การซิงค์กับเดสก์ท็อป   
-- วิธีการกําหนดค่าSharePointการเปลี่ยนเส้นทางOneDrive for Business Online แบบไฮบริด (SharePoint 2013 และ SharePoint 2016 เท่านั้น)
-- การโยกย้ายข้อมูล ถ้าบริการการโยกย้ายข้อมูลของ FastTrack Center ถูกใช้ และถ้าคุณมีคุณสมบัติตรงตามเกณฑ์
+- การตั้งค่าผู้ชมSharePointออนไลน์เพื่อควบคุมและควบคุมว่าใครรับOneDrive for Businessใคร 
+- การปรับใช้ไคลเอ็นต์OneDrive for Businessซิงค์เดสก์ท็อป   
+- วิธีการกําหนดค่าการSharePointการเปลี่ยนเส้นทางOneDrive for Business Online แบบไฮบริด (SharePoint 2013 และ SharePoint 2016 เท่านั้น)
+- การโยกย้ายข้อมูล ถ้าFastTrackการโยกย้ายข้อมูลในศูนย์ให้บริการถูกใช้ และถ้าคุณมีคุณสมบัติตรงตามเกณฑ์
     
-## <a name="outlook-for-ios-and-android"></a>Outlook for iOS และ Android
+## <a name="outlook-for-ios-and-android"></a>Outlookแอป for iOS และ Android
 
 ให้แนวทางเกี่ยวกับ:
 - การดาวน์โหลดOutlookลงในอุปกรณ์ iOS และ Android
-- การกําหนดค่าบัญชีผู้ใช้อีเมลOutlookบัญชีผู้ใช้
+- การกําหนดค่าบัญชีผู้ใช้อีเมลOutlookอีเมล
 
 ## <a name="power-bi"></a>Power BI
 
 ให้แนวทางเกี่ยวกับ:
 - การตรวจทานแผนการสมัครใช้งาน Power BI 
 - การเพิ่มบริการ Power BI 
-- ดาวน์โหลดแอปPower BI Desktopดาวน์โหลด
+- ดาวน์โหลดแอปPower BI Desktopของคุณ
     
 ## <a name="project-online"></a>Project Online
 
@@ -240,15 +240,15 @@ For more information about data migration responsibilities, see [Data Migration]
 - การเพิ่มผู้ใช้Project Onlineรวมถึง ERP Sync
 - การตรวจสอบฟังก์ชันProject Onlineพื้นฐานด้วยการสร้างโครงการ
     
-## <a name="project-online-professional-and-project-online-premium"></a>Project Online ProfessionalและProject Online Premium
+## <a name="project-online-professional-and-project-online-premium"></a>Project Online Professional และ Project Online Premium
 
 ให้แนวทางเกี่ยวกับ:
 - การแก้ไขปัญหาการปรับใช้
-- การกําหนดสิทธิ์การใช้งานของผู้ใช้ปลายทางโดยใช้ศูนย์[Microsoft 365และสิทธิ์การใช้งาน](https://go.microsoft.com/fwlink/?linkid=2032704)Windows PowerShell
-- การดาวน์โหลดและProject Onlineไคลเอ็นต์เดสก์ท็อปจากพอร์ทัล   
-- การกําหนดค่าการตั้งค่าการอัปเดตOffice 365เครื่องมือการปรับใช้งานหรือเทมเพลตนโยบายกลุ่ม
-- การตั้งค่าเซิร์ฟเวอร์การแจกจ่ายภายในไซต์เดียวสําหรับไคลเอ็นต์Project Onlineเดสก์ท็อปของคุณ รวมถึงแนวทางสําหรับการสร้างไฟล์configuration.xmlสําหรับเครื่องมือOffice 2016 
-- การเชื่อมต่อ Project Onlineไคลเอ็นต์เดสก์ท็อปProject Onlineการเชื่อมต่อ
+- Assigning end-user licenses using the[ศูนย์การจัดการ Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) and Windows PowerShell.
+- การดาวน์โหลดและการติดตั้งProject Onlineไคลเอ็นต์เดสก์ท็อปของคุณจากพอร์ทัล   
+- การกําหนดค่าการตั้งค่าการอัปเดตโดยใช้Office 365การปรับใช้งานหรือเทมเพลตนโยบายกลุ่ม
+- การตั้งค่าเซิร์ฟเวอร์การแจกจ่ายภายในไซต์เดียวสําหรับไคลเอ็นต์Project Onlineเดสก์ท็อปของคุณ รวมถึงแนวทางสําหรับการสร้างไฟล์ configuration.xml สําหรับเครื่องมือการปรับใช้ Office 2016 
+- การเชื่อมต่อProject Onlineไคลเอ็นต์เดสก์ท็อปProject Onlineการเชื่อมต่อ
 
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -258,9 +258,9 @@ For more information about data migration responsibilities, see [Data Migration]
 - การวางแผนไซต์คอลเลกชัน 
 - การรักษาความปลอดภัยเนื้อหาและการจัดการสิทธิ์
 - การเปิดใช้งานไซต์ส่วนบุคคลและฟีเจอร์ทางสังคม
-- การกําหนดSharePointฟีเจอร์ออนไลน์ของคุณ 
-- การมอบการโยกย้ายข้อมูล ถ้ามีการใช้งานบริการการโยกย้ายข้อมูลของ FastTrack Center และถ้าคุณมีคุณสมบัติตรงตามเกณฑ์
-- การประเมินการตั้งค่าโครงสร้างพื้นฐานฟาร์มภายในSharePointที่SharePointไฮบริด Online 
+- การSharePointฟีเจอร์ออนไลน์ของคุณ 
+- การให้การโยกย้ายข้อมูลถ้าFastTrackการโยกย้ายข้อมูลของศูนย์ผลิตภัณฑ์ถูกใช้ และถ้าคุณมีคุณสมบัติตรงตามเกณฑ์
+- การประเมินการกําหนดค่าโครงสร้างพื้นฐานฟาร์มSharePointภายในองค์กรที่SharePointแบบไฮบริดทางออนไลน์ 
 - การใช้เครื่องมือและระบบอัตโนมัติเพื่อ:
   - กําหนดค่าแอปพลิเคชันบริการการค้นหาบนระบบคลาวด์ภายในองค์กร 
   - กําหนดค่าความSharePointระหว่างสภาพแวดล้อมภายในองค์กรและระบบคลาวด์
@@ -272,11 +272,11 @@ For more information about data migration responsibilities, see [Data Migration]
 - ข้อมูลSkype for Businessข้อมูลOffice 365เตรียมใช้งาน 
 - การเปิดใช้งานการประชุมแบบออนไลน์ การส่งข้อความโต้ตอบแบบทันที (IM) และฟีเจอร์การแสดงตนOffice 365การประชุม 
 - สร้างบัญชีเพื่อเชื่อมโยงกับอุปกรณ์ระบบห้องที่สนับสนุน (สูงสุด 10 บัญชี) 
-- การกําหนดค่าสภาพแวดล้อมเซิร์ฟเวอร์โดเมนแยกเพื่อสนับสนุน Lync แบบไฮบริดSkype for Businessสถานการณ์ไฮบริดของ Online (ถ้ามี)
+- การกําหนดค่าสภาพแวดล้อมเซิร์ฟเวอร์โดเมนแยกเพื่อสนับสนุน Lync แบบไฮบริดSkype for Businessสถานการณ์ไฮบริดแบบออนไลน์ (ถ้ามี)
 - การเปิดใช้งานการประชุมทางเสียง:
   - การตั้งค่าองค์กรของการตั้งค่าบริดจ์การประชุมเริ่มต้น
   - การมอบหมายบริดจ์การประชุมให้กับผู้ใช้ที่มีสิทธิ์การใช้งาน
-- การเปิดใช้งานระบบโทรศัพท์:
+- เปิดใช้งานระบบโทรศัพท์:
   - การเปิดใช้งานระบบโทรศัพท์และการออนบอร์ดแผนการโทร (ในตลาดที่พร้อมใช้งาน)
   - การมอบหมายหมายเลขให้กับผู้ใช้ที่มีสิทธิ์การใช้งาน
   - Local number porting guidance through UI up to 999.
@@ -287,6 +287,6 @@ For more information about data migration responsibilities, see [Data Migration]
     
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
-ให้แนวทางเกี่ยวกับการแปลงเครือข่าย Yammer Basic ของคุณให้เป็นเครือข่ายแบบYammer Enterpriseเดียว
+ให้แนวทางเกี่ยวกับการแปลงเครือข่าย Yammer Basic เพียงเครือข่ายเดียวYammer Enterpriseเดียว
   
 \*For information on FastTrack responsibilities for Office 365 US Government, see [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md).

@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 audience: ITPro
 ms.topic: overview
 ms.service: virtual-desktop
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
-description: FastTrack Windowsแนะนําการปรับใช้เดสก์ท็อปเสมือนที่จะช่วยคุณออนบอร์ดบนเดสก์ท็อปนี้
-ms.openlocfilehash: 9e8712b7a1f324d02715527b22eca3f7e4db4656
-ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
+description: FastTrackแนะWindowsนําการปรับใช้เดสก์ท็อปเสมือนที่จะช่วยคุณออนบอร์ดบนเดสก์ท็อปนี้
+ms.openlocfilehash: 5dcd6724c6ce7c86acecd0ecf7310b59cf59858a
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52283460"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710218"
 ---
 # <a name="windows-virtual-desktop"></a>Windows เดสก์ท็อปเสมือน
 
@@ -23,15 +23,15 @@ ms.locfileid: "52283460"
 <thead>
 <tr class="header">
 <th><strong>บริการ</strong></th>
-<th><strong>รายละเอียดแนวทาง FastTrack</strong></th>
+<th><strong>FastTrack รายละเอียดการแนะนํา</strong></th>
 <th><strong>ข้อกำหนดของสภาพแวดล้อมต้นทาง</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Windows เดสก์ท็อปเสมือน</td>
-<td><p>FastTrack มอบแนวทางการปรับใช้ Windows Virtual Desktop เพื่อช่วยให้คุณออนบอร์ดในบริการการเสมือนของเดสก์ท็อปและแอปนี้ได้อย่างง่ายดายในขณะที่ใช้ประโยชน์จากประสบการณ์การใช้งานหลายเซสชันของ Windows 10 ซึ่งได้รับการปรับให้เหมาะสมกับ Microsoft 365 Apps สําหรับองค์กรด้วยการรักษาความปลอดภัยและการจัดการแบบรวมสําหรับ Microsoft 365</p>
-<p>คุณร่วมงานกับผู้เชี่ยวชาญด้าน FastTrack เพื่อ:</p>
+<td><p>FastTrack ให้แนวทางการปรับใช้ Windows Virtual Desktop เพื่อช่วยให้คุณออนบอร์ดในบริการการเสมือนของเดสก์ท็อปและแอปนี้ได้อย่างง่ายดายในขณะที่ใช้ประโยชน์จากประสบการณ์การใช้งานหลายเซสชันของ Windows 10 ซึ่งได้รับการปรับให้เหมาะสมกับ Microsoft 365 Apps สําหรับองค์กรด้วยการรักษาความปลอดภัยและการจัดการแบบรวมสําหรับ Microsoft 365</p>
+<p>คุณร่วมงานกับFastTrackเฉพาะทางเพื่อ:</p>
 <ul>
 <li><p>ปรับใช้สภาพแวดล้อม WVD Windows 10 Enterpriseหลายเซสชัน + Microsoft 365 Apps for Enterprise โดยใช้สิ่งต่อไปนี้:</p>
 <ul>
@@ -76,7 +76,7 @@ ms.locfileid: "52283460"
 </ul></li>
 <li><p>Azure Active Directory การตั้งค่าทั่วไป</p>
 <ul>
-<li><p>กลยุทธ์ข้อมูล <strong>เฉพาะตัว (เลือกได้เพียง 1 ตัวเลือกจาก 3 ตัวเลือกต่อไปนี้)</strong></p>
+<li><p>กลยุทธ์ข้อมูล <strong>เฉพาะตัว (เลือกเพียง 1 ตัวเลือกจาก 3 ตัวเลือกต่อไปนี้)</strong></p>
 <ul>
 <li><p>Active Directory ที่มี Azure AD เชื่อมต่อใน Azure</p></li>
 <li><p>Active Directory ที่มี Azure AD เชื่อมต่อภายในองค์กรผ่าน VPN / ER</p></li>

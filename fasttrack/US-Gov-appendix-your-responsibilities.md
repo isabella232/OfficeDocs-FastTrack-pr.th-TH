@@ -7,15 +7,15 @@ ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
 description: คุณมีความรับผิดชอบต่อไปนี้ระหว่างการออนบอร์ด
-ms.openlocfilehash: 2127589d1c0f10e2836081bc2e28286a8d6eacef
-ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
+ms.openlocfilehash: a6c05ede4edf2026694bb1365d6653c363b5358a
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58517565"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710174"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>ความรับผิดชอบของคุณOffice 365รัฐบาลสหรัฐอเมริกา
 
@@ -28,7 +28,7 @@ ms.locfileid: "58517565"
 - ให้โปรแกรมและการจัดการโครงการโดยรวม รวมถึง:     
   - การกําหนดผู้จัดการโครงการเป็นที่ติดต่อหลักFastTrackผู้จัดการโครงการ   
   - การกําหนดลูกค้าเป้าหมายด้านเทคนิคเป็นผู้ติดต่อหลักFastTrackวิศวกร  
-  - การกําหนดทรัพยากรทางเทคนิคเพื่อจัดการแก้ไข การกําหนดค่า และเปิดใช้งานตามที่แสดงFastTrackของทีม   
+  - การกําหนดทรัพยากรทางเทคนิคเพื่อจัดการแก้ไข การกําหนดค่า และงานการเปิดใช้งานตามที่FastTrackกําหนดไว้   
 - ให้ทรัพยากรมีบัญชีที่จะผลักดันการนําบริการมาใช้ของผู้ใช้ปลายทาง    
 - ระบุการสื่อสาร เอกสาร การฝึกอบรม และการจัดการการเปลี่ยนแปลงของผู้ใช้    
 - ระบุและมีส่วนร่วมกับผู้สนับสนุนทางธุรกิจที่เหมาะสม     
@@ -54,7 +54,7 @@ ms.locfileid: "58517565"
 - สร้างและบงการสภาพแวดล้อมการทดสอบของคุณ  
 - ติดตั้ง Lync 2013 หรือ Skype for Businessและ Service Pack ของผู้ดูแลระบบ Online 2015 เพื่อสนับสนุนการกําหนดค่าโดเมนแบบแยก    
 - ติดตั้ง Service Pack และการอัปเดตอื่นๆ ที่ต้องมีบนเซิร์ฟเวอร์โครงสร้างพื้นฐาน     
-- ระบุและกําหนดค่าการรักษาความปลอดภัย Secure Sockets Layerสาธารณะ (SSL) 
+- ระบุและกําหนดค่าการรักษาความปลอดภัย Secure Sockets Layerสาธารณะ (SSL) ใดๆ 
     
 ## <a name="initiate-phase"></a>เริ่มขั้นตอน
 

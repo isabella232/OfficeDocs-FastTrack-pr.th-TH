@@ -1,43 +1,37 @@
 ### YamlMime:Hub
-title: เอกสารประกอบและทรัพยากรของ Microsoft FastTrack
-summary: เรียนรู้วิธีที่ Microsoft FastTrack สามารถช่วยให้ลูกค้าปรับใช้โซลูชัน Microsoft cloud ลูกค้าที่มีการสมัครใช้งานที่มีสิทธิ์ไปยัง Microsoft ๓๖๕, Azure หรือ Dynamics ๓๖๕สามารถใช้ FastTrack ได้โดยไม่มีค่าใช้จ่ายเพิ่มเติมสำหรับอายุการใช้งานของการสมัครใช้งานของพวกเขา
+title: เอกสารประกอบFastTrackและทรัพยากรของ Microsoft
+summary: 'เรียนรู้วิธีที่ Microsoft FastTrackสามารถช่วยลูกค้าปรับใช้โซลูชันระบบคลาวด์ของ Microsoft ลูกค้าที่มีการสมัครใช้งานที่มีสิทธิ์Microsoft 365, Azure หรือ Dynamics 365 สามารถใช้ FastTrack ไม่มีค่าใช้จ่ายเพิ่มเติมอายุการใช้งานการสมัครใช้งานของพวกเขา'
 brand: m365
 metadata:
-  title: เอกสารประกอบและทรัพยากรของ Microsoft FastTrack
-  description: เรียนรู้วิธีที่ Microsoft FastTrack สามารถช่วยให้ลูกค้าปรับใช้โซลูชัน Microsoft cloud ลูกค้าที่มีการสมัครใช้งานที่มีสิทธิ์ไปยัง Microsoft ๓๖๕, Azure หรือ Dynamics ๓๖๕สามารถใช้ FastTrack ได้โดยไม่มีค่าใช้จ่ายเพิ่มเติมสำหรับอายุการใช้งานของการสมัครใช้งานของพวกเขา
+  title: เอกสารประกอบFastTrackและทรัพยากรของ Microsoft
+  description: 'เรียนรู้วิธีที่ Microsoft FastTrackสามารถช่วยลูกค้าปรับใช้โซลูชันระบบคลาวด์ของ Microsoft ลูกค้าที่มีการสมัครใช้งานที่มีสิทธิ์Microsoft 365, Azure หรือ Dynamics 365 สามารถใช้ FastTrack ไม่มีค่าใช้จ่ายเพิ่มเติมอายุการใช้งานการสมัครใช้งานของพวกเขา'
   ms.service: microsoft-365-enterprise
   ms.topic: hub-page
   audience: ITPro
   author: samanro
   ms.author: samanro
   ms.date: 07/03/2019
-  localization_priority: Priority
-  ms.openlocfilehash: a44789bd440b93d4778304bde9d35f6b0cd7ec5b
-  ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
-  ms.translationtype: MT
-  ms.contentlocale: th-TH
-  ms.lasthandoff: 08/17/2020
-  ms.locfileid: "46776465"
+  ms.localizationpriority: high
 conceptualContent:
   items:
-  - title: FastTrack สำหรับ Microsoft ๓๖๕
-    links:
-    - url: /fasttrack/introduction
-      itemType: overview
-      text: ภาพรวม (รวมถึง Office ๓๖๕การเคลื่อนไหวขององค์กร + ความปลอดภัยและ Windows 10)
-  - title: FastTrack สำหรับ Azure
-    links:
-    - url: https://azure.microsoft.com/programs/azure-fasttrack/?v=18.03
-      itemType: overview
-      text: ประโยชน์หลัก
-    - url: https://azure.microsoft.com/programs/azure-fasttrack/partners/
-      itemType: concept
-      text: FastTrack สำหรับคู่ค้า Azure
-  - title: FastTrack สำหรับ Dynamics ๓๖๕
-    links:
-    - url: /dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365
-      itemType: overview
-      text: ภาพรวมของการมีส่วนร่วมของลูกค้า
-    - url: /dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview
-      itemType: concept
-      text: การดำเนินการ & Dynamics สำหรับการเงิน
+    - title: FastTrack for Microsoft 365
+      links:
+        - url: /fasttrack/introduction
+          itemType: overview
+          text: 'ภาพรวม (รวมถึง Office 365, Enterprise Mobility + Security และ Windows 10)'
+    - title: FastTrack for Azure
+      links:
+        - url: 'https://azure.microsoft.com/programs/azure-fasttrack/?v=18.03'
+          itemType: overview
+          text: ประโยชน์ที่คีย์
+        - url: 'https://azure.microsoft.com/programs/azure-fasttrack/partners/'
+          itemType: concept
+          text: FastTrackคู่ค้า Azure
+    - title: FastTrack For Dynamics 365
+      links:
+        - url: /dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365
+          itemType: overview
+          text: ภาพรวมการมีส่วนร่วมของลูกค้า
+        - url: /dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview
+          itemType: concept
+          text: Dynamics for Finance & Operations
